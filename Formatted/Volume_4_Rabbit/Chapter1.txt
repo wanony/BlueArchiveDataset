@@ -1,0 +1,2763 @@
+[Volume 4]: Rabbit of Caerbannog
+[Volume 4]: An academy has disappeared overnight.
+[Volume 4]: What is the destiny of SRT’s new students?
+[Chapter 1]: RABBIT Squad, Begin Operation!
+[Chapter 1]: The RABBIT Squad students are occupying the park, protesting the closure notice of the SRT Academy. Will the squad members survive the harsh conditions of camping in the park?
+[Chapter 1]: 01 - An Uncontrollable Special Unit
+[Chapter 1]: Upon receiving a call from Rin, Sensei visits the General Student Council and overhears that students from the closed SRT Academy are occupying the park in protest. Students from the Valkyrie Police School are dispatched to arrest them, but to no avail. In the end, Rin asks for Sensei from Schale to solve the problem.
+[Rin]: Time passes too quickly, Sensei. This is Nanakami Rin.
+[Sensei]: “Oh. Hi, Rinny.”
+[Rin]: What…did you just call me?
+[Rin]: Refrain from doing that again.
+[Rin]: Moving on.
+[Rin]: I am contacting you with urgent news.
+[Rin]: You’ve been absent from Schale for quite some time.
+[Rin]: To your credit, reports state you have been crucial in resolving conflicts throughout Kivotos.
+[Rin]: The General Student Council has benefited from your actions, and gratitude is in order.
+[Rin]: However, my issues lies within Schale activities.
+[Rin]: In regard to your reports, as well as the General Student Council’s guidelines…
+[Rin]: …
+[Rin]: Actually, perhaps such conversations are better in person.
+[Rin]: Sensei, from what I recall your schedule is open today?
+[Rin]: Let us discuss over some tea.
+[Rin]: Please meet me at the General Student Council reception room.
+[Rin]: Rin hangs up
+[Arona]: Good job getting through that, Sensei.
+[Arona]: It looks like the scary Rin is gonna yell at you… Are you okay?
+[Sensei]: “Well, I can’t say I’m not a little scared” / “Well, if it's Rin who’s punishing me…”
+[Arona]: There’s no way she’s only calling you to yell at you though!
+[Arona]: /
+[Arona]: Wh-What?! What’s that mean?
+[Arona]: Like Rin said, you’ve been solving all kinds of problems in Kivotos.
+[Arona]: Maybe she just wants to give you lots of yummy treats as reward for your hard work!
+[Sensei]: “Let’s hope that’s all it is.”
+[Arona]: All right, Sensei! Time to get those snacks! Off to the General Student Council building!
+[Arona]: Scene fades to black
+[Rin]: Welcome, Sensei. Thank you for taking the time to meet with me.
+[Sensei]: “Long time no see, Rin.” / “So, where are the treats?”
+[Rin]: Huh? What do you mean by treats?
+[Rin]: …You look rather disappointed.
+[Rin]: Please have a seat while I get some tea.
+[Rin]: Time is a luxury, so let us begin
+[Rin]: As I said on the phone, I wanted to discuss my concerns regarding your handling of some Schale activities.
+[Sensei]: “Did I do something wrong?”
+[Rin]: It’s not that I don’t appreciate all that you have done since you’ve arrived. Students across Kivotos sing your praises.
+[Rin]: However, the issue lies in what happens after the conflict is over.
+[Rin]: I would like you to take a look at these post-operation reports you submitted.
+[Rin]: give
+[Rin]: This expense report!
+[Rin]: The billing statement is not only handwritten but in Arabic numerals.
+[Sensei]: “I get the feeling that’s bad?”
+[Rin]: Very much so.
+[Rin]: Any money amounts written on official documents must be written in Chinese to prevent forgery or other mishaps.
+[Rin]: And if you would observe here, the seal is stamped three centimeters away from the indicated blank.
+[Rin]: If you fail to follow official procedure and formatting in your reports, we in turn cannot help you with resolving them.
+[Rin]: So now that you’re here, please revise all of these reports before you leave.
+[Sensei]: “I’m guessing that’s not a suggestion…” / “You’re not gonna help me, Rin?”
+[Rin]: It is not. You must resolve your business first, [NAME] Sensei.
+[Rin]: /
+[Rin]: I cannot. This business is your own making, [NAME] Sensei.
+[Rin]: If you had followed proper procedure from the beginning, we wouldn’t be here right now.
+[Rin]: Also, would you care to explain the informal tone of this report?
+[Rin]: While these are confidential documents, they must still be written with the pomp and circumstance afforded to them.
+[Rin]: Refer here to Article 15 of the official guidelines of the General Student Council…
+[Rin]: Fade to black
+[Rin]: (Rin kept scolding me for a long, long time.)
+[Rin]: Fade back
+[Rin]: Knock knock knock
+[Ayumu]: Um, Rin…
+[Ayumu]: I-I mean, Senior Administrator… I need to talk to you about something.
+[Rin]: Yes, Ayu–Chief of Staff?
+[Ayumu]: Well, there’s an urgent matter.
+[Ayumu]: *whisper* The demolition of SRT Academy was scheduled today. However, just as they were about to begin, students occupied the park to protest the school’s closing.
+[Ayumu]: We didn’t have the manpower to deal with the sit-in…so the demolition is being delayed.
+[Rin]: …
+[Rin]: Contact the Security Bureau of Valkyrie Police School.
+[Rin]: The General Student Council’s orders are absolute. The students must be apprehended.
+[Ayumu]: Th-That’s what I thought you would say. I’m on it.
+[Ayumu]: Ayumu walks away
+[Sensei]: “Hi. I’m still here.” / “Seems like there’s something wrong.”
+[Rin]: I’m aware. These types of issues have been par for the course since the General Student Council president disappeared.
+[Rin]: /
+[Rin]: These types of issues have been par for the course since the General Student Council president disappeared.
+[Rin]: It’s nothing to concern yourself over, Sensei.
+[Sensei]: “What is SRT Academy?”
+[Rin]: SRT stands for Special Response Team.
+[Rin]: It’s an elite academy of specially-trained students.
+[Rin]: They were a highly effective force under the General Student Council president’s command.
+[Rin]: …
+[Rin]: With her gone, there’s not much point to the organization.
+[Rin]: Now then, on to Article 21, Paragraph 3 of the guidelines.
+[Rin]: (Moments later.)
+[Rin]: Ayumu enters
+[Ayumu]: Um, Senior Administrator…
+[Rin]: Yes, Chief of Staff?
+[Ayumu]: Well, you see…
+[Ayumu]: The Security Bureau was wiped out by the protesters.
+[Rin]: All of them?! I thought it was just a few students!
+[Ayumu]: It is! It’s just one squad. Believed to be just four students.
+[Ayumu]: But SRT students are too well-trained and well-armed to be taken down by just the Security Bureau.
+[Rin]: I was hoping I wouldn’t have to resort to this.
+[Rin]: Contact the Public Peace Bureau of the Valkyrie Police School. The Defense Office will be able to help us coordinate with and dispatch their forces.
+[Rin]: They may be elites, but the Public Peace Bureau specializes in anti-terrorism. Suppress them.
+[Ayumu]: I-If you say so!
+[Ayumu]: Ayumu whisks away
+[Sensei]: “Are you sure everything’s okay?”
+[Rin]: I know what you’re thinking. There’s no need for you to get involved with General Student Council matters.
+[Rin]: Your only assignment right now is to finish correcting your reports.
+[Rin]: I’m only saying this to be sure, but…
+[Rin]: I do hope you aren’t offering to help avoid your paperwork.
+[Sensei]: “I-I wouldn’t ever think of that! Never, ever!” / “I’m suddenly so excited to revise all these reports!”
+[Rin]: …I’m relieved to hear that. For both our sakes.
+[Rin]: Then, let’s pick up where we left off. In order to revise incorrect seals…
+[Rin]: Fade to black
+[Rin]: (Moments later.)
+[Rin]: Ayumu runs in the room yet again
+[Ayumu]: Senior Administrator…
+[Rin]: The Public Peace Bureau students…?
+[Ayumu]: Every last one defeated.
+[Ayumu]: According to the report, they couldn’t even get close to the park. They were taken out by snipers and booby traps almost immediately.
+[Ayumu]: To make matters worse, reporters from Kronos have picked up on the chaos and flocked to the scene.
+[Ayumu]: In other words, things are not going well!
+[Rin]: …
+[Rin]: Disaster can never choose a convenient time, can it?
+[Ayumu]: W-Well, Rin… I was thinking… We already have the Schale sensei here…
+[Ayumu]: You’ve read the reports too. Sensei has great leadership skills and they have the influence and authority to ask for backup from really whatever they want.
+[Ayumu]: With Valkyrie students taken out, I think Schale is our best hope…
+[Rin]: …
+[Rin]: …Tsk.
+[Rin]: Sensei. As you may have guessed, we’ve encountered a small issue.
+[Rin]: While the General Student Council should handle this…
+[Rin]: It seems your assistance is, in fact, required.
+[Sensei]: “I’ve been waiting for you to say that.” / “My moment to shine!”
+[Rin]: As a thank you, I will handle your reports. Just this once.
+[Rin]: Your job is to suppress the SRT Academy students’ protest. And quickly.
+[Rin]: There may be only a few, but do not underestimate them. They’re highly trained and armed with heavy artillery.
+[Rin]: Valkyrie Police officers will explain the details once you’ve arrived at the scene.
+[Rin]: I’m counting on you, Sensei.
+[Rin]: <<To Be Continued>>
+[Rin]: 02 - Uninvited Guests in the Park
+[Rin]: Upon receiving Rin’s request, Sensei arrives at the park and hears an explanation of the situation from Kanna, the Public Peace Bureau director from the Valkyrie Police School. The RABBIT Squad students, occupying the park, are armed with powerful weapons, but their command is in disarray. Sensei gathers students of the Valkyrie Police School at the scene and launches an attack.
+[Valkyrie Student A]: W-We’re under attack!
+[Valkyrie Student B]: Didn’t the rear team have our blind spots covered?!
+[Valkyrie Student B]: Where is it coming from?
+[Saki]: Did you really think your clumsy movements would go unnoticed?
+[Saki]: I’ve been watching you on my thermal monitoring device the whole time.
+[Saki]: Moe! They’re restrained!
+[Saki]: Do your worst!
+[Saki]: Bombs away!
+[Moe]: Heeheehee! My moment to shine!
+[Moe]: Beep
+[Moe]: Boom
+[Valkyrie Student A]: A drone attack?!
+[Valkyrie Student B]: Retreat! Everyone, retreat!
+[Valkyrie Student B]: Boom to black
+[Kanna]: What was that explosion?!
+[Kanna]: picks up radio
+[Kanna]: Alpha Squad, Alpha Squad! Report!
+[Shinon]: Everyone, I hope you didn’t blink!
+[Shinon]: The infamous Public Peace Bureau have been mercilessly beat back! Look at them run!
+[Mai]: With the Security and Public Peace Bureaus down, Valkyrie Police School’s last chess piece is the Public Safety Bureau!
+[Shinon]: The students occupying the park are rumored to be the one and only SRT Special Academy! Who would’ve thought they would so completely overpower Valkyrie students like this?!
+[Shinon]: Can continue to trust them with the security of Kivotos?
+[Mai]: As more doubts pile up, apprehension is thick amongst the citizens!
+[Kanna]: Shut up! This isn’t your business!
+[Kanna]: Did you even receive clearance to film here? This is an operation site! Get out!
+[Shinon]: Look everyone! The corrupt powers of Valkyrie Academy is now aimed at the media!
+[Mai]: They couldn’t even capture the culprit, and now are taking it out on reporters. How shameful!
+[Kanna]: Get lost!
+[Kanna]: Dammit! On top of everything we have to field those Kronos pests? This is ridiculous.
+[Kanna]: …They’re not wrong though. Do I really have to resort to the Public Safety Bureau?
+[Sensei]: “Looks like you’ve got a lot on your plate.”
+[Kanna]: We didn’t get rid of everyone?
+[Kanna]: Hey, like I told those reporters. This is an operation site. It’s dangerous for folks like you, so please leave.
+[Sensei]: Hand over Rin’s introduction.
+[Kanna]: An introduction from the senior administrator?
+[Kanna]: She went as far as to dispatch Schale’s Sensei… I see…
+[Kanna]: Well…
+[Kanna]: Forgive my rudeness. I didn’t recognize you.
+[Kanna]: I’m Ogata Kanna, the Public Peace Bureau chief. I’m in charge of this operation site.
+[Sensei]: “Nice to meet you.” / “What’s going on here?”
+[Kanna]: As you can see…
+[Kanna]: The situation isn’t great. Morale is low because of how brutally we were shut out. And I don’t have many options left.
+[Kanna]: The original plan was to compensate for the SRT students’ superior equipment with force of numbers. Now we have less numbers and worse guns.
+[Kanna]: All we have left is…
+[Kirino]: Chief Kanna! Kirino from the Public Safety Bureau reporting in!
+[Kirino]: Your orders, please!
+[Fubuki]: Hmm, looks like the situation’s pretty much handled. Let’s pack it up, everyone. Back to the office, Anyone want a donut?
+[Kanna]: All we have left is the Public Safety Bureau.
+[Kirino]: Oh, hello Sensei. Are you here to support us?
+[Fubuki]: Looks like it! This must be a bigger deal than we thought.
+[Kirino]: Heehee! With Sensei leading us, this operation is in the bag.
+[Kirino]: Now, it’s time to fight crime and keep our city safe!
+[Kanna]: Hold it! What do you even think you can do out there?
+[Kanna]: The Security and Public Peace Bureaus didn’t stand a chance. What in the world is the Public Safety Bureau going to do against SRT elites?
+[Kanna]: What’s your plan? To go against a special unit armed with heavy weapons with your little toy guns?
+[Kanna]: …And don’t think I’m not aware of your shooting skills.
+[Kirino]: W-Well. Th-The plan is to stop the bad guys and help the citizens…
+[Kanna]: I appreciate your enthusiasm. But if enthusiasm could solve anything, we wouldn’t be here now.
+[Kanna]: Remain on standby while we search for another way.
+[Kirino]: Yes…
+[Fubuki]: Heehee. Kirino got yelled at.
+[Sensei]: “Who are the students occupying the park?”
+[Kanna]: They’re members of the RABBIT Squad from SRT Special Academy. I believe they’re first-years.
+[Kanna]: Originally, the RABBIT Squad was to be transferred to the Valkyrie Security Bureau like the other SRT students, but…
+[Kanna]: As the demolition was about to begin, they began demanding we reverse the decision to close their school and occupied the park.
+[Kanna]: There aren’t many of them, but they’re armed with the most advanced weapons from SRT Academy…so we’re having a hard time with just our equipment.
+[Sensei]: “Anything else I should know?”
+[Kanna]: I have some records from the Student Council…
+[Kanna]: Ah, the Kronos broadcasting drone is here. You can see the suspects in the video.
+[Kanna]: Fade to black
+[Saki]: Who gave you permission to film us?! I’ll give you
+[Saki]: a taste of my MPADS and teach you a lesson.
+[Moe]: Now, now Saki.
+[Moe]: We fought off all their little police officers without breaking a sweat. What’s a stupid video gonna do?
+[Moe]: Maybe they’ll even get it through their thick heads that they never should have tried to close down SRT.
+[Moe]: Hi, hi! You listening, you dummy General Student Council members?
+[Moe]: Please keep struggling uselessly, I’ve got lost, lots more bombs I want to try out.
+[Saki]: If you want a fight, we’ll give you one. SRT Academy’s name will persevere through us, no matter what!
+[Miyako]: Saki, Moe. Please exercise restraint for once.
+[Miyako]: Our goal is to garner an advantage in negotiations through combat. Not long-term guerrilla warfare.
+[Moe]: U-Ugh. You’ll get wrinkles if you keep that serious face all the time, Miyako.
+[Saki]: The drone is annoying though. It’s giving me a headache.
+[Saki]: …
+[Saki]: We still have an arsenal of ammo left. Why don’t we have some target practice?
+[Moe]: Heehee. Saki, have you always been this brilliant?
+[Moe]: Let’s let loose!
+[Moe]: Oh, oh! Or we can take all the remaining ammo and make fireworks!
+[Moe]: Heehee, I think I might be drooling.
+[Saki]: That does sound kind of fun, but are we forgetting something important?
+[Saki]: Miyu appears in the radio
+[Miyu]: U-Um… I think that something is me…
+[Miyu]: Are you gonna blow me up with everything?
+[Moe]: Ah.
+[Saki]: O-Of course not! We would never forget about an ally hidden away behind enemy lines.
+[Miyu]: I-I’m happy to hear that…
+[Miyu]: …All the enemies have gone away. Can I come back now?
+[Miyu]: It’s all humid and dark, and there’s bugs everywhere.
+[Miyu]: And it’s scary being all by myself.
+[Saki]: Don’t be a baby, Miyu. We’re SRT elites.
+[Saki]: A true elite would never abandon her mission because of a measly caterpillar.
+[Saki]: If that’s how you feel, why don’t you go do some traffic control with Valkyrie Police School? Would you like that better?
+[Miyu]: I don’t want that either…
+[Saki]: Besides, the mission isn’t over. Miyu, do you have eyes on the flying drone?
+[Saki]: We’re going to shoot it down. Report target altitude and coordinates as soon as possible.
+[Miyu]: Whatever you say, Saki…
+[Miyako]: Saki, stop. We don’t have any more supplies coming, so we need to ration what we have. This is unnecessary and reckless.
+[Saki]: I don’t want to hear it!
+[Saki]: Are you giving us orders right now?
+[Moe]: Yeah! If I wanna blow something up, I’ll blow it up.
+[Moe]: The General Student Council president was our leader, not you!
+[Miyako]: I understand, but…
+[Miyu]: …Saki. Target altitude is 900m, distance is 2,500m, and compass point is 0-3-0…
+[Saki]: Nice work.
+[Saki]: Lock on the target.
+[Saki]: Moe, fire away.
+[Moe]: Oh, oh! This is just my most favoritest part… *pant pant*
+[Moe]: Aim and…
+[Moe]: KA-BOOM!
+[Moe]: Beep
+[Moe]: Boom
+[Moe]: …
+[Public Peace Bureau Student]: We lost the broadcasting drone.
+[Kanna]: They dare attack broadcasting equipment from a third party?
+[Kanna]: How were those bastards even allowed in SRT Academy?
+[Sensei]: “They’re definitely lively.”
+[Kanna]: How about idiots?
+[Kanna]: In Kivotos we have a saying. “I’ll fight someone powerful and I’ll fight an idiot. But there’s nothing more terrifying than a powerful idiot.”
+[Kanna]: We’ll need to request support from another academy district’s Prefect Team.
+[Kanna]: Contact Hina from the Gehenna Prefect Team…
+[Sensei]: “I think that’s unnecessary.” / “I think we can handle it ourselves.”
+[Kanna]: Huh? Have you not listened to anything I’ve said?
+[Kanna]: We only have about five Security and Public Peace Bureaus members who can act, including myself.
+[Sensei]: “Kirino, Fubuki. Up and at ‘em.” / “Kirino, Fubuki. Let’s go stop the bad guys.”
+[Kirino]: Wh-Wh-What?! Me? Kirino?!
+[Fubuki]: Please tell me you’re joking!
+[Fubuki]: What am I supposed to do against the SRT?
+[Kanna]: Does this really seem like the time for jokes, Sensei?
+[Kanna]: These students aren’t combatants, just small-time idealists who strive for peace.
+[Kanna]: How do you expect these measly, untrained students to do anything against enemies that the Security and Public Peace Bureaus couldn’t handle?
+[Kanna]: I don’t care how skilled you are. You can’t just use pawns against a queen and expect to win.
+[Kanna]: Some pawns are only ever meant to be pawns.
+[Sensei]: “They’re not chess pieces. All my students are equal in my eyes.”
+[Sensei]: …
+[Kanna]: What a piece of work.
+[Kanna]: When, and I say when, things go wrong, Schale will be responsible.
+[Kanna]: Listen up! The remaining Public Peace Bureau members are now under Schale’s command! Cooperate with the Public Safety Bureau, and for Kivotos’ sake, bring me back some good news!
+[Fubuki]: W-Wait! This wasn’t all just a bad joke?! You want us to fight the SRT elites?
+[Fubuki]: Even the Security and Public Peace Bureaus couldn’t handle them, This has to be a bad dream.
+[Sensei]: “It’s gonna be okay. Just, trust me.” / “I wouldn’t do this with anyone else.”
+[Kirino]: Don’t worry, Fubuki! Under [NAME] Sensei’s command, we can overcome any evil!
+[Kirino]: We are the Public Safety Bureau! No matter how small the chances of victory, we must always stand for the safety of our citizens!
+[Fubuki]: Ugh… If I knew this was gonna happen, I would’ve taken sick leave…
+[Kirino]: Well, if we’re successful in this mission, you’ll be awarded with an actual vacation.
+[Kirino]: And even better, we’ll prove our worth to the leaders and they’ll transfer us to the Security Bureau for our valiant service!
+[Fubuki]: I couldn’t care less about the Security Bureau, but a vacation on the other hand…
+[Fubuki]: I can’t say no to that.
+[Kirino]: Public Safety Bureau…
+[Kirino]: Operation commence!
+[Kirino]: <<Battle Sequence>>
+[Kirino]: The members of the RABBIT Squad get carried away in triumph and fall for Sensei’s plan. They’re quickly defeated and arrested.
+[Saki]: What in the world?
+[Moe]: What’s got your knickers in a twist?
+[Moe]: Is there something wrong with surveillance?
+[Saki]: No, but there are troops approaching.
+[Saki]: Didn’t we incapacitate the Security
+[Saki]: and Public Peace Bureaus?
+[Saki]: They sent out the Public Safety Bureau of all people?
+[Moe]: Hahaha! I’ll eat those small fries for dessert!
+[Moe]: Eh, well. Miyu’s got the area covered. They’ll go boom no problem.
+[Saki]: I guess. But why would they send such useless students…
+[Saki]: Well, I’m sure it’ll be fine.
+[Miyu]: W-Was that another bug? I’m scared… I wanna go home.
+[Miyu]: Oh but they closed the SRT building so I don’t have a
+[Miyu]: home to go to.
+[Miyu]: And Valkyrie would never let me join them now…
+[Miyu]: I’m just gonna be left here forgotten and alone…
+[Miyu]: Are they sure I can’t leave yet…?
+[Miyu]: click
+[Miyu]: Huh?
+[Miyu]: A smoke b-bomb?
+[Miyu]: boom
+[Miyu]: Eek!
+[Miyu]: They didn’t warn me any enemies were approaching!
+[Miyu]: I-I need to report this right away.
+[Miyu]: A silhouette approaches
+[Miyu]: D-Don’t move! Or I’ll shoot!
+[Suspicious Target]: Um…
+[Suspicious Target]: I-It’s me! I’m a student of SRT Academy and the RABBIT Squad…
+[Miyu]: The RABBIT Squad?
+[Miyu]: S-Saki?
+[Suspicious Target]: Y-Yeah!
+[Suspicious Target]: The smoke signal went off, so I came to see if you were okay.
+[Miyu]: But Saki, you were the one who said to not leave our positions no matter what.
+[Miyu]: A-And you sound kinda funny…
+[Suspicious Target]: D-Do I? I…inhaled some smoke! *cough cough* That must be why ‘m so raspy!
+[Suspicious Target]: Anyway, stop pointing your gun at a fellow squad member.
+[Miyu]: (...This is weird. She doesn’t talk or sound like Saki at all…)
+[Miyu]: (Use your brain, Miyu!)
+[Miyu]: …Clover.
+[Suspicious Target]: Wh-What did you say?
+[Miyu]: You don’t know? Saki would know the watchword and the countersign!
+[Miyu]: Y-You better answer or I’ll shoot!
+[Suspicious Target]: W-Well… Um… Clover!
+[Miyu]: Huh?! I said it first!
+[Suspicious Target]: It’s so loud in here, I can’t hear anything you’re saying! You better answer quick!
+[Miyu]: B-But… THat doesn’t…
+[Suspicious Target]: Answer! Or you’ll be considered an enemy of the SRT Academy and I’ll shoot!
+[Miyu]: F-Fine! Carrot!
+[Suspicious Target]: Perfect. THe watchword is “clover,” and the countersign is “carrot”.
+[Miyu]: Wh-What do you mean?
+[Suspicious Target]: Sensei said the sniper would be easy to manipulate. Gotta give it to them, that was easy as cake!
+[Suspicious Target]: Fubuki appears
+[Fubuki]: Thanks so much for the password. Bye-bye, little rabbit.
+[Fubuki]: …
+[Miyu]: L-Liar!
+[Miyu]: Black screen with gunshots
+[Saki]: Does it seem like the gunshots are getting closer?
+[Saki]: Miyu couldn’t have been defeated by the Public
+[Saki]: Safety Bureau, could she?
+[Moe]: Hah! You think those silly little pretend police
+[Moe]: Officers with pea shooters could take down our Miyu?
+[Saki]: Her communications were cut off though. Something’s wrong.
+[Saki]: I’ll go out there to assess the situation.
+[Saki]: Moe, more ammo please.
+[Moe]: Ammo? There’s none left. Na-da. Not even a a single dust speckle.
+[Saki]: B-But how?
+[Moe]: Heehee. They all went ka-boom in our fireworks show!
+[Moe]: We used eeeverything, bombs ammo, and all, to blow up the drone.
+[Saki]: Y-You actually used all of it?!
+[Moe]: Blowing everything up at once? With no care for the consequences?
+[Moe]: Nothing could excite me more! Hahahaha! *pant pant*
+[Saki]: But there are consequences! The mission isn’t complete!
+[Saki]: How could you just waste all our ammo? Are you stupid?!
+[Saki]: Gun cocks
+[Saki]: ???
+[Saki]: Boom
+[Miyako]: What was that explosion?
+[Miyako]: Picks up radio
+[Miyako]: Saki, Moe. Please report! Are you okay?
+[Miyako]: …
+[Miyako]: Communications are down. They must have been attacked.
+[Miyako]: I told them over and over again to stay vigilant.
+[Miyako]: I need to make preparations to move our base and rebuild our strategy…
+[Kirino]: Stop there, disruptor of peace!
+[Kirino]: Just as [NAME] Sensei said, their leader was hiding here!
+[Kirino]: Occupying a park meant for citizens and using illegal weapons to defy public authority…
+[Kirino]: The severity of your crimes cannot be emphasized enough!
+[Kirino]: Drop your weapons and surrender!
+[Kirino]: …
+[Miyako]: (I didn’t expect their vanguard to arrive so quickly. What do I do…)
+[Miyako]: (The Public Safety Bureau is only armed with short-barreled standard pistols. I can win this, but I have to act decisively and quickly.)
+[Miyako]: Miyako starts moving
+[Kirino]: W-Wait! Stop moving or I’ll shoot! Seriously!
+[Miyako]: No! I won’t come quietly!
+[Miyako]: Miyako whisks away
+[Kirino]: Stop! Or I’ll shoot! For real this time!
+[Kirino]: Pew pew pew
+[Miyako]: H-How? W-Wasn’t she pointing her gun in a different direction?
+[Miyako]: Did she deliberately goad me into running and predict my movement?
+[Miyako]: I-I may have been outsmarted this time.
+[Miyako]: Miyako falls
+[Kirino]: W-W-Wait! D-Did I actually hit her? From this far away?
+[Kirino]: Heh. I guess my shooting skills really have improved.
+[Kirino]: I’m not surprised! I can call that move Strike of Justice, made just to subdue criminals!
+[Kirino]: And justice always prevails!
+[Kirino]: Fade to black
+[Kirino]: …
+[Kanna]: I’m beat.
+[Kanna]: Not that I didn’t have faith in you, but I had
+[Kanna]: absolutely zero faith in the Public Safety Bureau students.
+[Sensei]: “It’s all thanks to the students’ hard work.”
+[Kanna]: Maybe that’s what your real talent is, [NAME] Sensei.
+[Kanna]: I’ll admit I had my doubts. But I think I understand how you’ve garnered the trust you have.
+[Kanna]: I’d like to thank you on behalf of Valkyrie Police School once again.
+[Kirino]: Sensei, Sensei! Did you see my Strike of Justice take down the bad guys?
+[Kirino]: I might be at the level of the Security Bureau students now!
+[Fubuki]: I didn’t think even a child could be tricked by my method, let alone some elites…
+[Fubuki]: I mean, it was Sensei’s plan, but I did pretty good on the spot, right?
+[Fubuki]: I can’t wait for my month-long vacation. Heehee.
+[Kanna]: Do I really have to put up with this?
+[Kanna]: While you did perform well in this mission, it’s not a one-stop ticket to whatever you want. The Valkyrie Police School executives will be the ones to evaluate your performance and eventual compensation.
+[Kanna]: RIght now, return to your regular duties and wait for the reward and punishment committee next month.
+[Fubuki]: I have to wait until next month for my vacation?
+[Fubuki]: Hmph.
+[Kirino]: One month is nothing! In one month’s time, I might be a member of the Security Bureau!
+[Fubuki]: Why do you say that like it’s a good thing?
+[Fubuki]: If that’s the reward, I hope I have the option to say no.
+[Moe]: We were really caught by a bunch of dummies like that?
+[Saki]: Who’s a fool? Isn’t it you for turning our ammo into your self-gratifying fireworks display?
+[Moe]: Are you questioning the importance and beauty of explosions? If you are then I’ll–
+[Miyu]: I-It’s all over… Gone…
+[Miyu]: The SRT Academy, the RABBIT Squad, my home… Now I’m really going to be forgotten for good… Not just by my squad members…
+[Miyako]: …
+[Sensei]: “Hi there, RABBIT Squad.” / “How’re you holding up?”
+[Saki]: We have nothing to discuss with you!
+[Moe]: You here to gloat about your victory? Huh?
+[Miyako]: Are you the “grown-up” who led the Public Safety Bureau students?
+[Sensei]: “I just gave them a few suggestions.”
+[Miyako]: Hm. The legendary Schale sensei. Trusted by all, stepping in and waving their extrajudicial authority like a magic wand to solve any problem.
+[Miyako]: …
+[Miyako]: It’s grown-ups like you I can’t stand the most.
+[Saki]: I hope you trip and stub your toe.
+[Moe]: If I see you again, it’s ka-boom for you.
+[Moe]: RABBIT Squad walks away
+[Sensei]: “Haha. What a fun group.”
+[Kanna]: Please disregard those insurgents’ insults. They’re just bitter and angry.
+[Sensei]: “What’ll you do with them?”
+[Kanna]: We’ll investigate their motives and go from there.
+[Kanna]: The Valkyrie Police School would normally be the one to issue the punishment, but…
+[Kanna]: With all the commotion and reporters, the General Student Council’s reputation is at stake now. I expect the chief of defense will step in.
+[Kanna]: If you want, visit Valkyrie to audit the investigation.
+[Kanna]: Thanks again for your work today. I expect I’ll see you again.
+[Kanna]: Kanna walks away
+[Kanna]: Fade to black
+[Kanna]: <<To be Continued>>
+[Kanna]: 03 - The Squad’s Circumstances
+[Kanna]: Sensei and students at the Valkyrie Police School interrogate the RABBIT Squad members. The squad members explain their reasons for not wanting to leave the SRT Academy and swear they will never transfer to the Valkyrie Police School no matter what they’re offered.
+[Interrogation Log]: 977-R-1
+[Interrogator]: Ogata Kanna, Valkyrie Police School, 3rd Year
+[Suspect]: Sorai Saki, SRT Special Academy, 1st Year
+[Suspect]: [Valkyrie Police School Main Building, Underground Interrogation Room]
+[Kanna]: Your name.
+[Saki]: …
+[Kanna]: State your name!
+[Saki]: Are you dumb? Did you forget my name already?
+[Kanna]: You’re not asking the questions here.
+[Kanna]: I’ll ask one more time. What is your name?
+[Saki]: …Sorai Saki.
+[Kanna]: Affiliation?
+[Saki]: RABBIT Squad of the SRT Special Academy. That is, until you closed it down on a whim.
+[Kanna]: Watch your words. Do you understand your situation?
+[Kanna]: Keep resisting, and you’ll learn just how I earned the nickname the Feral Hound.
+[Saki]: Was that a threat? Is that the extent of your interrogation skills? Pfft.
+[Saki]: SRT Academy students deal with highly confidential information regularly! We’re well trained in dealing with interrogations and torture!
+[Saki]: So, do your worst!
+[Kanna]: You know, I’ve looked at your records. You were an incredible talented student at SRT Academy.
+[Kanna]: Nearly perfect scores on written tests, and you handled the practicals as if you’ve been in combat your entire life.
+[Kanna]: Not a single violation on your record either. A golden student from every angle.
+[Kanna]: So, tell me. Why would top-of-her-class, dedicated, and intelligent Sorai Saki do something like this? Was the thought of being transferred to Valkyrie Police School that horrible?
+[Saki]: …Valkyrie isn’t SRT.
+[Kanna]: You’re avoiding the question. Answer me clearly.
+[Saki]: Unlike the Valkyrie Police School, the SRT Academy follow strict, rigid principles both in the classroom and out.
+[Saki]: We wake up at the same time every morning, make our bed with precision, train in classes, and continue our duties and practice in our dorms.
+[Saki]: The Valkyrie Police School’s daily routine?
+[Saki]: Your “most disciplined” Public Peace Bureau even wear casual clothes after classes. They play and do as they please after school rather than dedicating themselves to their training.
+[Saki]: You can chain me up, but I will always live as a dignified wolf, not a sheepdog lollygagging in a pasture.
+[Kanna]: Is that really how you feel?
+[Kanna]: Then let me ask you another question.
+[Kanna]: When Moe used all your ammo on shooting down the drone, why did you encourage it?
+[Kanna]: A model student like you surely knows how precious ammo is in a defensive battle.
+[Kanna]: What did that have to do with your dignified principles?
+[Saki]: W-Well, because…
+[Saki]: I kind of thought it would be cool to see it all explode at once, In training, we’re always graded on how much ammo we conserve…
+[Saki]: Sorai  Saki
+[Saki]: Fail
+[Interrogation Log]: 977-R-2
+[Interrogator]: Nakatsukasa Kirino, Valkyrie Police School, 1st Year
+[Suspect]: Kazekura Moe, SRT Special Academy, 1st year
+[Kirino]: You’re Kazekura Moe, correct?
+[Moe]: The one and only.
+[Moe]: Hey, hey. Miss Officer, you almost done with your little questioning?
+[Moe]: I’m running out of candy and I’m b-o-r-e-d. Can I go?
+[Kirino]: Absolutely not! We must complete your interrogation.
+[Kirino]: And your concern here is candy? Please keep in mind you’re a suspect in a very serious crime!
+[Kirino]: Cooperate, or there’ll be no more candy for you at all!
+[Moe]: Alright, alright, Miss Officer.
+[Kirino]: Let me get to the point, Moe. Why did you occupy the park and disobey police commands?
+[Kirino]: Your sentencing would have been much less severe if you had just surrendered.
+[Moe]: …Leaving SRT would’ve sucked.
+[Kirino]: Well… I can agree that no matter the circumstances, leaving Valkyrie Police School would be extremely painful.
+[Kirino]: Our relationships and memories are precious. I’ll not that down…
+[Moe]: You’ve got it all wrong, Miss Officer.
+[Moe]: If you gave me a ticket away from the RABBIT members, I’d be on the next flight out.
+[Moe]: Miyu’s a useless crybaby, and Saki is always just nag, nag, nag. Nagging queen.
+[Kirino]: Th-Then what were your reasons for wanting to stay?
+[Moe]: The big ka-booms of course! The weapons!
+[Kirino]: Valkyrie Police School could have provided weapons as well if that is your area of interest!
+[Moe]: Pffffffft. Those measly little kiddie toys? They’re not even in the same league!
+[Moe]: Have you ever felt the rumble of an anti-tank missile tearing through enemy lines? Or seen incendiary bombs that set everything on fire, as far as you can see?
+[Moe]: The SRT Special Academy let me blow up what I wanted, with whatever I could dream of!
+[Kirino]: Even at SRT Academy you’re not supposed to do that! At all!
+[Kirino]: (C-Come to think of it, Moe recklessly fired bombs and destroyed shops during the last incident.)
+[Kirino]: Although different in nature, SRT and Valkyrie were both created to protect the safety of citizens.
+[Kirino]: But all you care about is blowing things up!
+[Kirino]: Moe, is protecting peace not your utmost priority?!
+[Moe]: It isn’t.
+[Moe]: …
+[Kirino]: *sigh*
+[Kirino]: Kazekura   Moe
+[Kirino]: Fail
+[Interrogation Log]: 977-R-3
+[Interrogator]: Nemugaki Fubuki, Valkyrie Police School, 1st Year
+[Suspect for Investigation]: Kasumizawa Miyu, SRT Special Academy, 1st Year
+[Fubuki]: Sooo, what’s your name again?
+[Miyu]: K-Kasumizawa Miyu, I’m a 1st year in RABBIT Squad… My role is the sniper…
+[Miyu]: I’m fifteen years old… I was born on July twelfth. O-Oh…and I like collecting p-pebbles.
+[Fubuki]: I just needed your name…
+[Miyu]: What’s gonna happen to me?
+[Miyu]: I know what I did in the park was really bad… A-Am I going to be tortured?
+[Miyu]: Like ticking me all night, or playing the same song on repeat over and over again…
+[Miyu]: Nooo! P-Please don’t do it! I’m sorry! I’ll tell you everything!
+[Fubuki]: You can calm down… Torturing you would be way too much effort.
+[Fubuki]: You just have to explain why you did what you did and we can not get outta here.
+[Miyu]: B-Because…I was scared of being transferred to a new school.
+[Fubuki]: Why? We’re probably the safest school you could transfer to.
+[Miyu]: N-No it’s not like that…
+[Miyu]: It’s just that… I don’t wanna have to make new friends all over again…
+[Miyu]: I mean… Miyako’s the only one who ever really cares about me… But at least I have her.
+[Miyu]: If I have to go to a whole, brand-new school…
+[Miyu]: Who would talk to me? I’m a crybaby and useless. I’ll fade away into nothingness like a piece of gum on the street nobody even notices.
+[Miyu]: I’d rather sleep with those icky bugs than meet new people.
+[Fubuki]: I see… So you’re scared of people?
+[Miyu]: N-No, not exactly. But people can forget me.
+[Miyu]: And I can’t stand the thought of being forgotten. All by myself… Like a piece of gum…
+[Miyu]: That’s why I went to SRT. But now my only home is gone, and I’m really scared…
+[Fubuki]: Hey, I actually have an idea.
+[Fubuki]: Why don’t you join the Public Safety Bureau? There’s only a few of us, so you’d get in easy.
+[Fubuki]: I chose it because you don’t have to do anything! I just get to eat donuts and avoid people.
+[Miyu]: A-Avoid people?
+[Miyu]: So, if I join your club, I could go to school and never talk to anyone, ever?
+[Fubuki]: Um… I mean I think never is kinda impossible.
+[Fubuki]: We do still have to do some things. Like weird civil complaints and stuff.
+[Miyu]: Can I just go back to the bugs?
+[Miyu]: Kasumizawa  Miyu
+[Miyu]: Fail
+[Interrogation Log]: 977-R-4
+[Interrogator]: [NAME] Sensei, Schale
+[Suspect for Investigation]: Tsukiyuki Miyako, SRT Special Academy, 1st Year
+[Miyako]: …It’s you.
+[Sensei]: “It’s great to see you too, Miyako.” / “I’m guessing you didn’t miss me?”
+[Miyako]: I assume you’ll be conducting my interrogation, Sensei. / I’m surprised I was worth your time. It’s a long trip out here.
+[Miyako]: Stop playing games. My answers will be the same no matter what.
+[Miyako]: Ask away.
+[Sensei]: “How are you doing?”
+[Miyako]: That’s an unexpected question.
+[Miyako]: I’m fine as you would expect a prisoner to be. I can’t complain much.
+[Miyako]: Are you trying to negotiate with me? Better conditions for a favor?
+[Miyako]: If you think you can get in my head, you’re fighting a losing battle.
+[Miyako]: I won’t abandon SRT Academy.
+[Sensei]: “Why do you not want to transfer to Valkyrie Police School?”
+[Miyako]: The first question was unexpected, the second was bad. I’m keeping count.
+[Miyako]: I’m not against going to Valkyrie Police School.
+[Miyako]: I refuse to leave SRT Special Academy.
+[Sensei]: “And why do you not want to leave SRT?”
+[Miyako]: A better question. SRT Academy has a unique sense of justice.
+[Sensei]: “Can you tell me about it?”
+[Miyako]: Maybe I’ve relinquished my right to talk about justice.
+[Miyako]: It’s a word you hear a lot in Kivotos.
+[Miyako]: Students of Trinity, Gehenna, and even Valkyrie all fight for their own brand of justice.
+[Miyako]: …I think their brand is trite.
+[Miyako]: Justice is the path to preserving truth.
+[Miyako]: Inherently, the path has to be based on the truth. If this is so, justice shouldn’t change no matter who carries it out.
+[Miyako]: All these academies, Kivotos’ security organizations, everyone mixes politics and justice. And so justice becomes a sword they wield for their own self-interests. They taint it.
+[Miyako]: SRT Special Academy… At SRT we served justice with principle, unaffected by society and politics.
+[Miyako]: It didn’t matter if it was me or Saki or Moe or Miyu. Or who our enemy was. Every member of our organization was dedicated to that path. To preserving truth.
+[Miyako]: It’s these principles that made me love SRT Special Academy, ever since I was little.
+[Miyako]: I respected the justice they pursued. Unaffected by the inherent selfishness of humans.
+[Miyako]: But I guess for all my idealistic spouting, SRT disbanded and I become a criminal.
+[Miyako]: I’m a failure. If I had led my allies better, cooperated with them, united them, I wouldn’t have let them down. I wouldn’t have let SRT down.
+[Sensei]: “You did well.”
+[Sensei]: …
+[Miyako]: …You’re a weird one, Sensei.
+[Miyako]: I don’t think I deserve that compliment, especially from you.
+[Miyako]: We planned everything in advance. On the other hand, you put together a strategy, understood and maximized your allies’ talents, pried open your enemies’ weaknesses, and overwhelmed us entirely in an emergency situation.
+[Miyako]: I didn’t stand a single chance.
+[Sensei]: “Experience is a sharper sword than you’d think.”
+[Sensei]: “Can I ask again? How are you doing?”
+[Miyako]: My answer is the same.
+[Miyako]: Unless you think you can stop SRT Academy from closing, I don’t need anything from you, Sensei.
+[Sensei]: “That, I can’t make any promises on.”
+[Miyako]: Well, then know I won’t stop fighting for SRT Academy.
+[Miyako]: We’ll go on fighting for what we believe in, We’ll keep SRT Academy’s justice alive.
+[Sensei]: “Even when there’s no hope?”
+[Miyako]: I won’t give up.
+[Miyako]: Tsukiyuki  Miyako
+[Miyako]: Decision Postponed
+[Miyako]: [Valkyrie Police School, Public Peace Bureau Office]
+[Kanna]: That’s all the of the suspects’ interrogation
+[Kanna]: records.
+[Kanna]: Good work, as usual. Thanks for your
+[Kanna]: cooperation.
+[Sensei]: “Has their sentence been decided?”
+[Kanna]: Well. Honestly, I wanted to try to assimilate them into Valkyrie Police School after a period of detention.
+[Kanna]: But the General Student Council was involved, so the consequences from this incident go way further than my reach. They’re calling for severe disciplinary action.
+[Kanna]: They’re considering expunging their academic records and essentially exiling them.
+[Sensei]: “Is there no way to reopen the SRT Academy, as they requested?”
+[Kanna]: You’re a softie, aren’t you? I wouldn’t accommodate a criminal’s request, even if I could.
+[Kanna]: The closure of the SRT Academy was the General Student Council’s decision.
+[Kanna]: even with all your authority, it’d be nearly impossible to reverse it.
+[Sensei]: “So, who would I need to talk to?”
+[Kanna]: I can’t answer that question…
+[Kanna]: Sudden black
+[???]: I believe I can help with that.
+[Kanna]: Is that…?
+[Kanna]: Kaya walks in
+[Kaya]: I’m jumping with joy to finally meet you, Sensei.
+[Kaya]: I’m Shiranui Kaya, representative of the Defense Office under the Kivotos General Student Council.
+[Kaya]: <<To be Continued>>
+[Kaya]: 04 - Chief of Staff’s Circumstances
+[Kaya]: While Kanna and Sensei are examining the interrogation records, Kaya, chief secretary officer of the General Student Council, announces herself. Kaya explains the organizational charts of the General Student Council and why the SRT Academy was disbanded. She then asks Sensei to help persuade members of the RABBIT Squad.
+[Kaya]: Pleasure, Sensei.
+[Kaya]: My name is Shiranui Kaya.
+[Kaya]: Chief of Defense of the General Student Council Administration
+[Kaya]: Board.
+[Sensei]: “Administration Board…?” / “Chief of Defense…?”
+[Kaya]: You haven’t heard of it?
+[Kaya]: Administrator Rin didn’t explain about the board, did she?
+[Sensei]: “Nope.”
+[Kaya]: Ack. Truly a woman of few words.
+[Kaya]: Well then, allow me to be your teacher, Sensei!
+[Kaya]: The General Student Council exists to process all of Kivotos’ administrative tasks. This heady task is mainly handled through the Administration Board.
+[Kaya]: The Administration Board is composed of eleven committees, such as the treasury and control room. Senior Administrator Rin, as you know, is in charge of the general office which oversees all of this.
+[Kaya]: And I’m from the Defense Office! We’re a hard-working group keeping the students and citizens safe from any bad guys who threaten Kivotos.
+[Sensei]: “That must keep you pretty busy.”
+[Kaya]: Heehee, it would be remiss of me to claim that. It’s not hard to give orders. Chief Kanna and her staff are the ones who are running ragged to keep the peace.
+[Kaya]: Kanna stares in silence…
+[Kaya]: But you know, things have been unstable since the General Student Council President disappeared. Uncertainty, political unrest, the whole shebang.
+[Kaya]: If it weren’t for Schale stepping up to fill the hole, I certainly would be as busy as you think.
+[Kaya]: So I’ll have to thank you again for all you’ve done. Maybe over a cup of tea one day.
+[Sensei]: “You said you could help me with the SRT Academy students.” / “Does the Defense Office manage the SRT Academy, then?”
+[Kaya]: Well you see, the Valkyrie Police School students are under the Defense Office’s command, but…
+[Kaya]: Kaya steps closer
+[Kaya]: That entire explanation I just gave of our organization’s structure? None of it applies to the SRT Academy.
+[Kaya]: Fade to black
+[Kaya]: Kivotos has many academy districts outside the General Student Council’s jurisdictions, or clubs that privately manage security within their districts.
+[Kaya]: For example, if a student breaks the law within the Gehenna district, then they’re punished by the Gehenna prefect Team’s laws. Not ours.
+[Kaya]: But say a student commits a crime
+[Kaya]: In shared zones like the DU, where Schale is, then the Valkyrie
+[Kaya]: Students will step in. Easy enough, right?
+[Kaya]: But the problem occurs if a student
+[Kaya]: commits a crime in one district, and then flees to another. Who, then,
+[Kaya]: is allowed to arrest them? There are even cases of Student Councils
+[Kaya]: From different academies helping to hide them away.
+[Kaya]: We do try to send notices seeking cooperation in these types of situations, but, well, the schools don’t always get along.
+[Kaya]: Thus, we come to the creation of the SRT
+[Kaya]: Academy.
+[Kaya]: The SRT Academy was intended to be kind
+[Kaya]: of like you, actually. An extrajudicial force that can take action against
+[Kaya]: Criminals regardless of where they are. Naturally, with the approval of the
+[Kaya]: General Student Council president.
+[Kaya]: In order to achieve this goal, only the most
+[Kaya]: talented of students were selected. And they were armed with the best of
+[Kaya]: The best equipment.
+[Kaya]: And, to be sure, they quickly proved their
+[Kaya]: effectiveness. The FOX Squad, a troop consisting of senior SRT Students,
+[Kaya]: successfully arrested Wakamo, known as the Fox of Calamity and an
+[Kaya]: elusive criminal throughout Kivotos.
+[Kaya]: And then… Poof. The General Student Council president disappeared.
+[Kaya]: The President was gone, and was the
+[Kaya]: person responsible for the SRT Academy and all its operations.
+[Kaya]: I would like to say no one wanted to take
+[Kaya]: charge of the highly-trained, incredibly well-armed students. But it was more
+[Kaya]: like no one could.
+[Kaya]: Our Defense Office was put in charge of the SRT students at first, but our…attempts were restricted because of their state-of-the-art equipment.
+[Kaya]: And in the end, the SRT Special Academy was reduced to an empty shell.
+[Sensei]: “I don’t feel like that’s a good enough reason to close it down.”
+[Kaya]: That wasn’t the only reason.
+[Kaya]: Honestly, most executives wanted to maintain the SRT Academy for when the General Student Council hopefully returned.
+[Kaya]: I was among those.
+[Kaya]: But… Well… You see, the FOX Squad members realized that their existence was being threatened. They weren’t the type to stand idly by while we dismantled their way of living.
+[Sensei]: “The FOX Squad…” / “The students you mentioned before?”
+[Kaya]: Yes. The top squad of the SRT Academy that arrested Wakamo, the Fox of Calamity, and several other serious criminals.
+[Kaya]: Until just last month, the SRT students were still armed with all of their advanced equipment.
+[Kaya]: Hearing wind of the plans to shut the school, the FOX Squad armed themselves, attacked the General Student Council, targeting a few of the loudest voices against them, and then disappeared.
+[Kaya]: Not only were some of the Sanctum Tower’s facilities burned down but many student council members were seriously injured and hospitalized.
+[Kaya]: What was then the senior administrator stepped in. She ordered the full closure of the SRT Academy and immediate retrieval of all weapons.
+[Kaya]: But before we could do so, the RABBIT Squad ran away, taking the weapons with them.
+[Kaya]: You won’t find a single sympathetic soul in the General Student Council right now.
+[Kaya]: Sensei, I hear you really care about all your students.
+[Kaya]: Honestly, I’m at the end of my rope here. The RABBIT Squad members are going to have their academic records expunged. The remains of the SRT Academy will be a handful of criminals and vagrants.
+[Kaya]: But they’re not vagrants. They’re elite students who were handpicked for the SRT Academy.
+[Kaya]: To lose such talented students… It would be a loss to all of Kivotos.
+[Kaya]: The end of my long monologue comes to this. Can you convince the RABBIT Squad members to transfer to the Valkyrie Police School?
+[Kaya]: If they agree to transfer, I’ll convince the other chiefs of staff to not expel them.
+[Kaya]: .
+[Sensei]: “I don’t know if I can.”
+[Kaya]: I do know I’m asking no small task of you…
+[Sensei]: “It’s not about convincing them.”
+[Sensei]: ?
+[Sensei]: “But I can’t force them down a path they don’t want.”
+[Kaya]: …I suppose the rumors about you were true, Sensei.
+[Kaya]: All these students have fought tooth and nail to join the SRT Academy because they believed in it. As their teacher, you won’t ask them to bend their ideals to suit the General Student Council’s needs.
+[Kaya]: Well, I supposed I never agreed with forcing them either. How would I look the President in the eye when she comes back?
+[Kaya]: What a situation. Technically, the RABBIT Squad should be punished to the severest degree possible for their actions…
+[Kaya]: But rules are meant to be broken!
+[Kanna]: Ch-Chief of staff?
+[Kaya]: Oops, I’m not supposed to say things like that, aren’t I?
+[Kaya]: Let’s forget about that one, Chief Kanna.
+[Kaya]: Sensei, the Defense Office will gladly cooperate with you.
+[Kaya]: I’d like to see the happy ending you envision. Please, guide the students to their dreams.
+[Kaya]: Instead of the Disciplinary Council, I’ll let you decide the RABBIT Squad’s fate.
+[Kaya]: Send them wherever they want to go, keep them in Schale. Wherever you want.
+[Kaya]: Well, unless what you want is to reopen the SRT Academy. My influence has its limits.
+[Sensei]: “Are you sure about this?”
+[Kaya]: Haha! I’ve never been more sure.
+[Kaya]: The Administration Board has faith in me, and I’ll make it up to the other chiefs of staff one way or another.
+[Kaya]: It’s a small price to pay for our ultimate goal, right?
+[Kaya]: Kaya walks closer
+[Kaya]: Sensei, please guide the SRT Academy to whichever future you believe in.
+[Kaya]: <<To be Continued>>
+[Kaya]: 05 - Unresolved Distrust
+[Kaya]: Sensei is suddenly given the task of managing the RABBIT Squad and advises the squad members to stay in the comfortable Schale office. They’re suspicious of Sensei’s intentions and instead continue camping as homeless students in the park.
+[Kaya]: [Valkyrie Police School Main Building Lobby]
+[Miyako]: Everyone… How are you doing?
+[Saki]: I didn’t know you were here, Miyako.
+[Miyu]: Miyako… Thank goodness.
+[Moe]: The gang’s all here. Looks like they finally ran out of questions.
+[Moe]: They ran out of lollipops so I’m pretty much done with this place.
+[Saki]: Moe, they’re hardly going to just let us walk out of here.
+[Saki]: The fact that we’re all here together means they’ve decided our sentencing.
+[Saki]: And after everything we’ve done… I expect our academic records will be expunged.
+[Moe]: Oh, boo-hoo. The SRT Academy went ka-boom so it doesn’t matter what they do.
+[Miyu]: B-But, what if it’s even scarier than getting kicked out of school?
+[Moe]: Hm. Well, I guess.
+[Moe]: Watch out, Miyu. They’re gonna drag us to an underground facility and do weird, illegal experiments on us. You’ll be the first since you’re the smallest.
+[Miyu]: M-Me?!
+[Miyu]: …It’s over for us.
+[Miyu]: …
+[Miyako]: I’m sorry. If I had done better…
+[Miyako]: You all wouldn’t be in this situation.
+[Saki]: Why are you apologizing to us?
+[Moe]: You think we would do something we didn’t want to, even if you were the squad leader?
+[Saki]: Don’t take this the wrong way. Or do, actually. But Miyako, you’re not leader of anything anymore now that the academy’s gone.
+[Saki]: Don’t act all high and mighty. We had no expectations of you from the beginning.
+[Miyako]: I… I just…
+[Sensei]: “Hello, everyone.”
+[Moe]: This weirdo?!
+[Saki]: The Schale sensei?
+[Miyu]: Eeeek!
+[Sensei]: “I guess I’m not very welcome here.”
+[Miyako]: You’re still here, Sensei?
+[Miyako]: Do you have unfinished business at Valkyrie?
+[Miyako]: …Are we the unfinished business?
+[Sensei]: “Yep. I’m here to deliver the Administration Board’s decision.”
+[Miyu]: …N-Noooo!
+[Moe]: Spit it out, Mister. We’ll take whatever you throw at us.
+[Saki]: *gulp*
+[Saki]: *Flips page*
+[Sensei]: “The RABBIT Squad is free.” / “You’re free to go.”
+[Miyako]: Huh?
+[Moe]: For once, I’m speechless.
+[Saki]: Does that mean we can go back to the SRT Academy?
+[Sensei]: “Free to go anywhere except SRT.”
+[Saki]: I had my hopes up for a moment.
+[Saki]: Time skip
+[Miyako]: We must have been placed in Schale’s charge since Sensei was the only one to successfully suppress us.
+[Miyako]: I understand the situation now.
+[Miyako]: What is your order, Sensei?
+[Sensei]: “What do you want your order to be?”
+[Saki]: I don’t think that’s how that works.
+[Miyu]: I-I just wanna go back home…
+[Moe]: I want a fluffy bed and a shower. My social battery is spent after that interrogation nonsense.
+[Sensei]: “Why don’t you rest at the Schale dorms for a while?”
+[Saki]: …Suspicious.
+[Moe]: What respectable teacher invites female students to their dorms? Hmm?
+[Miyako]: I find it hard to trust you as well.
+[Miyu]: You probably h-hate us because of what happened…
+[Moe]: You’ve come up with an evil plan, haven’t you?
+[Saki]: I heard rumors that Schale is ridden with wiretapping devices.
+[Miyu]: A-Are you going to blackmail us?
+[Moe]: Heehee. Sensei wants to use us for their shameful desires.
+[Sensei]: “Why would I do any of that?! I’m a teacher” / “What kind of a person do you think I am?!”
+[Miyako]: We can’t accept your offer.
+[Miyako]: Our mission from the beginning has been to resist the General Student Council’s decision to shut down the SRT Academy. Seeking comfort in the Schale dorms would negate all our actions.
+[Saki]: And where at Schale would we continue our regular training?
+[Saki]: Resting and relaxing in the dorms isn’t conducive to the rigor and discipline we believe in at SRT.
+[Moe]: Are you gonna let me blow things up at Schale? Huh?
+[Miyu]: I-I still think Sensei is scary…
+[Sensei]: “Why don’t you camp out in the park, then?”
+[Miyako]: Kousagi Park? Where we had our protest?
+[Saki]: …That actually isn’t a bad idea. The park reminds me of our field warfare training grounds. It’s sort of comforting.
+[Moe]: And all my toys are still there!
+[Miyu]: I g-guess it’s the closest to home we have…
+[Miyako]: The optics aren’t great if we do return there, however. It’ll look as if we’re being allowed to continue our protest.
+[Miyako]: Are you sure you’re okay with that?
+[Sensei]: “Sure. I’ll pack your bags.” / “When’s the move?”
+[Miyako]: We’re not your usual powerless students to protect, Sensei.
+[Miyako]: We still don’t trust you, and we still don’t need your help.
+[Miyako]: No amount of kind words or gestures will change our minds.
+[Sensei]: “I’ve known that from the start.” / “I’m really just here to help.”
+[Sensei]: …
+[Miyako]: …You confound me.
+[Miyako]: Until next time, then.
+[Saki]: Nex time, you’ll be our enemy!
+[Moe]: Haven’t we been from the beginning?!
+[Moe]: RABBIT Squad walks away
+[Miyu]: M-Miyako! Wait for me!
+[Miyu]: <<To be Continued>>
+[Miyu]: 06 - Food Delivery Operation
+[Miyu]: The next day, Sensei visits the park and finds the squad members starving. They continue to decline Sensei’s help, so Sensei tells them about a place to get free food instead. When the squad members arrive there, they learn that the free food is discarded bentos from a nearby convenience store.
+[Miyu]: (The next morning, I went to the park to check on how the RABBIT Squad was doing.)
+[Miyu]: [In Front of Kousagi Park]
+[Miyu]: Walking
+[Miyu]: Sensei falls
+[Miyu]: Scene turns black
+[Sensei]: “Wh-Woah!” / “Who put a trap here?!”
+[Saki]: The Schale Sensei?
+[Saki]: Here I thought it was a dirty, stray dog.
+[Sensei]: “A dirty stray dog… You wound me.” / “Why is there a trap here?”
+[Saki]: It’s your fault for getting caught.
+[Saki]: We’re securing the perimeter against possible intruders.
+[Moe]: Is that our least favorite Sensei?
+[Moe]: Ooh, I’d be careful. I buried a mine around there.
+[Sensei]: “This is overkill!” / “Where is it?!”
+[Moe]: Heehee. I dunno where it is m though.
+[Moe]: Let’s see… How to find it… I guess if something goes ka-boom, voila! We found it!
+[Sensei]: “You guys are turning this park into a war zone!”
+[Saki]: Well, how else are we supposed to protect ourselves?
+[Moe]: This is basic procedure!
+[Moe]: Apparently anti-tank mines and exploding trap wire isn’t basic procedure though…
+[Sensei]: “I’m guessing Miyako told you that…”
+[Saki]: When on a mission, you can never be too prepared.
+[Moe]: Never be lulled into a false sense of security. That’s what losers do.
+[Moe]: Miyako walks in
+[Miyako]: Saki, Moe… Are you both okay?
+[Miyako]: I heard a lot of noise coming from over here.
+[Miyu]: E-Eeek… I-It’s Sensei.
+[Miyako]: Hello Sensei.
+[Miyako]: What business do you have, before the sun is even up?
+[Sensei]: “How did you sleep last night?” / “I wanted to see if you needed anything.”
+[Miyako]: Fine. You shouldn’t worry yourself so much.
+[Miyako]: SRT Students are well-trained for these kinds of situations.
+[Saki]: Yeah! We could pitch a tent and get a fire going with our eyes closed.
+[Saki]: Survival skills are a must for any SRT student.
+[Moe]: Well, we’re hardly in the wilderness here. We have running water and electricity. It’s practically a 5-star hotel!
+[Miyu]: And there’s lots of shade too, so lookout duty isn’t bad.
+[Miyako]: The situation is entirely under control, Sensei. You may leave.
+[Saki]: Yep, yep, yup! No issues whatsoever. Nada! Zero! Zilch!
+[Saki]: Stomach rumbles
+[Sensei]: “Was that noise…”
+[Saki]: I-It was thunder. Maybe we should prepare for a thunderstorm.
+[Moe]: Saki! Your tummy betrayed us all, you dummy.
+[Saki]: It’s not like I can stop it from happening, all right?!
+[Miyu]: I wanna go home…
+[Miyako]: As I said, we’re all quite content here.
+[Miyako]: Stomach rumbles
+[Sensei]: “...Is that so?”
+[Miyako]: …
+[Moe]: You ever heard the term “hangry”? It means I’, angry because I’m hungry!
+[Miyu]: Y-You see, Sensei…
+[Saki]: You know what, fine! Yeah! We haven’t seen a single crumb of food since yesterday.
+[Miyako]: This base was built from a retrofitted park, and the only consumable thing is water from the drinking fountains.
+[Miyako]: and there isn’t anywhere we can request supplies from.
+[Saki]: Ugh. We should have gotten food rations from the SRT Academy.
+[Saki]: Who brought this anti-aircraft missile instead? Can you eat an anti-aircraft missile? Huh?
+[Moe]: Hey! Don;t come after my missiles just because you’re hungry.
+[Moe]: They’re important too! Think about the glitz and glamor of its KA-BOOM!
+[Moe]: And anyway, Miss Hypocritical. Didn’t you just bring a bunch of textbooks? Why don’t you eat the paper?
+[Saki]: Th-The blasphemy!
+[Saki]: We’re still SRT students. How could a dedicated student possibly leave their textbooks behind?
+[Miyu]: Th-There are some shops around, but our student accounts were suspended so we have no money.
+[Miyu]: And now we’re going to be left here, forgotten and starved. Slowly wasting away into nothingness…
+[Miyu]: I-I wanna go back to the SRT building… It’s not fair.
+[Sensei]: Produce instant cup ramen.
+[Sensei]: !
+[Miyu]: Is that…
+[Saki]: Is that instant cup ramen?!
+[Moe]: Th-The Mitoshin brand chicken soy sauce ramen! I normally only drool this much for explosives.
+[Sensei]: “I brought a lot of different flavors.” / “There’s enough for everyone.”
+[Moe]: Well, if the ever-generous Sensei is simply insisting we take the ramen, what’s a lil’ girl like me to do?
+[Miyako]: Stop right there.
+[Miyako]: I would beware of accepting that.
+[Miyako]: Providing essential goods to people in desperate circumstances only to extract whatever they want in return is an extortion tactic as old as time.
+[Miyako]: We don’t know what Sensei’s true motivations are. Don’t be fooled by their supposed kindness.
+[Sensei]: “I really just don’t want you to starve to death.”
+[Saki]: Are you looking down on us, Sensei?
+[Saki]: Any agent worth their salt knows not to consume anything you didn’t personally pack during an operation.
+[Saki]: I’ll never accept your extortion food!
+[Sensei]: Open the instant cup ramen.
+[Saki]: Wh-What are you doing?
+[Saki]: We really aren’t going to eat a single bite, you know!
+[Sensei]: Add boiling water and wait three minutes.
+[Sensei]: Scene fades black
+[Sensei]: Clock ticking
+[Sensei]: Scene returns
+[Saki]: Urgh…
+[Miyu]: Is this a new form of t-torture?
+[Sensei]: “It smells pretty good, huh?” / “It’s getting colder as we speak.”
+[Miyako]: Stay strong, RABBIT Squad! See Sensei’s cunning tactics to break down our will?
+[Miyako]: I guarantee Sensei is waiting for us to take the bait to attack!
+[Saki]: Th-That’s right!
+[Saki]: Do you really think you’ll break my will with a cup of cheap instant ramen?
+[Moe]: I want something a hundred times yummier if you’re going to extort me!
+[Sensei]: “If that’s really what you want. More for me.”
+[Sensei]: …
+[Moe]: S-Saki, I’m losing concentration…
+[Moe]: Can’t you smell the umami in the savory broth? Sensei’s every slurp drives me closer to madness!
+[Saki]: Stay strong, Moe. The elite students of SRT can’t be brought down by the one measly cup of ramen.
+[Saki]: Everyone! Take a deep breath and focus!
+[Saki]: Remember how we learned to counteract torture methods with antipsychotic drugs at the academy?
+[Saki]: This stimulus of the ramen’s smell may be strong, but our will is stronger!
+[Miyu]: This is worse torture than tickling…but I’ll do my best.
+[Miyako]: We’ll never give up on the SRT Academy, Sensei!
+[Sensei]: Add an onsen egg.
+[Miyako]: …!
+[Saki]: Th-Th-That just now. That was an onsen egg, wasn’t it?
+[Moe]: L-Look at the soft consistency of the yolk. It can only be one thing.
+[Miyu]: The thick, salty broth is seeping into the barely set egg…turning it into a savory pudding-like treat…
+[Miyako]: Prepared with all the fixings like that…even that cheap instant ramen cup…
+[Saki]: …Must be delicious!
+[Sensei]: “...Do you want some?”
+[Everyone]: Yes!
+[Sensei]: “I think they might have some at Valkyrie.” / “Valkyrie has even better ramen, I’ve heard.”
+[Sensei]: ?!
+[Miyako]: I knew it. As I said, an extortion trick as old as time.
+[Saki]: You’ve revealed your true colors, you evil grown-up!
+[Miyu]: I agree! That was m-mean, Sensei…
+[Moe]: I thought I was the crazy one around here…
+[Miyako]: I’ll reiterate. We have no intention of transferring schools.
+[Miyako]: You thought you could take advantage of our abysmal situation. But we will remain here, where we can preserve the convictions and justice we’ve always fought for at the SRT academy.
+[Miyako]: Creature comforts are no substitute for conviction.
+[Miyako]: …
+[Sensei]: Hand over an address written on a piece of paper.
+[Miyako]: What’s this?
+[Sensei]: “It’s okay to get food from anyone but me, right?” / “Go to this address and you can get fed for free.”
+[Miyako]: You’re offering us food? For nothing in return?
+[Miyako]: I’ve made it clear, we’re not students you can help, Sensei.
+[Miyako]: Fade to black in Miyako’s head
+[Miyako]: (Sensei’s sudden shift in tactics is suspicious to the say least, but…)
+[Miyako]: Fades back into the scene
+[Miyako]: Understood. I don’t believe we have much choice but to accept.
+[Miyako]: So… Thank you. Sensei.
+[Saki]: Do you really believe that willy Sensei has no evil
+[Saki]: intentions sending us here?
+[Miyu]: M-Maybe our conviction swayed Sensei’s mind.
+[Moe]: Puh-lease, Miyu. Ugh, this is why I can’t stand you.
+[Moe]: Do you really think our googly eyes and grumbly tummies made someone
+[Moe]: like Sensei go, “Oh dear, I have to help these poor students out of the
+[Moe]: goodness of my heart?”
+[Saki]: I-I don’t know. Sensei seemed sincere when they gave us the note.
+[Saki]: Maybe they’d even help us bring back SRT.
+[Miyako]: This should be the place.
+[Moe]: Wh-Where’s the food? Saki, catch me. I think I’m gonna faint from hunger.
+[Saki]: Wait, isn’t this where the Schale office is?
+[Saki]: There’s only old weapons and junk…
+[Sora]: They should be here by now.
+[Saki]: Hey, [NAME] Sensei directed us here.
+[Sora]: Ah, yes! I’m glad you found it!
+[Sora]: I’m so happy Sensei set this up for me! You must be…
+[Sora]: …The Bento Disposal Specialists!
+[Saki]: B-Bento Disposal Specialists?!
+[Sora]: Yes! Our convenience store isn’t the most popular, so we end up having a lot of old product.
+[Sora]: Usually I have to get rid of them myself, but it’s a lot of work for someone as small as me.
+[Sora]: So when Sensei told me they found some people to come dispose of them for me, I was so happy! They’re right here.
+[Sora]: …
+[Everyone]: …
+[Sora]: Oh no! Did I offend you? Oh my gosh, are you not the disposal specialists?
+[Moe]: Oh no, not at all! That's us! The Bento Disposal Specialists at your service!
+[Moe]: We just weren’t sure if this was the right place!
+[Sora]: Oh, that’s a relief… But th-the looks on your faces are a little scary right now…
+[Moe]: Because we’re hungry!! *ahem* I mean, because we work so hard, you know? Hah! Haha!
+[Moe]: You don’t happen to have any old milk or drinks, do ya?
+[Sora]: Oh yes, of course! Let me bring you everything right now!
+[Saki]: Are you stupid, Moe? Accepting expired lunches?
+[Saki]: How could you stoop so low?
+[Moe]: They’re about to expire, not expired, okay?! What else are we supposed to do, Miss Superiority?
+[Saki]: B-But… We’re the RABBIT Squad of the SRT Academy! Elites of the elite!
+[Moe]: Well, go get your panties in a bunch somewhere else!
+[Moe]: I’m gonna enjoy every last delectable bite of lunch myself.
+[Moe]: ?!
+[Saki]: W-W-Wait a second! I didn’t say I wouldn’t eat! Please, Moe!
+[Miyu]: Is this the end for us?
+[Miyu]: Is this our lives now? Begging for food like stray dogs, never knowing the sweet comfort of a home-cooked meal…
+[Miyako]: [NAME] Sensei…
+[Miyako]: Sudden black
+[Miyako]: I will never, ever forget this insult. Never.
+[Miyako]: <<To be Continued>>
+[Miyako]: 07 - Operation Carrot 1
+[Miyako]: The RABBIT Squad members solve their food problem thanks to the discarded bentos from the convenience store. But they soon encounter hygiene issues as there’s nowhere to bathe in the park. Sensei proposes using a drum barrel as a bathtub, and the squad members set out to find old drum barrels.
+[Miyako]: (A few days later I visited the park to check on how Miyako and the rest were doing.)
+[Miyako]: [In Front of Kousagi Park]
+[Saki]: Hold it right there, Moe! Who said YOU get
+[Saki]: to have the yakiniku bento?
+[Moe]: I did, actually. What are you gonna do
+[Moe]: about it?
+[Saki]: You took the shogayaki bento yesterday!
+[Saki]: It had the most meat! Give me that back and take this mung bean sprout bento,
+[Moe]: Make me! I don;t see you jumping at the chance to eat that junk.
+[Miyu]: H-Hi. I’m still here. C-Can I eat this Vienna sausage bento?
+[Saki & Moe]: Yes!!
+[Miyako]: Will you settle down? You’re acting like wild dogs fighting over the last bone. It’s undignified.
+[Miyako]: We’re not even certain where our next meal is going to come from right now. The best thing to do is fill our stomachs while we can and not fight amongst ourselves.
+[Saki]: Hm? Oh yeah? Do you want the mung bean sprout bento then?
+[Miyako]: I…
+[Miyako]: …I think I’ll eat this karaage bento here. No one wants it, right?
+[Saki]: That’s the most expensive one here, Miyako! You’re not doing anyone any favors!
+[Sensei]: “So, how’s it going??”
+[Miyako]: …
+[Moe]: Is your superpower bad timing or something?
+[Miyu]: I-I promise we’re not fighting over old expired bentos.
+[Saki]: What’re you doing here? We were about to have a nice, friendly lunch with our beloved squad members.
+[Sensei]: “You have a weird definition of friendly.” / “Most people would call that fighting.”
+[Saki]: Maybe you’re the weird one, Sensei!
+[Saki]: To you it may have looked like yelling, but to us it’s simply our very fair, democratic process of distributing our rations.
+[Saki]: No matter the results, we’re comrades-in-arms who are dedicated to our cause and each other! We’re all willing to make the necessary sacrifices!
+[Moe]: I’m sure you don’t mind sacrificing the yakiniku bento then~
+[Saki]: If you don’t take your stinking hands off that bento…
+[Saki]: …
+[Miyako]: Well. This is embarrassing.
+[Miyako]: But as Saki said… There’s nothing to concern yourself with.
+[Miyako]: Our initial food supply problem has been resolved. We’re fine.
+[Miyu]: I-Is it resolved? We’ve just been scrounging for thrown-out bentos…
+[Moe]: Heehee, are you surprised Sensei? Your little plan to humiliate us with leftovers as Bento Disposal Experts went flop like a dead fish!
+[Saki]: Yes. The disciplined students of the SRT Academy would never let something so trivial deter us from accomplishing our mission.
+[Saki]: You thought you would humiliate us into submission, but it backfired! Now we can survive here for as long as we want. So, go away!
+[Sensei]: “You say that, but you look a little peaked…”
+[Sensei]: “Do you have a fever? Are you sick?”
+[Sensei]: Sensei approaches
+[Sensei]: ?!
+[Saki]: N-No! Don’t come closer!
+[Saki]: Saki backs away
+[Saki]: Take one more step and I’ll show you the strenuous combat training we receive at SRT!
+[Sensei]: “Why are you panicking?”
+[Miyako]: …Well Here comes embarrassment number two.
+[Miyako]: Sensei approaches Miyako
+[Miyako]: Gun fires
+[Miyako]: Stop inching closer. Or I won’t miss next time.
+[Sensei]: “Why is everyone so on edge?”
+[Saki]: It’s because…of the smell…
+[Sensei]: “I knew I shouldn’t have eaten fish.” / “I shower every day! I promise!”
+[Saki]: N-No! It’s not that, Sensei!
+[Sensei]: “Have I smelled bad this whole time? And no one told me?” / “Out of everything, this might’ve hurt my feelings the most.”
+[Saki]: Dammit, Sensei! No! WE’RE the ones who smell!
+[Moe]: Saki, have you heard of… Hmm, how do you say it? Oh yeah. SHUTTING UP?!
+[Saki]: Don’t tell me you don’t feel gross too! I can’t even remember the last time I showered!
+[Sensei]: “Why don’t you go to a public bath?”
+[Saki]: Does money grow out of our ears? If we can’t even buy food, how are we meant to afford public baths?
+[Miyu]: I don’t wanna wash in public restrooms anymore… You can’t even take a real shower in them.
+[Miyako]: Having to rough it out is par for the course during operations. But it’s not very sustainable in the long run…
+[Sensei]: “If you need a place to get cleaned up, you can use the showers at Schale.”
+[Sensei]: …
+[Saki]: I’ve never heard anything more suspicious in my life.
+[Miyako]: And we’ve heard some pretty suspicious things in our time.
+[Miyu]: Wh-Wh-What are you gonna do while we shower? Are you gonna steal all our weapons?
+[Moe]: I’ve seen this on TV! Sensei wants to sniff our icky, stinky clothes while we shower. Isn’t that right, Mister Weirdo?!
+[Sensei]: “What do you guys think I am?!”
+[Miyako]: An adult who can’t be trusted.
+[Saki]: Evil incarnate.
+[Moe]: Someone I’d like to blow up?
+[Miyu]: Maybe, it won’t matter…
+[Sensei]: “...This is cruel.”
+[Miyako]: The point is, please refrain from visiting the park until we can shower. You can refrain from visiting again at all, actually.
+[Saki]: “Until we can shower.” And just when would that be?
+[Saki]: We have no hot water, and a cold shower is this weather is a recipe for illness.
+[Moe]: Oh! Oh! How about I throw an incendiary bomb into the bathroom and it’ll warm up the water! Heehee, Moe you’re just too smart sometimes.
+[Miyu]: I-I think that’ll just make everything dirtier. Including us.
+[Sensei]: “What about an empty drum barrel?”
+[Sensei]: …
+[Miyako]: A drum barrel?
+[Saki]: …We could fill one with water and light a fire underneath it.
+[Miyako]: I have seen it done before at Hyakkiyako Academy. It seemed to work.
+[Moe]: Do I look like a freaking ninja to you? Do you want to die?
+[Saki]: Another dumb idea from the dumb teacher. They only do that in the old movies.
+[Moe]: Seriously! Are you an old fart, Sensei?
+[Miyako]: I hate to say this but…
+[Miyako]: What are our other options? Install a tub in the park?
+[Miyu]: That’s expensive. We’re a buncha broke students.
+[Miyu]: …
+[Miyako]: Moe. Access Kivotos’s digital resource management system and locate any work sites utilizing drum barrels nearby.
+[Miyako]: Everyone else. Gear up and be ready for dispatch.
+[Saki]: Dispatch? Have you lost your mind, Miyako?
+[Miyako]: Successful operations aren’t just flashy shooting skills. Without meeting our basic needs, the squad will never be able to perform at their best.
+[Miyako]: So, starting now…
+[Miyako]: Commence Operation Carrot: Secure a drum barrel tub!
+[Miyako]: <<To be Continued>>
+[Miyako]: 08 - Operation Carrot 2
+[Miyako]: The RABBIT Squad members start to collect drum barrels at a loading dock near DU. But Saki still doesn’t trust Miyako and continues to complain about her leadership. Saki takes over, but Miyu gets lost when she fails to cope with the unexpected situation.
+[Miyako]: [The D.U. Harbor Loading Dock.]
+[Miyako]: This is RABBIT 1. Time is 2100 hours.
+[Miyako]: I’ve arrived at Point Delta.
+[Miyako]: Area clear, confirmed. Moving to retrieve
+[Miyako]: the carrot at Point Echo.
+[Moe]: Helloooo! Camp Rabbit, back in her element! Squad member GPS signals are locked and loaded, baby!
+[Moe]: The loading dock’s security is changing shifts, just like we planned.
+[Moe]: So dance your pretty little self down straight to Point Echo.
+[Sensei]: “I’m still not thrilled about this…”
+[Miyako]: I didn’t ask, Sensei.
+[Miyako]: If your intention in coming was to lecture us, you’re not needed here.
+[Miyako]: A special ops site is no place for you to be anyways, Sensei.
+[Sensei]: “I’m just worried something might happen.”
+[Miyako]: Are you worried we might steal something? Do you think so little of is?
+[Miyako]: Students of the SRT Academy are dedicated to our mission: to protect the safety of the citizens. We would not steal civilian property.
+[Miyako]: Based on our intel, the empty drum barrels here are already scheduled for disposal. We won’t cost them any money.
+[Miyako]: In fact, we negate their disposal costs and labor.
+[Sensei]: “Why not just ask for them?”
+[Miyako]: S-Sensei…
+[Saki]: Sensei does think that little of us! Do you think we’re beggars on the side of the street? We won’t get down on our knees and ask for someone else’s trash.
+[Saki]: Get it through your head! We are elite members of the SRT Academy and we will not accept your charity, Valkyrie’s charity, or some stupid industrial company’s charity!
+[Sensei]: “But before…”
+[Saki]: W-Well, with the bentos…
+[Saki]: I don’t have to defend myself!
+[Saki]: We secured discarded bentos through our own effort! That was not charity!
+[Saki]: You’ll never break our pride!
+[Miyako]: RABBIT 2. You need to lower your voice. We’re on enemy turf.
+[Miyako]: Let’s move out. RABBIT 2, lead reconnaissance ahead but if you see the enemy do NOT engage.
+[Saki]: Oh, who died and made you boss again, Miyako?
+[Miyako]: RABBIT 2, please refer to my codename during missions. This is basic protocol.
+[Saki]: Oh NOW you’re a stickler for protocol?
+[Saki]: Stop trying to distract from my question. What gives you the right to order me around?
+[Miyako]: Th-That’s… I am the squad leader of RABBIT…
+[Saki]: Oh? And who made you the squad leader, huh?
+[Saki]: Wasn’t it those little snotheads from the General Student Council? The ones who shut down the SRT Academy?
+[Miyako]: …
+[Saki]: So, tell me. Considering we’re rebelling against the General Student Council, what makes you think you still get to boss us around?
+[Saki]: …
+[Miyako]: …I don’t think this is a matter the two of us can decide.
+[Moe]: Both options suck. Bleh.
+[Miyu]: I-I don’t wanna pick sides…
+[Miyako]: …Understood.
+[Miyako]: For this mission, Saki will take the lead of RABBIT Squad.
+[Miyako]: RABBIT 2, your orders.
+[Saki]: That’s what I thought. We’re just dealing with a bunch of security guards, not trained enemies.
+[Saki]: I received top marks on all my simulated extraction trainings. Just watch me.
+[Miyu]: Uh, Saki…
+[Miyu]: I mean, RABBIT 2. Where should I stand by?
+[Saki]: Oh? As our sniper?
+[Saki]: W-Well… Um… I wrote down the notes on effective sniper placement… Not that one, in an urban environment…
+[Saki]: Security Guard appears
+[Security Guard A]: Geez. Boss made me drink too much at dinner again… I need to go to the bathroom.
+[Miyako]: Enemy approaching!
+[Saki]: There’s not supposed to be a patrol route this way!
+[Moe]: He’s looking for a bathroom! This wasn’t in the plans.
+[Miyu]: S-Saki! He’s coming towards me! Wh-Wh-What do I do?
+[Miyu]: I suck at hand-to-hand stuff. Can I run away…
+[Saki]: S-So… Um…
+[Saki]: Up! Take the high ground! Get as high as you can!
+[Saki]: According to the textbooks, the basics of sniping involves securing a higher line of sight.
+[Miyako]: Wait, Saki, no! High points might be good for sniping, but she won’t be able to esca–
+[Saki]: Shut up, Miyako! I got this under control.
+[Security Guard A]: Did I just hear something?
+[Security Guard A]: ?
+[Security Guard A]: …
+[Security Guard A]: INTRUDERS!
+[Security Guard A]: You thieves! Are you after the latest shipment?
+[Saki]: Who’re you calling a thief?!
+[Saki]: Everyone, engage! Make your way to Point Epsilon and be sure to cover each other’s backs. We’re outnumbered.
+[Saki]: <<Combat Sequence>>
+[Saki]: Sensei and the squad members plan to rescue Miyu, who has gotten lost. Following Sensei’s plan, Miyako and Saki infiltrate the target area while wearing drum barrels and they safely rescue Miyu. The squad returns home and takes a well-deserved drum barrel bath.
+[Security Guard A]: Tsk, where did those thieves go?
+[Security Guard A]: They’re here somewhere! Search every nook and cranny.
+[Saki]: Stop calling us thieves!
+[Miyako]: Saki, please be quiet! Hostiles are still nearby.
+[Miyako]: RABBIT 1, reporting in to Camp RABBIT. We’ve arrived at Point Echo and the carrot has been secured. No injuries to report.
+[Miyako]: But our original evacuation route is blocked now.
+[Miyako]: And more enemy reinforcements are on the way.
+[Moe]: Oh, wow. Saki messed up again? I’m sooo surprised. Not.
+[Moe]: Little Miss Top-of-Her-Class, but absolutely trash at actual field work.
+[Saki]: Shut up, Moe! I’m still better than you!
+[Saki]: I-I don’t understand, I thought it was the perfect plan…
+[Sensei]: “There’s no such thing as a perfect plan in real life.”
+[Saki]: I thought I could show off SRT’s strength to Sensei… Instead I just embarrassed myself and the academy.
+[Miyako]: Wait, where’s Miyu?
+[Moe]: She’s not with you? Her GPS indicator is right next to yours.
+[Saki]: That doesn’t make sense…
+[Saki]: Miyu, that dummy!
+[Saki]: She left her radio in the bag!
+[Miyako]: She must’ve panicked and left when the enemies started approaching her.
+[Miyako]: Let me think. Miyu has a tendency to follow orders to a T. You said go as high as she can…
+[Miyako]: I would assume tower crane at Building B.
+[Saki]: There’s no way. That area’s crawling with security guards.
+[Saki]: There’s no means of escape from there either. She’s got to be stuck up there.
+[Miyako]: What should we do, Saki?
+[Saki]: Is that even a question? Operation Carrot is now a rescue mission.
+[Saki]: We’ll have to leave the drum barrels. There’s no way we can fight and carry them at once.
+[Miyako]: Unfortunately, yes. Getting Miyu back safe and sound is our top priority as of now.
+[Miyako]: But we’re severely outnumbered. We need to prepare for some damage on our end.
+[Miyako]: ?
+[Miyako]: …Sensei?
+[Miyako]: You have a plan?
+[Sensei]: “Let’s put these drum barrels over our heads.”
+[Miyako]: I’m sorry? You want to hide under the barrels all the way to Miyu’s location?
+[Miyako]: We need realistic solutions, Sensei.
+[Saki]: …I have read something like this before.
+[Saki]: In one of our textbooks, they talk about some legendary agent who would hide under boxes and barrels to pull off impossible infiltration missions.
+[Miyako]: How do you intend to move around?
+[Saki]: Look, it’s not the best, but what else are we gonna do?
+[Saki]: I would rather use my precious textbook as a coaster than listen to Evil Incarnate over there…
+[Saki]: But…Miyu is in this situation because of me. I can’t let her down.
+[Miyako]: Understood. I’ll put my faith in you for this mission.
+[Miyako]: Find and equip yourselves with a drum barrel.
+[Miyako]: Let’s move out! Operation Carrot: Save Miyu!
+[Miyako]: Scene changes
+[Miyako]: Drum barrels scrummaging through
+[Security Guard A]: I might sound crazy but, has that drum barrel always been there?
+[Security Guard B]: There’s drum barrels all over, it’s a loading dock. What’s gotten into you?
+[Security Guard A]: That’s why I said I might sound crazy, but…
+[Security Guard A]: I swear that drum barrel was moving a second ago.
+[Security Guard B]: Did you drink too much at dinner again?
+[Security Guard B]: Well, sober up. The boss is going to have our heads if we let the thieves get away.
+[Security Guard B]: Security guards walk away
+[Security Guard B]: …
+[Miyako]: …I don’t understand it. How is this working?
+[Saki]: I gotta admit, I was pretty skeptical.
+[Saki]: But this is the easiest infiltration we’ve ever done.
+[Saki]: If I had known they would be this effective, I would’ve brought more for future missions.
+[Miyako]: Haha, it would’ve been a little difficult for just us to carry more barrels back.
+[Miyako]: When we get back to the SRT Academy one day, we can request some budget to be allocated to purchasing as many as you’d like.
+[Miyako]: RABBIT 2, We’re reaching the rendezvous point. Prepare for contact.
+[Miyako]: Scene changes
+[Miyu]: Wh-Where did everyone go?
+[Miyu]: Saki? Miyako? Anyone at all? S-Sensei?
+[Miyu]: If I talk too loud, the guards’ll come and get me… And… And I think I forgot my radio…
+[Miyu]: It’s really happening this time. They forgot I exist and went back home.
+[Miyu]: I’ll fade away like a bad dream… Th-They’ll laugh and make memories while I turn into dust on this crane…
+[Miyu]: Barrel approaches
+[Miyu]: Gyah! What’s that?
+[Miyu]: Barrel rummages
+[Miyu]: It… It moved?! It’s a moving drum barrel!
+[Saki]: Miyu! Miyu!
+[Miyu]: It knows my name? Wait… It’s talking?!
+[Miyu]: Wh-What the heck is that? A new UMA? Or the creepy-crawling doom of impending chaos?
+[Saki]: Hurry up and get in here!
+[Miyu]: It’s a monster! It wants to eat my alive!
+[Miyu]: P-Please spare me, barrel monster! I’m tiny so I’m not yummy, I promise!
+[Saki]: What are you saying? C’mon, get in already!
+[Miyu]: I’ve been abandoned and forgotten in this cold lonely world… A-And now… I’m gonna be gobbled up by the evil barrel monster?
+[Miyu]: I WANNA GO HOME!
+[Saki]: Are you serious right now?
+[Saki]: Miyu, pay attention! It’s me, Saki.
+[Miyu]: Saki?
+[Saki]: I disguised myself as a drum barrel so we could come rescue you. Look, no scary barrel monsters.
+[Miyu]: Waaah… Saki… I thought you forgot about me for good! *sniffles*
+[Saki]: Y-You really think we would do that?
+[Saki]: C’mon now. No more crying. You’re an elite agent of SRT!
+[Miyu]: Okay… *sniffle*
+[Saki]: C’mon, into the drum barrel before the guards come around.
+[Saki]: Whistle blares
+[Security Guard A]: INTRUDERS!
+[Security Guard A]: Alarms blaring
+[Saki]: Oops. A little late for that.
+[Moe]: Hate to break up your reunion, but you’ve got reinforcements coming from left, right, and center!
+[Miyako]: RABBIT 2, it’s your call! Do we engage?
+[Saki]: The textbook response in a situation like this is…
+[Saki]: RUN!
+[Saki]: Sudden black with gunfire and explosions
+[Saki]: (They quickly fled to the park, protecting themselves from the rain of bullets with the drum barrels…)
+[Saki]: [Kousagi Park, Squad Campside]
+[Saki]: *huff* *puff* Those persistent security
+[Saki]: guards… Did we actually lose them?
+[Moe]: Woah, woah, whoa. Who let this thing in? Is it a cryptid? Or the crawling chaos of Kivotos?
+[Moe]: I just can’t figure it out… Maybe I should make it go ka-boom…
+[Saki]: Stop joking around. It’s us!
+[Saki]: And how did you and Miyu have the exact same reaction? What’s this crawling chaos nonsense?
+[Miyako]: I’m relieved everyone made it back.
+[Miyako]: And not only that, but all in one piece.
+[Miyako]: You weren’t hurt, were you, [NAME] Sensei?
+[Sensei]: “All in one piece as well.” / “Not a scratch, thanks to my trusty barrel!”
+[Miyako]: I’m glad. If Sensei had been injured accompanying us on a mission…
+[Miyako]: The General Student Council would’ve had our hides.
+[Moe]: Heehee, Sakiiii~ Do you need some medicine for your poor little ego? Miss Perfect didn’t last five minutes as squad leader before everything went ka-boom.
+[Moe]: Admit it. You’re just as good as me at field work.
+[Saki]: I-If it weren’t for that small mishap, I could’ve sleepwalked through that mission!
+[Saki]: Why do things never work out the way they do on paper?
+[Miyu]: B-Because reality is different from our textbooks…
+[Miyako]: Regardless, the operation was a success. We retrieved the carrot and no one was hurt.
+[Miyako]: And that really is thanks to you, Saki.
+[Saki]: …Thanks.
+[Saki]: More importantly, I’m sweaty and smell like gunpowder.
+[Saki]: I’m dying to scrub off all this grime, but bathing while camping isn’t as easy as turning a knob.
+[Moe]: Heeheehee. I had a feeling you’d say that.
+[Moe]: Ta-da! I got firewood and towels already so everyone can take a nice, toasty bath.
+[Saki]: You procured all of these before we even finished the operation?
+[Saki]: That’s technically against procedures and would normally require discipline. But…the whole point of this operation was to take a bath, right?
+[Saki]: RABBIT Squad, bath time!
+[Everyone]: Yay! Here, hear!
+[Saki]: Ahhh… Now that’s the stuff.
+[Saki]: I’ve missed this! Hot baths after a mission are the best!
+[Miyako]: This drum barrel serves as a surprisingly comfortable bathtub too.
+[Miyako]: And the temperature is just right…
+[Miyu]: I-It’s perfect now, b-but what if it gets hotter and hotter and all of a sudden we’re boiling?
+[Miyu]: Haven’t you heard about frogs slowly b-boiling alive?
+[Moe]: Don’t worry your crybaby little head that much. Look, that thermal imaging equipment is keeping track of the temperature.
+[Moe]: I’d even say it’s getting a little cool in here…
+[Moe]: How about I sprinkle some thermite powder on the firewood? Heehee.
+[Saki]: For once in your life, will you stop thinking about incendiaries? Is your brain just wired wrong?!
+[Saki]: And it’s perfect right now anyways. I’d rather us not turn into rabbit stew.
+[Miyako]: I must say, it’s sort of charming. All of us bathing in a park together like this.
+[Miyako]: Let’s come camping again one day. After we’ve achieved our mission and reopened the SRT Academy.
+[Sensei]: “By the way, are you okay with bathing out in the open like this?”
+[Saki]: Of course. There’s no one watching.
+[Saki]: Long missions often require us to bathe and change together like this, so it’s nothing new for us.
+[Saki]: And this park rarely has visitors. Any that do come this far will be met with our landmines and automatic turrets.
+[Saki]: …But you know. Now that I think about it. Technically, there is someone watching us.
+[Sensei]: “I didn’t really know where to go…” / “I guess I’m…standing guard?”
+[Everyone]: …
+[Saki]: Standing guard?! You’re spying on bating students right now!
+[Saki]: Leave! Leave right now and never come back!
+[Miyu]: I-I knew the creepy teacher was gonna do b-bad things to us while we’re vulnerable!
+[Miyako]: Moe. I hereby authorize you to use every single incendiary you own.
+[Miyako]: Sudden black
+[Moe]: BLOW UP, PERVERT!
+[Moe]: Explosion
+[Suspicious Voice A]: Hey, Boss. We’ve got some newcomers at the
+[Suspicious Voice A]: park nearby.
+[???]: People are transient in nature. Much like the wind, they come
+[???]: and they will leave.
+[???]: You must not allow your inner peace to be disquieted over
+[???]: such an insignificant event.
+[???]: If they do not leave, however, they must learn to coexist with us. They must embrace our ideals of non-possession and find release from the worldly desires of society.
+[???]: Tell me. Do you believe they will be able to be enlightened, to commit to our noble cause?
+[Suspicious Voice A]: There’s no way! They’re the greediest people we’ve ever seen.
+[Suspicious Voice A]: They’ve been ravaging the stores for discarded bentos we used to be able to find everywhere. Now, we can’t even find a mung bean sprout bento to spare.
+[Suspicious Voice B]: And, their sticky fingers seem to think everything belongs to them! They’ve been collecting blocks of wood to tarpaulins and more! We probably won’t be able to repair the sanctuary anymore.
+[???]: Oh dear. It appears our new-found visitors are a group of gluttonous goblins.
+[???]: Silhouette appears
+[???]: Very well, Comrades. Take up your arms.
+[???]: Let us teach these immoral, greedy gluttons…
+[???]: A lesson on the joys of non-possession!
+[???]: <<To be Continued>>
+[???]: 09 - A Suspicious Shadow
+[???]: While shopping at a market near the park, Sensei hears from Kirino that there are suspicious, heavily-armed homeless people nearby. Just when Sensei is thinking they must be exaggerated rumors about the RABBIT Squad, the unidentified homeless group kidnaps Sensei.
+[???]: [Market near Kousagi Park]
+[???]: (I was out at a nearby market to shop for some supplies for
+[???]: Schale.)
+[???]: Is that you, Sensei?
+[???]: Kirino appears
+[Kirino]: What an unexpected meeting!
+[Kirino]: Hi, Sensei!
+[Sensei]: “Long time no see, Kirino.” / “What are you doing out here?”
+[Kirino]: Yep! I’m patrolling the streets to protect the peace!
+[Kirino]: And, as an added bonus, checking out all of the street vendors here!
+[Kirino]: There’s so many different snacks in this area! I recommend the butcher shop near the front over there. Theri fried croquette is one of the best things I’ve–
+[Kirino]: ?!
+[Kirino]: O-Of course that’s not why I’m patrolling this area! That would be shirking my duties. It just so happens that many troublemakers tend to hang out here after school!
+[Sensei]: “I never doubt your work ethic, Kirino.”
+[Kirino]: Ahaha… Th-Thank you, Sensei.
+[Kirino]: But, Sensei. I heard you’re taking over supervising the SRT students now.
+[Kirino]: Has there been any trouble in that department?
+[Kirino]: They could be threatening you for food as we speak!
+[Kirino]: Or have they forced you out of your living facilities and taken over in a rampage?!
+[Sensei]: “There’s nothing to worry about.” / “They’re all good kids.”
+[Kirino]: Oh. I’m surprised to hear that.
+[Kirino]: Considering they’re dangerous enough to point their guns at police officers, I was very concerned they would resist you at every opportunity, Sensei.
+[Kirino]: But of course, that’s simply the limitless charisma of our Sensei. Not even those horrible students could do anything about it!
+[Kirino]: I can only hope to become an exemplary adult like yourself one day, Sensei.
+[Sensei]: “I’m really not as impressive as you think, Kirino…”
+[Kirino]: You’re so funny, Sensei! But if you run into any problems, don’t hesitate to ask the Valkyrie Police School!
+[Kirino]: Valkyrie’s students are standing by 24 hours a day, 365 days a year to ensure the safety of our citizens!
+[Kirino]: We’ve also increased our patrols recently, considering all the atrocious rumors as of late.
+[Sensei]: “Atrocious rumors?”
+[Kirino]: Unfortunately. There’s been an influx of armed homeless people terrorizing this area.
+[Kirino]: Based on their…appearance and incessant fighting over discarded boxed lunches, we’ve deduced these individuals must be homeless people without a permanent residence.
+[Kirino]: Apparently they’re armed with heavy firearms, as well. That’s why we’ve increased our patrols.
+[Kirino]: They even snuck into a guarded harbor and stole a load of waste material! They’re incorrigible bad guys!
+[Kirino]: It is strange though. They’re reported to be armed to the teeth, but only seem to be after trash. It’s an enigma, but the Valkyrie Police School is on the case!
+[Sensei]: “There’s no way…”
+[Kirino]: What’s wrong, Sensei? Did you think of something?
+[Sensei]: “Uh. I-It’s nothing.”
+[Kirino]: I see. Well, please do be sure to report any suspicious activity you see!
+[Kirino]: There seems to be no end to issues lately. We already have our hands full policing delinquent students with their personal firearms, and now there’s a rogue, unknown group that’s heavily-armed?
+[Kirino]: At this rate, I’m going to be wielding a peashooter against a flamethrower! Or worse!
+[Kirino]: Maybe this is my chance to make a supply request for the Public Safety Bureau students to have the latest firearms?
+[Sensei]: “I think you already know the answer to that one.”
+[Kirino]: Haha, I guess I do. Our duties aren’t even technically to fight crime head-on.
+[Kirino]: And seeing how there’s barely enough budget for bullets these days, I can’t be selfish.
+[Kirino]: I’ll continue protecting the citizens and students of Kivotos, even if I have nothing left but my bare hands!
+[Kirino]: And I’m still looking forward to the possibility of being transferred to the Security Bureau as a reward for our recent achievements.
+[Kirino]: Then I would receive better firearms and, therefore, a better way to protect the peace!
+[Sensei]: “You can do it, Kirino!”
+[Kirino]: Heehee! Sensei’s encouragement always motivates me.
+[Kirino]: Now, if you’ll excuse me. That street vendor is calling my name…
+[Kirino]: Oops! I mean, back to patrol!
+[Kirino]: Kirino whisks away
+[Sensei]: Head back to Schale.
+[???]: …
+[???]: A silhouette appears
+[???]: …Hey, you.
+[???]: Are you [NAME] Sensei?
+[Sensei]: “Yes, that’s me.”
+[???]: I’ve got a bone to pick with you.
+[???]: Will you come with me?
+[???]: A sound of a bottle spraying
+[Sensei]: “This is…an anesthetic?!”
+[Sensei]: Fade to black
+[Sensei]: (I inhaled the smoke the suspicious individual sprayed in my face, and my vision started to blur.)
+[Sensei]: (Then, I promptly lost consciousness.)
+[Sensei]: <<To be Continued>>
+[Sensei]: 10 - Non-Possession and Yakiniku Bentos
+[Sensei]: A robot hippie group called the Pursuers kidnaps Sensei. They’re angry Sensei ordered the RABBIT Squad to monopolize the discarded bento around the area. The leader of the Pursuers, Descartes, tries to negotiate with the RABBIT Squad for Sensei’s release but they don’t care.
+[Sensei]: Sensei wakes up
+[???]: You’re finally awake.
+[???]: A robot hippie appears
+[???]: I do apologize for the poor hospitality of my comrades.
+[???]: We don’t often deal with guests, you must understand.
+[Sensei]: “You are?”
+[Descartes]: Ah, where are my manners. I am Descartes.
+[Descartes]: I am the leader of this organization, the Pursuers of Non-Possessive Happiness, or the Pursuers for short.
+[Sensei]: “Non-possessive happiness?” / “The Pursuers?”
+[Descartes]: You mean to say you’ve never heard of our organization?
+[Descartes]: We are well-known amongst those pursuing a lifestyle of minimalism and peace. To not have heard of us, you must lead an egregious life of excess.
+[Descartes]: Of course, I already knew that.
+[Descartes]: I already knew that you’re a selfish human who orders your minions to rob poor folk of their food!
+[Sensei]: “I don’t think I follow…”
+[Descartes]: Don’t play dumb! I have seen you and these rabbit-eared students plotting and scheming together!
+[Sensei]: “Do you mean the SRT students?” / “Are you talking about the RABBIT Squad?”
+[Descartes]: It makes no difference what they’re called.
+[Descartes]: We call them greedy pigs. You are sabotaging our path to enlightenment.
+[Sensei]: “What did we sabotage now?”
+[Descartes]: …Society calls us by many names.
+[Descartes]: Leeches, NEETs, Homeless, Good-for-Nothing Layabouts…
+[Descartes]: But such names are facetious. To call us layabouts…!
+[Descartes]: We are the noble ones pursuing non-possessiveness!
+[Sensei]: “Non-possessiveness?”
+[Descartes]: The people of Kivotos today wish to possess everything they lay their eyes upon.
+[Descartes]: The newest tanks, expensive rifles, cozy bunkers that block missiles…
+[Descartes]: And so they buy more and more, wishing to fill the gaping hole within them with possessions. The more they purchase, the bigger it grows, until it consumes their very being!
+[Descartes]: True happiness comes not from having, but from NOT having…
+[Descartes]: One must be willing to release their attachment to worldly possessions, to let go of the shackles of society and only indulge in what we must to survive! To be free!
+[Descartes]: We are not leeches upon society. We chose this life: to not work, to not own, to not possess.We freed ourselves of material greed and instead feed our souls with our impoverished lifestyle.
+[Descartes]: But then, in the midst of our noble pursuit, a group of intruders arrived.
+[Descartes]: These intruders donned rabbit ears and the most expensive equipment on the market. Their insatiable appetite knew no bounds, plundering every bento they could lay their greedy fingers upon.
+[Descartes]: They’re like a virus, devouring all in sight. They refuse to leave behind even a mung bean sprout bento…
+[Descartes]: Yakiniku bentos are so popular that they’re rarely discarded as it is… To monopolize such a luxury solely for themselves…
+[Descartes]: The senselessness is a slap in the face to all we stand for!
+[Sensei]: “Don’t you stand for letting go of material attachments?”
+[Descartes]: I-I… Well… You see…
+[Descartes]: Don’t change the subject! Either way, we cannot just stand idly by and allow this squad of rabbits or bunnies or what have you to carry on with their greedy acts.
+[Descartes]: Now, the reason I brought you here is to make a demand.
+[Descartes]: As the leader of these miscreants, you will tell them that from now on, all yakiniku bentos belong to the pursuers!
+[Sensei]: “Those kids aren’t my subordinates.” / “They’re really just my students.”
+[Descartes]: Student or subordinate, what does it matter? As their teacher, simply make them listen to you.
+[Descartes]: Don’t look at me like that. Are you truly so incompetent you cannon control your students?
+[Descartes]: I didn’t want it to come to this.
+[Descartes]: Don’t move an inch. I’ll call them on your cell phone and make my demands.
+[Sensei]: “I’m trying to tell you, they’re not going to care…”
+[Descartes]: Now, where is the RABBIT Squad in your contacts list?
+[Descartes]: Here it is.
+[Descartes]: Phone rings and picks up
+[Miyako]: Yes, Sensei? We’re busy making dinner.
+[Descartes]: Am I speaking to the leader of the RABBIT Squad?
+[Descartes]: We are the Pursuers of Non-possessive Happiness, or the Pursuers for short, a collective of monks in this city in search of true happiness. We are noble–
+[Descartes]: Miyako hangs up
+[Descartes]: They…hung up?
+[Sensei]: “Maybe they thought you were a phishing scam?”
+[Descartes]: Ugh… This is why enlightenment eludes these deplorable students…
+[Descartes]: Phone rings and picks up
+[Descartes]: Hello? Don’t hang up, this isn’t a prank call.
+[Descartes]: We have your precious Sensei hostage. If you don’t meet our demands, you’ll never see Sensei again.
+[Saki]: Oh, okay. Tell Sensei I said bye-bye.
+[Saki]: Saki hangs up
+[Descartes]: They just hung up?! Again?
+[Descartes]: Are you really their Sensei? How could these callous students not show the slightest bit of concern for you? What is wrong with all of you?
+[Sensei]: “It’s kind of a long story…”
+[Descartes]: Drat! I thought our plan was flawless! I was supposed to be rolling in expensive bentos by the end of this…
+[Descartes]: I didn’t plan for their absolute lack of enlightenment!
+[Sensei]: “How about I try calling them?”
+[Descartes]: You, personally?
+[Descartes]: I’ll allow it. However, trying to call the police would end very badly for everyone.
+[Descartes]: The Pursuers are all very heavily armed, and not afraid to fight for our noble cause!
+[Sensei]: Call the RABBIT Squad yourself.
+[Sensei]: Phone rings and picks up
+[Moe]: Ugh… Again, Sensei? I stayed up all night and I wanna go to sleep.
+[Moe]: If you call us one more time…
+[Sensei]: “There’s an abandoned top-quality wagyu bento here.”
+[Sensei]: …
+[Sensei]: Moe hangs up
+[Descartes]: Hah! Did you think your precious students would care if they heard your voice?
+[Descartes]: You got hung up on! Just like me!
+[Descartes]: Ugh. The only way to salvage this situation is to blackmail some other students with the Sensei.
+[Descartes]: click
+[Descartes]: ?
+[Descartes]: A bomb explodes
+[Saki]: SRT! Everyone, back up!
+[Miyako]: Saki, it’s against protocol to use the academy’s name when we’re not on official business…
+[Miyu]: I-I want the top-quality wagyu bento, please.
+[Miyu]: I’ve n-never had wagyu meat before, even at SRT.
+[Moe]: I promise, Sensei said there was some here.
+[Moe]: I traced their cell right to where you are, so bring us home some meat!
+[Sensei]: “Wow, I didn’t even know you could move that fast.”
+[Miyu]: Oh… Hi, Sensei.
+[Saki]: Sensei, where’s the top-quality wagyu bento?!
+[Miyako]: Rapid collection is the key to preserving the freshness of a bento.
+[Miyako]: Once a discarded bento passes its expiration date, every second counts.
+[Miyako]: So, as soon as Moe informed us of your call, we dropped everything and came as fast as we could.
+[Sensei]: “Uh, so the thing is…”
+[Descartes]: Bahahaha! You completely fell for our plan!
+[Descartes]: You came here driven by your human desire and were led astray by it!
+[Descartes]: Imbeciles like you who are driven by greed are consumed by it until it leads them into utter ruin!
+[Saki]: What’s this weirdo saying? Where’s the top-quality wagyu bento?
+[Descartes]: Of course there’s no wagyu bento here. They always sell out immediately when they’re in stock.
+[Descartes]: But what we do have here, is a lesson of the joys of non-possession.
+[Descartes]: Comrades, rise! Let us instill our noble cause in these greedy goblins!
+[Descartes]: Clap
+[Descartes]: Alarms blaring with marching
+[Saki]: Who the hell are these guys? They appear homeless, but all their weapons are state-of-the-art!
+[Miyu]: W-We’re surrounded…
+[Miyako]: Don’t panic.
+[Miyako]: Lure them to a tight space. We’ll funnel them through a choke point and pick them off one-by-one.
+[Saki]: You think we’re scared of your weapons? Small-fry are still small-fry.
+[Saki]: Throw whatever you can at us. You’re no match against SRT elites!
+[Miyu]: I-I can p-probably take down the snipers on the second floor.
+[Saki]: All right, I’ll help you with that and deal with the front. Miyako, you have our backs?
+[Saki]: …
+[Miyako]: Always. Stay safe.
+[Miyako]: Watch out for my signal before the flash bomb. That’s your cue to spread out in formation.
+[Miyako]: Well then…
+[Miyako]: RABBIT Squad, move!
+[Miyako]: <<Battle Sequence>>
+[Miyako]: Faced with the RABBIT Squad’s overwhelming firepower, the Pursuers are helpless and incapacitated. Descartes and the RABBIT Squad have a childish argument over supplies. But with Sensei’s intervention, the fight ends and the squad members return to the park.
+[Pursuer Member A]: Gyahh!
+[Pursuer Member B]: Th-They’re too strong… Run!
+[Descartes]: C-Comrades? Where are you running? The enemy is still there…
+[Pursuer Member A]: These wimps don’t even have the guts to get a job. Of course they hightailed it out of battle.
+[Pursuer Member B]: I’m going home.
+[Pursuer Member B]: I don’t wanna be a hobo anymore!
+[Descartes]: Wait, no! You have to fight for me!
+[Descartes]: Gunshots and explosions
+[Descartes]: Oh no… My precious base… All my expensive decorations I worked so hard to collect… It’s all burning…
+[Sensei]: “What happened to giving up on worldly desires?”
+[Descartes]: Shut up! Shut up! Everyone likes nice, expensive things!
+[Descartes]: You… If it weren’t for you…
+[Descartes]: Scene change
+[Miyu]: Site A clear.
+[Miyu]: And I took out a-all the snipers, too…
+[Saki]: Site B clear.
+[Saki]: Site B clear.
+[Saki]: Besides those who escaped, all of the enemies on the first floor have been neutralized.
+[Miyako]: Nice and clean, everyone.
+[Miyako]: There might not have been a payload, but no one got hurt.
+[Saki]: Miyako, come check this out. I think…this is a bunch of canned food.
+[Saki]: Smoked salmon, bacon…
+[Saki]: There’s even scallops preserved in oil!
+[Saki]: What a payload! Imagine eating our bentos with these delicacies!
+[Descartes]: Wait… Keep your greedy paws off that!
+[Descartes]: I’ve been saving that high-quality canned food from Gentsuma to have with a drink!
+[Miyu]: M-Miyako, I found a buncha other stuff too. Sleeping bags, tarpaulins…
+[Miyu]: We can put this under us when we sleep! The ground get so damp when it rains.
+[Miyako]: Great job, Miyu.
+[Miyako]: Moe, please arrange for some transportation,
+[Miyako]: There’s a lot more loot that we expected. We won’t be able to carry it all.
+[Descartes]: Loot? LOOT?! That’s my STUFF.
+[Descartes]: It’s all mine! My things. My precious possessions. My everything! You can’t have it!
+[Sensei]: “Ah. Yes. I, too, love the noble pursuit of non-possessiveness.”
+[Saki]: You call all this trash your precious possessions?
+[Saki]: I don;t see your little minions anywhere anyways. I don’t think you’ll need any of these anymore.
+[Miyako]: Correct. And you were also the ones who baited us with false information and attempted to kill us.
+[Miyako]: I don’t believe this even begins to compensate us for our losses as a direct result of your actions.
+[Descartes]: Ghh… Arrrgh…!
+[Descartes]: You leeches! NEEDs! You useless hobos! Why the hell don’t you go out and work to earn your own food?!
+[Descartes]: If you’re so strong, why’re you scrounging over expired bentos anyway?! Go get a real job! Be mercenaries or something! I don’t care!
+[Miyako]: We’re not mercenaries. We’re SRT agents.
+[Descartes]: Hmph! Well then you really shouldn’t have stolen our bentos in the first place.
+[Descartes]: Citizens in poverty battle for survival every day. You think you can just flash your big, fancy weapons and bully everyone into doing what you want? Huh?!
+[Descartes]: You… You hypocrites!
+[Saki]: Us? Hypocrites? Look in the mirror sometime, buddy.
+[Saki]: Noble pursuit, this. Non-possession, that. Meanwhile, your supposed enlightenment is just a phony scam to hide the fact that you’re a lazy good-for-nothing!
+[Saki]: A real monk wouldn’t care if they were eating wagyu or mung bean sprouts!
+[Descartes]: Shut up! I deserve to eat yakiniku bentos too!
+[Sensei]: “Break it up, you two.”
+[Sensei]: “You shouldn’t steal his things. I’ll buy you what you need.” / “RABBIT Squat, leave his things here. I have a credit cart.”
+[Everyone]: …
+[Everyone]: …
+[Miyako]: We don’t need your help, Sensei.
+[Miyako]: Neither do we need to listen to anything you say… But…
+[Saki]: Weird, I don’t have much of an appetite. Must’ve worked too hard.
+[Saki]: I think I’ll just eat a mung bean sprout bento at home.
+[Miyu]: M-Me too…
+[Miyako]: …Yes. I believe we may get stomachaches if we force ourselves to eat.
+[Miyako]: Camp RABBIT, this is RABBIT 1. Please cancel transport. Operation complete.
+[Miyako]: We’re returning to base now.
+[Moe]: What about the top-quality wagyu bento?! Sensei said it was there!
+[Miyako]: Regretfully, it looks like they’re plum out of the top-quality wagyu bento.
+[Miyako]: Luckily, we have the mung bean sprout bentos from today. They’re even a few days before their expiration.
+[Moe]: Does no one appreciate me?! I already arranged transport!
+[Saki]: Sorry, Moe. think of it as non-possessiveness.
+[Descartes]: Didn’t you see?! The glowing look of greed in their murderous little eyes…
+[Descartes]: It’s just as I said. Attachment to material possessions blinds people with greed, which inevitably leads to violence!
+[Sensei]: “As Saki said… You should look in a mirror.”
+[Descartes]: Me?! Blinded by greed?
+[Descartes]: Nuh-uh! Not in a million years!
+[Descartes]: I am an enlightened one! I understand what true value is in this lost society!
+[Descartes]: I may have lost comrades today, but I can rebuild!
+[Descartes]: Actually…I just had a thought. Sensei, why don’t you join the Pursuers yourself?
+[Descartes]: All you must do to join is prove your commitment to non-possessiveness and give up a very, very small portion of your things.
+[Sensei]: “I’d rather eat a mung bean sprout bento.”
+[Sensei]: <<To be Continued>>
+[Sensei]: 11 - Heavy Rain Advisory
+[Sensei]: A sudden heavy rain floods the park where the RABBIT Squad is staying. Despite much effort, when the command tent collapses, the squad loses hope and gives up, except Miyako. Sensei finally arrives and takes the initiative to help Miyako, who’s struggling alone in the heavy rain. Seeing this, the squad members overcome their pride and decide to follow Sensei’s example.
+[Sensei]: [Schale Office]
+[Sensei]: (A few days later marked the start of Kivotos’s rainy season.)
+[Arona]: Geez, it’s turning into a rainstorm out there! I hope Kivotos
+[Arona]: doesn't turn into a lake.
+[Arona]: We might be dealing with the aftermath of this for a while.
+[Arona]: But I’m sure each school is taking appropriate measures to keep their students safe.
+[Arona]: …I am a little worried about the SRT Academy students at Kousagi Park.
+[Arona]: There’s not much shelter at the park, not even a building for them to hide in.
+[Arona]: I hope they don’t catch a cold.
+[Sensei]: Rush out and check on the RABBIT Squad.
+[Sensei]: Fade to black
+[Sensei]: Thundering
+[Sensei]: [Kousagi Park]
+[Saki]: The tarp has holes all over it!
+[Saki]: Miyu! We need more tarps!
+[Miyu]: Th-That was the last of it. We’re all out.
+[Saki]: Dammit. We weren’t prepared for this
+[Saki]: at all.
+[Saki]: Moe! Are you still protecting your metal junk?
+[Saki]: Are you crazy? Put them down and come help us!
+[Moe]: Over my dead body! If any of my communications equipment gets damaged, I’ll really show you crazy!
+[Moe]: These cost more than your life is worth!
+[Saki]: What about our guns?! Our ammunition? I think your stupid equipment is the least of our concerns.
+[Saki]: If this rain doesn’t let up, we’ll lose everything.
+[Miyako]: Are you done with the waterproofing? The spillway outside the park needs to be expanded. And soon.
+[Miyako]: The storm sewers are clogged with mud and are about to overflow.
+[Miyako]: We need to free them up before we all drown!
+[Saki]: I’d love to help, but we’re shorthanded over here!
+[Saki]: If we let go, everything’s gonna blow away.
+[Saki]: Thundering
+[Moe]: That was not the kind of explosion I like.
+[Miyu]: I-It was a bolt of lighting…that hit the park…
+[Saki]: The buttress holding up the command tent…
+[Saki]: It’s collapsing! Eeeek!
+[Saki]: Thundering
+[Everyone]: …
+[Miyu]: The c-command tent caved in…
+[Saki]: All of our ammunition is underwater.
+[Moe]: The communications equipment is ruined.
+[Saki]: This is it. The end of the line.
+[Miyako]: It’s okay. Don’t give up.
+[Miyako]: We just need to expand the spillway, and I’m sure we can recover and repair some of the equipment.
+[Saki]: Forget about the stupid equipment!
+[Saki]: It’s over, Miyako! Us… The SRT Academy… Everything’s over!
+[Miyu]: S-Saki…
+[Moe]: If I had known this was gonna be the end result, I never would have tried.
+[Miyako]: Wh-What are you saying?
+[Miyako]: We all took an oath from the beginning.
+[Miyako]: We swore to each other we wouldn’t give up. That as long as we kept putting one foot in front of the other, we could carry the SRT Academy’s mantle ourselves. D-Didn’t we?
+[Moe]: Pretty words and pretty oaths, Miyako. That’s all that ever was.
+[Moe]: We can’t keep our little game of pretend forever.
+[Saki]: How did we end up here? When did our duties become to scavenge for food and steal empty drum barrels so we can shower?!
+[Saki]: We were better than this! We used to debate the intricacies of justice and bring down felons! Now… Now we’re fighting over expired bentos with hobos.
+[Saki]: Tell me, Miyako! Is that what you meant? Is this how you keep the name of SRT alive?!
+[Saki]: …This isn’t the SRT I knew.
+[Moe]: All our worldly possessions are sitting a food underwater.
+[Moe]: Living out in the streets was fun at first. But it’s getting tiring.
+[Miyu]: M-Miyako… I wanna g-go home.
+[Miyako]: …
+[Saki]: Where are you going, Miyako?
+[Saki]: After all this? You look this disaster full in the face, and want to continue?!
+[Miyako]: …Yes.
+[Miyako]: I will keep the SRT Academy’s justice alive. I’ll never give up.
+[Miyako]: Fade to black
+[Miyako]: Digging
+[Miyako]: (The current is so strong… I don’t know how long I’ve been working… I can’t feel my hands and feet…)
+[Miyako]: (Maybe they were right. Maybe I am a fool. )
+[Miyako]: (But… The justice I believed in… The school that I loved…)
+[Miyako]: No! You won’t break me!
+[Miyako]: …
+[Miyako]: Sensei?
+[Miyako]: You’re here to persuade us again?
+[Miyako]: We don’t have time for your silly jokes.
+[Miyako]: Not today.
+[Miyako]: I don’t care what you have to say. I have to clear the spillway, or we really will be flooded.
+[Sensei]: Grab a shovel and head to the spillway.
+[Miyako]: Sensei?
+[Miyako]: I…I don’t understand.
+[Sensei]: “So, you just need the dirt cleared from here?”
+[Sensei]: …
+[Miyako]: Yes, that’s right.
+[Miyako]: Digging
+[Miyako]: Saki enters
+[Saki]: You’re holding the shovel all wrong. Give it.
+[Moe]: …Dummies until the end.
+[Miyu]: I wanna help.
+[Miyu]: Fade to black
+[Miyu]: (The RABBIT member and I worked tirelessly on repairing the spillway for hours.)
+[Miyako]: …The rain finally stopped.
+[Sensei]: “You all really pulled through. Great job.”
+[Sensei]: !
+[Miyako]: …Sensei.
+[Miyako]: Why do you continue to help us?
+[Miyako]: We’ve told you again and again that we won’t be persuaded.
+[Miyako]: I’ve been trying to solve it this entire time, but I don’t understand. What do you hope to get out of this?
+[Sensei]: “I’m not expecting anything.”
+[Sensei]: “I’m just your teacher.”
+[Sensei]: …
+[Miyako]: …Is that so.
+[Miyako]: Most of our equipment is waterlogged and damaged beyond repair.
+[Miyako]: But we did manage to stop the park from flooding completely. Thank you, Sensei.
+[Saki]: I-I suppose…we wouldn’t have made it without Miyako though…
+[Saki]: But Sensei, wasn’t your ultimate goal to get us out of this park?
+[Saki]: What kind of stupid Sensei would work so hard to help us stay here?
+[Moe]: We knew Sensei was a dummy the first moment we laid eyes on them. Heehee.
+[Miyu]: You sh-shouldn’t talk to your Sensei like that, Moe…
+[Miyako]: We’ve rejected your help so many times, and you still came running today when you thought we might need you.
+[Miyako]: Thank you, Sensei.
+[Miyako]: Fade to black
+[Miyako]: (Later, I took my soaking-wet self back to Schale.)
+[Miyako]: (Perhaps it was the manual labor in the rain, but I ended up having chills and aches for a few days after.)
+[Miyako]: <<To be Continued>>
+[Miyako]: 12 - Rain-Soaked Bills
+[Miyako]: [NAME] Sensei goes to the General Student council with a proposal to repair the flooded park. However the executives, including Administrator RIn, refuse to help students of the SRT Academy. Kaya seems to agree to support as best she can, but after Sensei leaves, she threatens Kanna to get rid of the homeless population in Kousagi Town immediately.
+[Miyako]: [General Student Council Reception]
+[Rin]: A proposal? What is it for?
+[Sensei]: “Just take a look at it.”
+[Rin]: Hm… A proposal to repair and maintain
+[Rin]: the facilities in Kousagi Park that were damaged by the flood…
+[Rin]: The task in and of itself isn't difficult.
+[Rin]: But how is this pertinent to Schale’s activities?
+[Sensei]: “I mean, it’s not exactly…”
+[Rin]: Then, tell me. Is it pertinent to the SRT students?
+[Rin]: …
+[Rin]: …Your silence speaks volumes.
+[Rin]: I’ve read the report from the chief of defense. The SRT Academy students have taken up residence in the very same park they staged a protest in. And you’ve been looking after them.
+[Rin]: A conundrum. It isn’t my place to criticize you, Sensei. The Schale organization is structured in a way that I couldn’t even if I wished.
+[Rin]: So, instead, my opinion. The fact that those students are living at the park is immensely distasteful.
+[Sensei]: “Because they’ve taken over a park for citizens?”
+[Rin]: Hardly. It’s a remote park with very few visitors.
+[Rin]: It would have been demolished at one point down the road regardless.
+[Rin]: However…
+[Rin]: The SRT Academy was at one point granted special immunity from the president of the General Student Council to maximize their effectiveness.
+[Rin]: But privileges should only be granted when it serves a purpose. With no purpose, privilege is dangerous.
+[Rin]: You’re already well aware of how the SRT Academy is perceived by most of the General Student Council. They fear them.
+[Rin]: And now you would like to house and arm these students who, in all technicality, are still in open rebellion?
+[Rin]: Imagine the chaos that would ensue if the Administration Board were to hear of this.
+[Sensei]: “Isn’t there anything you can do, Rin?”
+[Sensei]: …
+[Rin]: No. There is not.
+[Rin]: Fade to black
+[Rin]: (I met with every single chief of staff to enlist help.)
+[Rin]: (But every single response was a resounding no.)
+[Rin]: [Chief of Defense Office]
+[Kaya]: …And now you’ve ended up here.
+[Kaya]: You certainly have been busy, Sensei.
+[Kaya]: Would you like some tea?
+[Kaya]: There’s no need?
+[Kaya]: I supposed the urgency you feel can’t be placated with pleasantries.
+[Kaya]: Then right to the point. I’m afraid I can’t help you either.
+[Kaya]: No matter what its students say, the SRT Academy no longer exists.
+[Kaya]: As much as I’ve tried to find a loophole, it’s impossible to use the General Student Council’s budget for students of a non-existent academy.
+[Kaya]: I tried to finance the park’s renovation as an excuse, but that didn’t work out either since the area’s plans for redevelopment have already been approved.
+[Kaya]: I’m afraid the extent of my power is maintaining the students’ academic record so their data isn’t expunged.
+[Kaya]: I’m sorry. I wish I had a better answer for you.
+[Sensei]: “You’ve done so much already, Kaya.” / “I’ll figure it out one way or another.”
+[Sensei]: …
+[Kaya]: …Sensei.
+[Kaya]: Have you enjoyed your time with the students of the RABBIT Squad?
+[Sensei]: “I’m fond of them.”
+[Kaya]: I’m happy to hear that.
+[Kaya]: Please continue to look after those students, just as you have been.
+[Kaya]: !
+[Kanna]: Ugh.
+[Sensei]: “Back then, at the Valkyrie Police School…”
+[Kanna]: What a coincidence. Hey there, Sensei.
+[Kanna]: Do you have business with the chief of staff?
+[Sensei]: “Yes. You as well?”
+[Kanna]: Oh… Well…
+[Kanna]: More or less. Personal business.
+[Kanna]: I expect I’ll see you again, Sensei.
+[Kanna]: Kanna walks away
+[Kanna]: Door knocks
+[Kaya]: Welcome, Public Peace Bureau Director.
+[Kaya]: I’m glad you could make it.
+[Kaya]: …
+[Kaya]: You look like your head is on a chopping block. You’re not in trouble, Kanna.
+[Kaya]: I just wanted a report on my last request.
+[Kaya]: Tell me, Kanna. How much progress have we made on the reconstruction of Kousagi Town?
+[Kanna]: Well… Preparations are complete, at the least. But there’s a stubborn group of hippies squatting in an abandoned building.
+[Kanna]: We haven’t been able to get them to vacate and it’s causing delays in demolition.
+[Kaya]: Come again?
+[Kaya]: Public Peace Bureau Director. Perhaps you misspoke?
+[Kaya]: The valiant Valkyrie Police School, protectors of Kivotos and keepers of peace.
+[Kaya]: I would like you to think very carefully before you answer my next question. Are you to tell me that the elite of the elite of that school, the Public Peace Bureau, cannot muster the competence to rid us of a handful of hippies?
+[Kanna]: M-Ma’am. They’re not your average, run-of-the-mill homeless population. We don’t know how or where they procured them, but they’re armed to the teeth with state-of-the-art weaponry!
+[Kanna]: They outmatch our riot gear and we haven’t been able to gain a strategic advantage.
+[Kanna]: Plus, those SRT students you helped out have settled down in the nearby park, making it even more difficult to move.
+[Kaya]: I believe I told you to think carefully about your answer. Are you blaming me?
+[Kanna]: N-No, I beg your pardon, Chief of Staff.
+[Kaya]: You see, Kanna. I like people who take responsibility.
+[Kaya]: Me in my position as chief of defense, you as a director… We need to take responsibility for the duties of our roles.
+[Kaya]: What I’m hearing from you right now, Director, is presumptuous nonsense. It’s a disregard for your responsibilities. I hate that.
+[Kaya]: And when people do things I hate, they end up in the same place as those SRT students.
+[Kanna]: *gulp*
+[Kaya]: Heehee. Oh, Kanna. Just a little joke. But since you’re struggling with my request, some advice.
+[Kaya]: Are you familiar with the Lesson of Three Arrows?
+[Kaya]: A single arrow will snap like brittle bones. But a bundle of arrows will not crumble so easily.
+[Kaya]: And so, what do you do if you encounter a problem the brittle Public Peace Bureau cannot solve? Simply gather more to your cause.
+[Kanna]: You don’t mean…?
+[Kaya]: I’m going to find someone less witless than you if you can’t figure out what I mean.
+[Kanna]: Y-Yes, ma’am.
+[Kaya]: Fantastic. I’m looking forward to reading your report.
+[Kaya]: Kanna leaves
+[Kaya]: Ugh. Why is every single person I must work with entirely incompetent?
+[Kaya]: I must have done something in a past life to deserve this punishment.
+[???]: You don’t mean us, I hope.
+[Kaya]: Oh, don’t be silly. You’re the best partner I’ve had in my life ♡
+[Kaya]: I will say, I didn’t expect the RABBIT Squad and Sensei to become such fast friends.
+[Kaya]: Quite the opposite effect of what I intended.
+[Kaya]: As an expert, what’s your take on the situation?
+[???]: It’s unexpected, but not surprising.
+[Kaya]: Haha. A boring answer as usual.
+[???]: We’ll keep a close eye on them.
+[???]: <<To be Continued>>
+[???]: 13 - The Fox and the Inarizushi
+[???]: Around lunchtime, Sensei finds a lone street vendor selling inarizushi near the park. The part-time student tells Sensei about many rumors surrounding the SRT Academy, including the redevelopment of Kousagi Town. Afterwards, Sensei goes to the park and shares inarizushi with the squad members while discussing future distribution plans.
+[???]: (Before heading to the RABBIT Squad, I visited a nearby town to grab a meal.)
+[???]: [Town near Kousagi Park]
+[???]: (But for some reason, not a single eatery in town was open.)
+[??]: Come and get it while it’s fresh! Hot inarizushi!
+[Street Stall Part-Timer]: Good afternoon, sir! If you’re looking for a meal,
+[Street Stall Part-Timer]: can I interest you in some delicious inarizushi?
+[Street Stall Part-Timer]: If you’re on the go, this is the meal for you! The
+[Street Stall Part-Timer]: deep-fried tofu pockets are riced-filled so YOU’RE filled!
+[Street Stall Part-Timer]: And, luckily for you, I just made a new batch! You’ll never find fresher!
+[Sensei]: Purchase an inarizushi.
+[Street Stall Part-Timer]: Thank you for your business!
+[Street Stall Part-Timer]: The streets are pretty empty today, so I was scared I wouldn’t sell anything.
+[Street Stall Part-Timer]: It’d be a real shame to waste all this food.
+[Sensei]: “Come to think of it, all of the stores around here are closed too.”
+[Street Stall Part-Timer]: Well, it’s natural with all of the redevelopment efforts starting soon.
+[Street Stall Part-Timer]: ?
+[Street Stall Part-Timer]: Oh, you haven’t heard? I thought everyone knew.
+[Street Stall Part-Timer]: Rumor has it they’re going to build a new subway station here.
+[Street Stall Part-Timer]: And they’re going to build a new shopping center on top of it! Seems like they’re going to have to demolish the old plazas first though.
+[Street Stall Part-Timer]: It's this big old construction company behind it… What was their name again? Hm, they’ve got the big octopus logo…
+[Sensei]: “The Kaiser Group?”
+[Street Stall Part-Timer]: Yes, that’s it! Kaiser Construction!
+[Street Stall Part-Timer]: Apparently, Kaiser Construction is staking the future of the company in the redevelopment of this area.
+[Street Stall Part-Timer]: But in the process, some residents were rudely ousted from their shops…
+[Street Stall Part-Timer]: Well, at the end of the day I’m just a part-timer so I’ll always be able to find a new job.
+[Sensei]: Purchase another Inarizushi.
+[Street Stall Part-Timer]: Wow! You must really like my inarizushi.
+[Street Stall Part-Timer]: Thank you! I’m pretty proud of my recipe.
+[Street Stall Part-Timer]: My friends and underclassmen used to always say I had the best inarizushi they’d ever tasted!
+[Street Stall Part-Timer]: …
+[Street Stall Part-Timer]: …My friends from school say that, that is.
+[Street Stall Part-Timer]: Ahem!
+[Street Stall Part-Timer]: Since you bought so much of my Inarizushi, I’ll give you some of the hot gossip.
+[Street Stall Part-Timer]: Kaiser Construction hasn’t even begun their redevelopment here.
+[Street Stall Part-Timer]: Because, according to another rumor, the entire project might end up just being canceled.
+[Street Stall Part-Timer]: Sensei “Why’s that?”
+[Street Stall Part-Timer]: Well, the homeless population around here. I’m sure you’ve heard of that at least.
+[Street Stall Part-Timer]: Some group of hippies got a hold of a bunch of heavy-duty firearms and they raise all manner of hell whenever Kaiser Construction workers even get close.
+[Street Stall Part-Timer]: To make matters even worse, a group of heavily armed students are occupying the park now! It seems like even the police has given up on security around here.
+[Street Stall Part-Timer]: With all these unexpected problems, I guess Kaiser Constructions is considering just getting out of the whole mess.
+[Sensei]: “Students in the park?”
+[Street Stall Part-Timer]: Oh! Do you know them?
+[Street Stall Part-Timer]: Ya know, I kind of consider gossip my specialty.
+[Street Stall Part-Timer]: Here, take another inarizushi on the house! Do you know those students at the park? Do tell!
+[Sensei]: “I don’t have anything to say about them.” / “I don’t really know much either.”
+[Street Stall Part-Timer]: I see. How disappointing.
+[Street Stall Part-Timer]: Well, I know a thing or two at least.
+[Street Stall Part-Timer]: Apparently they’re students from an elite academy.
+[Street Stall Part-Timer]: That’s where they got all of their high-tech equipment and how they took over the park.
+[Street Stall Part-Timer]: But the thing the rumors haven’t addressed is what they’re doing living on the streets instead of their academy.
+[Street Stall Part-Timer]: Do you think they got kicked out? Or maybe it’s just a silly prank.
+[Street Stall Part-Timer]: Or…maybe they’re just dreamers.
+[Street Stall Part-Timer]: Idle dreamers, reaching for their impossible futures. What a wondrous privilege of the sheltered… To dream.
+[Street Stall Part-Timer]: is it hard, Sensei, leading a group of students who won’t come down from the clouds?
+[Sensei]: “Not in the slightest.”
+[Street Stall Part-Timer]: Hm?
+[Street Stall Part-Timer]: How so?
+[Sensei]: “My job is to nurture their dreams until they can’t help but become reality.”
+[Sensei]: …
+[Street Stall Part-Timer]: …You confound me.
+[Street Stall Part-Timer]: I don’t hate the way you see it. Do what you think is best.
+[Street Stall Part-Timer]: Haha, well! I think I’ll close up shop. I probably won’t be getting anymore customers today.
+[Sensei]: “What’s this?”
+[Street Stall Part-Timer]: It’s leftover inarizushi.
+[Street Stall Part-Timer]: I wouldn’t be able to finish all of it, so here you go.
+[Street Stall Part-Timer]: Refrigerate them for later…
+[Street Stall Part-Timer]: Or I’m sure there are hungry students around that would appreciate them.
+[Street Stall Part-Timer]: Thanks for the chat, Sensei.
+[Street Stall Part-Timer]: Maybe we’ll meet again.
+[Street Stall Part-Timer]: Niko walks away
+[Street Stall Part-Timer]: [Kousagi Park]
+[Miyu]: H-Halt! Stay back, or I’ll shoot!
+[Miyu]: ?
+[Moe]: Hey, open your eyes crybaby. This is what
+[Moe]: happens when you’re too much of a scaredy-cat to even look at the
+[Moe]: intruder.
+[Moe]: It’s just Sensei.
+[Miyu]: Oh… I-I’m sorry!
+[Saki]: Hm. It’s just [NAME] Sensei.
+[Saki]: Here I thought another dog had wandered in.
+[Sensei]: “It’s like they think I don’t have feelings.”
+[Saki]: Anyways, why are you here? No one asked you to be.
+[Saki]: W-Wait. What is that smell?
+[Sensei]: Present the inarizushi.
+[Moe]: Inarizushi? Miyu, Miyu! A napkin! I’m drooling.
+[Saki]: I can’t remember the last time I had inarizushi. Well, actually, back at the SRT Academy…
+[Miyu]: I-I don’t think you would, but you didn’t buy these, d-did you?
+[Sensei]: “Yes, I spent a looot of money on it.” / “I found them in a trash can on my way here.”
+[Moe]: …Suspicious.
+[Moe]: Saki,inspect it first. You don’t know what it could be laced with.
+[Sensei]: “For the last time, it’s just food!”
+[Miyako]: Hi Sensei. Is that inarizushi?
+[Miyako]: How nostalgic. The upperclassmen at SRT used to make and eat inarizushi quite a bit.
+[Miyako]: I do hope they’re doing well.
+[Miyako]: Thank you, Sensei. Let’s eat.
+[Miyako]: Fade to black
+[Miyako]: (I explained the entire situation with the RABBIT Squad while eating the warm snack.)
+[Miyako]: Back to scene
+[Miyako]: …
+[Miyako]: So, the General Student Council refuses to provide any aid and a construction company intends to redevelop this entire area.
+[Miyako]: While I naturally didn’t expect much support from the General Student Council, the situation is more dire than I thought.
+[Miyako]: And in this situation, all our gear and equipment is damaged from the flood.
+[Saki]: Well, we always knew we were fighting against the odds when we took on this mission.
+[Saki]: If we run out of bullets, then we still have our hands! They won’t stop us.
+[Miyu]: I-I knew you were gonna say something like that…
+[Miyu]: But we have no more supplies and no one’s g-gonna help us.
+[Miyu]: They’re probably j-just waiting for us to be too weak to f-fight back.
+[Miyu]: And then we’re g-gonna be sold on the black market and t-t-tortured! Noooo!
+[Miyako]: Deep breaths, Miyu. Sensei is looking after us. And I won’t let that happen.
+[Miyako]: But in reality, we barely have enough firepower to fight off a squirrel, let alone the Public Safety Bureau.
+[Miyako]: If only we could repair the machine guns and turrets around the park’s outskirts…
+[Miyako]: Black scene
+[???]: Heeheehee. Have you silly gooses forgotten about me?
+[???]: ?
+[Moe]: Your resident supplies expert, at your most honorable service.
+[Moe]: <<To be Continued>>
+[Moe]: 14 - The Barter System
+[Moe]: Moe, supply manager of the RABBIT Squad, tries to buy cheap weapons by selling submerged equipment to Kaiser Industries. To her shock, the sales representative informs her that someone had purchased every single weapon they had in stock.
+[Miyako]: Moe, do you have a solution for our supply
+[Miyako]: issues?
+[Miyu]: W-We have no money, and n-no way of making
+[Miyu]: some.
+[Saki]: Did you call yourself the “supplies expert”? Is
+[Saki]: this the same person who wasted all of our ammunition to make some stupid fireworks?
+[Moe]: You have no eye for art! Ammunition is never a waste in pursuit of the beauty of explosions. It was an essential sacrifice!
+[Moe]: Do you want me to bail us out, or not? The wonderful person I am, I can get us supplies without spending a cent.
+[Sensei]: “I really can’t just stand by while you rob a bank.”
+[Saki]: How could you suggest something so awful?
+[Miyako]: The SRT Academy exists to protect the citizENS. We would never engage in such behavior.
+[Moe]: Sensei, do you think so little of me?
+[Moe]: My tip-top secret for supplies acquisition is…
+[Moe]: The barter system!
+[Moe]: People’ve been bartering for things they want since before we could talk.
+[Moe]: And so, easy peezy lemon squeezy, we’ll trade off our valuable items for new and wonderful incendiaries… and weapons.
+[Miyako]: The problem with your plan lies in the fact that we have no valuables.
+[Miyu]: We have expired yakiniku bentos…
+[Moe]: Are you a dummy? You think we’re trading with those hypocrite monks?
+[Moe]: What we do have is the missiles and bombs at the outskirts of camp. My babies.
+[Moe]: I can’t believe I’m suggesting selling off my precious babies…even if they’re water-damaged.
+[Moe]: But my bleeding heart will live knowing that a caring owner will love them the way I did. And then my beautiful, splendid babies will be detonated like they deserve.
+[Sensei]: “It always ends in them being blown up…”
+[Miyako]: I agree those are very expensive explosives, but they’re also very broken ones. How are we going to sell them?
+[Moe]: Am I not literally this squad’s unit supply specialist? I got connections you can’t even dream of.
+[Moe]: Just to name one…
+[Moe]: My little friend, Kaiser Industries is a subsidiary of Kaiser Group, and they’re the big guns for weapons in the Black Market. Heehee, get it? They sell to hard-up mercenaries who’ll take anything they can get.
+[Moe]: So, if anyone’s gonna take good care of my rusty little babies, it’s Kaiser Industries.
+[Moe]: And, voila! In return, I get you your ammunition and guns from Kaiser itself!
+[Saki]: I…I’m in shock. Moe came up with a really good idea.
+[Saki]: Was there something in the bento you ate yesterday? That must be it.
+[Moe]: I’ll make you go ka-boom faster than you can say rabbit!
+[Moe]: Well then, would you like to see the expert at work?
+[Moe]: Ringing
+[Kaiser Salesperson]: Greetings! Kaiser Industries, the leading purveyor of top-tier firearms. How may I help you?
+[Moe]: Long time no talk, buddy!
+[Moe]: It’s the SRT Academy supply manager. Heehee.
+[Kaiser Salesperson]: Our VIP client!
+[Kaiser Salesperson]: Greetings! What a pleasure to speak with you again!
+[Kaiser Salesperson]: How can I help you today? We have some brand new missiles I think you would love.
+[Kaiser Salesperson]: Or… Oh, dear! Were there any issues with the cluster bomb you purchased? I would be glad to assist you with that as well.
+[Miyako]: …Moe. Did he just say cluster bomb?
+[Moe]: A girl’s gotta do what she’s gotta do, right?
+[Moe]: I used my own money, not SRT budget! And it was for personal reasons!
+[Sensei]: “Saying it was for personal reasons makes it even more suspicious.”
+[Moe]: Actually, I wasn’t looking to buy anything today.
+[Moe]: I was hoping to sell.
+[Kaiser Salesperson]: Sell? Well, we don’t usually allow purchases from our sales line.
+[Kaiser Salesperson]: But our VI{ clients have special privileges! What is it you were hoping to sell?
+[Moe]: I hope you’re ready, you might blow your circuits. I’ve got loads of state-of-the-art stuff, stuff you won’t even be able to find anywhere else.
+[Moe]: Infrared image-guided anti-aircraft missiles, scalable cluster grenades, remote-controlled anti-tank rockets…
+[Kaiser Salesperson]: That is quite the list of rare weaponry! You’re sure you’re willing to sell them?
+[Moe]: I know, I know. The deal of the century! Imagine how your boss would praise you. There’s a small matter of a little rust, but you know how it is with the humid weather.
+[Sensei]: “It’s not a little.”
+[Moe]: (Shut up, Sensei! I’m trying to make a deal here!)
+[Kaiser Salesperson]: Well, such special equipment is always in demand. This is a little outside of protocol, but I suppose…
+[Kaiser Salesperson]: Very well. I accept.
+[Kaiser Salesperson]: Is the same account we have on file still correct for payment?
+[Moe]: Ah, so you see, I’ve unfortunately been running into some issues with my account.
+[Moe]: It should be resolved soon, but until then I was hoping to be paid in weapons and ammo instead.
+[Kaiser Salesperson]: …Weapons? Ammo?
+[Moe]: I didn’t stutter! I’m willing to let go of my anti-aircraft missiles fora bunch of measly guns. Strong ones, of course.
+[Moe]: Or if you have, you know, thermo-pressure grenades, or white phosphorus smoke grenades! *pant* *pant*
+[Moe]: …
+[Kaiser Salesperson]: While I would love to assist you, we unfortunately just recently sold our entire stock of weapons.
+[Moe]: Whaaat?! The entire stock?
+[Kaiser Salesperson]: Yes. An…anonymous customer recently bought us out.
+[Moe]: Who on earth would buy that much firepower? Why?
+[Moe]: The only reason you would need that much is to go to war!
+[Kaiser Salesperson]: I…cannot tell you that.
+[Kaiser Salesperson]: As a VIP client, you must understand. You would rather be upset if we divulged your private purchase history, no?
+[Moe]: Well, they all know about the cluster bombs now…but yeah…
+[Kaiser Salesperson]: I’m terribly sorry, but let’s pretend this exchange never happened.
+[Kaiser Salesperson]: I hope we have more fruitful dealings in the future!
+[Kaiser Salesperson]: Hangs up
+[Kaiser Salesperson]: …
+[Moe]: What in the world… What psychotic world do we live in that Kaiser Industries just…has no more weapons? What has this society come to?
+[Saki]: More importantly. Moe. When and how did you become a VIP client at Kaiser Industries?
+[Miyako]: I KNEW there were discrepancies with missing inventory in the squad’s supply ledger… You told me I was crazy…
+[Miyu]: M-Moe… I don’t want you to go to j-jail…!
+[Moe]: W-Wait a second! Can you guys go back to being worried about supplies?
+[Moe]: Don’t sweat the small details!
+[Moe]: Kaiser Industries might have let me down, but you know what never does? Second-hand auctions! I have already made a post, so just wait for the buyers to come rolling in!
+[Saki]: Who’s going to buy all that crazy equipment at some second-hand auction.?
+[Moe]: You may be an uncultured neophyte, but underestimate these auctions will be your first and final mistake!
+[Moe]: Look! A message! I told you it wouldn't let me down!
+[Moe]: ring
+[Moe]: ?
+[Moe]: …Wait, seriously?
+[Moe]: <<To be Continued>>
+[Moe]: 15 - A Small but Certain Failure
+[Moe]: The RABBIT Squad sells all their rusted equipment and purchases new equipment through a strange, anonymous buyer. But Descartes appears in a panic, saying the Valkyrie Public Peace Bureau is armed with new weapons and is kicking out the homeless from the neighborhood. Before Descartes can finish speaking, Kanna appears in the park with a full squadron.
+[Moe]: [Kousagi Park]
+[Moe]: …
+[Miyako]: I’m still a bit shocked. Moe really found
+[Miyako]: someone to buy our rusty, useless missiles.
+[Miyu]: They even paid us in cash…
+[Miyu]: I’ve never seen so much cash in my life…
+[Saki]: Did no one else find that buyer suspicious?
+[Saki]: They showed up with their faces completely covered, had wads and wads of cash, and don’t even inspect the weapons?
+[Saki]: What… What if it’s bad cash? Like black money?
+[Moe]: Oh my sweet, summer child. Cash is cash. We can buy new toys and ammo and that’s all that matters.
+[Moe]: But also, Saki. What was with all that solid fuel and gasoline you ordered? You can’t blow anything up with that.
+[Moe]: I couldn’t buy my aerosol bombs because of you.
+[Saki]: Are you stupid? Do you want to cook us dinner and fly around the helicopter with your precious babies? Huh?
+[Saki]: Explosives aren’t the most important thing on the battlefield, you know!
+[Moe]: You calling me stupid? You’re stupider! Name one thing that’s more important than explosives!
+[Miyako]: I can finally breathe a little.
+[Miyako]: It’s nowhere near our original stockpile, but we’ve mostly replenished most of what we lost to the flood.
+[Miyako]: At the very least, we should be able to secure our perimeters for a little while.
+[Miyako]: Sudden black
+[???]: *pant* *pant* Help me!
+[???]: ?
+[???]: Descartes appears
+[Saki]: Speak of the devil. An intruder.
+[Moe]: Heeheehee! Come, my little babies! Time to go ka-boom!
+[Descartes]: No, dammit! I’m asking you for help!
+[Miyako]: …What do you want?
+[Miyako]: It’s against protocol for us to involve ourselves in civilian affairs.
+[Moe]: Yeah, so buzz off. Go ask your Pathetic-friends or whatever you call them.
+[Descartes]: Pursuers! Short for the Pursuers of Non-Possessive Happiness!
+[Descartes]: Thanks to you guys, most of them have left me…
+[Descartes]: I told you greed was evil! The Public Peace Bureau of the Valkyrie Police School have driven the rest of us out by force and destroyed our treasured possessions. My things!
+[Moe]: The Public Peace Bureau?
+[Moe]: Those uppity cops wouldn’t spare half a cent on a bunch of hobos like you.
+[Miyu]: M-Maybe you mixed them up with the Security Bureau?
+[Descartes]: I’m not stupid! I saw them, I swear!
+[Descartes]: That psychopath went postal in our beloved sanctuary, swinging around some crazy weapon I’ve never seen!
+[Sensei]: “The Public Peace Bureau…” / “Was that Kanna…?”
+[Sensei]: !
+[Saki]: Show me the bullet marks on your gloves.
+[Saki]: Scorch marks from thermate and traces of direct hits from high-density bullet cores…
+[Saki]: These weren’t ordinary bullets. They appear to be high-explosive incendiary armor-piercing ammunition, or HEIAP.
+[Sensei]: “You can tell just from the bullet traces?”
+[Saki]: Not always. But I’ve studied these in textbooks.
+[Miyako]: Although, it’s the first time seeing HEIAP bullets of this caliber in person.
+[Saki]: Same here. It’s too expensive and impractical for use in personal firearms, so they’re never produced. Well, until now I guess.
+[Saki]: The only company with the capability to mass-produce these…
+[Saki]: Kaiser Industries.
+[Saki]: ?!
+[Moe]: So the ingrates who bought all my weapons from Kaiser before I could was the Valkyrie Police School?
+[Miyu]: B-But this kinda weaponry has to be s-super expensive…
+[Miyu]: …
+[Miyu]: Fade to black
+[Kirino]: And seeing how there’s barely enough budget for bullets these days, I can’t be selfish.
+[Kirino]: At this rate, I’m going to be wielding a peashooter against a flamethrower! Or worse!
+[Kirino]: Fade black
+[Miyako]: Are you okay, Sensei?
+[Sensei]: “Yeah…just lost in thought.”
+[Saki]: Did you fall asleep standing up?
+[Moe]: Heehee. It looks like Sensei has at least one talent.
+[Miyako]: Anyways, it looks like you were caught in the crossfire of a police investigation. Better luck next time.
+[Descartes]: That’s it?! You think this doesn’t affect you too?
+[Descartes]: It wasn’t just us! The Public Peace Bureau was raiding the entire city, kicking out every vagrant and homeless person they could find.
+[Descartes]: They could be here any minute!
+[Descartes]: Gunfire
+[Descartes]: Augh!
+[Descartes]: !
+[???]: Did you know? When wild animals are in danger, they’ll run towards the strongest leader in the area.
+[Kanna]: I guess that hobo saved me from having to search for my garbage.
+[Kanna]: <<To be Continued>>
+[Kanna]: 16 - Rebate
+[Kanna]: Kanna declares that the Public Peace Bureau is now armed with more powerful weapons than the SRT and threatens to remove them herself if they weren’t out by the end of the month. But Sensei realizes the Public Peace Bureau’s weapons are from Kaiser Industries and theorizes that there must have been illegal activity between the two. The RABBIT Squad students decide to raid the main building of the police academy to find proof.
+[Miyako]: There’s an unwelcome face.
+[Saki]: Aren’t you the Feral Hound of Valkyrie Police School?
+[Kanna]: It’s Ogata Kanna. But to you, it’s Director.
+[Kanna]: I hardly think you and I are on nickname terms.
+[Miyako]: Apologies, Director. What brings you here?
+[Kanna]: That’s a weird question for a band of criminals to ask a Valkyrie officer, don’t you think?
+[Kanna]: We’ve let you vagabonds run rogue for too long now. You are under arrest for illegally occupying a public park and inciting terror in the surrounding community.
+[Moe]: Hey, dummy. The Chief of Defense was the one who said we could live here.
+[Moe]: You’re trying to tell me, Miss Director, that you’re going against your superior’s directive?
+[Kanna]: How foolish.
+[Kanna]: Tell me, when did the Chief say you could stay here?
+[Kanna]: She may have suspended your punishment, but she never explicitly approved your occupation here.
+[Kanna]: ?!
+[Miyako]: She’s right. The park’s management falls under the purview of the Culture Office, not Defense.
+[Miyako]: We were only granted a suspension of expulsion. We aren’t technically allowed to be here.
+[Moe]: So they’re gonna kick a bunch of homeless kids out of a park?
+[Moe]: That solves absolutely nothing! You’re ignoring the real issues here.
+[Miyu]: B-But how come the P-Public Peace Bureau is arresting us?
+[Miyu]: Sh-Shouldn’t the Security Bureau do that k-kinda stuff?
+[Kanna]: Yes, homeless eviction does fall under their purview. Unless we at the Public Peace Bureau determine there is a terrorist threat to Kivotos’ safety.
+[Kanna]: Which would be our current circumstances.
+[Saki]: Alright, fine! We may not have approval, but we have no intention of leaving. Are you going to drag us out by force?
+[Moe]: Heeheehee. Maybe you’ve got bad memory, but I remember you all going ka-boom and running out with your tail between your legs the last time you tried.
+[Kanna]: Watch yourself, Kazekura Moe. The Valkyrie has eyes and ears everywhere.
+[Kanna]: Didn’t you lose most of your equipment during the rainstorm last week?
+[Saki]: Ugh.
+[Kanna]: I also know you sold said equipment to purchase now ones, but it’s not nearly enough to adequately defend an area as large as this park.
+[Kanna]: Why don’t you try us? The Public Peace Bureau’s recently secured firepower beyond your wildest dreams thanks to our sponsors.
+[Kanna]: You’re outnumbered and outgunned. No amount of elite combat skills is getting you out of this mess.
+[Kanna]: We’ve got two options here.
+[Kanna]: You can comply and handle this quietly, or you can fight your losing battle with your useless little toy guns.
+[Saki]: What? Are you challenging the SRT Academy?
+[Moe]: Guns aren’t even my weapons of choice. Maybe you’d like to meet some of my incendiary babies.
+[Miyu]: I-Is that enough for us to w-win though? We don’t even have ammo…
+[Miyu]: Miyako, h-help…
+[Miyu]: …
+[Miyako]: RABBIT Squad, we–
+[Sensei]: “Wait a minute.”
+[Sensei]: !
+[Kanna]: Sensei? What are you doing here?
+[Kanna]: Ah, slipped my mind. Chief of Staff did leave the treatment of the RABBIT Squad under Schale’s discretion.
+[Kanna]: Hate to break it to you, but even you have no say here.
+[Kanna]: People way above your pay grade have already given their orders for Kousagi Town’s redevelopment.
+[Sensei]: “You can’t just force them to leave without any warning.” / “Give them some time to think it over.”
+[Kanna]: They’ve had more than enough time.
+[Kanna]: …
+[Kanna]: …Understood.
+[Kanna]: Consider this me paying my debts. I’ll pull back for today.
+[Kanna]: But we can’t afford to sit on our hands forever.
+[Kanna]: Either the RABBIT Squad vacates the premises by the end of the month, or we’ll vacate them.
+[Kanna]: …Even I have to “fall in line,” after all.
+[Kanna]: Pull back! Mission postponed.
+[Kanna]: !
+[Kanna]: Public Peace Bureau leave
+[Saki]: The nerve! We were wiping the floor with her last time until Sensei stepped in.
+[Miyako]: It doesn’t change the fact that the Public Peace Bureau’s beefed up significantly since then.
+[Miyako]: Moe. Were you able to confirm their firearms were manufactured by Kaiser Industries?
+[Moe]: Duh. Clear as day, those are the weapons we were trying to buy from Kaiser.
+[Moe]: How could those snot-nosed cheapskates at Valkyrie afford such expensive weapons? I’m baffled.
+[Miyu]: The chief mentioned a sponsor…
+[Sensei]: “...Maybe they got a rebate.”
+[Miyako]: A rebate?
+[Moe]: It’s a sales strategy companies use. If you buy in bulk from us, we’ll pay you back a percentage of it. Scratching each other’s backs.
+[Moe]: But the way I see it, only Valkyrie’s getting their back scratched here. What’s Kaiser getting out of it?
+[Moe]: Fade to black
+[Moe]: (I shared my theory with the RABBIT Squad.)
+[Miyako]: …I see.
+[Miyako]: Kaiser Construction is in charge of Kousagi Town’s redevelopment, and is a subsidiary like Kaiser Industries. Moving funds between the two would pose no problems.
+[Miyako]: The only thing standing between Kaiser Construction and profit is the homeless population in Kousagi. So they share weapons from Kaiser Industries with Valkyrie and in return…
+[Moe]: That means those dirty cops are getting paid in weapons to kick out all the homeless people for Kaiser!
+[Saki]: Isn’t that illegal?
+[Miyako]: It’s definitely illegal.
+[Miyako]: If Sensei’s theory is correct, the Valkyrie Police School, meant to be for the people, is acting like a mercenary organization for private profit.
+[Saki]: The police colluding with corporations for wealth? At the expense of the citizens?
+[Saki]: It’s unjust.
+[Miyu]: W-We might not be great right now, but we’re not that bad.
+[Sensei]: “Of course, this is just my theory.”
+[Miyako]: Just a theory…
+[Miyako]: Well, as of right now we have no way to confirm nor deny how the Public Peace Bureau acquired their weapons.
+[Moe]: Valkyrie’s transaction records are all stored on a local server, so I can’t even hack them. And I’ve absolutely tried.
+[Saki]: If we could just get our hands on some evidence…
+[Miyu]: A-Are we doomed?
+[Miyu]: …
+[Miyako]: We could infiltrate the Valkyrie Police School’s main building and obtain their transaction records.
+[Miyako]: !?
+[Saki]: Are you actually stupid?
+[Saki]: Their school is crawling with, at the VERY last, hundreds of highly-armed military forces. It’s a fortress!
+[Miyu]: E-Even with supplies and backup, I think it’s impossible…
+[Miyu]: We would f-fail on our own…
+[Moe]: I hate to admit it, but all we can do is make a report and twiddle our thumbs.
+[Sensei]: “And where do you submit a report about a police school?”
+[Moe]: …Huh… When the police cross the line, where DO you go?
+[Saki]: When the Valkyrie Police School commits a violation, the only secondary police force that can investigate them is…
+[Saki]: …
+[Miyako]: …Us. The SRT Academy.
+[Moe]: Who else but us?
+[Saki]: Our entire purpose is to handle situations like this.
+[Miyu]: B-But… Do we have the authority?
+[Miyu]: We don’t even have a real school anymore.
+[Sensei]: “Do you believe you’re doing what’s right?”
+[Miyako]: Sensei?
+[Sensei]: “Go ahead. I’ll take responsibility for the blowback.” / “Be careful. Come back safely.”
+[Sensei]: …
+[Miyako]: …You really are the strangest.
+[Moe]: Hey, Sensei. Is the word responsible even in your dictionary?
+[Saki]: Are you stupid or something?
+[Miyu]: S-So stupid… Heehee.
+[Miyako]: But you did remind me of something.
+[Miyako]: We are the SRT. The fastest-deploying special forces unit in all of Kivotos.
+[Saki]: We subdue any criminals in violation of public order…
+[Moe]: Punish them with the might of all available firepower…
+[Miyu]: …A-And silently liquidate them before anyone is the wiser.
+[Miyako]: If the executives of the Valkyrie Police School are truly colluding with a corporation, uncovering evidence will be no easy matter.
+[Miyako]: This mission’s purpose aligns with the objectives and justice the SRT Academy has always upheld.
+[Miyako]: RABBIT Squad! Begin preparations for an infiltration mission!
+[Miyako]: As of this moment…
+[Miyako]: We are commencing Operation Clover to secure proof of the Valkyrie Public Peace Bureau’s illegal rebate!
+[Miyako]: <<To be Continued>>
+[Miyako]: 6
+[Miyako]: 17 - Operation Clover 1
+[Miyako]: Miyako and her companions infiltrate the main building to investigate corruption in the Public Peace Bureau. With the support of Sensei and Moe, they succeed in infiltrating the archive room, but Miyu makes a mistake and they get trapped inside the vault.
+[Miyako]: [Valkyrie Police School Main Building Hallway]
+[Miyako]: RABBIT 1, reporting. Time is 2330 hours.
+[Miyako]: I’ve arrived at Point Echo.
+[Miyako]: Guard presence has not yet been confirmed,
+[Miyako]: but several electronic signals presumed to be CCTV devices have
+[Miyako]: been detected in the opposite hallway.
+[Moe]: This is Camp RABBIT. Affirmative. There were CCTVs there, but I’ve already took over them. Heehee.
+[Moe]: I’m monitoring the video feeds for you, so you’re clear to make your way to Point Sierra. Not a guard in sight.
+[Miyu]: W-Wow! You hacked it so fast, Moe!
+[Moe]: Teeheehee! Bypassing this level of security is easier than blowing up a building.
+[Moe]: …Mostly. The server has a randomized numerical code that changes every thirty minutes, so I can’t promise anything beyond that. You either finish in that time frame or it’s a bust.
+[Moe]: The code has the vice president of Veritas written all over it. What a pill.
+[Saki]: But this is the main building of the Valkyrie Police School. How can there not be a single guard on patrol?
+[Moe]: Do you have earwax or something? I told you, I disabled the cameras and alarms!
+[Saki]: I wasn’t talking about you, all right? I just can’t believe their lax security and overreliance on technology.
+[Saki]: I find it undisciplined and pathetic. It’s the exact embodiment of why I didn’t want to attend this school.
+[Moe]: We get it, Little Miss Perfect. The Public Peace Bureau’s ledger, I mean, the Clover is located at Point Sierra, on the third floor of the basement. Make your way to the west stairs. Route still clear.
+[Moe]: And to emphasize, I can only keep the alarms disabled for thirty minutes. You dummies better be back at the rendezvous point by then.
+[Miyako]: RABBIT 1, understood.
+[Miyu]: Umm, wh-where’s Sensei?
+[Miyako]: Since we had to rappel down from such a high altitude to be able to infiltrate undetected, it would’ve been dangerous for Sensei to attempt it with no training. So they’ll be supporting from the rear.
+[Miyako]: And we couldn’t risk a hostile bulldozing their way through the line of fire and harming Sensei…
+[Sensei]: “You found out my deep dark secret. I’m scared of heights.” / “I have many skills, but rappelling is not one of them.”
+[Saki]: We have no choice but to carry out this mission on our own. That’s how it’s always been, always.
+[Miyu]: Th-That’s right… We’ve always p-pulled through with just us…
+[Miyako]: Just us…
+[Saki]: Why the long face, Miyako? What’s wrong?
+[Miyako]: Ah, nothing. Just reviewing the plan.
+[Miyako]: Okay, RABBIT Squad. Don’t let your guard down and watch each other’s backs. We’re moving to Point Sierra.
+[Miyu]: Th-This is the archive room of all their d-documents…
+[Miyako]: It’s not surprising it’s secured by a solid steel door.
+[Miyako]: Criminals will go to great lengths to hide evidence of their wrongdoings.
+[Saki]: Who cares about a big door? There’s not a single
+[Saki]: guard in sight.
+[Saki]: I can’t complain though. This operation has gone smoothly so far.
+[Saki]: Well, Miyako? Let’s get going. We don’t have much time.
+[Miyako]: This isn’t a normal lock. It can only be unlocked via an electronic signal.
+[Miyu]: Moe is p-probably trying to crack the code…
+[Saki]: What? Does this count towards our thirty-minute time limit?
+[Moe]: I’m going as fast as I can, all right? Geez!
+[Saki]: We don’t have time. Can’t we just breach the door with explosives?
+[Moe]: Yes. Please. Breach the solid steel door with explosives. Be my guest.
+[Moe]: Oh and just go ahead and wake up the entire student body while you’re at it. What’ll you do when that happens, you dummy musclehead?
+[Moe]: Run the decoding program using the secret key I found through the plaintext…
+[Moe]: Beep
+[Moe]: We’re in, ladies and ladies!
+[Saki]: …That took over three minutes.
+[Moe]: Do you think I just have to sit here and wave a
+[Moe]: magic wand?
+[Moe]: If it’s so easy, why don’t YOU try next time?
+[Miyako]: We don’t have time for in-fighting.
+[Miyako]: The security system will be live again soon.
+[Miyako]: We need to prioritize finding the evidence that’ll incriminate the Public Peace Bureau.
+[Saki]: You’re right.
+[Saki]: I’ll take the bookshelves on the right.
+[Miyu]: I-I hate dark spaces…
+[Saki]: Let’s see…
+[Saki]: Transaction logs… Transaction logs…
+[Saki]: A receipt submitted by Kaiser Industries a week ago…
+[Saki]: !
+[Saki]: Jackpot!
+[Miyako]: Excellent work, Saki. Let me see.
+[Miyako]: Time passes
+[Miyako]: It seems Sensei was right.
+[Miyako]: Sensei, the Clover has been secured.
+[Miyako]: It’s as you said. Kaiser Industries provided free weapons to the Public Peace Bureau in exchange for evicting Kousagi Town’s entire homeless population.
+[Sensei]: “So my hunch was right.” / “We’ve got what we need, then.”
+[Miyako]: Yes, this is exactly what we need to put a stop to this unjust conspiracy.
+[Saki]: Hahaha! I can’t wait to stick it to those Public Peace Bureau goons!
+[Saki]: Closing noise
+[Saki]: ?
+[Saki]: …
+[Saki]: Miyu, what are you doing in the front of the door?
+[Miyu]: W-Well…i-it’s closed…
+[Saki]: Okay. Open it.
+[Miyu]: Th…The thing is… The d-d-door…
+[Miyu]: There’s no handle from the inside.
+[Miyu]: …
+[Saki]: WHAT?!
+[Saki]: <<To be Continued>>
+[Saki]: 18 - Operation Clover 2
+[Saki]: The squad members are panicking, and Miyako struggles with her powerlessness again. But Sensei and the squad members show Miyako their deep-seated trust in her, and Miyako regains her courage and leads them in their escape.
+[Saki]: Arghhhh! Graaaaaaaah!
+[Saki]: It really won’t budge.
+[Moe]: Didn’t you retrieve the Clover? Are you guys having
+[Moe]: a tea party in there?
+[Moe]: Time’s almost up! You need to get back to the rendezvous point immediately!
+[Saki]: You know, I would love to do that. If the door wasn’t closed.
+[Moe]: What?! Which imbecile closed the door behind you guys?
+[Moe]: Even I know that closing a door to a walk-in vault room activates an auto-lock! And I don’t study!
+[Miyu]: I… I… W-Well, I thought someone might s-see if I left the door open…
+[Moe]: Did I or did I not tell you I was monitoring the situation on the CCTVs?
+[Moe]: You acted based off your emotions and not the facts! And look at the situation you’ve put your squad members in!
+[Miyu]: S-Sorry…
+[Saki]: You could’ve at least put in a doorstop…. Anything at all…
+[Miyu]: W-Waaaaaaaah!
+[Miyu]: I-I had no business joining the SRT…
+[Miyu]: A d-dumb scaredy-cat who d-drags everyone else down.
+[Miyu]: I wish I’d never been born! Waaaaaah!
+[Miyako]: It’s okay, Miyu. As a sniper, you’re not as familiar with indoor warfare.
+[Miyako]: I should've been monitoring the situation in the rear.
+[Saki]: But it’s not your fault, Miyako. At all.
+[Saki]: Don’t try to redirect. Miyu holds every ounce of blame here.
+[Moe]: I’m pissed too, but now isn’t the time! We need to get you out before the security system goes live!
+[Saki]: What do we do? I can try these explosives, but we didn’t bring much.
+[Saki]: Can’t you just hack the electronic lock like before?
+[Moe]: I can’t do that when the mechanical lock’s already been triggered!
+[Miyu]: Th-This is really it… I w-wanna go home…
+[Miyako]: L-Let’s all calm down first…
+[Moe]: Miyako, use that brain of yours for something! Five minutes left!
+[Saki]: Aren’t you our leader, Miyako?
+[Miyu]: M-Miyako… Help…
+[Miyako]: M-Me?
+[Moe]: You’ve got to do something, and do it now!
+[Saki]: Miyako!
+[Miyako]: I…
+[Miyako]: Fade to black
+[Miyako]: (I don’t know. My leadership has been nothing but failures since we left the SRT.)
+[Miyako]: (Everything from the protest to when the camp was flooded… Failures.)
+[Miyako]: (Is this all I’m capable of? I don’t have the resourcefulness or leadership skills like Sensei…)
+[Miyako]: (I’ve led my squad members into a life-threatening situation.)
+[Miyako]: (Do I have what it takes to get them out of it? Or will I just fail again, like I always do?)
+[Sensei]: “Get ahold of yourself, Miyako!” / “This is an ongoing operation, Miyako!”
+[Sensei]: Fade back
+[Miyako]: Sensei?
+[Miyako]: I…I can’t do this, Sensei. The situation is hopeless.
+[Miyako]: If you were here, you would be able to figure a way out… You would be able to protect your squad…
+[Miyako]: But I’m not like you, Sensei. I never have been.
+[Miyako]: If I tried my hardest, with all my ability…
+[Miyako]: I don’t know! I just don’t know, Sensei!
+[Miyako]: I can’t do this on my own! I don’t believe in me like you do!
+[Sensei]: “You don’t have to do it on your own.”
+[Sensei]: …
+[Sensei]: “Look to the squad members who’ve always put their trust in you!”
+[Miyako]: My squad members…trust me?
+[Saki]: Are you stupid? Who else could lead the RABBIT Squad in a situation like this?
+[Saki]: Do you think I could do anything? I’m pretty sure there wasn’t a chapter on how to handle getting locked in a vault while raiding a police station in my textbooks.
+[Miyu]: I-I’m always s-scared and lonely on sniper duty…
+[Miyu]: But y-you’re the only person who’s never forgotten me, Miyako.
+[Moe]: You think I’m gonna lead us? I have my hands full with helping you dummies from over here anyway.
+[Everyone]: So, for now, all of us…
+[Sensei]: “All of us are putting our faith in you, Miyako!”
+[Sensei]: …
+[Miyako]: …Understood.
+[Miyako]: As the field commander, I will be issuing orders to all members.
+[Miyako]: The operation from here on out will be volatile and every decision will count. I will not be able to address your questions, and selfishly ask you to follow me blindly even if you don’t understand my reasonings.
+[Miyako]: But I promise you, we’re going to conclude this mission safely and take the Clover back to…our home. All of us.
+[Miyako]: Understood?
+[Everyone]: Understood!
+[Everyone]: Fade to black
+[Everyone]: (Approximately five minutes later…)
+[Everyone]: Alarms blaring
+[Valkyrie Student A]: The alarms at the archive room are going off! Could it
+[Valkyrie Student A]: be intruders?
+[Valkyrie Student B]: No way. We haven’t seen anything on the CCTVs.
+[Valkyrie Student B]: It was probably just a stray cat or something.
+[Valkyrie Student A]: How would a stray cat make it past the vault door?
+[Valkyrie Student B]: Beats me, maybe it came through a hole or something.
+[Valkyrie Student B]: Beep
+[Valkyrie Student B]: Vault opens
+[Valkyrie Student B]: Here, kitty, kitty, kitty…
+[Valkyrie Student B]: What the! Who are you?!
+[Valkyrie Student B]: ?!
+[Valkyrie Student B]: Valkyrie Student falls
+[Saki]: When it comes to security concerns, you should always assume the worst. That’s standard practice.
+[Saki]: Undisciplined attitudes like yours explain the current state of Kivotos!
+[Saki]: …
+[Valkyrie Student A]: I-Intruders!
+[Valkyrie Student A]: Sudden black with explosions and gunfire
+[Saki]: Miyako was right. All we had to do was trip the
+[Saki]: alarm on purpose, and the Security Bureau came running right over to let
+[Saki]: us out.
+[Saki]: I guess I should be grateful that our colleagues
+[Saki]: who are supposed to be sharing the responsibility of Kivotos’ safety are
+[Saki]: stupid as hell…
+[Miyu]: B-But…
+[Miyu]: The alarms are still going off…
+[Miyako]: Yes. Reinforcements will be arriving soon.
+[Miyako]: The objective is to play this aggressively and catch them off guard. But avoid large groups and open areas.
+[Miyako]: We’ll stage our attack at the eastern hallway. It’s narrow with a lot of cover.
+[Miyako]: Remain vigilant for ambushes and make your way to the rendezvous point! Move out!
+[Miyako]: <<Battle Sequence>>
+[Miyako]: The members of the RABBIT Squad follow Miyako’s instructions and make it to the rooftop, subduing the Valkyrie Police Academy students along the way.
+[Saki]: Enemy assault soldier defeated. Tango 3 is down!
+[Miyako]: Copy! RABBIT 2, move forward to the next point! I’m covering you!
+[Saki]: Understood!
+[Miyako]: All other members, maintain your current position for five seconds.
+[Miyako]: Three… Two… One…
+[Miyako]: Saki, now! Discharge Foxtrot!
+[Saki]: Flash bomb up front!
+[Saki]: Explosions and gunfire
+[Miyako]: Miyu! Enemy sniper at five o’clock!
+[Miyu]: Got ‘em!
+[Miyu]: But I only have one shot left in my chamber! I need to reload!
+[Miyako]: Authorized. Saki, cover her!
+[Saki]: Leave it to me!
+[Saki]: Black screen with explosions and gunfire
+[Security Bureau Student A]: Who the hell are these guys?
+[Security Bureau Student A]: They’re slicing through us like a giant, organized chainsaw!
+[Security Bureau Student A]: They’ve outnumbered and
+[Security Bureau Student A]: outgunned… But they’ve managed to push us back so far!
+[Security Bureau Student B]: Isn’t this OUR school? They’re using the environment to their advantage!
+[Security Bureau Student B]: We’ll have to retreat to the central entrance at this rate…
+[Security Bureau Student A]: Stand your ground! Reinforcements from the Security Bureau should be arriving at any minute!
+[Security Bureau Student A]: Once they arrive, we’ll just bulldoze them over! At the end of the day, there’s only three of them.
+[Miyako]: Reinforcements detected at the west entrance.
+[Miyako]: Moe, can you access the school’s heating system?
+[Miyako]: I need you to hack the indoor temperature sensor.
+[Moe]: Systems like that have virtually no security. It’s a snap.
+[Miyako]: Raise the indoor temperature readings. We’re going to trick their automatic building management system.
+[Moe]: Heehee. What I like to hear. How hot?
+[Miyako]: 900 degrees Celcius!
+[Moe]: It’s nice and toasty now! Or at least the building thinks it is.
+[Security Bureau Student A]: I-Is that water?
+[Security Bureau Student B]: The sprinklers are malfunctioning!
+[Security Bureau Student A]: Which means…
+[Security Bureau Student A]: Augh! The firewalls are coming down!
+[Security Bureau Student A]: Doors shutting
+[Security Bureau Student B]: Dammit. We’re trapped inside the building.
+[Security Bureau Student B]: Our reinforcements won’t be able to get to us anymore.
+[Security Bureau Student A]: Don’t worry. We can operate the firewalls manually from the control room.
+[Security Bureau Student A]: We can just raise the firewalls and let in the reinforcements!
+[Security Bureau Student B]: Huh? What’s this? Did the intruders forget this?
+[Security Bureau Student A]: It looks like a C4 explosive. But it has a modded lithium battery on top like an IED bomb.
+[Security Bureau Student B]: Wait. But if lithium gets wet…
+[Security Bureau Student B]: …
+[Security Bureau Student A]: ...We’re toast.
+[Security Bureau Student A]: Explosion
+[Security Bureau Student A]: Clock ticking
+[Fubuki]: *yawn* I’m sleepy…
+[Fubuki]: What’s all this commotion in the middle of the
+[Fubuki]: night?
+[Fubuki]: What kind of world do we live in? A petty thief invading a police school of all places.
+[Fubuki]: And why’d they wake up anyone and everyone? The Security Bureau can deal with some thief.
+[Fubuki]: They’ve got the situation under control. I’ll just do a quick patrol on my way back.
+[Fubuki]: Hm…?
+[Fubuki]: …
+[Fubuki]: This is the worst trap I’ve
+[Fubuki]: ever seen in my life.
+[Fubuki]: I know we all have a
+[Fubuki]: reputation for loving donuts, but a blatant trap like this in
+[Fubuki]: our main building is just ridiculous.
+[Fubuki]: What kind of stupid moron would fall for this obvious trap…
+[Saki]: Oh, yeah. That’s a limited-edition strawberry donut from Master Donuts. With marshmallows.
+[Fubuki]: With marshmallows? In that case…
+[Fubuki]: Thanks for the treat!
+[Fubuki]: Explosion
+[Fubuki]: Y-You got me!
+[Fubuki]: Fubuki falls
+[Saki]: Did that actually just work? Pinch me, please.
+[Miyu]: I-I doubted it too… But Miyako did say to follow her orders blindly.
+[Miyu]: It worked out in the end.
+[Miyako]: Hah… I was nervous too. It was a bit of a gamble.
+[Miyako]: But we only got through the massive enemy force and to this point thanks to all of your exceptional talents.
+[Miyako]: It would’ve been the same result with anyone leading.
+[Saki]: There you go again.
+[Miyako]: Pardon? Did I say something wrong?
+[Saki]: Miyako, you stupid-head! Everything is thanks to you! No one else here led us to this point. It was YOU!
+[Saki]: There isn’t anyone else in…in all of KIvotos who could’ve done what you just did! You assessed the situation, everyone’s individual skills, and deployed us all accordingly. That was you.
+[Moe]: We were just your little pawns and you played the game perfectly.
+[Miyu]: W-We don’t say it but…we’ve always had faith in you as our leader.
+[Saki]: Even that stuff I said about not recognizing you as a leader…
+[Saki]: I didn’t mean it. I’m sorry.
+[Saki]: …
+[Miyako]: Thank you, everyone.
+[Miyako]: Regardless, I don’t agree that this was all me.
+[Miyako]: A special forces operation can only be carried out by all members of the squad!
+[Saki]: What a stubborn squad leader.
+[Moe]: It’s part of her charm.
+[Miyako]: That’s enough chitchat.
+[Miyako]: We’re not in the clear yet. The Valkyrie students will catch up to us soon. Let’s move!
+[Kirino]: Hold it right there, villains!
+[Kirino]: I heard there were intruders at the school…
+[Kirino]: And it turns out to be you guys!
+[Miyako]: Aren’t you…
+[Kirino]: I’m hard to forget, huh? It’s me, Kirino, ace of the Public Safety Bureau! I defeated you once with my Strike of Justice, and I’ll do it again!
+[Kirino]: I’ll show you no mercy to criminals threatening the public order and peace!
+[Saki]: Who’s this hot-blooded weirdo blocking us?
+[Miyu]: Y-Your orders, Miyako.
+[Miyako]: (According to Sensei’s intel, this student’s shooting skills are definitely…)
+[Miyako]: Ignore her. Keep moving to the rendezvous point.
+[Kirino]: Th-They left? Hey! Get back here!
+[Kirino]: I’ll really, actually shoot! I’m gonna shoot if you don’t come back!
+[Kirino]: Argh!
+[Kirino]: Gunshots
+[Fubuki]: That shot went to the moon…
+[Kirino]: Didn’t I subdue them perfectly last time?
+[Kirino]: I failed my duty. The criminals slipped right out of my grasp.
+[Kirino]: On another note, how come you were lying on the ground with a box on your head?
+[Fubuki]: Hmm. I don’t remember. The only thing I know is I have a limited-edition donut in my hand.
+[Fubuki]: You want a bite, Kirino?
+[Fubuki]: <<To be Continued>>
+[Fubuki]: 19 - Time to Grow Up
+[Fubuki]: Kanna appears in front of the squad members on the roof and confrtons them. Kanna is angry and thinks that the SRT Academy, which has been conducting operations under privileges of immunity, doesn't deserve to discuss justice. But Sensei points out her own immaturity , and Kanna is stunned into retreat. The RABBIT Squad returns safely to camp, hands over the evidence to Sensei, and falls asleep.
+[Fubuki]: [Valkyrie Police School Main Building Rooftop]
+[Miyako]: RABBIT 1, reporting. Currently 0100 hours.
+[Miyako]: We’ve arrived.
+[Miyako]: Camp RABBIT, can we expect air support?
+[Moe]: We’re behind schedule because of the change in
+[Moe]: rendezvous point.
+[Moe]: Hold tight for five minutes! We’ll get you outta there!
+[Miyako]: Understood.
+[Miyako]: RABBIT 2, seal off the passage to the rooftop and install barricades.
+[Saki]: Barricades are already up…and I’ve added anti-personnel mines for good measure.
+[Saki]: explosion
+[Saki]: …Let’s hope it holds up.
+[Miyu]: Th-They’re already at the rooftop door?
+[Miyu]: Are we gonna last five minutes?
+[Moe]: A desperate situation, hostiles approaching and a barely barricaded door, waiting on tenterhooks for a helicopter….
+[Moe]: Just like the zombie movie we watched last week.
+[Saki]: How did that movie end again?
+[Moe]: All the zombies jumped on the helicopter making it crash and…everyone died?
+[Saki]: That’s not what I want to hear right now!
+[Miyu]: G-Good thing there’s no zombies in real life…
+[???]: …You again.
+[Miyu]: EEEEK! A r-r-real zombie!
+[Kanna]: Seriously, you should really refer to me as the Public Peace Bureau director. Director, at least.
+[Miyako]: Director Kanna?!
+[Saki]: All of the access points to the rooftops should be sealed. How did you get here?
+[Kanna]: I scaled the storm drains on the side of the building.
+[Saki]: …?! This building has to be at least ten stories.
+[Saki]: A student with no rappelling training and no equipment just free-climbed the side of a building?
+[Kanna]: The Public Peace Bureau’s motto is to apprehend criminals at all costs.
+[Kanna]: Did you think you could get away with this? I would let you walk off into the sunset after infiltrating the very school in charge of Kivotos’ policing?
+[Kanna]: There’s nowhere to go now. Just come quietly.
+[Miyako]: …
+[Kanna]: When are you children going to grow tired of your stupid games?
+[Kanna]: You need to face reality. Kivotos doesn’t need the SRT anymore. It’s an eyesore and, now, a public menace.
+[Kanna]: I’l arrest you here and report all your sordid activities to the General Student Council. Not even the Chief of Staff will be able to stop your records from being expunged.
+[Miyako]: I guess we’ll go down together then, Director Kanna.
+[Miyako]: ?!
+[Miyako]: The goal of our operation was to secure this
+[Miyako]: Public Peace Bureau’s ledger.
+[Miyako]: This evidence of the illegal rebates you received
+[Miyako]: from the Kaiser Group in exchange for evicting the homeless population
+[Miyako]: from Kousagi Town.
+[Kanna]: How did you find out?
+[Saki]: Valkyrie Police School was armed with the shabbiest, standard-issue gear and was already undergoing budget cuts. Of course it raises red flags when you show up with an arsenal all of a sudden.
+[Miyako]: Being responsible for the security of Kivotos, the Valkyrie Police School must conduct its official duties fairly and in accordance with the rules set by the General Student Council. That’s the trust the public has put in you.
+[Miyako]: But you, the director of the Public Peace Bureau, turned this arm of justice into a petty mercenary squad, colluding with private corporations for your own benefit.
+[Miyako]: This is a felony of the highest order and a slap in the face of the justice Valkyrie Police School supposedly claims!
+[Miyako]: …
+[Kanna]: …Why…
+[Kanna]: …Why do you little children always puff your chest out and tout your pretty, empty words?
+[Kanna]: Fairly and equally… The ideal of public service.
+[Kanna]: Sure, the Valkyrie Police School serves the public and should act accordingly.
+[Kanna]: But guess what? The world isn’t made of rainbows and butterflies.
+[Kanna]: Discipline? Justice? Hah! You hide behind your immunity and look down on everyone else. But we were the ones getting our hands dirty every day to take care of business. THAT’S what the real world is! It’s time to get your noses out of your textbooks!
+[Kanna]: Do you think this is what I want?! You think I like being the bad guy?
+[Kanna]: Ideals don’t serve justice! Actions do, no matter what you have to do along the way!
+[Kanna]: What do sheltered children like you know? You don’t know anything!
+[Kanna]: Black
+[Sensei]: “Those are all excuses, Kanna.”
+[Kanna]: Is that…
+[Kanna]: [NAME] Sensei…
+[Sensei]: “The ends never justifies the means, Kanna. Ever.” / “Beliefs mean nothing if you abandon them at the first hardship.”
+[Kanna]: You don’t understand. I would’ve lost everything if I held onto my beliefs!
+[Kanna]: I’m one small cog in the wheel! My hands are tied! What am I supposed to do, Sensei?!
+[Sensei]: “It was the same for the RABBIT Squad, you know.”
+[Sensei]: ?!
+[Kanna]: …
+[Sensei]: “Doing the right thing is never easy…”
+[Sensei]: “But that’s a decision you have to make for yourself.”
+[Sensei]: …
+[Saki]: I guess our stupid Sensei does make good points here and there.
+[Saki]: That’s right! No one can decide for you, but you!
+[Miyu]: W-We were scared and unsure when this all started…
+[Moe]: But us crazies on the SRT, no matter what.
+[Miyako]: …Thank you as always, Sensei.
+[Miyako]: Director Kanna. One thing I’ve learned recently is that just because your definition of justice is different from mine, doesn’t mean it’s wrong.
+[Miyako]: But I can’t abide by a corrupt justice wielded to dodge accountability and responsibility.
+[Miyako]: That’s the high, high wall between you and me.
+[Kanna]: I…
+[Moe]: Miyako, helicopter incoming!
+[Miyako]: TIme flies when you’re chatting with an old friend.
+[Miyako]: Strap into your harnesses. RABBIT Squad, let’s pull back!
+[Saki]: We’re locked in, let’s go!
+[Moe]: Hold on tight so you don’t get left behind!
+[Miyako]: We’ll be on our way, Director.
+[Miyako]: I hope we meet again, under better circumstances.
+[Miyako]: RABBIT Squad flies away
+[Miyako]: …
+[Kanna]: Well… I better get a head start on my apology letter for all this…
+[Miyako]: Current time is 0145 hours. This is RABBIT 1,
+[Miyako]: arriving at Camp RABBIT.
+[Miyako]: The operation yielded no casualties and the
+[Miyako]: Clover has been secured.
+[Miyako]: Which concludes Operation Clover. Excellent
+[Miyako]: work, everyone.
+[Sensei]: “I’m so proud of all of you!”
+[Saki]: I’m exhausted. I could fall asleep right here.
+[Miyu]: S-So sleepy…
+[Miyu]: I’m just gonna lay down right here…
+[Saki]: Miyu, at the very least take off your gear before going to sleep.
+[Saki]: As well as write your operational reports and wash up for bed.
+[Saki]: Who am I to walk? I could fall asleep standing right now.
+[Moe]: As thrilling as all that adrenaline was… I’m ready to relax.
+[Moe]: Let me just…turn off the comms equipment…before I sleep…
+[Moe]: Saki and Moe fall asleep
+[Moe]: …
+[Miyako]: Heehee. Everyone here really put in their all today.
+[Miyako]: And as we agreed on before, I’m entrusting the Clover to you, Sensei.
+[Miyako]: We might have uncovered this evidence, but whoever is pulling the strings must be fairly powerful to have backed Director Kanna into a corner the way they did.
+[Miyako]: We may be trained agents, but us students are still naive to the ways of this world. This is where our role ends.
+[Miyako]: We’ll leave the rest to you, Sensei.
+[Sensei]: “Thanks, Miyako. I won’t let your effort go to waste.”
+[Sensei]: Fade to black
+[Sensei]: (After helping move the sleeping students to their tents, I returned to Schale.)
+[Sensei]: (And proceeded to use the evidence from Miyako to handle things, as a teacher would.)
+[Sensei]: <<To be Continued>>
+[Sensei]: 20 - Fox in the Hole
+[Sensei]: The Public Peace Bureau has a publicity disaster on their hands when the rebate with the Kaiser Group is exposed. Peace is restored to Kousagi Park, and the RABBIT Squad goes back to their daily lives. Meanwhile, Kaya, chief security officer of the General Student Council, secretly makes contact with the Fox Squad that was thought to have disappeared, and plans to launch a coup d’ètat against the General Student Council.
+[Sensei]: [Front of the Valkyrie Police Academy Main Building Entrance]
+[Shinon]: Welcome! As you can see
+[Shinon]: behind me, I’m currently at the Valkyrie Police School. The once
+[Shinon]: well-respected school has seen better days as recent claims accuse
+[Shinon]: them of illegal collusion with the Kaiser Group!
+[Shinon]: According to an anonymous
+[Shinon]: tip sent to the Kronos School…
+[Shinon]: The students of the Public Peace Bureau have been wielding governmental power on behalf of the Kaiser Group in exchange for money and goods!
+[Mai]: The world was shocked to hear that the police school entrusted with protecting the public would debase themselves to a petty mercenary group for their own private interests!
+[Shinon]: I’m still reeling in shock! To make matters worse, eyewitness accounts say the Valkyrie School was recently defeated by a group of robbers who destroyed the facilities!
+[Mai]: This organization, supposed to keep the citizens safe, couldn’t even protect their own home base!
+[Shinon]: Now the real question remains: is Kivotos still safe in the hands of the Valkyrie Police School?
+[Mai]: As more doubts pile up, apprehension is thick amongst the citizens!
+[Kanna]: What the hell do you think you’re doing here?
+[Shinon]: Incredible! It’s the director of the Public Peace Bureau herself, a key suspect in the investigation!
+[Shinon]: Directo Kanna, please tell us! Why did you enter into an illegal contract with the Kaiser Group?
+[Kanna]: What? Where did you hear that from?
+[Kanna]: No, wait! This is a secure area! You have no authorization to film here!
+[Mai]: The Feral Hound of Valkyrie is now threatening the media in a rage!
+[Kanna]: GET OUT! I’ll break your cameras in half!
+[Kanna]: [Kousagi Park]
+[Miyako]: …The situation is spiraling vert quickly.
+[Miyu]: I-It’s all they’ve been t-talking about on the
+[Miyu]: news…
+[Miyu]: Wh-What if the Public Peace Bureau tries to get r-r-revenge?
+[Saki]: You worry too much, Miyu. We did what was right and that’s what matters.
+[Saki]: Anyways, who has time for revenge when they’re fighting off a crowd of rabid reporters?
+[Moe]: I can’t put my finger on something…
+[Saki]: What is it?
+[Moe]: How do I say it… Everything moved so quickly. Corporate scandals normally move slowly and much more quietly.
+[Moe]: All parties were so…agreeable? The General Student Council hopped to their investigation like eager little bunnies, and even the Kaiser Group bowed their heads on the Kousagi Town redevelopment as if they hadn’t poured millions into the project already.
+[Moe]: If I had to point to something… Sensei, did you threaten the General Student Council?
+[Sensei]: “You did say to handle it as an adult would.” / “I’d prefer to say that we came to an adult understanding?”
+[Miyako]: Well, either way, I’m relieved it’s over.
+[Miyako]: With the development project scrapped, they gain nothing spending time and money to evict the homeless population here.
+[Miyako]: And we get to keep our home.
+[???]: Hm… A-Ahem!
+[???]: ?
+[Saki]: Ah. An intruder.
+[Moe]: Oh dear, oh dear. My fingers have been itching to blow something up.
+[Moe]: Saki, be a pal and throw me one of my little babies.
+[Descartes]: S-Stop it! I’m not an intruder! I’m saluting you!
+[Saki]: …Salute?
+[Moe]: Now you’re speaking my language. It’s when you greet someone with gunpowder and lead.
+[Descartes]: You…You unintelligent hooligans!
+[Descartes]: No matter how I twist it, and trust me, I tried, a monk in pursuit of enlightenment such as myself has to pay my debts where they’re due.
+[Descartes]: …So… Well… You’ve done me a great service. More or less.
+[Descartes]: I know the RABBIT Squad risked life and limb raiding the Valkyrie Police School to get evidence of their evil crimes and expose them.
+[Descartes]: We’ve been able to reclaim our sanctuary in Kousagi Town and Pursuers have been tricking back into the fold one by one. Thanks to you… I guess.
+[Descartes]: I know it wasn’t for us, but we can’t deny you’ve helped us.
+[Descartes]: So I’ve bought you some of our most revered food. To repay our debt.
+[Descartes]: !
+[Moe]: Revered food? What? Tell me, now!
+[Saki]: If it’s a mung bean sprout bento I’ll really let Moe blow you up to the heavens.
+[Descartes]: Please! We’re city-dwelling seekers enlightened in the ways of non-possession. Naturally, I’ve most generously brought you the absolute best of what we have.
+[Descartes]: Drumroll, please!
+[Descartes]: Voila! A chicken bone karaage!
+[Descartes]: …
+[Miyako]: Karaage…?
+[Descartes]: Correct! And it’s no ordinary karaage! This luxury
+[Descartes]: item is made from deep-fried bones! I mean… You can’t eat it, but…
+[Descartes]: If you chew and suck on the bones, it’s almost
+[Descartes]: the same as eating a fried chicken! Without the calories!
+[Descartes]: To sweeten the deal, you can always enjoy a
+[Descartes]: fresh can of beer while sucking on the bone to pretend you’re actually eating!
+[Descartes]: Please, don’t rush to thank me at once.
+[Descartes]: …
+[Miyu]: Th-This isn’t karaage…
+[Saki]: This is an insult to food everywhere. It’s worse than a mung bean sprout bento.
+[Descartes]: N-N-No way! It’s fried chicken! Can’t you unenlightened idiots see that?!
+[Descartes]: You dare insult this masterpiece I’ve so generously offered you?!
+[Moe]: Don’t be mean. It’s not food waste at all.
+[Moe]: According to Kivotos’s garbage disposal regulations, chicken bones are classified as combustible waste. So, it’s worse.
+[Moe]: …
+[Descartes]: Food waste this, combustible waste that…
+[Descartes]: You clearly have learned nothing about non-possessiveness! You…You gluttonous pigs don’t understand the value of this delectable dish!
+[Descartes]: I should’ve known better! The Pursuers can never coexist with the greed that reeks from your soul!
+[Saki]: You think we want to coexist with you hypocritical pieces of junk?
+[Saki]: Moe, we still have armor piercing explosives, right?
+[Moe]: Let’s wage war against these jerk turkeys!
+[Moe]: …
+[Miyako]: …They never change, do they?
+[Miyako]: Fade to black
+[Miyako]: [Chief of Defense Office]
+[Kaya]: And we’ve come full circle.
+[Kaya]: This incident has left the Valkyrie Police
+[Kaya]: School on a very, very short chain. And I can’t turn anywhere without those
+[Kaya]: Kronos gnats buzzing in my face…
+[Kaya]: I really must have done something horrible in a past life to deserve work with such incompetence.
+[???]: ...That again?
+[Kaya]: Oh, you know I’m just complaining. Luckily, the rebate Kaiser Corporation kindly granted directly to us has flown under the radar.
+[Kaya]: Director Kanna can handle the fallout while our plan continues in the background.
+[???]: Do you have time for your petty games? You should be trying to recruit more trustworthy colleagues.
+[Kaya]: Trustworthy colleagues, you say…
+[Kaya]: …What about those underclassmen of yours? They’re quite formidable.
+[Kaya]: You can take the fighter out of the school, but not the fight out of the fighter. I realize they’re still new, but they’re still elite individuals who passed the SRT entrance exams.
+[Yukino]: They have a very long way to go before they’ll be fit to uphold the SRT banner.
+[Niko]: Oh Yukino, always so strict.
+[Yukino]: No. You’re soft, Niko.
+[Yukino]: Thirty minutes? And all that commotion? Under my command, we would have been in and out under a minute with no one the wiser.
+[Kaya]: Can you really compare a ragtag group of freshmen against veterans such as yourselves, Niko?
+[Kaya]: Which brings me back to my point.
+[Kaya]: I’d like to invite the RABBIT Squad to join our coup d’etat.
+[Kaya]: Black screen
+[Kaya]: What do you say, SRT Academy’s infamous FOX Squad?
+[Otogi]: Fine by me.
+[Kurumi]: Even if it wasn’t their intention, I’d like to crush them with my own hands for foiling the career paths of their upperclassmen.
+[Niko]: Oh, my. I hate to dirty the hands of such adorable little underclassmen.
+[Yukino]: Even children like them understand that dirtying ourselves is the price we pay for enrollment. For our justice.
+[Yukino]: Fade to black
+[Yukino]: This plan….
+[Yukino]: …No, everything we do is for the SRT’s resurrection and Schale’s demise.
+[Yukino]: <<To be Continued>>
+[Yukino]: This will be continued in Volume 4 Chapter 2

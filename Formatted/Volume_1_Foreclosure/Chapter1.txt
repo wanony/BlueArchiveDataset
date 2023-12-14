@@ -1,0 +1,2093 @@
+[Chapter 1]: Strange Days for the Task Force
+[Chapter 1]: The Foreclosure Task Force was formed to prevent Abydos High School from closing. The school's debt persists despite the students' best efforts.
+[Chapter 1]: 01 - Welcome to the Foreclosure Task Force!
+[Chapter 1]: Sensei receives a letter from Abydos High School and learns the students there are being bullied by a criminal organization. In a hurry, Sensei heads toward the Abydos district, but gets hopelessly lost in the process.
+[Chapter 1]: [Schale Executive Office]
+[Arona]: Good morning, Sensei!
+[Arona]: A lot of people are starting to talk about Schale, and we've received letters from other students asking for help.
+[Arona]: That's a great sign, and it means there's a lot of work for us to do!
+[Arona]: Um, but...there's this one letter we got.
+[Arona]: I think you should take a look.
+[Sensei]: Read the letter.
+[Sensei]: To the advisor of the Federal Investigation Club.
+[Sensei]: Hello. My name is Okusora Ayane, and I'm a student at Abydos High School.
+[Sensei]: I’m writing this letter because I want to ask for your help.
+[Sensei]: Our academy is being harrassed.
+[Sensei]: One of the local gangs has been tormenting us.
+[Sensei]: (Read the next page.)
+[Sensei]: It's a long story, but we think…
+[Sensei]: …this gang is after the school building itself.
+[Sensei]: The Students are doing their best to stop them.
+[Sensei]: It’s only a matter of time before we run out of ammunition and supplies, though.
+[Sensei]: At this rate, the school will fall to them for sure.
+[Sensei]: (Read the last page.)
+[Sensei]: That’s why I'm writing to ask for your help
+[Sensei]: Can you please help us, Sensei?
+[Arona]: Hmm... Abydos High School, huh?
+[Arona]: It used to have a large, thriving district, but it fell on hard times due to climate change.
+[Arona]: The district was so big that people would even get lost in the middle of town!
+[Arona]: Heehee. That must sound ridiculous. How does someone get lost in the middle of modern civilization?
+[Arona]: I'm sure that was just an urban legend.
+[Arona]: Anyway, I can't believe the academy is being bullied by some lowlife gang. It sounds pretty serious.
+[Arona]: I wonder what brought this on.
+[Sensei]: "I need to go to Abydos."
+[Arona]: You want to head there right away? You really don't back down, do you?
+[Arona]: All right, then! Good luck!
+[Arona]: <I eventually arrived in Abydos…>
+[Arona]: <…but got lost in the middle of the district. It took days to find the school>
+[Arona]: <<To be Continued>>
+[Arona]: 02 - First Day at Abydos
+[Arona]: Shiroko rescues Sensei and eventually the two arrive at Abydos' Foreclosure Task Force club room. Soon after, the school is attacked by the Kata-Kata Helmet Gang, and Sensei teams up with the students to fight back.
+[Arona]: [Abydos Residential Area]
+[Arona]: <*chirp* *chirp* *chirp*>
+[???]: Huh?
+[???]: <*screech*>
+[???]: …
+[???]: Hmm…
+[???]: …
+[???]: Are you okay?
+[Sensei]: Nod. / Ask for help.
+[Shiroko]: At least you're alive. I thought you were a goner when I saw you lying in the road like that.
+[Shiroko]: What's that? You fainted from hunger?
+[Shiroko]: Does that mean you're homeless?
+[Shiroko]: Oh…
+[Shiroko]: [Abydos Residential Area]
+[Shiroko]: *glances*
+[Shiroko]: You came here on business, but fainted out of hunger and dehydration when you couldn't find a single shop open?
+[Shiroko]: Well, that's hardly surprising.
+[Shiroko]: It happens all the time around here. It's been a long time since there were businesses open in this neighborhood that offer food and drinks.
+[Shiroko]: You would have more luck further toward the outskirts.
+[Shiroko]: You're not sure how to get there? So this must be your first time here.
+[Shiroko]: Hold on.
+[Shiroko]: <*rummaging*>
+[Shiroko]: Here. Have some of my energy drink.
+[Shiroko]: It's for cycling, but it's all I have right now. Better than nothing.
+[Shiroko]: Wait. Let me get you a cup or something.
+[Sensei]: Drink it straight from the bottle.
+[Sensei]: <*gulp* *gulp*>
+[Shiroko]: …!
+[Shiroko]: You weren't supposed to…
+[Shiroko]: Never mind. Don't worry about it.
+[Sensei]: Thank her for coming to your rescue.
+[Shiroko]: Um…
+[Shiroko]: You look like you're an adult from the General Student Council. Are you here on some kind of academy-related business?
+[Shiroko]: Ours is the only one around.
+[Shiroko]: So you're here to visit Abydos Academy?
+[Sensei]: Nod.
+[Shiroko]: Oh. It's been a long time since anyone visited us.
+[Shiroko]: Let me show you the way. It's not too far from here.
+[Shiroko]: What? Too hungry to move?
+[Shiroko]: That's...a problem.
+[Sensei]: Ask for a ride.
+[Shiroko]: But my bike only has one seat.
+[Sensei]: Ask her for a piggyback ride instead.
+[Shiroko]: …
+[Shiroko]: Fine. I'd rather do that.
+[Shiroko]: Let me just park my bike.
+[Shiroko]: Hop on.
+[Shiroko]: <*shuffle*>
+[Shiroko]: Wait.
+[Shiroko]: …
+[Shiroko]: It's just, I had been cycling for a while. I didn't work up that much of a sweat, but still…
+[Shiroko]: I usually have to take a shower at school afterward and keep a change of clothes there.
+[Shiroko]: Huh? You don't mind?
+[Shiroko]: You actually think I smell good?
+[Shiroko]: …
+[Shiroko]: What is anyone supposed to say to that? Whatever. As long as you're not going to complain.
+[Shiroko]: Let's go.
+[Shiroko]: *shuffle*
+[Shiroko]: Hold on tight.
+[Shiroko]: [Abydos Foreclosure Task Force]
+[Shiroko]: I'm back.
+[Serika]: Welcome back, Shiro...ko?
+[Serika]: Who's that riding on your back?!
+[Nonomi]: Whoa! Shiroko kidnapped someone!
+[Ayane]: That or it's a dead body! What did you do, Shiroko?!
+[Serika]: Everyone, calm down. We have to help her hide the body! Go grab a shovel and pickaxe from the storage!
+[Shiroko]: …
+[Shiroko]: <*collapses*>
+[Shiroko]: Settle down—they're alive and breathing. They just came to visit the school.
+[Ayane]: What? It's not a corpse?
+[Serika]: A visitor? Are you sure you didn't kidnap them?
+[Shiroko]: Uh…
+[Sensei]: Greet them with a smile.
+[Nonomi]: I'm shocked. We haven't had a visitor in ages.
+[Ayane]: True...but were we expecting anyone?
+[Sensei]: "I'm an advisor with Schale. It's nice to meet you."
+[Sensei]: ! ! !?
+[Ayane]: No way! Are you?!
+[Serika]: You're with Schale? The Federal Investigation Club?!
+[Nonomi]: Wow! That means you got the letter Ayane wrote! ☆
+[Ayane]: This is great. This means we can finally get more ammo and supplies.
+[Ayane]: I have to tell Hoshino. Wait... Where is she anyway?
+[Serika]: She's taking a nap in the next room. I'll go wake her up.
+[Serika]: Serika leaves
+[Serika]: <*pop* *pop* *pop* *tat*>
+[Nonomi]: Was that gunfire?!
+[Shiroko]: …!
+[Helmet Gangster B]: Hahaha!
+[Helmet Gangster A]: They're all out of ammo! Finish 'em off, and then take over the school!
+[Helmet Gangster A]: <*pop* *pop* *pop* *tat*>
+[Helmet Gangster A]: Gangsters march forward
+[Ayane]: There's a group approaching the school! It must be the Kata-Kata Helmet Gang!
+[Shiroko]: Those punks... They have some nerve coming back for more.
+[Serika]: I've got Hoshino! Now if she'd just wake up!
+[Hoshino]: *yawn*Just five more minutes…
+[Ayane]: Hoshino! The Helmet Gang is attacking again! By the way, this is Sensei from Schale.
+[Hoshino]: Ohhh. That's a problem... *yawn* Nice to meet you, Sensei.
+[Serika]: Wake up and get your butt in gear, Hoshino! Literally! We have to defend the school!
+[Hoshino]: *yawn* Don't they know it's rude to wake the elderly during naptime? Time to teach those Helmet Gang whippersnappers a lesson.
+[Shiroko]: Let's get going. Sensei brought us ammo and supplies to use.
+[Nonomi]: Okay! Let's sortie, everyone! ☆
+[Nonomi]: Everyone leaves
+[Ayane]: I'll navigate us from here.
+[Ayane]: Stay on the back lines and provide support, Sensei!
+[Ayane]: <<Battle Sequence>>
+[Ayane]: Under Sensei's command, the students of Abydos repel the Helmet Gang and return safely to the school.
+[Ayane]: The Kata-Kata Helmet Gang is retreating from the district.
+[Nonomi]: Wow! We won! ☆
+[Serika]: Hahaha! How do you like that, Helmet Gang?
+[Ayane]: Great job, everyone! You're safe to return to campus.
+[Ayane]: <<To be Continued>>
+[Ayane]: 03 - Being an Adult is Amazing!
+[Ayane]: After defeating the Helmet Gang, the Foreclosure Task Force introduce themselves to Sensei at Abydos High School. Having solved some supply issues with Sensei's help, the students want to use their momentum to crush the Helmet Gang's outpost.
+[Ayane]: [Abydos Foreclosure Task Force Club Room]
+[Hoshino]: Wow, I can't believe we won! The Helmet Gang seemed pretty determined.
+[Ayane]: You shouldn't say that, Hoshino. Those thugs would have taken over the school had we lost.
+[Shiroko]: Sensei gave us the edge we needed to turn the tide. We couldn't have done it otherwise.
+[Shiroko]: Experience was likely the deciding factor. It was amazing how you handled resources, equipment, and support.
+[Hoshino]: Sheesh, Shiroko. You sound like you have a schoolgirl crush. Anyway, can I go back to sleep now that it's over?
+[Serika]: You shouldn't tease Shiroko like that, Hoshino! Besides, haven't you slept enough today?
+[Nonomi]: Someone got yelled at!
+[Ayane]: Haha. Anyway, we should introduce ourselves, Sensei.
+[Ayane]: We're the Abydos Foreclosure Task Force.
+[Ayane]: I'm Ayane, and I'm a first-year in charge of the task force's records and operations.
+[Ayane]: This is Serika, also a first-year.
+[Serika]: Hey.
+[Ayane]: And these are our second-years: Shiroko and Nonomi.
+[Nonomi]: Hello,Sensei!
+[Shiroko]: We met before.
+[Shiroko]: ...Ignore what Hoshino said, okay?
+[Ayane]: And this here is our president.
+[Ayane]: Hoshino is our lone third-year.
+[Hoshino]: Nice to meet you, Sensei.
+[Ayane]: I'm sure you've noticed by now that our school is in crisis. That's why I reached out to Schale for help, and you've already managed to come through for us.
+[Ayane]: Those thugs would have succeeded in taking over the school if not for you. We can't thank you enough.
+[Sensei]: Ask what the Foreclosure Task Force's purpose is.
+[Ayane]: The Foreclosure Task Force's goal is to bring Abydos back to its former glory.
+[Nonomi]: We're the only club in the school where every single student is a member! I mean, we're the only five students at this school, but still…
+[Shiroko]: All the others either transferred or dropped out and left town.
+[Shiroko]: I don't blame them for leaving Kivotos entirely, with the state that Abydos is in. And now we have to deal with thugs like the Kata-Kata Helmet Gang trying to take over the school.
+[Shiroko]: It's too difficult to defend Abydos on our own, and embarrassing to see the state it's in, if I'm being honest…
+[Ayane]: We would have been in real big trouble this time if Schale hadn't come around to help us.
+[Hoshino]: Seriously. I figured we were done for once we ran out of supplies. That's some timing you had there, Sensei.
+[Nonomi]: At least we don't have to worry about the Helmet Gang anymore! It pays to have adults in high places! ☆
+[Shiroko]: No. I'm sure it's only a matter of time before they come back.
+[Serika]: Yeah, probably. Man, I hate them.
+[Ayane]: Who knows how long this will drag out? We have plenty of other things to worry about besides the Helmet Gang.
+[Hoshino]: I have a plan.
+[Serika]: What the...?! Hoshino came up with a plan?!
+[Ayane]: I'm surprised too!
+[Hoshino]: I know I'm getting senile in my old age, but you don't have to hurt my feelings. I do my part too, you know.
+[Serika]: Well? Spill it.
+[Hoshino]: If history repeats itself, the Helmet Gang will attack again in a few days.
+[Hoshino]: So before then, why don't we go on the offensive for once? They're probably sulking and vulnerable after that last fight.
+[Ayane]: Y-You mean right now?
+[Hoshino]: Yeah, now. With Sensei here, we have more than enough supplies to finish the job once and for all.
+[Shiroko]: True. The Helmet Gang's base is 30 kilometers from here. We have plenty of time if we leave now.
+[Nonomi]: I'm all for it. The last thing they're expecting is for us to strike now.
+[Ayane]: I can't deny that, but...what do you think, Sensei?
+[Sensei]: "I'm on board."
+[Hoshino]: Great! If Sensei is giving us the green light, then let's hurry up and go.
+[Shiroko]: Let's strike while the iron is hot.
+[Nonomi]: Okay! Let's go!
+[Ayane]: You're now on the Kata-Kata Helmet Gang's turf.
+[Ayane]: I'm detecting their signal within a 15 kilometer radius.
+[Ayane]: They must know you're there. Don't let your guard down!
+[Ayane]: <<Battle Sequence>>
+[Ayane]: Together, Sensei and the students destroy the Kata—Kata Helmet Gang's outpost without much trouble and return to the school.
+[Ayane]: They're retreating!
+[Ayane]: Better yet, the Helmet Gang's supplies, hideout, and ammunition were all taken out.
+[Shiroko]: I bet they'll think twice before attacking us again.
+[Hoshino]: Great work, everyone. You too, Sensei.
+[Hoshino]: Let's head back to the school.
+[Hoshino]: <<To be Continued>>
+[Hoshino]: 04 - The Task Force’s Predicament
+[Hoshino]: The students explain to Sensei that their school's over 900 million yen in debt and how difficult it is for them to even keep up with interest payments. When Sensei offers to help, Serika goes off on a tirade about how grown-ups can't be trusted.
+[Hoshino]: [Foreclosure Task Force Room]
+[Ayane]: Welcome back, everyone. Great work today.
+[Hoshino]: We're back!
+[Serika]: Thanks, Ayane. You too.
+[Nonomi]: We finally took down the Kata-Kata Helmet Gang. It should be smooth sailing from here.
+[Shiroko]: More like we can finally get back to more important matters.
+[Serika]: Haha! All we have to focus on now is paying back the debt!
+[Serika]: Thanks for your help, Sensei. We won't forget what you did for us!
+[Sensei]: "Debt?"
+[Serika]: Wait... Shoot!
+[Ayane]: W-Well, the thing is…
+[Serika]: Stop right there! Not another word, Ayane!
+[Ayane]: …!
+[Hoshino]: Why not, Serika? It's not like it's a secret.
+[Serika]: That doesn't mean we should go telling everyone!
+[Hoshino]: It isn't as though we're guilty of anything. Besides, Sensei is one of us now.
+[Shiroko]: Hoshino is right, Serika. Sensei is responsible—trustworthy, even.
+[Serika]: I know, but they're still an outsider.
+[Hoshino]: I'm not saying Sensei can solve this problem on our behalf, but they're the only adult we have to turn to.
+[Serika]: Well…
+[Serika]: Sensei just showed up out of nowhere! Why would an adult care about our problems,	 anyway?
+[Serika]: We've always taken care of ourselves! Why do we suddenly need to be supervised?
+[Serika]: I don't want any part of this!
+[Serika]: Serika leaves
+[Ayane]: Serika?
+[Nonomi]: I'll go talk to her.
+[Nonomi]: Nonomi leaves
+[Hoshino]: …
+[Hoshino]: Back to the matter at hand... Our school owes quite a bit of money to a loan company. It's a challenge, but not exactly an uncommon problem either.
+[Hoshino]: The real issue is...that it's over 900 million yen.
+[Ayane]: It's 962,350,000 yen to be exact.
+[Ayane]: That's the amount that Abydos—no. That's the amount the Foreclosure Task Force has	taken upon itself to pay back.
+[Ayane]: The loan company will foreclose on the school and shutter it permanently if we don't repay them.
+[Ayane]: But the odds of paying back a debt that large are practically zero. That's why most of the students left the school and town…
+[Shiroko]: All except for us, that is.
+[Ayane]: The debt is the source of everything that's wrong. It's why the school is on the brink of closure, why the students left, and why the town is so desolate…
+[Sensei]: Ask about what happened.
+[Ayane]: You mean how the debt was accrued in the first place?
+[Ayane]: There was a sandstorm in the desert surrounding the school several years ago.
+[Ayane]: Sandstorms are common in the Abydos region, but that particular storm	was devastating
+[Ayane]: Some areas were completely buried in sand, and it just kept piling up.
+[Ayane]: The school had to raise a lot of funds for disaster relief…
+[Ayane]: ...but there wasn't a single bank that would give such a large loan.
+[Shiroko]: So the school was forced to turn to loan sharks…
+[Ayane]: Exactly. They were looking to take the easy way out and pay the money back quickly…
+[Ayane]: ...but the sandstorms only worsened as the years went on. Despite the	school's best intentions, the situation just kept getting worse.
+[Ayane]: Today, more than half of Abydos is under sand and the debt keeps growing.
+[Hoshino]: …
+[Shiroko]: …
+[Ayane]: We're barely able to pay the interest every month. We can't even afford ammunition or school supplies.
+[Shiroko]: I can sympathize with Serika's frustrations. No one has ever cared enough to ask about our situation before, let alone reach out to help.
+[Hoshino]: That's the long and short of it.
+[Hoshino]: Now that you've helped us scare the Helmet Gang away, we can return our focus to
+[Hoshino]: paying off the debt.
+[Hoshino]: Even if we appoint you as our club's advisor, you don't have to trouble yourself with our
+[Hoshino]: debt. It was kind of you to listen to our story.
+[Shiroko]: We're not trying to pressure you. You've already helped us enough.
+[Sensei]: "I'm a member of the Task Force too! Keep your chins up!" / "We're in this together now. I won't abandon you."
+[Ayane]: You don't have to say all that…
+[Ayane]: ...but thank you for doing so anyway, Sensei.
+[Hoshino]: Listen to you being so noble. You're really going to insist on helping…
+[Ayane]: I feel so relieved. There's some hope if we have Schale's support.
+[Shiroko]: True. Things are looking up, at least.
+[Serika]: …
+[Serika]: Hmph.
+[Serika]: Serika walks away
+[Serika]: Nonomi walks around
+[Nonomi]: Serika, where are you?
+[Nonomi]: <<To be Continued>>
+[Nonomi]: 05 - A Day in the Life of Serika
+[Nonomi]: Sensei and the Foreclosure Task Force trail Serika to her part-time job at a ramen shop. They end up sharing a nice meal with her, but Serika is still quite sullen. On her way back from work, Serika is kidnapped by the Helmet Gang.
+[Nonomi]: [Abydos Residential Area, 45th Block District]
+[Nonomi]: <I spotted a familiar face while walking through the neighborhood near Abydos.>
+[Serika]: Ugh. It's you again.
+[Sensei]: “Good morning.”
+[Serika]: Good morning! Wait, no! Don't act like we're friends!
+[Serika]: Hmph. Whatever.
+[Serika]: Don't you have anything better to do than loiter around so early in the morning? And you
+[Serika]: call yourself an adult…
+[Sensei]: "Heading to school, Serika?"
+[Serika]: What's with you?! Stop acting like you know me!
+[Serika]: What I do is none of your business.
+[Serika]: Look at you hanging around with nothing better to do. I hope I never grow up to be as aimless as you.
+[Serika]: Why don't you buzz off and bother someone else? I'm busy.
+[Serika]: What? You want to walk to school together?
+[Serika]: Why on earth should I go with you?
+[Serika]: Besides, it's our day off. I don't have class.
+[Serika]: Huh? Then where am I going? What business is that of yours?
+[Serika]: I'm outta here. Bye!
+[Serika]: <Serika ran away.>
+[Sensei]: Follow her.
+[Serika]: Huh? Why are you following me?!
+[Serika]: You wanna know where I'm going?
+[Serika]: What are you talking about? Go away, you stalker!
+[Serika]: Ugh! Fine! I'lljust tell you.
+[Serika]: I'm going to my part-time job.
+[Serika]: I don't have the freedom to just slack off all day like you do.
+[Serika]: I have money to make.
+[Serika]: There, happy now? So stop following me!
+[Serika]: Serika whisks away
+[Sensei]: Follow her.
+[Serika]: Ugh. You're so annoying.
+[Serika]: What? Where do I work?
+[Serika]: Would you go away already, you idiot?! You're cruising for a bruising if you don't leave me alone.
+[Serika]: <Serika ran away again.>
+[Serika]: Welcome to Shiba Seki Ramen!
+[Serika]: How many are in your party? I'll show you to your seats.
+[Serika]: just a minute! Extra noodles for table three!
+[Serika]: <*door opens*>
+[Serika]: Welcome to Shiba Seki…
+[Serika]: What the...?!
+[Nonomi]: Hello! Table for five! ☆
+[Ayane]: Haha. Hello, Serika…
+[Shiroko]: Hey.
+[Serika]: What are you guys doing here?
+[Sensei]: “Hi.”
+[Serika]: Sensei is with you too...? I knew you were stalking me!
+[Hoshino]: Don't blame Sensei. We figured this was the only place you might work, so we just came by.
+[Serika]: So it was you, Hoshino? Ugh.
+[Master Shiba]: Are these your Abydos classmates, Serika? Stop with the chit-chat and take their order.
+[Serika]: Y-Yes, sir. Follow me. I'll take you to your table.
+[Nonomi]: Okay! Over here, Sensei! Sit next to me!
+[Shiroko]: Um... Or you can sit here if you want.
+[Sensei]: Sit next to Nonomi. / Sit next to Shiroko.
+[Sensei]: <*scooch*>
+[Sensei]: /
+[Sensei]: <*sits*>
+[Nonomi]: It's a bit tight, but you're okay, right?
+[Nonomi]: /
+[Shiroko]: Um…
+[Nonomi]: Huh? Are you uncomfortable? Would you rather sit on my lap?
+[Nonomi]: /
+[Serika]: It's too narrow! Sitting that close can't possibly be comfortable for Sensei. Move a little this way.
+[Serika]: What are you doing?!
+[Serika]: /
+[Shiroko]: No, it should be fine. Right, Sensei?
+[Nonomi]: Haha! I'm just joking, Serika. ☆
+[Nonomi]: /
+[Serika]: But there are plenty of seats! Can't you all just sit like NORMAL people?
+[Serika]: There's enough seats for each of you, so just sit down like normal SANE people!
+[Serika]: /
+[Shiroko]: Hmm…
+[Nonomi]: Haha. Okay, okay.
+[Nonomi]: /
+[Nonomi]: N/A
+[Nonomi]: Your uniform is adorable, Serika! ☆
+[Hoshino]: I didn't know you were into this kind of stuff. Chose to work here solely based on the uniform, did ya?
+[Serika]: Wh-What are you talking about? It had nothing to do with that! I just used to be a regular here, that's all…
+[Hoshino]: I bet I could fetch a pretty yen ifI sold pictures of you in that uniform, Serika. What do you say, Sensei? Wanna be my first customer?
+[Ayane]: Knock it off, Hoshino…
+[Shiroko]: So, how long have you been working here?
+[Serika]: Maybe about a week.
+[Nonomi]: Now I get why you were running off from time to time. I guess it was because you were working. ☆
+[Serika]: Would you all shut up already and place an order?!
+[Hoshino]: I think what you meant was, "May I take your order?" Right, Serika? We're your guests here after all.
+[Serika]: Ugh... May I take your order?
+[Nonomi]: I'll have the chashu ramen, please!
+[Shiroko]: One shio ramen.
+[Ayane]: Hmm... I'd like the miso ramen.
+[Hoshino]: I want the special miso! With extra grilled chashu!
+[Hoshino]: Order whatever you want, Sensei. Shiba Seki Ramen is one of the best
+[Hoshino]: remaining restaurants in Abydos!
+[Serika]: Did you all bring your own money? You're not just going to make Nonomi pay again, are you?
+[Nonomi]: It's not like I mind. I'm still way under my card's credit limit. ☆
+[Hoshino]: Nah, we can't make you do that. Sensei is going to pick the tab up today! Right?
+[Hoshino]: What? No one told you? Hahaha! Well, now you know!
+[Sensei]: Run away.
+[Sensei]: Black Screen
+[Hoshino]: Where do you think YOU'RE going?
+[Hoshino]: <Hoshino made catching up to me look easy.>
+[Hoshino]: You've got credit to burn, right? This is our chance to make use of it.
+[Ayane]: You can't force Sensei to pay. We only came because you said it was your treat, Hoshino.
+[Hoshino]: This is a perfect chance for Sensei to treat their students. Wallet-flexing opportunities like this don't come around every day.
+[Nonomi]: … (smile)
+[Nonomi]: (Here, Sensei. Just pay with this card.)
+[Nonomi]: (Huh? Are you sure you don't want to? But...)
+[Nonomi]: <I ended up paying for everyone's meals.>
+[Hoshino]: That was delicious, Sensei!
+[Nonomi]: Thank you for treating us.
+[Shiroko]: Thanks.
+[Serika]: Would you all get out of here already?! And never come back! You're nothing but a bunch of busybodies.
+[Ayane]: Hahaha! See you tomorrow, Serika!
+[Serika]: I hate you! I won't forget this!
+[Hoshino]: Hahaha! She's got a lot of spunk, eh?
+[Sensei]: Take your leave.
+[Sensei]: <*closes door*>
+[Serika]: Phew. It's finally over. What a busy day.
+[Serika]: I can't believe all of them showed up like that. And they were so loud.
+[Serika]: Did they really have to come all the way out here to blabber on like that?
+[Serika]: "Sensei! Sensei!" Ugh. They're so annoying.
+[Serika]: Damn you, Hoshino! She probably planned to bring Sensei here after what happened
+[Serika]: yesterday.
+[Serika]: Hmph. You think I'm going to fall for it that easily? Yeah, right…
+[Serika]: Serika walks away
+[Serika]: Helmet Gangsters appear
+[Helmet Gangster A]: …
+[Helmet Gangster A]: Is that her?
+[Helmet Gangster B]: Yeah. She's from Abydos' Foreclosure Task Force.
+[Helmet Gangster A]: Get ready. We'll nab her at the next block.
+[Helmet Gangster A]: The gangsters silently walk away
+[Serika]: …
+[Serika]: Hmm…
+[Serika]: This neighborhood gets emptier by the day. There used to be a lot more people.
+[Serika]: And it's becoming less safe too…
+[Serika]: No. We gotta stay strong. It's up to us to bring the school back from the brink.
+[Serika]: I can pay back a little bit more of the debt once I get my paycheck, and then…
+[Serika]: Dozens of helmet gangsters appear
+[Serika]: …?!
+[Serika]: What do you want?!
+[Helmet Gangster A]: Are you Kuromi Serika?
+[Serika]: The Kata-Kata Helmet Gang? You have a lot of nerve coming back here!
+[Serika]: Actually, I'm glad you're here. I've been in a bad mood today. I'll make you regret ever
+[Serika]: showing your faces here again!
+[Serika]: <*pop* *pop* *pop* *pop* *tat*!>
+[Serika]: H-Huh?!
+[Serika]: (From behind too? It's an ambush.)
+[Helmet Gangster A]: Get her.
+[Helmet Gangster A]: <*pow*>
+[Helmet Gangster A]: <*booooom*>
+[Serika]: *cough* *cough*
+[Serika]: (An anti-aircraft gun? No... Could that sound have been from an improved Flak 41 model?)
+[Serika]: (Fire support? Where are they...? Not good.)
+[Serika]: (They aren't messing around this time. This is dangerous...)
+[Serika]: (I'm...losing consciousness...)
+[Serika]: (...)
+[Serika]: <*flop*>
+[Helmet Gangster B]: …
+[Helmet Gangster B]: Should we thrash her some more?
+[Helmet Gangster A]: Nah, that's enough. Throw her in the car and take her to the rendezvous point.
+[Helmet Gangster A]: Helmet gangsters leave
+[Helmet Gangster A]: <*vroom*>
+[Helmet Gangster A]: <<To be Continued>>
+[Helmet Gangster A]: 06 - Rescue Mission!
+[Helmet Gangster A]: When Serika goes incommunicado after parting at the ramen shop, Sensei uses Schale's authority to triangulate ramen shop, Sensei uses Schale's authority to triangulate her.
+[Helmet Gangster A]: [Serika’s Room]
+[Helmet Gangster A]: <*ding dong*>
+[Ayane]: Serika? Are you there, Serika?
+[Ayane]: <*ding dong* *ding dong*>
+[Ayane]: Are you there? Why haven't you been answering your phone?
+[Ayane]: Where does she keep her spare keys...?
+[Ayane]: <*opens door*>
+[Ayane]: What's going on, Serika? Are you still not home yet?
+[Ayane]: This is so strange…
+[Ayane]: Could it be...?
+[Nonomi]: What about her phone?
+[Ayane]: It's been turned off for a few hours now…
+[Shiroko]: Her boss said she clocked out and left like everything was normal. Did she never make it home?
+[Nonomi]: Nothing like this has ever happened before. She always gets home safely…
+[Shiroko]: You don't think... Was it the Helmet Gang?
+[Ayane]: What? The Helmet Gang?!
+[Shiroko]: A possibility, but let's not jump to conclusions. Hoshino and Sensei are still investigating.
+[Ayane]: …
+[Ayane]: Time passes
+[Ayane]: <*opens door*>
+[Hoshino]: Sorry to keep you waiting.
+[Ayane]: Hoshino! Sensei!
+[Sensei]: “We’re back.”
+[Shiroko]: Did you find out what happened?
+[Hoshino]: Sensei was able to log in to the General Student Council's central communication network.
+[Ayane]: You were able to get into their network? Wow. Sensei's the real deal…
+[Hoshino]: It's a secret, though. We're in big trouble if they catch us.
+[Ayane]: Wait! Does that mean you didn't ask for permission?!
+[Sensei]: "It's fine. It's for Serika's safety." / "It's okay as long as I don't get caught..."
+[Ayane]: Sensei…
+[Ayane]: /
+[Ayane]: Yeah, but…
+[Ayane]: …
+[Ayane]: /
+[Ayane]: N/A
+[Ayane]: Okay.
+[Ayane]: /
+[Ayane]: N/A
+[Ayane]: Thank you, Sensei.
+[Ayane]: /
+[Ayane]: N/A
+[Hoshino]: This is the last known location of Serika's phone before it went offline.
+[Nonomi]: That's one of the neighborhoods that's become more desolate, isn't it?
+[Shiroko]: It's more like an abandoned wasteland. There's no one there to enforce public safety, so there are a lot of outlaws skulking about.
+[Ayane]: Right. We found that Helmet Gang members lived in those areas while researching risk factors surrounding the school.
+[Ayane]: So it really was them!
+[Hoshino]: They must have kidnapped Serika while she was on her way home and taken her to their hideout.
+[Shiroko]: Likely still bitter over our last battle. Maybe they took Serika hostage as a way to retaliate.
+[Nonomi]: Probably! We have to go save her!
+[Shiroko]: I agree.
+[Hoshino]: There's no time to waste!
+[Sensei]: “Let’s go!”
+[Sensei]: FTF leaves
+[Sensei]: Fade to black
+[Sensei]: <*clunk* *clunk*>
+[Serika]: Ugh…
+[Serika]: Huh?
+[Serika]: …?!
+[Serika]: Where am I? Was I kidnapped?!
+[Serika]: Ow... My head.
+[Serika]: <*clunk* *clunk*>
+[Serika]: Is this the back of a truck?
+[Serika]: The Helmet Gang... Where could they be taking me?
+[Serika]: It's dark, but there is a little bit of light coming through the crack in the door.
+[Serika]: Maybe I can see something outside…
+[Serika]: Sand...and a railroad?
+[Serika]: Does that mean we're in the desert on the outskirts of Abydos?
+[Serika]: No... There's nothing but wasteland out here and no way to get a signal. I won't be able to contact the others even ifI do manage to escape.
+[Serika]: What should I do? They must be worried sick about me.
+[Serika]: …
+[Serika]: Are they going to bury me somewhere in the desert so no one can find me?
+[Serika]: Maybe the team will think I bailed on them and left like all the other students…
+[Serika]: Will they think I betrayed them?
+[Serika]: Is this how I'm going to die...?
+[Serika]: No. I can't let that happen…
+[Serika]: …
+[Serika]: Ugh…
+[Serika]: *sniffle*
+[Serika]: *booooom*
+[Serika]: Wh-What was that?!
+[Serika]: <*thump* *crash*>
+[Serika]: *cough* *cough*
+[Serika]: Smoke subsides
+[Serika]: What the heck? An explosion? Why did that truck blow up out of nowhere?!
+[Serika]: Where are these shells coming from?
+[Ayane]: I've located Serika!
+[Serika]: A-Ayane?!
+[Shiroko]: I have eyes on her! Repeat: visual on Serika! She's crying!
+[Serika]: …?!
+[Hoshino]: What?! Our little Serika is crying? Aw, she must have missed us. I had no idea she cared so much!
+[Serika]: Ugh! You guys are so annoying! I wasn't crying!
+[Shiroko]: False! I can confirm there were tears in your eyes just moments ago!
+[Nonomi]: Don't cry, Serika! We're here now, and we promise to dry those tear-soaked cheeks of yours!
+[Serika]: Damn it! Could you be any more grating?! I said I wasn't crying, so shut up already!
+[Sensei]: "I'm glad to see you're okay."
+[Serika]: What? You're here too, Sensei?! But why?
+[Sensei]: "I'm a stalker, remember?" / "Rescuing princesses is what heroes do, right?"
+[Serika]: What are you talking about? You're such a perv!
+[Serika]: /
+[Serika]: Are you...
+[Serika]: N/A
+[Serika]: /
+[Serika]: What did you just say? Are you stupid? Have a DEATHWISH?!Wh-Who are you calling a princess?!
+[Hoshino]: Heh. Our damsel in distress has been rescued. She's gonna be fine.
+[Ayane]: Thank goodness. I was so worried about you, Serika.
+[Serika]: Ayane…
+[Shiroko]: It's too soon to let our guard down. We may have stopped the truck, but we're still in enemy territory.
+[Hoshino]: You're right. Reinforcements are likely on the way now that the truck's been destroyed.
+[Ayane]: Multiple hostiles from the Kata-Kata Helmet Gang confirmed ahead!
+[Ayane]: I also see more than a handful of super heavy firearms! They're steadily forming a dragnet!
+[Hoshino]: Me and my big mouth! Ugh. What do you say we push our way through these losers?
+[Serika]: Be careful. Those goons have a modified heavy tank.
+[Shiroko]: Yeah, we know. It's a refurbished Flak 41.
+[Hoshino]: All right…
+[Hoshino]: FTF locks and loads
+[Hoshino]: Shall we?
+[Hoshino]: <<Battle Sequence>>
+[Hoshino]: <<To be Continued>>
+[Hoshino]: 07 - A New Threat?
+[Hoshino]: Sensei and the task force manage to rescue Serika from the Helmet Gang. Ayane finds signs of contraband among the tank's wreckage. Meanwhile, the Kaiser PMC that controlled the Helmet Gang decides to enlist the help of Problem Solver 68.
+[Hoshino]: [Foreclosure Task Force Room]
+[Ayane]: Well done, everyone.
+[Ayane]: Will you be all right, Serika?
+[Serika]: Uh-huh. I'll be fine. Never better…
+[Serika]: *stumbles*
+[Serika]: <*collapses*>
+[Nonomi]: Serika!
+[Shiroko]: I'll take her to the infirmary.
+[Shiroko]: Grabs and leaves
+[Hoshino]: I'd be more concerned if she WAS still standing after getting hit by a Flak 41 artillery shell. She better get some rest.
+[Ayane]: It could have been much worse had Sensei not been here…
+[Nonomi]: Uh-huh. Tracking down Serika's location was a piece of cake thanks to you, Sensei. You're always so reliable! ☆
+[Hoshino]: Oh, really? All in a day's work for a stalker, huh?
+[Ayane]: ...Excuse me, everyone. Could I have your attention?
+[Ayane]: I was looking into the tank parts we collected in battle. It turns out they're from an illegal model that is prohibited within Kivotos.
+[Ayane]: I'll have to dig a little deeper, but right now it looks like the Helmet Gang has gained access to weapons that should be contraband.
+[Nonomi]: I bet we can find out who those hooligans answer to if we analyze the distribution channels for these parts!
+[Ayane]: Bingo. That, and also why a minor criminal organization is targeting our school so obsessively…
+[Hoshino]: Sounds good to me. Let's proceed a little cautiously and see where this leads.
+[Hoshino]: [High-Rise Office}
+[???]: …
+[???]: Is this the best an organized crime group can do? Providing them with a tactical tank was a waste.
+[???]: You'd think a gang of students would be able to handle some other students. In that case, I'll simply have to enlist the services of more skilled professionals.
+[???]: <*ring* *ring*>
+[???]: <*click*>
+[???]: Hello. Problem Solver 68. We'll do the crime if you've got the dime.
+[???]: I have a special task for you, my dear fixers.
+[???]: …
+[???]: [Kata-Kata Helmet Gang's Base]
+[Helmet Gangster B]: *sigh*...
+[Helmet Gangster B]: What the...?!
+[Helmet Gangster B]: <*pop* *pop* *pop* *tat*!>
+[Helmet Gangster B]: Guh!
+[Helmet Gangster B]: Gunfire
+[Helmet Gangster B]: …!
+[Helmet Gangster B]: <*collapses*>
+[???]: Hmph. All clear on this end.
+[???]: All done over here too, Boss.
+[Helmet Gangster A]: G-Gah... Who are you people?
+[???]: Heh heh heh.
+[???]: *presses rifle against her*
+[Helmet Gangster A]: Graugh! Are you runts from Abydos? How dare you...?
+[???]: Please. And you call this dirty, stinking lair your base? You lot are pathetic.
+[???]: Oh, well. I'll put you out of your misery—don't worry.
+[Helmet Gangster A]: Wh-What?!
+[???]: Relax. We're just here to tell you that you've been relieved of your duties. We'll be taking Abydos off of your hands now.
+[Helmet Gangster A]: Wh-What the...?! Who do you think you are?!
+[Helmet Gangster A]: <*thwack*>
+[Helmet Gangster A]: Gaaarrgh!
+[Helmet Gangster A]: <...>
+[???]: …
+[???]: Problem Solver 68.
+[???]: We'll do the crime if you've got the dime.
+[???]: Camera pans out
+[???]: The best fixers in all of Kivotos.
+[???]: <*door opens*>
+[Serika]: Huh?
+[Serika]: Wait... Sensei?! What are you doing here?!
+[Sensei]: "I came to see how you were doing."
+[Serika]: Oh. I'm fine. I shouldn't be spending so much time lying around doing nothing anyway.
+[Serika]: I don't want to worry Ayane or the others too much. Plus, I have my part-time job to go to.
+[Serika]: Y-You don't have to worry about me so much! I'm fine, really.
+[Sensei]: "That's a relief."
+[Serika]: …
+[Serika]: Uh, so... By the way!
+[Serika]: Th-The thing is…
+[Serika]: Looking back on it, I don't think I ever thanked you, Sensei…
+[Serika]: S-So...thanks. For all the help and stuff…
+[Serika]: But still! Don't assume this has done anything to actually help our school! We're gonna settle this debt if it's the last thing we do!
+[Serika]: …
+[Serika]: Wh-What?! What's with that smug look on your face?!
+[Serika]: *sigh* Geez.
+[Serika]: Whatever... I'll see you tomorrow!
+[Serika]: Sen…
+[Serika]: …Sensei.
+[Serika]: Serika leaves
+[Serika]: <<To be Continued>>
+[Serika]: 08 - The Might of Problem Solver 68
+[Serika]: The Foreclosure Task Force struggles to come up with ideas on how to pay off the school's debt. Sensei and the students run into the impoverished employees of Problem Solver 68 while grabbing some ramen after the meeting.
+[Serika]: [Foreclosure Task Force Room]
+[Ayane]: All right. Time for us to begin our regularly scheduled Abydos Foreclosure Task Force meeting.
+[Ayane]: I'll remind you that Sensei is in attendance today, so I would hope for more decorum than usual…
+[Nonomi]: Okay! ☆
+[Shiroko]: Naturally.
+[Serika]: Come on. You say that like we've never taken it seriously before…
+[Hoshino]: It's good of you to join us, Sensei.
+[Sensei]: “Thanks for having me.”
+[Ayane]: Okay. Let's get down to business and discuss the key item on our agenda… How do we settle the school's debts? Discuss.
+[Ayane]: Raise your hand if you'd like to share your thoughts!
+[Serika]: Ooh! Me! Me!
+[Ayane]: Yes, first-year Kuromi Serika. You have the floor.
+[Serika]: Seriously, again with the formalities? I hate it when you do that…
+[Ayane]: Why not? This is our first formal meeting in ages.
+[Hoshino]: Yeah, what's the big deal? It's nice to pull out all the stops once in a while. It's not every day we get to run a meeting with Sensei.
+[Shiroko]: This is the only time we've had a meeting with Sensei in attendance, to be precise.
+[Nonomi]: That's right! It's like we're a proper task force now! ☆
+[Serika]: *sigh* Fine. You guys do have seniority here, I guess…
+[Serika]: Moving on! The school is on the verge of bankruptcy. And I'm the treasurer, in case you
+[Serika]: forgot, so I really mean it!
+[Serika]: Abydos will seriously get shut down at this rate. Got it?
+[Hoshino]: Well, yeah.
+[Serika]: We're paying nearly 8 million yen every month alone. We're doing everything we can to hold on, but that much is barely keeping up with the interest.
+[Serika]: There's only so much we can do by just arresting wanted criminals or taking care of
+[Serika]: civilian requests.
+[Serika]: We're royally screwed unless something changes. What we need is something big! Huge, even!
+[Ayane]: Something...big?
+[Serika]: This is it! It's a flier from downtown!
+[Ayane]: What's that?
+[Hoshino]: Let me see here.
+[Hoshino]: "Ready to become a boss babe billionaire? Get rich quick with the Germanium
+[Hoshino]: Granite...Bracelet...Network"?!
+[Serika]: That's right! We're all gonna become boss babe billionaires!
+[Ayane]: …
+[Serika]: I was downtown recently, and these really cool people invited me to a seminar. They told me all about these amazing germanium bracelets! Did you know they can cleanse your aura and bring you good luck?
+[Shiroko]: …
+[Serika]: They're so powerful that you can boost your good vibes just by wearing them! They're so powerful that you can boost your good vibes just by wearing them!
+[Serika]: !
+[Serika]: What? Why are you looking at me like that?
+[Hoshino]: Proposal denied.
+[Serika]: What?! Why?!
+[Ayane]: Serika... Have you ever heard the phrase "pyramid scheme" before?
+[Shiroko]: It's a scam.
+[Serika]: What?!
+[Ayane]: First, I don't think germanium can possibly affect your luck, if it even exists. Second, if this is such a great business plan, why would they give it away for free at such a fishy-sounding seminar?
+[Serika]: N-No way! I already bought two bracelets, so that can't be right!
+[Nonomi]: Serika is so gullible it's cute! ☆
+[Serika]: …!
+[Hoshino]: Aw, you can be so naive, Serika. Sweet, but naive. You'd better start wising up, or else you're going to have your life ruined by one of these schemes someday!
+[Serika]: B-But...it sounded so convincing. I even skipped lunch so I could buy these…
+[Nonomi]: There, there, Serika. It's okay. Why don't I treat you to lunch?
+[Serika]: *sniff* Aww. Nonomi…
+[Ayane]: Well, then... That's it for Serika's suggestion. Anyone else?
+[Hoshino]: Me! Me!
+[Ayane]: Okay. President Takanashi Hoshino has the floor…
+[Hoshino]: Thank you. Ahem…
+[Hoshino]: You know what this school's problem is? It's that the entire student body is just us.
+[Hoshino]: More students means more money. Think about Trinity or Gehenna with their five-digit enrollment numbers. Then think about how much they must be raking in with monthly student fees alone!
+[Ayane]: I suppose... And?
+[Hoshino]: So we need to increase our enrollment numbers! That's our top priority.
+[Hoshino]: We'll also get more representatives and have a better say with the General Student
+[Hoshino]: Council that way.
+[Ayane]: I admit you raise a good point, but how do you suggest we do this?
+[Hoshino]: Simple. We abduct another academy's school bus!
+[Ayane]: Excuse me?!
+[Hoshino]: We hijack a bus full of students on their way to school, and we hold them hostage until they agree to transfer their enrollment over to our school!
+[Hoshino]: This is sure to get our enrollment numbers up!
+[Shiroko]: Interesting.
+[Shiroko]: So who's our target? Trinity? Gehenna? Or is it Millennium?
+[Shiroko]: We'll have to evolve our strategy to fit the target.
+[Hoshino]: Oh, yeah? Well, what about Trinity? No, wait! Let's hit Gehenna!
+[Ayane]: Wait a second! We can't possibly boost our enrollment with a stunt like that!
+[Ayane]: Not to mention the other schools' respective leaderships would surely put up a fight…
+[Hoshino]: Heh heh. Oh, would they now?
+[Ayane]: That wasn't supposed to be a challenge, Hoshino... Can you please try to take this meeting seriously?
+[Ayane]: Hoshino steps down
+[Shiroko]: I have an even better idea.
+[Ayane]: Fine. Go ahead, second-year student, Sunaookami Shiroko.
+[Shiroko]: We rob a bank.
+[Ayane]: What?!
+[Shiroko]: It's a surefire plan, and we already have the perfect target. Let's hit the First Central Bank downtown. -
+[Shiroko]: I've already mapped out everything from the location of the vault to the positions of the
+[Shiroko]: guards, blind spots for the security cameras, and even the armored car's transportation
+[Shiroko]: route.
+[Ayane]: Is that what you've been working so hard on lately?!
+[Shiroko]: We can earn 100 million yen in five minutes flat. In-and-out, easy. Here, I even brought masks.
+[Shiroko]: Shiroko dawns her mask
+[Ayane]: Where did you find the time to prepare all of this?
+[Hoshino]: Whoa! Did you sew these yourself, Shiroko?
+[Hoshino]: Nonomi appears with mask on
+[Nonomi]: Wowie! Check it out! Don't I look like a luchador?
+[Ayane]: …
+[Hoshino]: Dang...! It's so obvious! You gotta risk big to win big! Isn't that what life is all about, Serika?
+[Serika]: Heck no it isn't! Absolutely not! DENIED!
+[Ayane]: She's right! We can't possibly stoop to being criminals!
+[Ayane]: …
+[Ayane]: Silently takes off mask
+[Shiroko]: …
+[Ayane]: Pout all you want, Shiroko, but there are some lines that can't be crossed!
+[Ayane]: *sigh* Seriously. If no one comes up with a real idea soon…
+[Nonomi]: Hey, excuse me! Me next!
+[Ayane]: Ayane (Foreclosure Task Force): Very well. Second-year Izayoi Nonomi... As long as it doesn't involve scams or breaking the law, you have the floor.
+[Nonomi]: You got it! I have the perfect thing, and I promise it isn't illegal or a pyramid scheme. This one is definitely gonna work!
+[Nonomi]: Two words pop idols! Schoolgirl pop idols, to be exact!
+[Ayane]: Pop idols...?!
+[Nonomi]: You heard me! It happens all the time in anime. Nothing helps revitalize a school like becoming a pop superstar! If we all break into the industry together as pop idols…
+[Hoshino]: Denied.
+[Nonomi]: What...? You don't like that idea either?
+[Serika]: Why not? You'd definitely have some fans, Hoshino.
+[Hoshino]: Yeah, more like I'd have a bunch of creeps after me. No, thanks.
+[Nonomi]: But I even came up with a pose…
+[Nonomi]: *poses*
+[Nonomi]: Christina of the Swimsuit Gang! ♧
+[Serika]: Are you…
+[Serika]: ...KIDDING ME?! The Swimsuit WHAT?! Get real!
+[Nonomi]: Aww. But I worked on it all night…
+[Ayane]: This meeting is just going in circles now. Shouldn't we at least try to decide on something? Anything?
+[Hoshino]: Why not let Sensei decide? Sensei, which idea do you think we should go with?
+[Ayane]: No way! You want to make a decision already? Shouldn't we at least throw out some better ideas first?
+[Hoshino]: It'll be fine. If Sensei backs it, then I'm sure it'll be the right one.
+[Ayane]: Now wait just a minute. How does that make any sense?
+[Serika]: I mean, at least this means becoming pop idols is off the table...right?
+[Nonomi]: Pop idol stardom, here we come! ☆
+[Shiroko]: *hopefully puts mask back on*
+[Sensei]: "Time to hijack a school bus!" / "We're going bank robbing!" / "Become pop idols! I'll be the manager!"
+[Ayane]: THAT'S what you're picking?! Are you sure?!
+[Hoshino]: Hahaha! I guess we have a winner. Let's do this!
+[Nonomi]: Yay! That sounds like so much fun! ☆
+[Serika]: This is a joke...right? We aren't really…
+[Hoshino]: Why not?
+[Shiroko]: Might as well go big or go home. Isn't that right, Ayane?
+[Ayane]: Obviously…
+[Serika]: Really?
+[Ayane]: OBVIOUSLY NOT!
+[Ayane]: <*craaash*>
+[Hoshino]: She did it! Ayane flipped the table!
+[Shiroko]: …
+[Nonomi]: Ahhh! Ayane is in berserk mode! Everyone take cover!
+[Hoshino]: She's grown up to be such a stern young lady. It does my old heart proud.
+[Ayane]: Can't you take this seriously for one second?! I swear, it's like I'M the only mature one here!
+[Ayane]: All you four ever do is fool around! Robbing banks, pyramid schemes... Is this supposed
+[Ayane]: to be some kind of joke?!
+[Serika]: *flinches*
+[Shiroko]: …
+[Shiroko]: Fade to black
+[Shiroko]: <Ayane continued to chew everyone out for a while.>
+[Hoshino]: Everything's going to be all right, Ayane. We're sorry, okay? I'll treat you to some ramen to make it up to you.
+[Ayane]: I'm...not angry…
+[Nonomi]: That's it. Hush now. There's a good girl. ☆
+[Ayane]: Will you stop patronizing me like I'm a child?!
+[Serika]: That's fine and all, but did you guys seriously have to come back here again?
+[Shiroko]: Want some more chashu, Ayane?
+[Ayane]: *nom* *nom* Yesh.
+[Ayane]: <*door opens*>
+[Haruka]: …
+[Haruka]: Oh... U-Um…
+[Serika]: Welcome! How many in your party?
+[Haruka]: Uh... Excuse me. How much is the cheapest thing on your menu?
+[Serika]: Our lowest priced dish?
+[Serika]: That would be the regular Shiba Seki Ramen Bowl for 580 yen! It's our signature dish
+[Serika]: and super tasty too!
+[Haruka]: Oh, uh, thank you!
+[Haruka]: <*door opens*>
+[Serika]: Hmm?
+[Serika]: <*door opens*>
+[Serika]: 2 more students walk in
+[Mutsuki]: Heh. We finally found something that costs less than 600 yen!
+[Aru]: A yen saved is a yen earned. I knew we'd find one.
+[Haruka]: Y-You were right. I guess you really do know everything, Boss…
+[Kayoko]: *sigh*
+[Serika]: So, four in your party? I'll show you to your seats.
+[Mutsuki]: Oh, no, no, no. You don't have to do that. We're only going to order the one.
+[Serika]: Just one...? Still, you may as well be comfortable. Plus we're not very busy at the moment.
+[Mutsuki]: Well, isn't that nice of you? Don't mind if we do.
+[Mutsuki]: Oh, and can you get us four pairs of chopsticks while you're at it? Thanks.
+[Serika]: Four pairs? Uh, you're not thinking of splitting a single bowl between the four of you, are you?
+[Haruka]: S-Sorry! I'm so sorry! I'm sorry that we're broke and we're poor!
+[Serika]: What the...?! You don't have to apologize to ME over something like that…
+[Haruka]: No, really! What's the point of living like this? We're just a waste of air! Lower than dirt! We never should have come in here. Sorry, sorry, sorry…
+[Kayoko]: *sigh* For crying out loud... Knock it off, Haruka. You're making a scene.
+[Serika]: Don't say that! Being poor isn't a crime or anything to be ashamed of. You shouldn't be so hard on yourself!
+[Haruka]: I...shouldn't?
+[Serika]: You're students! No one expects you to be loaded with cash. Still, you and your friends scraped enough to share a bowl of ramen together. That's saying something, isn't it?
+[Serika]: Hang tight. I'd be glad to bring it out for you.
+[Serika]: Serika walks away
+[Kayoko]: I think she got the wrong idea.
+[Mutsuki]: Yeah! It's not like we're beggars. It's just because Aru blew through our cash.
+[Aru]: That's "Boss" to you. You should know better than to not refer to me by my title, Chief of Staff Mutsuki.
+[Mutsuki]: Really? You still want us to call you Boss when we're off the clock? And what kind of boss can't afford to treat her employees to more than one measly bowl of ramen?
+[Aru]: …
+[Kayoko]: Maybe you should've thought of that before blowing all of our money on hired goons
+[Aru]: Heh. Would you expect me to do anything less? Be grateful there was enough left for a bowl of ramen.
+[Kayoko]: You could have negotiated to make sure there was enough left for four, you know…
+[Mutsuki]: Just admit that you forgot to account for dinner in today's expenses, Aru.
+[Aru]: Heh heh heh…
+[Kayoko]: I get why you would want to reduce the risk factor of this operation. You're right about not underestimating the target. They aren't jobbers like the Helmet Gang.
+[Kayoko]: But really, Boss? Are these Abydos students really worth blowing our entire
+[Kayoko]: budget on hiring extra muscle?
+[Aru]: They could be…
+[Mutsuki]: Aru probably doesn't even know. That's why she hired those goons—because she's chicken.
+[Aru]: Who are you calling a chicken?! I'm just being careful and covering our bases!
+[Failure is not an option. You all know Problem Solver 68's motto]: Expect the unexpected.
+[Kayoko]: This is the first I'm hearing about a motto.
+[Mutsuki]: Pretty sure she just made that up on the spot.
+[Aru]: Shut up! I'll take you all out for sukiyaki once we finish this job and get paid. So you'd better go all out!
+[Haruka]: Sukiyaki...?! Wait. What's that?
+[Kayoko]: It's a dish that adults like...and really expensive.
+[Haruka]: W-Wow. I don't know if dirt like me could appreciate it, then. Would I have to sacrifice my life afterward for overindulging?
+[Aru]: Heh heh. Problem Solver is an industry titan at this point. We deserve only the best, wouldn't you agree?
+[Mutsuki]: Heh! You're so ambitious, Aru.
+[Aru]: I told you to call me Boss!
+[Serika]: Order up! The bowl's hot, so be careful!
+[Serika]: <*thud*>
+[Mutsuki]: What the...? This bowl is huge.
+[Kayoko]: It looks like it could feed ten people…
+[Haruka]: Uh, are you sure this is the right order? We don't have the money to pay for something like this…
+[Serika]: This is exactly what you ordered: a plain 580-yen Shiba Seki Ramen Bowl. Isn't that right, Master?
+[Master Shiba]: Well, I might have overfilled a smidge, but that's all right.
+[Serika]: Master says it's all good, so don't worry! Enjoy your meal!
+[Haruka]: W-Wow…
+[Mutsuki]: I say we eat first and ask questions later. Chopsticks ready!
+[Aru]: I didn't see this coming, but it'd be rude of us to send it back.
+[Mutsuki]: Let's dig in!
+[Mutsuki]: Black screen
+[Mutsuki]: <*slurp*>
+[Aru]: …!
+[Haruka]: I-It's so yummy!
+[Mutsuki]: Not bad at all. Who knew there was such a good ramen shop out here in the boonies?
+[Nonomi]: *squeezes in* I know, right? Isn't it the best?
+[Mutsuki]: Huh? Weren't you sitting at the table next to us?
+[Nonomi]: Yep! The ramen here is the best around. People come from all over just to get a taste of it.
+[Aru]: I can see why. I've been to my fair share of shops, and ramen this good is hard to find.
+[Ayane]: We're regulars here. Sorry to interrupt your meal, but we wanted to say it's good to see students from other schools come here and see the light.
+[Shiroko]: That uniform you're wearing is Gehenna's, right? That's a long trip.
+[Nonomi]: Girls sharing a bowl of ramen together like this. It's a little nostalgic, isn't it?
+[Hoshino]: Wasn't that a bowl of udon?
+[Kayoko]: (...)
+[Kayoko]: (Their uniforms...)
+[Mutsuki]: (Hey, you're right.)
+[Aru]: Haha! I never expected to run into fellow connoisseurs here. Isn't life wonderfully unpredictable sometimes?
+[Mutsuki]: (Something tells me Aru hasn't put two and two together yet.)
+[Kayoko]: (Should I tell her?)
+[Mutsuki]: (Nah. This is interesting. Let's see what happens.)
+[Mutsuki]: Aru and Nonomi conversing
+[Kayoko]: (...)
+[Kayoko]: <<To be Continued>>
+[Kayoko]: 09 - Unrelenting Blood Feud
+[Kayoko]: Aru grapples with her feelings after realizing that the ones who treated her to a bowl of ramen were actually Abydos students. She resolves anew to attack Abydos High School with her hired guns.
+[Serika]: Take care on your way home!
+[Nonomi]: Good luck with your business!
+[Aru]: Same to you guys! Good luck with revitalizing your school. I'll be cheering you on!
+[Aru]: Bye-bye!
+[Aru]: Scene change
+[Aru]: Heh... What great kids, yeah?
+[Kayoko]: …
+[Mutsuki]: … (glimmer)
+[Kayoko]: Aru. Didn't those uniforms look familiar to you?
+[Aru]: Huh? No. Why?
+[Mutsuki]: Those were Abydos students.
+[Mutsuki]: …
+[Mutsuki]: Black screen
+[Aru]: Wh-What?! They were?!
+[Aru]: Back to scene
+[Mutsuki]: Hahaha! You should see the look on your face.
+[Kayoko]: Did you really not know?
+[Haruka]: B-But doesn't that mean they're our targets? Sh-Should I go back inside and snuff them out?
+[Mutsuki]: Haha. It's a little late for that. We're gonna raid 'em in a bit anyway, so save it for then, Haruka.
+[Aru]: Y-You're serious... They're the ones from Abydos? Ugh. Ah… Why is fate such a cruel mistress?
+[Mutsuki]: What's wrong, Aru? Isn't it time for us to get to work?
+[Kayoko]: The hired muscle is waiting for instructions.
+[Aru]: Do we gotta...? Do we have to wipe them out this second?
+[Mutsuki]: Looks like our sweet little Aru is being torn ape
+[Mutsuki]: What happened to doing the crime as long as the client has the dime? Problem Solver 68 doesn't let emotions get in the way, so what's going on?
+[Aru]: I-I know that, but…
+[Kayoko]: (She really is conflicted right now.)
+[Aru]: I gotta pull myself together! What kind of executive would I be ifI can't do a simple job like this?
+[Aru]: Let's do it! Round up the muscle!
+[Aru]: …
+[Part-Timer A]: Hey. What took you so long?
+[Aru]: Just taking care of business. I trust you're all prepared?
+[Part-Timer A]: Whatever you say. Just remember we're clocking out on the dot. Especially since you were stingy with our pay.
+[Aru]: We can leave the fine print for later. Let's get going! Time to attack Abydos!
+[Mutsuki]: Let's move!
+[Kayoko]: *sigh*
+[Haruka]: I-I won't let you down, Aru!
+[Haruka]: We'll crush them to dust!
+[Ayane]: I'm reading a large armed group 15 kilometers south of campus!
+[Shiroko]: What? Is it the Helmet Gang again?
+[Ayane]: N-No! It's not them.
+[Ayane]: They look like mercenaries! Someone must have hired them to attack!
+[Hoshino]: What'd they do, pick them up from Thugs Depot at the crack of dawn? It must have cost a fortune to hire that many of them.
+[Ayane]: We can't allow them to get any closer! Sensei, give us the order to move out!
+[Sensei]: “It’s showtime.”
+[Ayane]: I've got eyes on a squad leading those goons up ahead!
+[Nonomi]: Wait. Aren't those the girls we met at the ramen shop?
+[Aru]: U-Urgh…
+[Serika]: You guys are the ones attacking us?! After I gave you all that extra ramen?! You ungrateful pricks!
+[Mutsuki]: Heehee! I really did appreciate that, but it doesn't matter. This is business, not personal.
+[Kayoko]: Agreed. It's regrettable, but business is business. We have to uphold our contract.
+[Shiroko]: So you're fixers, then.
+[Nonomi]: What kind of job is that for girls your age?! Shouldn't you be working normal part-time jobs?
+[Aru]: It's not a part-time job! This is a real, respectable business! With titles and everything!
+[Aru]: And I'm the boss!
+[Aru]: Mutsuki in scene
+[Aru]: She's the chief of staff.
+[Aru]: Kayoko in scene
+[Aru]: And this here is the department head.
+[Kayoko]: Please. The title isn't nearly as impressive as you make it out to be.
+[Shiroko]: So, who hired you? Or are you not willing to tell us?
+[Shiroko]: We could always get it out of you by force.
+[Aru]: Haha. Good luck. We don't spill trade secrets.
+[Aru]: Get 'em, girls!
+[Aru]: <<Battle Sequence>>
+[Aru]: Thanks to the work of the Foreclosure Task Force, Aru and Problem Solver are forced to withdraw.
+[Aru]: <*ding* *ding* *ding* *dong* *ding* *ding* *ding* *dong*>
+[Part-Timer A]: Phew. It's quittin' time.
+[Part-Timer B]: It sure is. That's all you get for the money you paid us today. You can handle the rest on your own. Let's go, ladies.
+[Aru]: Wh-What?! W-Wait a second!
+[Aru]: Part-Timer A and B leave
+[Part-Timer C]: Time to clock out.
+[Part-Timer D]: Wanna grab a bowl of soba on the way back?
+[Part-Timer D]: Part-Timer C and D leave
+[Aru]: Hey! What the heck is this?! Don'tjust leave!
+[Kayoko]: …
+[Mutsuki]: Welp. We're boned. I kind of thought we would have wrapped up by now. What now, Aru? Should we run for it?
+[Aru]: Ughhh...
+[Aru]: Y-You haven't seen the last of us, Abydos!
+[Mutsuki]: Haha. You sound like a corny third-rate villain, Aru.
+[Aru]: Shut up! Everyone, run... I mean, retreat!
+[Aru]: Problem Solver whisks away
+[Nonomi]: Hang on...! Oh, well. They're gone.
+[Hoshino]: They move a lot faster when they're running away at least.
+[Ayane]: I'm still not sure what that was all about, but I can at least confirm their hired forces did clock out. I mean, uh, retreated.
+[Ayane]: But, still. This is a problem. Now we have to worry about some strange hitmen targeting our school? What on earth is going on?
+[Hoshino]: Eh, I'm sure we'll find out soon enough. We'll learn something useful once we look into that Aru girl.
+[Ayane]: Sounds good. Head back inside for now, everyone. Good work today.
+[Ayane]: <<To be Continued>>
+[Ayane]: 10 - In Search of a Clue
+[Ayane]: The Foreclosure Task Force learn that Problem Solver 68 is a group of delinquents from Gehenna Academy and that the Helmet Gang's weapons came from the Black Market. Sensei and the students head there to investigate.
+[Ayane]: [Abydos Residential Area]
+[Ayane]: Oh, good morning, Sensei.
+[Ayane]: Where am I heading off to so early?
+[Ayane]: Oh. We have an interest payment on the school's debt due today. There's a lot of prep work involved.
+[Ayane]: I have to get to school ahead of time to take care of it...and do some planning for how we'll move forward.
+[Ayane]: Oh, that's right. I also compiled some intel on the students we ran into yesterday. I'd appreciate if you could take a look at it later.
+[Ayane]: Those girls are in fact students at Gehenna Academy and…
+[Ayane]: ?
+[Mutsuki]: Wow! If it isn't Sensei! Hey there!
+[Mutsuki]: Mutsuki nudges in
+[Ayane]: What the...?!
+[Mutsuki]: How ya doin'? Wow, what a coincidence running into you this morning.
+[Mutsuki]: *jump* *squeeze* Hmm? I'm not too heavy, am I? I'm sure you can still breathe, Sensei, so you'll just have to endure it.
+[Mutsuki]: Blush
+[Ayane]: Wh-What do you think you're doing? Let go of Sensei this instant!
+[Mutsuki]: Hey, quit pulling!
+[Mutsuki]: Well, well, well. If it isn't Little Miss Four-Eyes from Abydos. You really like to stick your nose in other people's business, don't you?
+[Mutsuki]: You seemed a lot more polite we ran into each other at the ramen place yesterday. Remember?
+[Ayane]: That was before you assaulted our school! What are you up to? Why are you trying to be so buddy-buddy all of sudden?
+[Ayane]: And my name's not Little Miss Four-Eyes! It's Ayane!
+[Mutsuki]: What? It's not like we have anything against you guys.
+[Mutsuki]: We told you it was just business. We can make nice when we're not fighting.
+[Ayane]: A-Are you actually trying to tell me not to take things personally after what you did?!
+[Mutsuki]: Why not? It's not like Schale only works for you Abydos kids. Isn't that right, Sensei?
+[Sensei]: "Can't we all just get along?"
+[Mutsuki]: Haha! That's a good one. Fat chance. We have a business to run. Aru isn't going to let us go unemployed or anything.
+[Mutsuki]: Oh, well. Stop by our office anytime you want, Sensei. I bet Aru and the others would be thrilled to have you there.
+[Mutsuki]: Well, bye-bye! See you next time, Miss Ayane.
+[Ayane]: There will be no later! I'll shoot on sight if I catch you in our district again!
+[Mutsuki]: Whatever you say.
+[Mutsuki]: Mutsuki leaves
+[Ayane]: *sigh*
+[Ayane]: The nerve of that girl!
+[Teller]: A 7,883,250 yen payment on your loan, including variable interest and additional interest, has been confirmed.
+[Teller]: Paid in cash. No issues to report.
+[Teller]: Thank you once again for doing business with Kaiser Loans. See you
+[Teller]: next month.
+[Teller]: <*vroom*>
+[Ayane]: …
+[Nonomi]: …
+[Hoshino]: We've managed to make it another month.
+[Shiroko]: How much longer to go?
+[Ayane]: The repayment schedule is 309 years. At the rate we're going…
+[Serika]: Don't say it! I'm gonna snap ifI hear the details!
+[Serika]: Just face it. We'll never pay this off in our lifetimes! Why even bother doing the math?!
+[Ayane]: …
+[Nonomi]: Do you ever wonder why they only accept cash payments? Why go through all the trouble to constantly pay for armored trucks?
+[Shiroko]: …
+[Shiroko]: Glimmer
+[Serika]: I hope you aren't planning to rob them, Shiroko.
+[Shiroko]: Don't worry. I'm not.
+[Serika]: That doesn't mean you can daydream about doing it either!
+[Shiroko]: Fine…
+[Hoshino]: Come on, guys. All we can do is focus on what's right in front of us.
+[Hoshino]: Let's go inside.
+[Ayane]: Let's begin, shall we? We need to go over two issues.
+[Ayane]: First off is yesterday's assault.
+[Ayane]: The culprits belong to a club called Problem Solver 68.
+[Ayane]: They're a notorious group of student delinquents from Gehenna Academy.
+[Ayane]: They present themselves as a fixer agency, but they're more like a freelance errand center.
+[Ayane]: The club president is a girl named Aru.
+[Ayane]: She would be the one you ran into that was calling herself the boss.
+[Aru has three employees beneath her]: a chief of staff, a department head, and an entry-level employee.
+[Hoshino]: They really do mean business, huh?
+[Nonomi]: She's an executive at her age? That's so cool! ☆
+[Ayane]: Again, her title is self-proclaimed. I suspect they're currently operating out of a location close to Abydos—especially since we ran into one of them this morning.
+[Shiroko]: Is what they're doing officially recognized by Gehenna Academy?
+[Ayane]: I wouldn't think so. I bet they took whatever contract they‘re under because they felt like it.
+[Nonomi]: So they're in violation of school regulations... Strange. They didn't strike me as all that bad or malicious.
+[Ayane]: On the contrary. They're known for being troublemakers and causing a lot of headaches at Gehenna as well.
+[Ayane]: And now they're targeting our school! We need to take this seriously!
+[Hoshino]: Maybe we ought to capture and interrogate them…
+[Ayane]: For once, I agree. We should take initiative and nip this problem in the bud.
+[Serika]: Geez, Ayane. You're acting like this is personal. Is there something you want to tell us about?
+[Ayane]: Next up, the mastermind behind the Helmet Gang's attack on Serika!
+[Ayane]: After analyzing the weapons that were recovered from the last battle...I've learned that this model is no longer on the market.
+[Hoshino]: So it's been discontinued?
+[Serika]: Then how did they get their hands on it?
+[Ayane]: The only place you can get those kind of weapons is in Kivotos' Black Market.
+[Nonomi]: Isn't that place supposed to be really dangerous?
+[Ayane]: Yes. Dropouts, burnouts on leave, flunkies... The Black Market is a gathering spot for delinquents. Not to mention a place where unauthorized clubs do illegal activities.
+[Shiroko]: Like Problem Solver 68?
+[Ayane]: Indeed. Word on the street is that Problem Solver 68 has been responsible for a couple of incidents at the Black Market already.
+[Nonomi]: There's our link!
+[Ayane]: I agree. We should be looking for a connection there.
+[Hoshino]: It's obvious what we have to do next. Let's go to the Black Market and take a look around.
+[Hoshino]: You never know what kind of clues we might find there.
+[Hoshino]: <<To be Continued>>
+[Hoshino]: 11 - To the Black Market! Part 1
+[Hoshino]: The Foreclosure Task Force bumps into Trinity student Hifumi at the Black Market. She came to buy a limited-edition Peroro plush, but was chased by a group of bullies. The task force steps in, and a fight ensues.
+[Hoshino]: [Black Market]
+[Hoshino]: <There's a huge crowd of people in the market.>
+[Serika]: So this is the Black Market…
+[Nonomi]: Whoa! There's a ton of people here!
+[Shiroko]: Seriously. I was expecting a smaller operation, but this is like a city unto itself.
+[Shiroko]: I didn't realize an unauthorized district would be so big and so busy.
+[Hoshino]: To be fair, we hardly ever leave Abydos. There are a lot of weird places outside our district.
+[Shiroko]: Have you ever been here before, Hoshino?
+[Hoshino]: No, but I've heard stories about all kinds of places around the city.
+[Hoshino]: Apparently, there's a giant aquarium somewhere too!
+[Hoshino]: We should all go there next time. Heh heh.Just think of all the fishies…
+[Serika]: Not thatI know, but I'm gonna go out on a limb and guess that this place isn't anything like an aquarium.
+[Ayane]: Eyes sharp, everyone. You're in the heart of the illegal weapons and arms trade, so be ready for anything.
+[Ayane]: If anything does happen, I'll... Huh?!
+[Ayane]: <*pop* *pop* *pop* *tat*>
+[Shiroko]: Gunfire.
+[Shiroko]: Scene change
+[Shiroko]: Footsteps
+[Thug 1]: Stop right there!
+[Hifumi]: W-Waaah! No, no, no! P-Please, stop chasing me!
+[Thug 1]: And why would we do that?!
+[Thug 1]: Hifumi and the thugs dash away
+[Ayane]: Hey. That uniform…
+[Ayane]: !
+[Hifumi]: Watch out! Coming through!
+[Hifumi]: !?
+[Hifumi]: <*crash*>
+[Hifumi]: O-Ow... Sorry about that!
+[Shiroko]: Are you okay?
+[Shiroko]: Though I guess being chased answers that question.
+[Hifumi]: Well...that's…
+[Thug 2]: Who the heck are you? Get outta the way! We got business with that Trinity student!
+[Hifumi]: Uh... But I don't have any business with you.
+[Ayane]: …!
+[Ayane]: That's right! That uniform belongs to Trinity General School, one of the largest
+[Ayane]: academies in all of Kivotos!
+[Thug 1]: And one of the richest too! Kidnapping her is sure to command a hefty ransom!
+[Thug 2]: Abductions and negotiations! Now that's what I call an investment plan!
+[Thug 2]: Whaddaya think? You interested? We could make a fair split…
+[Thug 2]: Nonomi and Shiroko approach
+[Thug 2]: ?
+[Thug 2]: Huh?
+[Thug 2]: <*thwack*>
+[Thug 2]: The thugs fucking die
+[Thug 2]: Arrrggghhh!
+[Nonomi]: Bad guys have to be punished! ☆
+[Shiroko]: Hmm.
+[Hifumi]: Oh. Oh, dear.
+[Hifumi]: Scene change
+[Hifumi]: Th-Thank you so much. I would have been in so much trouble with my school if not for you.
+[Hifumi]: It's bad enough I snuck out here on my own. If something bad happened… It's giving me—a headache just thinking about it!
+[Hoshino]: You said your name was Hifumi, right? So what's a Trinity student doing in a dangerous place like this?
+[Hifumi]: A-Ahaha... It's kind of a long story. I came here looking for something…
+[Hifumi]: Its something that's out of production, but I heard that it shows up in trades every now and then on the Black Market.
+[Shiroko]: Like a tank?
+[Hoshino]: A contraband firearm?
+[Nonomi]: A biochemical agent?
+[Hifumi]: What?! No, of course not! It's...a limited edition piece of Peroro merchandise.
+[Serika]: Peroro?
+[Shiroko]: Limited edition merchandise?
+[Hifumi]: Yup! It's this guy right here. A limited edition plush from the Peroro and Ice Cream franchise collaboration!
+[Hifumi]: Only 100 of them were ever made!
+[Hifumi]: What do you think? Cute, right?
+[Shiroko]: …
+[Nonomi]: Wow! I love Momo Friends too! Peroro is so cute! ☆ I'm a fan of Mr. Nicholai, personally.
+[Hifumi]: Right? The way Mr. Nicholai philosophizes is just so dashing!
+[Hifumi]: In fact, I recently bought a compilation of Mr. Nicholai's work, "Reaching Beyond Good & Evil"! It was a first edition too!
+[Hoshino]: I have no idea what they're talking about.
+[Serika]: You never did care for cutesy stuff, Hoshino.
+[Hoshino]: Huh. I guess I just don't get the young people these days.
+[Serika]: We're practically the same age…
+[Hifumi]: I came here looking for that, but ended up getting targeted by those thugs. I came here looking for that, but ended up getting targeted by those thugs.
+[Hifumi]: Anyway, what brings Abydos students to a place like this?
+[Hoshino]: The same thing as you. We're looking for something.
+[Shiroko]: Yeah. Something that's out of production now and hard to find. But we heard we might be able to find it here.
+[Hifumi]: Wow, great minds think alike.
+[Ayane]: Hang on, guys! Armed forces are closing in on you!
+[Serika]: What?!
+[Serika]: Scene change
+[Thug 1]: There they are!
+[Thug 3]: You're gonna pay for messing with us!
+[Thug 3]: Thugs march forward
+[Thug 3]: Scene change
+[Ayane]: They must be from the same gang as those thugs you scared off. And they look like they're raring for a fight!
+[Shiroko]: Well, if it's a fight they want…
+[Serika]: Why do we keep getting involved with these rough-and-tumble types everywhere we go? Is it us?
+[Ayane]: You'll have time to complain later... Now's the time to act!
+[Ayane]: <<Battle Sequence>>
+[Ayane]: Having beat back the bullies, Hifumi and the Foreclosure Task Force leave the scene before an even bigger mess happens
+[Ayane]: The enemy is retreating.
+[Ayane]: But at this rate…
+[Shiroko]: Are they going to bring reinforcements? Fine by me.
+[Hifumi]: W-Wait a second! We can't just keep engaging them like this!
+[Shiroko]: I don't see why not.
+[Hifumi]: The Black Market's enforcers might crack down on us if we make any more of a scene!
+[Hifumi]: And we'll be in really big trouble if that happens. We should get out of here.
+[Hoshino]: Fair. You know more about this place than we do, Hifumi, so we'll take your lead.
+[Serika]: Tch. They should consider themselves lucky!
+[Hifumi]: This way!
+[Hifumi]: The gang leaves
+[Hifumi]: <<To be Continued>>
+[Hifumi]: 12 - To the Black Market! Part 2
+[Hifumi]: Hifumi agrees to guide The Foreclosure Task Force around the market in return for helping her earlier. Meanwhile, the boss of Problem Solver—68, Aru, struggles to get a loan so she can pay off her earlier mistake.
+[Hifumi]: [Entertainment District]
+[Hifumi]: Ithink we lost them…
+[Shiroko]: This place really lives up to its reputation.
+[Hifumi]: I guess you could say that. The General Student Council doesn't have much influence here.
+[Hifumi]: The Black Market's operational scale is equivalent to at least that of the smaller academies in Kivotos. It definitely shouldn't be underestimated…
+[Hifumi]: Especially since there are also corporations here constantly battling for control over all sorts of illegal trades and activities.
+[Hifumi]: The Black Market even has its own bank and law enforcement.
+[Serika]: A bank and police force?! That can't be legal, can it?!
+[Hifumi]: It's not in the slightest.
+[Nonomi]: I can't believe how organized it all is.
+[Hifumi]: You especially don't want to get involved with their police force—trust me. The best thing to do when something happens is to just run away and take cover.
+[Hoshino]: You seem to know quite a lot about this place, Hifumi.
+[Hifumi]: Do I? I did a lot of research before coming here because of the stories…
+[Hoshino]: Then it's settled!
+[Hifumi]: …?
+[Hoshino]: Hifumi will be coming with us until we've got what we came for!
+[Hifumi]: I will be?
+[Nonomi]: Wow! That's a brilliant idea! ☆
+[Shiroko]: A kidnapping. Good thinking.
+[Hifumi]: Excuse me?!
+[Serika]: No, no, not a kidnapping. They mean they'd like you to be our guide. That is, if you're okay with it, Hifumi.
+[Hifumi]: Oh. I'm not sure I'd be very helpful, but I do owe you all one, so...a|l right.
+[Hoshino]: Great, so you'll be coming with us. For now, at least.
+[Hoshino]: <*riiiiiinnnnnng*>
+[Hoshino]: <*riiiiiinnnnnng*>
+[Mutsuki]: The heck, Aru?! Why aren't you answering your phone?
+[Aru]: …
+[Kayoko]: Check out the look on her face. It must be the client…
+[Mutsuki]: Oof. I wouldn't want to be her right now, having to report a failure.
+[Mutsuki]: Aru…
+[Aru]: Tch.
+[Aru]: *click*
+[Aru]: Problem Solver 68…
+[Kaiser PMC Director]: …
+[Kaiser PMC Director]: Well. This is interesting.
+[Kaiser PMC Director]: I had a fine time watching you get warmed up. So tell me, when will the real operation begin?
+[Aru]: Uh, what? But that was the real op—
+[Aru]: I mean, uh, the real operation will be underway soon. That is to say, it will be in a week. Yup…
+[Kayoko]: ...?!
+[Mutsuki]: …!
+[Aru]: Hahaha. That's right. You have nothing to worry about.
+[Aru]: <*clang*>
+[Kaiser PMC Director]: As far as I know, the data we have on that group should be accurate.
+[Kaiser PMC Director]: Was it an error in our calculations?
+[Black Suit]: You seem troubled.
+[Kaiser PMC Director]: …
+[Kaiser PMC Director]: No, not troubled. It must have been a calculation error, that's all. Those Abydos students
+[Kaiser PMC Director]: happened to have a little more fight in them than expected, based on the data.
+[Black Suit]: …
+[Black Suit]: On the contrary. The data was flawless.
+[Kaiser PMC Director]: …?
+[Black Suit]: The only way this can be interpreted is the Abydos students have somehow grown in strength.
+[Kaiser PMC Director]: That's preposterous.
+[Black Suit]: We'll have to find out if any new variables have appeared in Abydos recently.
+[Black Suit]: Pardon me.
+[Black Suit]: Black Suit leaves
+[Kaiser PMC Director]: …
+[Kaiser PMC Director]: <*clang*>
+[Aru]: *exhale*
+[Mutsuki]: You don't look so good, Aru.
+[Kayoko]: What was that all about? You're not planning on starting another fight, are you?
+[Aru]: Truth be told, I don't know a lot about the client, butI know they're not to be messed with. We don't want to disappoint them…
+[Kayoko]: …
+[Mutsuki]: But those Abydos kids were way stronger than we thought. Plus, they've got Schale in their corner. We're not gonna be enough.
+[Mutsuki]: And we've already spent our entire budget. How would we fight them even if we wanted to?
+[Haruka]: Sh-Should I start looking for some part-timers to use as hired muscle?
+[Kayoko]: That would cost a year's worth of work just to be able to afford again.
+[Kayoko]: Remind me why we signed a lease for this office. It's a waste of money.
+[Aru]: B-Because a proper business needs a proper workplace! B-Because a proper business needs a proper workplace!
+[Mutsuki]: She has a point, but I wouldn't really care if we started doing business out of a tent in the park like we used to.
+[Aru]: Shut up! Just shut your mouths! All of you!
+[Aru]: …
+[Aru]: We'll get a loan.
+[Mutsuki]: You can't be serious, Aru! I thought your credit was in the dumpster!
+[Aru]: Nuh-uh! My account just been frozen because of a bounty!
+[Mutsuki]: Is that what happened...? Oh, now I remember. The Prefect Team did that.
+[Aru]: Those jerks... I can't believe they'd stoop so low.
+[Mutsuki]: Try explaining that to the bank. We'd be laughed right out of the lobby!
+[Aru]: Shut up! We'll figure it out somehow!
+[Kayoko]: …
+[Aru]: Stupid Abydos twits. I said they hadn't seen the last of us, didn't I?!
+[Aru]: We're just getting started!
+[Aru]: Aru whisks away
+[Kayoko]: …
+[Mutsuki]: Heh. What in the world is she planning?
+[Mutsuki]: <<To be Continued>>
+[Mutsuki]: 13 - The Mask Swimsuit Gang! Part 1
+[Mutsuki]: At the Black Market, the Foreclosure Task Force see their debt money being funneled into the Stygian Bank. Outraged that their hard-earned money is being used for illicit activities, the students plan a bank heist.
+[Mutsuki]: [Black Market Streets]
+[Serika]: *sigh* I'm beat.
+[Nonomi]: It feels like we've been walking for hours…
+[Hoshino]: I'm getting too old for this kind of thing. My knees and back are killing me.
+[Hifumi]: Really? How old are you again, Hoshino?
+[Serika]: Like I said, we're all pretty much the same age!
+[Nonomi]: Look over there! They're selling taiyaki!
+[Hoshino]: Hey, they really are. I didn't know they had street vendors here.
+[Nonomi]: Should we grab some snacks and take a break? I'm buying!
+[Serika]: What?! Nonomi, are you gonna use your card again?!
+[Hoshino]: We could always use Sensei's card instead!
+[Nonomi]: No, that's okay. I really want some, so I insist.
+[Taiyaki Store Owner]: Thank you!
+[Serika]: *nom* *nom*
+[Serika]: That's tasty!
+[Hoshino]: Whew, perfect timing. My blood sugar was getting low.
+[Hifumi]: *rustle* Haha. Thanks. Don't mind if I do.
+[Shiroko]: *nom*
+[Shiroko]: Oh.
+[Shiroko]: You take one too, Sensei.
+[Sensei]: "Can't say no to that."
+[Nonomi]: Sorry you're not here, Ayane. We'll bring some back for you.
+[Ayane]: Haha. That's okay, Nonomi. I have snacks with me.
+[Hoshino]: See? Nothing to worry about. Let's just chow down and enjoy this.
+[Hoshino]: Scene change
+[Hifumi]: It's strange that we haven't been able to find any leads.
+[Hifumi]: About those weapons you're looking for, I mean. I'm sure they're out there, but we haven't tracked down a single clue.
+[Hifumi]: There's not even a paper trail. No records of transactions, storage logs… Nothing. It's
+[Hifumi]: like someone's trying to hide the whole operation.
+[Hifumi]: Even the corporations shouldn't be able to manipulate the Black Market to this extent.
+[Shiroko]: It is pretty strange.
+[Hifumi]: I don't know if I would call it strange. It's more like... Why go through all this trouble?
+[Hifumi]: This is the Black Market we're talking about. Corporations typically have no trouble
+[Hifumi]: conducting illegal business out in the open.
+[Hifumi]: For example, see that building there? That's the Black Market's infamous Stygian Bank.
+[Serika]: The Stygian Bank?
+[Hifumi]: It's one of the largest banks in the Black Market. It's said that about 15 percent of all illicit profits from Kivotos' criminal activities flow through that bank.
+[Hifumi]: The take from extortion, armed robbery, abductions, and so on are then used to fund illegal weapons and arms for additional criminal activities.
+[Hifumi]: It's a never-ending cycle.
+[Nonomi]: Goodness. So the bank is just as complicit as anyone else.
+[Hifumi]: Yeah. If you think about it, the bank is really a whole criminal organization unto itself.
+[Shiroko]: …
+[Serika]: That's ridiculous! Why isn't the General Student Council doing anything?!
+[Hoshino]: I'm sure they have their reasons. You never know.
+[Shiroko]: It looks like the real world isn't all sunshine and butterflies like we thought. I guess we were too sheltered within the safety of Abydos…
+[Shiroko]: Marching
+[Ayane]: Hang on a second, everyone! There are armed forces heading your way!
+[Shiroko]: …!
+[Ayane]: I don't think they've spotted you, but you should take cover just to be safe.
+[Hifumi]: Th-Those are Market Guards!
+[Nonomi]: Market Guards?
+[Hifumi]: They act as the top enforcers for all the groups I just mentioned!
+[Hifumi]: Hurry!
+[Hifumi]: The gang runs away
+[Hifumi]: Fade to black
+[Hifumi]: It just looks like they're on a routine patrol…
+[Hifumi]: <*click* *clank* *click*>
+[Shiroko]: That looks like an armored truck full of cash they're escorting.
+[Nonomi]: Hey. Look over there.
+[Nonomi]: <*click* *clank* *click*>
+[Nonomi]: It's entering the Stygian Bank?
+[Nonomi]: <*screech*>
+[Teller]: These are the collections from this month.
+[Stygian Bank Employee]: Even earlier than scheduled. Well done. Sign the transport papers here.
+[Teller]: Of course. *scribble*
+[Stygian Bank Employee]: Perfect.
+[Teller]: Well, then. Have a good day.
+[Teller]: Teller leaves
+[Stygian Bank Employee]: Open the gates. It's the cash collections for this month.
+[Stygian Bank Employee]: <*vroom*>
+[Nonomi]: Hey. Wasn't that...?
+[Serika]: What the heck?! That's the bank employee who takes our interest payments every month…
+[Hoshino]: Hey, no kidding.
+[Hifumi]: What was that...?
+[Shiroko]: What's going on?
+[Ayane]: Confirmed! That's a Kaiser Loans truck!
+[Ayane]: In fact, it's the same truck that our cash payment was loaded into this morning! What is it
+[Ayane]: doing at the Black Market?!
+[Hifumi]: K-Kaiser Loans?!
+[Hoshino]: You've heard of them, Hifumi?
+[Hifumi]: That's the infamous Kaiser Corporation's loan shark company…
+[Shiroko]: Infamous? Is it a criminal organization?
+[Hifumi]: Not exactly. The Kaiser Corporation doesn't do anything outright illegal, but they're definitely shady. They practically play jump rope with the line between legitimate and criminal activities…
+[Hifumi]: Kaiser's been trying to extend its reach into the Trinity district as well, and the Tea Party
+[Hifumi]: has been watching them like a hawk to make sure they don't cause any problems for the
+[Hifumi]: students.
+[Hoshino]: The Tea Party... That's Trinity's student council ifI remember right.
+[Hifumi]: This debt you guys owe is to Kaiser Loans?
+[Nonomi]: Well, technically, we weren't the ones who originally owed the debt.
+[Hoshino]: It's kind of a long story. Ayane, can you get a bead on that armored truck?
+[Ayane]: One moment.
+[Ayane]: …
+[Ayane]: No good. I think they're working on a closed network. I can't pull anything up on them at all.
+[Hoshino]: Should've known…
+[Nonomi]: Come to think of it, they were very adamant about cash only. Do you think it's because...?
+[Shiroko]: Our cash payments are being funneled into this Black Market bank?
+[Serika]: So we've essentially been funding criminal activities for the Black Market this entire time?!
+[Ayane]: …
+[Shiroko]: …
+[Hoshino]: …
+[Nonomi]: …
+[Ayane]: W-We can't say for certain yet... There isn't anything concrete to back it up. Not until we figure out where that truck is going.
+[Hifumi]: Wouldn't those transport papers that employee just signed tell us?
+[Shiroko]: Hey. Yeah.
+[Hoshino]: Good thinking, Hifumi.
+[Hoshino]: On second thought, those papers are inside the bank... So they wouldn't do us much good after all.
+[Hoshino]: Not just any bank—the most heavily guarded bank in the entire Black Market. And it's crawling with armed guards.
+[Hoshino]: If only we could find another way to get that truck's transport route. Let's see. Hmm…
+[Shiroko]: No.
+[Shiroko]: There's no other way.
+[Hifumi]: Pardon?
+[Shiroko]: It's our only option, Hoshino.
+[Hoshino]: You make a good point.
+[Hifumi]: Come again?
+[Nonomi]: Oh, now I get it! We're going to use THAT plan, aren't we?
+[Serika]: Hold on. You can't be serious. You three aren't thinking what I think you're thinking...are you?
+[Shiroko]: … (glimmer)
+[Serika]: Was that a yes?! Seriously?!
+[Hifumi]: I'm not sure I follow. What are you all talking about?
+[Shiroko]: It's finally time.
+[Shiroko]: *shuffle*
+[Shiroko]: We're gonna hit the bank.
+[Hifumi]: What?!
+[Hoshino]: Turns out it was the best plan after all.
+[Hifumi]: Excuse me?
+[Nonomi]: Yippee! Time to teach that evil bank a lesson! ☆
+[Hifumi]: Th-This is a joke, right?!
+[Serika]: This is actually happening. We're really doing this?
+[Serika]: Because if you three are serious…
+[Serika]: ...then count me in too!
+[Hifumi]: You too, Serika...?
+[Ayane]: …
+[Ayane]: *sigh* Copy that. I doubt I can talk any of you out of it at this point. Good luck. I'm sure
+[Ayane]: you'll manage somehow.
+[Ayane]: …
+[Shiroko]: Sorry, Hifumi. We don't have a mask prepared for you.
+[Hoshino]: They would pin everything on Trinity if we were to be caught.
+[Hifumi]: That would be really...REALLY bad…
+[Nonomi]: But I don't want you to feel left out.
+[Nonomi]: This is the best we can do last-minute. Take this, Hifumi! ☆
+[Hoshino]: The bag the taiyaki came in? Brilliant!
+[Hifumi]: Hold on! I never agreed to…
+[Hifumi]: A-Ah…
+[Hifumi]: <*crumple* *crumple*>
+[Hifumi]: Nonomi…
+[Hifumi]: …
+[Shiroko]: It suits her perfectly.
+[Nonomi]: I even wrote you a number, Hifumi. You‘re No.5. ☆
+[Hoshino]: Whoa, it makes her look like she's our boss. What a leader.
+[Hifumi]: I-I am? I mean, are we really going to hit the Stygian Bank?
+[Hoshino]: Of course we are, Hifumi. Remember? We're sticking together today.
+[Hifumi]: How will I explain this to the Tea Party if they ever find out?
+[Serika]: What's to explain? We're hitting a criminal bank! We're the good guys!
+[Shiroko]: Would you do us the honors, Sensei?
+[Sensei]: “Let’s eat the rich!”
+[Nonomi]: Yay! Let's go! ☆
+[Hifumi]: Oh, no…
+[Ayane]: *sigh* I dub you all the Masked Swimsuit Gang.
+[Ayane]: <*shuffle*>
+[Ayane]: Let's do this!
+[Ayane]: <<To be Continued>>
+[Ayane]: 14 - The Masked Swimsuit Gang! Part 2
+[Ayane]: Aru is waiting for a loan interview at the Stygian Bank when the masked members of the Foreclosure Task Force burst in and steal all the bank's money. The Black Market Guard gives chase, and Aru admires the students' act of pure villainy.
+[Ayane]: [Bank]
+[Bank Examiner]: Sorry for the short delay...Aru, was it?
+[Aru]: You call that a short delay?! I've been waiting here for six hours!
+[Aru]: What kind of loan interview is this?! I've been here the whole day, and there wasn't even anyone in front of us!
+[Aru]: Look at my associates over there! We've been waiting for so long that they've passed out on the couch!
+[Bank Examiner]: We've had some internal issues. Our apologies.
+[Bank Examiner]: However, I'm not quite sure if you're in the position to make any demands, Miss Aru.
+[Aru]: U-Ugh…
+[Bank Examiner]: As someone in need of assistance from our bank, waiting is the least you can do. And not to mention, it's frowned upon to sleep on communal seating.
+[Bank Examiner]: *snaps* Guard. Wake up those bums...I mean, customers…
+[Bank Examiner]: Scene change
+[Bank Guard]: All right, all right! Rise and shine! Time to wake up!
+[Mutsuki]: Zzz…
+[Mutsuki]: Eek?! The heck?!
+[Kayoko]: …!
+[Haruka]: S-Sorry! We're very sorry! We shouldn't have dozed off!
+[Haruka]: Scene change
+[Aru]: …
+[Bank Examiner]: *flip* Now, let's see here. Name...Rikuhachima Aru. Affiliation: second-year at Gehenna Academy.
+[Present employment]: boss of Problem Solver 68... That reads like a shell corporation to me. Your financial documents are a complete mess.
+[Aru]: N-No! We're completely legitimate! Wejust haven't received payment on some of our commissions yet!
+[Bank Examiner]: And look at this. You only have four people under you, but each have special titles… Chief of staff, section chief, and entry-level employee? That's quite a reach. Are you playing make-believe at running a company?
+[Aru]: If you want to earn commissions, you have to keep up appearances…
+[Bank Examiner]: Would you care to explain this extravagant office lease you're paying? You should know better than to extend yourself beyond your means.
+[Aru]: Y-You've gotta spend money to make money...?
+[Bank Examiner]: …
+[Bank Examiner]: My, my, Aru. This doesn't look like it's going well for you at all.
+[Aru]: Th-This can't be happening!
+[Bank Examiner]: My strong recommendation is that you secure legitimate employment at once. Might I suggest looking into the early-morning day-laborer market?
+[Aru]: Wh-What was that?!
+[Aru]: Fade to black
+[Aru]: *shudder*
+[Aru]: (Why you little... I oughta smash everything and rob this bank right now!)
+[Aru]: (I need to stay cool. Even ifI rob this bank, escaping from the Black Market is another
+[Aru]: story. Consider all those Market Guards on patrol everywhere...)
+[Aru]: (But is it really? Maybe those guys aren't actually that big of a deal. Who's to say the four
+[Aru]: of us won't be able to blast our way out of here and take 'em down?)
+[Aru]: (On second thought...I don't have the guts to make the entire Black Market my enemy.)
+[Aru]: (This is so pathetic. I wanted to become the greatest outlaw in all of Kivotos, but look at
+[Aru]: me now...)
+[Aru]: (This loan, my business... Everything I touch turns into a huge mess.)
+[Aru]: (This isn't want I wanted at all... I wanted to be a hard-boiled outlaw. A true, free spirit not bound to anything—not even fear.)
+[Aru]: (It's all I ever wanted.)
+[Bank Examiner]: Aru, are you listening?!
+[Aru]: O-Of course I am! So...could you repeat that?
+[Bank Examiner]: I said, your loan application has been denied. Now, run along.
+[Aru]: Wait, what?! H-Hold on a second!
+[Aru]: Black screen
+[Aru]: <*pow*>
+[Bank Examiner]: What's going on? A power outage?!
+[Bank Examiner]: Did someone trip a breaker? All of the computers are dead!
+[Bank Examiner]: <*pop* *pop* *pop* *tat*>
+[Aru]: Gunfire?!
+[Aru]: Gunfire
+[Market Guard 1]: Garrrgh!
+[Market Guard 2]: Arrrgh!
+[Market Guard 2]: Footsteps
+[Market Guard 2]: Punch
+[Market Guard 3]: What’s happening? Ugh!
+[Market Guard 3]: <*ping*>
+[Market Guard 3]: The gang appear
+[Market Guard 3]: <*ta-da!*>
+[Shiroko]: Everyone, down! Toss your weapons aside and hands where we can see them!
+[Nonomi]: Or else! ☆
+[Hifumi]: Th-This is a stick up...so get down on the ground if you don't want to get hurt!
+[Aru]: B-Bank robbers?!
+[Bank Examiner]: *WEE WOO* *WEE WOO* Alert! Alert!
+[Hoshino]: It's no use. The outer security system has already been turned off.
+[Bank Examiner]: *gasp*
+[Serika]: Hey, you over there! You were told to get down on the ground! Try any more funny business and I'll put holes in your circuits!
+[Hifumi]: Please, everyone just do as we say. Please…
+[Hoshino]: Everything's going according to plan! Time to move to the next phase. Give us your orders, Faust!
+[Hifumi]: What?! Are you referring to me?!
+[Nonomi]: That's right—you're the leader! The boss! And as for myself…
+[Nonomi]: I'm Christina of the Masked Swimsuit Gang! ♧
+[Serika]: Hey, when did we agree to give ourselves names?! And what kind of choice is that? It's so lame!
+[Nonomi]: …
+[Hoshino]: Heh heh! Better do as Faust says. You don't wanna make her angry. You wouldn't like her when she's angry.
+[Hifumi]: Wh-What?! How did I end up being the boss? Oh, no… How can I face the Tea Party now?
+[Hifumi]: Scene change
+[Mutsuki]: Wait a second... Aren't they...?
+[Kayoko]: The students from Abydos?!
+[Mutsuki]: That's right. I'm not sure which is which, but it's gotta be them. The heck are they doing here? And what's with those masks?
+[Haruka]: A-Are they here for us?! Sh-Should I go annihilate all of them?
+[Kayoko]: No, I don't think they're here for us... Are they being serious right now? They're sticking this place up?
+[Mutsuki]: What are you doing, Aru?
+[Mutsuki]: Scene change
+[Shiroko]: I have the security camera blind spots, guard positions, and the bank's internal structure memorized. So nobody try anything stupid, or else.
+[Shiroko]: All right, you over there. That cash truck that just left. I want you to take this bag and fill it
+[Shiroko]: up.
+[Bank Examiner]: O-Of course! Cash, bonds, gold, whatever you want! You got it!
+[Shiroko]: No, uh... What I want are the transport logs…
+[Shiroko]: Bank Examiner shuffles around
+[Bank Examiner]: H-Here they are! All neatly organized, so please don't hurt me!
+[Shiroko]: Th-Thanks…
+[Aru]: …
+[Aru]: (They're really robbing a Black Market bank! That's sooooo cool!)
+[Aru]: (How are they gonna pull off the getaway? And more importantly, how do they have the GUTS to do this kind of stuff?!)
+[Aru]: (Look at that cool, calm composure. They're pros. It's like they were born to do this. They pulled this off in five minutes flat!)
+[Aru]: (I-It's magnificent! So badass! Now these guys are real outlaws! I'm gonna start tearing up.)
+[Aru]: Scene change
+[Kayoko]: She has absolutely no clue…
+[Mutsuki]: Is she actually getting teary-eyed?
+[Kayoko]: *sigh*
+[Haruka]: Uh, so do we just stay put?
+[Kayoko]: Between those guys or the bank, there's no reason for us to help either side. And with Aru in that state right now...we're better off staying out of it.
+[Haruka]: If you say so…
+[Serika]: Hey, Shiro—I mean, uh...B|ue. You got the goods?
+[Shiroko]: Y-Yeah. The eagle has landed.
+[Hoshino]: Then, c'mon! Let's move it, people!
+[Nonomi]: All righty, then. Adios! ☆
+[Hifumi]: A-And no one got hurt. S-Sorry about this everyone. Thank you, and have a great day!
+[Hifumi]: <*whoosh*>
+[Bank Examiner]: D-Don't let them get away! Seal off the roads! Contact the Market Guards!
+[Bank Examiner]: They must be found at once!
+[Bank Examiner]: <<Battle Sequence>>
+[Bank Examiner]: <<To be Continued>>
+[Bank Examiner]: 15 - Riding off Into the Sunset!
+[Bank Examiner]: After outrunning the Black Market Guard, the group begins to question their resolve. Hoshino persuades them to take only the documents they need. Later, Problem Solver discovers the piles of money that were left behind.
+[Bank Examiner]: [Downtown]
+[Bank Examiner]: Takes off mask
+[Serika]: Phew, that was starting to get really stuffy. We can take these off now, right?
+[Hoshino]: Let's not waste any time. They're going to catch up to us soon.
+[Hifumi]: Hoshino's right. They're going to seal off more roads by the minute.
+[Nonomi]: Everything's been planned and accounted for, so no worries! ☆
+[Shiroko]: This way. Hurry!
+[Serika]: Hey, Shiroko...why are you still wearing that? Isn't it hot?
+[Hoshino]: She probably doesn't want to take it off because it's helped her discover her true calling. It's like a piece of her soul now, probably.
+[Serika]: Thank goodness Shiroko ended up at Abydos. I bet she would have become a criminal mastermind if she had gone to a different school.
+[Serika]: …
+[Shiroko]: I don't know about that…
+[Ayane]: ...?!
+[Ayane]: Takes off mask
+[Ayane]: …
+[Ayane]: You're through the barricade. You should be safe now.
+[Serika]: Nice! We did it!
+[Ayane]: I can't believe you all really pulled a heist on a Black Market bank…
+[Hoshino]: Shiroko. You have the transport logs, right?
+[Shiroko]: Yes. They're in my bag.
+[Shiroko]: <*whoosh*>
+[Hoshino]: Huh? What is all this stuff...? Are these bundles of cash?!
+[Serika]: WH-WHAT?! Shiroko, you went after the cash instead?!
+[Shiroko]: No...? I asked for the logs, just like we planned. That bank employee is the one who got the wrong idea and gave us this cash.
+[Hoshino]: Let's see... There‘s at least 100 million yen in there, from the looks of it. Wow, we really did rob them of 100 million in five minutes!
+[Serika]: Nice going! What are you all staring at each other for? Let's take it!
+[Shiroko]: …
+[Ayane]: W-Wait a second! You want to keep that money?!
+[Serika]: What's wrong, Ayane? This is our chance to settle the debt.
+[Ayane]: But then we really would be nothing but criminals, Serika!
+[Serika]: We're the ones who shed blood, sweat, and tears to earn this cash in the first place! It was that evil bank who decided to funnel it away into crime!
+[Serika]: This money would have funded more weapons, ammo, and who knows what else for the
+[Serika]: real bad guys! Fine, we stole from some criminals. So what? Where's the harm there?!
+[Hifumi]: …
+[Nonomi]: I agree with Serika. This would've just funded more crime anyway. Whatever we do with it, we'll put it to far better use.
+[Serika]: See? Told you! And this will help with Abydos High School's debts for sure!
+[Hoshino]: Hmm. That's true...but what do you think, Shiroko?
+[Shiroko]: I think you must be against this, Hoshino. So what else is there to discuss?
+[Serika]: What?!
+[Hoshino]: I can always count on you to know what I'm thinking, Shiroko.
+[Hoshino]: What we need are those documents! Not the cash.
+[Hoshino]: If we cross this line today because it's us versus criminals, what about the next time? Or
+[Hoshino]: the time after that?
+[Serika]: …
+[Hoshino]: If we start getting desensitized to that sort of thinking, soon we won't see any line at all.
+[Shiroko]: …
+[Hoshino]: Then one day, something really crucial is gonna force our hand, and we're gonna end up doing something we really shouldn't do, while making excuses that we had no choice.
+[Hoshino]: I wouldn't want my adorable underclassmen to end up like that.
+[Hoshino]: And what's the point of protecting the school if that's how we go about it?
+[Ayane]: …
+[Hoshino]: We could've just used Nonomi's solid gold credit card to pay off the debt if this is the way we were going to go about things.
+[Nonomi]: Well, I did offer that as a solution, but Hoshino was against it…
+[Nonomi]: I mean, I understand. If we use illegitimate means to pay off Abydos' debt, we'll just be
+[Nonomi]: paying it off in exchange for being beholden to something else…
+[Hoshino]: Heh. Something like that.
+[Hoshino]: So, that's why we're leaving the bag behind. Only take the documents. President's
+[Hoshino]: orders.
+[Serika]: Argh! You have to be kidding me! You want us to just dump all this cash?! Of all the times to take a stand, this is when you do it?!
+[Shiroko]: You heard her. President's orders…
+[Hifumi]: I can't pretend to fully understand what it's like to be in Abydos' situation… but I do know that taking this cash will only lead to an even bigger mess.
+[Hifumi]: Ithink you would regret it in the long run.
+[Nonomi]: Now that doesn't leave us with much of a choice, does it? I'll just get rid of this bag somewhere discreet.
+[Hoshino]: Much appreciated.
+[Ayane]: Hang on! Someone is headed your way!
+[Shiroko]: Are the Market Guards after us?!
+[Ayane]: No, it doesn't look like it. Whoever it is, they don't seem hostile.
+[Ayane]: Hang on a second. I know this reading. Is that...?
+[Ayane]: I-It's Aru from Problem Solver 68!
+[Ayane]: Scene change
+[Aru]: *pant* *pant* H-Hold up a second!
+[Shiroko]: *puts mask back on*
+[Aru]: Hold on a second! I'm not here to pick a fight.
+[Serika]: (What is SHE doing here?)
+[Shiroko]: (Should we attack?)
+[Hoshino]: (Not sure. It doesn't look like she's going to make the first move.)
+[Hifumi]: (You all know this girl?)
+[Hoshino]: (We go way back.)
+[Aru]: So, um... I just wanted to say…
+[Aru]: Iwatched you hit that bank. I can't believe you robbed a Black Market bank and got away
+[Aru]: with it in five minutes flat! Outlaws like you guys come only once in a generation.
+[Shiroko]: …?!
+[Aru]: To be honest, it left a huge impression on me. That kind of bravado is a rarity these days. Let's just say I was inspired.
+[Aru]: I-I'm gonna keep working hard, and someday, I'm gonna become an outlaw just like you! A truly free spirit unrestricted by any rules or laws!
+[Serika]: (What the heck is she going on about...?)
+[Aru]: S-So please...! At least tell me your name!
+[Shiroko]: Name…?
+[Aru]: Like, what's the name of your group? Or is it a faction, or a club? It doesn't have to be your real names...but I want to know who it is I'm looking up to!
+[Hoshino]: (Uh, I think she's got the wrong idea about this...)
+[Nonomi]: Oh, nowI get it! We'd be happy to tell you!
+[Serika]: (N-Nonomi?!)
+[Nonomi]: We are...the Masked Swimsuit Gang!
+[Aru]: You said..."the Masked Swimsuit Gang"?!
+[Aru]: That name is so...so...BADASS! I love it!
+[Serika]: (...)
+[Hoshino]: We're supposed to wear swimsuits along with our masks, but we were in such a rush that we only brought our masks with us.
+[Serika]: (She's acting like a star-struck little girl.)
+[Nonomi]: That's right! We're pop idol superstars by day, and swashbuckling vigilantes of justice who fight bad guys by night!
+[Nonomi]: I'm Christina! ♧
+[Aru]: Wow! You have a gimmick and everything?!
+[Hoshino]: Bwahaha! An eye for an eye, a tooth for a tooth! Forsake mercy and walk the path of chaos! That's our motto.
+[Aru]: H-Holy smokes!
+[Aru]: Scene change
+[Kayoko]: What kind of joke did we just walk in on?
+[Mutsuki]: Wow, Aru is totally enraptured! She looks like a kid on a film set!
+[Mutsuki]: Scene change
+[Serika]: (That ought to be enough, right? Let's start looking for a way out!)
+[Nonomi]: All righty, then. Adios! ☆
+[Hoshino]: Now, time for us to ride off into the sunset!
+[Hifumi]: But it's still the middle of the afternoon…
+[Hifumi]: <*bolt*>
+[Aru]: …
+[Aru]: The path of chaos it is! I'm gonna burn that motto into the depths of my soul!
+[Kayoko]: …
+[Mutsuki]: …
+[Kayoko]: (We ought to say something to her, but I don't know when or how...)
+[Mutsuki]: (Leave her be. It's way more interesting this way.)
+[Haruka]: Hey, um…
+[Haruka]: What should we do with this bag? I think those guys left it behind…
+[Aru]: What? You don't think...the Masked Swimsuit Gang left this here as a gift for me, do you?
+[Kayoko]: Uh, no. I don't think so... They probably just forgot about it.
+[Mutsuki]: It feels pretty hefty. I wonder what's inside.
+[Mutsuki]: <*click*>
+[Mutsuki]: ?!
+[Aru]: …!
+[Mutsuki]: No. Way.
+[Kayoko]: Isn't...this...?!
+[Nonomi]: Uh-oh. I think I forgot to pick up the cash bag.
+[Serika]: What?!
+[Hoshino]: We were going to throw it away anyway. Just forget about it.
+[Shiroko]: Oh, well. I'm sure it'll end up with someone who needs it.
+[Nonomi]: I hope so too! I hope it goes to someone who could really use the money.
+[Hifumi]: Maybe we should think about it as a good deed for the day, then. I'd like to think someone who usually has to go hungry found that money.
+[Serika]: I think I'm going to be sick to my stomach. Gah! I can't believe this!
+[Aru]: Huh?!
+[Mutsuki]: Whaaa?!
+[Kayoko]: Now what?
+[Haruka]: So...?
+[Haruka]: Does this mean we won't have to share ramen next time?
+[Haruka]: <Back at Problem Solver 68's office…>
+[Haruka]: Black screen
+[Aru]: Whaaat?!
+[Aru]: The Masked Swimsuit Gang was actually those girls from Abydos?!
+[Mutsuki]: Hahaha! Aru, you look like you just found out Santa Claus doesn't exist!
+[Kayoko]: *sigh*
+[Kayoko]: <The truth finally dawned on Aru.>
+[Kayoko]: <<To be Continued>>
+[Kayoko]: 16 - The Truth Revealed
+[???]: a mega-syndicate known as the Kaiser Corporation. Confronted with such a seemingly insurmountable societal evil, the dejected students of the Foreclosure Task Force call it a day.
+[???]: [Abydos Foreclosure Task Force Club Room]
+[???]: <Everyone, including Hifumi, gathered to review the documents upon returning to Abydos High School.>
+[???]: <*smaaash*>
+[Serika]: What in the heck is this?!
+[Nonomi]: …!
+[Shiroko]: Look at the truck's transport log. It says "Abydos - 7,880,000 yen collected". This has got to be the truck that came to our school.
+[Shiroko]: But right after that, it says "Kata-Kata Helmet Gang - 5 million delivered in mission
+[Shiroko]: funds".
+[Nonomi]: So, that means…
+[Serika]: Right after they took our cash, they delivered it straight to the Helmet Gang's base to fund their mission?!
+[Ayane]: By mission, do you mean when the Helmet Gang...?
+[Ayane]: The Helmet Gang was acting...under the orders of Kaiser Loans?!
+[Shiroko]: …
+[Serika]: …
+[Hifumi]: …
+[Nonomi]: But why would they do that? They won't be paid if the school goes bankrupt. It doesn't make any sense…
+[Hoshino]: Hmm…
+[Shiroko]: I think this goes way beyond just a simple bank scheme. The only way it makes sense is if Kaiser Corporation's HQ is involved somehow…
+[Hifumi]: I agree. That's the only explanation.
+[Hifumi]: Footsteps
+[Hifumi]: I know a lot happened today, but I still had fun.
+[Nonomi]: Same here. Sorry for bringing you into this mess, Hifumi.
+[Hifumi]: That's okay. Haha…
+[Hoshino]: Don't be a stranger, you hear me?
+[Hifumi]: I won't.
+[Hifumi]: We don‘t have all the details, but I'm sure the Kaiser Corporation must have direct ties to violent criminal organizations.
+[Hifumi]: I'll pass along what happened today to the Tea Party!
+[Hifumi]: I'll also tell them all about Abydos High School's circumstances.
+[Hoshino]: …
+[Fair warning]: I bet that's gonna be old news to the Tea Party.
+[Hifumi]: I-It Will be?!
+[Hoshino]: I doubt the hot shots at all the other academies haven't figured it out by now. It's not like they don't have manpower to dedicate to intelligence gathering.
+[Hifumi]: B-But that means they knew about you and still didn't…
+[Hoshino]: You're so innocent, Hifumi. The world isn't all sunshine and rainbows, you know.
+[Hifumi]: …
+[Hoshino]: I appreciate the gesture, but I don't know what good it'll do to tell them. In fact, it might just make things more complicated for us.
+[Hifumi]: Y-You think so...?
+[Hoshino]: Our school is on the verge of collapse. It doesn't matter if it's a super-academy like Trinity or Gehenna. There isn't much anyone can do to change things. Do you get what I'm saying?
+[Hifumi]: If someone were to take advantage of the situation under the guise of helping...you'd be powerless to stop it.
+[Hifumi]: N-Now I get it. That's definitely a possibility. Ugh... I hate politics.
+[Nonomi]: Aren't you being too cynical about this, Hoshino? What if they just really wanted to help?
+[Hoshino]: Give me a break. I'm old, cranky, and my back hurts too much to trust anyone at this age.
+[That's how this school ended up in this mess]: by ignoring all of the "what ifs".
+[Shiroko]: …
+[Hifumi]: …
+[Hifumi]: So…
+[Hifumi]: Um…
+[Hifumi]: The thing is, we've been through a lot together in such a short time…
+[Shiroko]: We have been. It was a lot of fun.
+[Serika]: Fun? Speak for yourself, Shiroko.
+[Hifumi]: I dunno. I kinda had fun too…
+[Hoshino]: Glad to hear it. Thanks for all your help, Faust.
+[Hifumi]: Y-You don't have to keep calling me that!
+[Nonomi]: How does "fearless leader of the Masked Swimsuit Gang" sound?
+[Ayane]: Come on, guys... Stop giving Hifumi a hard time.
+[Hifumi]: Uh, anyway... I know you have some tough times ahead, but I'll be cheering you on. Good luck.
+[Hifumi]: I'll see you around, everyone.
+[Hifumi]: Scene change
+[Ayane]: It's been a really long day. Why don't we all go home and get some rest? We can regroup tomorrow.
+[Hoshino]: Dismissed!
+[Hoshino]: <<To be Continued>>
+[Hoshino]: 17 - A Gathering Storm
+[Hoshino]: Aru grapples with the thought of using funds acquired by Aru grapples with the thought of using funds acquired by To lift her spirits, Problem Solver takes her to get Shiba Seki ramen. Meanwhile, a man in a black suit appears before Hoshino with a clandestine proposal.
+[Hoshino]: [Problem Solver Office]
+[Mutsuki]: Good morning!
+[Aru]: *yawn* Good morning…
+[Mutsuki]: What's wrong with you, Aru? Did you stay up all night?
+[Aru]: N-No. I slept...technically speaking.
+[Kayoko]: What's eating at you this time, Boss?
+[Mutsuki]: The planning is all done, right? We hire double the muscle, then we lure the Abydos kids somewhere we'll have the upper hand.
+[Kayoko]: By the way. Haruka left first thing this morning to go plant the explosives. The plan is to pick off those Abydos kids off one-by-one with them. Does that sound good to you?
+[Kayoko]: <*opens*>
+[Haruka]: I'm back.
+[Kayoko]: Hi, Back. So...? How did it go?
+[Haruka]: I finished planting the bombs at key junctions. Now, all I have to do is press this button, and…
+[Mutsuki]: Nice! Just make sure to remember where they‘re all placed.
+[Haruka]: Of course. Say the word and they'll be blown to smithereens…
+[Aru]: Tch…
+[Mutsuki]: What's wrong now? The money? If this was gonna put us out so much, then why didn't we get an advance from the client and use that for our plans?
+[Aru]: No upfront payments—company policy. You know that.
+[Kayoko]: Because accepting payment in advance would give the client too much say in how we operate, or something like that?
+[Aru]: Exactly. We get paid only when the job is done. That's how it has to be. And I never compromise.
+[Mutsuki]: Really? Since when?
+[Aru]: Since always! We're hard-boiled outlaws untethered to rules or laws! That's always been the guiding vision for Problem Solver 68!
+[Mutsuki]: Huh, was it? I guess it does sound a little familiar.
+[Aru]: Contracts are no different. There's always a chance it might turn into a trap. We don't want to get caught doing something we don't want to do.
+[Aru]: And that's why we only accept payment once the job is done.
+[Kayoko]: …
+[Kayoko]: You know, Boss...if this is getting to be too much pressure, we could all just throw in the towel and go back to Gehenna.
+[Aru]: What?!
+[Aru]: Wh-Who said anything about it being too much pressure?! I'm just...a little…
+[Mutsuki]: Heh... The pressure must be eating her alive deep down, huh? She knows the Prefect Team would never let her off the hook.
+[Kayoko]: That's a good point.
+[Kayoko]: The Prefect Team must see us as nothing but a thorn in their sides. Still,
+[Kayoko]: it's not as though we came out here to run away either. And don't forget.
+[Kayoko]: The only reason the Prefect Team is considered to be the most feared
+[Kayoko]: organization in all of Kivotos…
+[Kayoko]: Fade to black
+[Kayoko]: ...is because of Head Prefect Hina.
+[Kayoko]: Most of their firepower comes from the head prefect alone. She's like a one-woman
+[Kayoko]: army.
+[Kayoko]: In other words…
+[Kayoko]: ...the rest of the Prefect Team is anything but invincible.
+[Kayoko]: We have a puncher's chance of winning if we play our cards right.
+[Mutsuki]: You don't say? I didn't realize you were thinking so far ahead, Kayoko.
+[Kayoko]: .We'll have to fight them sooner or later. We could use the same resources we're utilizing against Abydos to fight the Prefect Team without Hina.
+[Kayoko]: That's how strong I think the Abydos girls are. Their only real weakness is
+[Kayoko]: that they have no backup.
+[Mutsuki]: Huh. You don't say…
+[Aru]: …
+[Aru]: No. Going back is out of the question.
+[Aru]: But I wish it wasn't…
+[Kayoko]: Would you make up your mind, already?
+[Mutsuki]: Fine. Let's give this boring conversation a break and get something to eat. I'm starving.
+[Mutsuki]: How does ramen sound? Shiba Seki, anyone?
+[Kayoko]: That place?
+[Mutsuki]: Worried about that part-timer? She only works in the afternoon. We just have to make sure we don't run into her.
+[Kayoko]: I guess... I'll admit their food was pretty good. And a pick-me-up would do the boss some good.
+[Mutsuki]: All right! Let's go! ♪
+[Mutsuki]: [Abydos Foreclosure Task Force Club Room]
+[Mutsuki]: <I was greeted by the sight of Hoshino resting her head in Nonomi's lap upon entering the club room.>
+[Hoshino]: Hey. Good morning, Sensei.
+[Nonomi]: You're here early. Good to see you.
+[Hoshino]: Look comfortable, don't I? Nonomi's lap is super soft and perfect for taking a nap. It's like my very own pillow.
+[Nonomi]: There's room for you too, Sensei! Make yourself comfortable! ☆
+[Hoshino]: Nope! I have dibs on this lap, so why don't you back off and take one of those chairs over there, Sensei?
+[Nonomi]: No one said you could call dibs, Hoshino…
+[Nonomi]: (Why don‘t you come back later when no one else is around, Sensei?)
+[Hoshino]: *stretch*
+[Hoshino]: Gets up
+[Hoshino]: *yawn* How is everyone already so busy this morning?
+[Nonomi]: It's the first breather we've had in a while... So I guess everyone is trying check some stuff off their lists.
+[Nonomi]: Shiroko is probably working out and Ayane is most likely studying at the library.
+[Hoshino]: Wow. And you came to school early to tidy up the club room, Nonomi? You're all such hard workers.
+[Hoshino]: As for me? Heh. As if I'd be up to anything right now!
+[Nonomi]: Maybe you'd like to do something productive for a change, Hoshino? Like a part-time job or going to the gym?
+[Hoshino]: Nope. I've already got way too much on my plate. Plus, I'm just an wrinkly old coot who can barely endure extracurricular activities.
+[Nonomi]: But we're practically the same age.
+[Hoshino]: Anyway, the others should be arriving soon now that Sensei is here. I'm gonna go kill some time.
+[Nonomi]: Huh? Hey, where are you going?
+[Hoshino]: Today's my day off! I'll be out for the day, so call me if anything comes up.
+[Hoshino]: Hoshino leaves
+[Nonomi]: Hoshino... I bet she's gonna go take another nap.
+[Nonomi]: I guess that's okay. Ayane will make sure the meeting runs smoothly anyway.
+[Nonomi]: Haha... Still, Hoshino's changed a lot since I first met her.
+[Nonomi]: Hmm? What was she like before?
+[Nonomi]: Well, she might come across as a lazy sleepyhead now, but there was never a moment when Hoshino didn't seem frazzled back then.
+[Nonomi]: What was she frazzled by? I dunno... Everything?
+[Nonomi]: I don't know all the details, but there used to be another student around here before…
+[Nonomi]: Apparently, she was the last student council president Abydos had. From what I heard, she wasn't very reliable or trustworthy. Hoshino had to do everything herself after she disappeared.
+[Nonomi]: That was back when Hoshino was just a first-year. Anyway, like I said, I don't know all the details.
+[Nonomi]: But now we have you, Sensei. And she seems to have no trouble hanging out with students from other academies too…
+[Nonomi]: She never would have done something like that before. I guess you could say she's finally softened up a bit.
+[Nonomi]: And I think it's all thanks to you, Sensei! ☆
+[Hoshino]: …
+[Hoshino]: Hoshino leaves
+[Hoshino]: {Next BG}
+[Hoshino]: …
+[???]: Ah, you're here.
+[Black Suit]: I've been waiting for you, Horus of the Da—ah, pardon me. You go by "Hoshino", was it?
+[Black Suit]: I'm afraid I'm still getting used to how things are done in Kivotos. This way, if you please,
+[Black Suit]: Miss Hoshino.
+[Hoshino]: What do you want this time, Black Suit?
+[Black Suit]: To put it simply, circumstances have changed. And as you possess the greatest To put it simply, circumstances have changed. And as you possess the greatest
+[Hoshino]: This again? Would you give it a rest already?! I've already...!
+[Black Suit]: Ah-ah-ah. Let's keep it down, shall we?
+[Hoshino]: …
+[Black Suit]: How shall I put this? Ah, let me use this quote from a favorite movie of mine.
+[Black Suit]: Fade to black
+[Black Suit]: <*sits down*>
+[Black Suit]: I'm going to make you an offer you can't refuse.
+[Black Suit]: You'll find it very enticing, I assure you. Won't you hear me out?
+[Black Suit]: Heh heh... Hahaha.
+[Black Suit]: <<To be Continued>>
+[Black Suit]: 18 - We’re Not Their Friends!
+[Black Suit]: Upon entering Shiba Seki, Master Shiba's warm welcome sends Aru into a screaming fit, unable to bear her guilty conscience any longer. Before anyone can stop her, Haruka plants a bomb and blows the shop to smithereens.
+[Black Suit]: [Shiba Seki Ramen Shop]
+[Mutsuki]: We're here! Time to carbo-load!
+[Haruka]: And we each get our own bowl. How luxurious.
+[Master Shiba]: You're friends of those Abydos kids, aren't you? Let me know ifI can get you anything else.
+[Aru]: …?!
+[Kayoko]: There isn't even a line. How do they not have more customers?
+[Mutsuki]: Maybe they need to move to a better location? They're right next to a failing school after all.
+[Kayoko]: I guess so. Not that I really care as long as the food is good. Let's eat…
+[Aru]: We're not…
+[Kayoko]: Hmm?
+[Kayoko]: Black screen
+[Aru]: We're not their friends!
+[Aru]: <*slam*>
+[Mutsuki]: What?!
+[Aru]: You know what my problem is? I've figured it out. It's this shop! That's what my problem is!
+[Haruka]: ...?!
+[Mutsuki]: What has gotten into you?!
+[Aru]: We're here to work, right? Dangerous, hard-boiled, rough-and-tumble work! Like outlaws!
+[Aru]: But what's this place? A little shop that feeds you when you get hungry! It's cushy, warm, and the people here are nothing but nice to you! They even have the nerve to start polite conversation!
+[Aru]: We're going to be friends and regulars if we keep coming here like this!
+[Mutsuki]: And...? What's wrong with that?
+[Aru]: It's ruining everything! How am I ever going to be a real, true-blue villain ifI keep coming to a heartwarming hole-in-the wall like this?!
+[Aru]: What I need right now is cold-blooded ruthlessness and steely determination! Not this load of sweetness and fluff!
+[Mutsuki]: Geez, you don't have to be so serious about it…
+[Haruka]: …
+[Haruka]: So...you're saying that this shop needs to go, Aru?
+[Aru]: Huh?
+[Haruka]: *scooch*
+[Haruka]: I'm so glad. Now I can finally be of assistance to you.
+[Mutsuki]: Hey, what are you doing with that detonator?
+[Kayoko]: Haruka! W-Wait a sec!
+[Haruka]: *click*
+[Aru]: …
+[Aru]: Wait a sec…
+[Aru]: White screen
+[Aru]: <*BOOM*>
+[Ayane]: An explosion has been detected within a ten-kilometer radius!
+[Shiroko]: Ten kilometers? Isn't that downtown? Is it an ambush?!
+[Ayane]: It looks like the shockwaves were set off by a chain reaction of C4. It doesn't seem like any sort of bombardment, but I'll try to find out more!
+[Ayane]: The explosion WAS downtown! The exact location is…
+[Ayane]: Shiba Seki Ramen?!
+[Ayane]: Shiba Seki Ramen has been completely obliterated!
+[Serika]: What?! N-No way! Why would that place be a target for anyone?
+[Shiroko]: It's not a strategic location, and it's not part of a major transportation route. Why would someone...?
+[Serika]: No way... Could they have been targeting me?!
+[Shiroko]: We can try to guess what happened later. We need to get moving!
+[Nonomi]: She's right! Now's not the time! Let's head over right away!
+[Ayane]: I'll send word to Hoshino. C'mon, let's go!
+[Serika]: I-I can't believe it! I really hope Master is all right…
+[Serika]: <*woosh*>
+[Mutsuki]: *cough* Wow, will you look at that? The entire building's been leveled.
+[Kayoko]: *cough* *cough* What in the world...?
+[Haruka]: *dazed*
+[Haruka]: <<To be Continued>>
+[Haruka]: 19 - You’ll Pay for This!
+[Haruka]: Unaware of Aru '5 true feelings, the Foreclosure Task Force blame Aru for the heinous atrocity she accidentally caused. Eventually, Aru ends up confronting the team, pretending to be the villain they believe she is.
+[Haruka]: [Destroyed Downtown Abydos]
+[Haruka]: <*woosh*>
+[Mutsuki]: *cough* Wow, will you look at that? The entire building's been leveled.
+[Kayoko]: *cough* *cough* What in the world...?
+[Haruka]: *dazed*
+[Aru]: *cough* *cough* A-Aaauuuggghhh…
+[Aru]: ?
+[Aru]: ?
+[Aru]: (Wh-What's going on?! What the heck just happened?!)
+[Mutsuki]: How could you?! I can't believe you really did that, Aru!
+[Aru]: ME?! What did I do?!
+[Mutsuki]: After everything the nice people at the ramen shop did for us, you blew everything up because you were starting to get a soft spot for them?! Geez, I didn't think you had it in you…
+[Mutsuki]: You're as cold-blooded and ruthless as they come! An absolutely rotten, bad-to-the-bone
+[Mutsuki]: evil villain! A complete scumbag!
+[Aru]: Er, what? Huh?
+[Mutsuki]: A real, hard-boiled outlaw! That was amazing! I had you all wrong!
+[Aru]: Uh, wha...? O-Oh! A-Ahahaha... Th-That's right! Exactly! We'll do anything as long as we get paid! Yep, that's us!
+[???]: Is that so?! I see how it is, you punks!
+[???]: ?
+[Serika]: You jerks... We've given you the benefit of the doubt over and over again, but this is how it really is, huh?!
+[Shiroko]: …
+[Nonomi]: …
+[Ayane]: Master Shiba's safety has been confirmed. Luckily, he's only sustained superficial wounds, so he'll be treated at a nearby shelter!
+[Serika]: Perfect. That means we can get as rough as we want then, right?
+[Serika]: You'll pay for this!
+[Aru]: …?!
+[Mutsuki]: About time they showed up.
+[Kayoko]: This isn't how we planned for things to go, but this showdown was inevitable anyway, so…
+[Kayoko]: I'll go ahead and call in the hired thugs we contracted.
+[Kayoko]: Kayoko leaves
+[Aru]: …
+[Aru]: Y-Yeah, that's right! That's the kind of person I am. You finally getting the picture, you
+[Aru]: Abydos losers?
+[Aru]: It's time for us to settle this! Go ahead and make your move!
+[Haruka]: That's right. I'll mow them all down.
+[Serika]: I hope you know what you've gotten yourselves into!
+[Shiroko]: *click*
+[Nonomi]: Get ready to get owned!
+[Aru]: Oh, puh-lease! I'm gonna teach you a lesson about tangling with a true outlaw!
+[Aru]: <<Battle Sequence>>
+[Aru]: During the climax of the battle between Problem Solver and Foreclosure Task Force, the combatants are suddenly shelled from afar. Ayane announces that the cannons were fired by Gehenna Academy's Prefect Team.
+[Aru]: *pant* *pant* You've got to be kidding me!
+[Aru]: Don't they ever give up...?!
+[Aru]: <*kablam*>
+[Aru]: <*KABLAM*>
+[Aru]: <*KABOOM*>
+[Mutsuki]: Now what?! What's going on?!
+[Kayoko]: …
+[Kayoko]: Wait. That's...!
+[Kayoko]: Scene change
+[Kayoko]: Explosion
+[Shiroko]: What was that?
+[Serika]: It sounded like…
+[Ayane]: We're getting bombarded! I've marked multiple grenadiers about three kilometers away!
+[Ayane]: They're 50 millimeter mortar shells! They seem to be aimed at Problem Solver and not us, but I can't be sure…
+[Nonomi]: Mortars...?
+[Shiroko]: If they're 50 millimeter mortar shells, then…
+[Ayane]: Unit affiliation confirmed. That's the Gehenna Prefect Team! It's a single medium-sized brigade!
+[Shiroko]: The Prefect Team...!
+[Shiroko]: <<To be Continued>>
+[Shiroko]: 20 - The Prefect Team Goes to War!
+[Shiroko]: Gehenna's Prefect Team declares their intent to arrest the members of Problem Solver 68. The Foreclosure Task Force prepares for battle, rebutting that Gehenna Academy-has no authority to make such an arrest on Abydos territory.
+[Shiroko]: [Destroyed Downtown Abydos]
+[Kayoko]: Boss! Mutsuki, Haruka! We have to get out of here! It's them!
+[Mutsuki]: Who's "them"?
+[Kayoko]: The Gehenna Prefect Team is here! Have they been tracking us all this time? And why now…
+[Kayoko]: No, wait. This might be them picking the perfect time to attack!
+[Kayoko]: <*KA-BLAM*>
+[Kayoko]: Gah!
+[Kayoko]: Damn it…
+[Kayoko]: <*collapses*>
+[Prefect Team Grenadier]: Targets neutralized.
+[Iori]: Good. Squads one and two, move in.
+[Chinatsu]: What about the others, Iori?
+[Iori]: You mean the students from that school? What was it called again...? Abydos?
+[Iori]: Do you really need to ask? Anyone who interferes with the execution of official duties is an enemy.
+[Chinatsu]: Then all we can do is hope is that they stay out of our way...but procedure dictates that we state our intentions first.
+[Iori]: What for? Is it even necessary?
+[Chinatsu]: …
+[Iori]: It's tiring enough already, going after all these loser delinquents from our academy. Why waste the time or effort? Just wipe them out with the rest if they put up a fuss.
+[Chinatsu]: …
+[Chinatsu]: Scene change
+[Serika]: Is the Prefect Team here to take those Problem Solver kids into custody?!
+[Ayane]: I'm not sure yet... And they're not exactly sending us any good vibes, either.
+[Shiroko]: Yeah. They weren't targeting us specifically, but we were still in their bombardment zone.
+[Nonomi]: Geez…
+[Serika]: Fat chance we'll allow it! Those Problem Solver scumbags are ours! Who the hell do they think the are?!
+[Nonomi]: Dealing with the Prefect Team and some small-time crooks like Problem Solver couldn't be any more different. They're the official armed forces of their academy.
+[Nonomi]: This might escalate into a political conflict if we're not careful…
+[Nonomi]: Ayane, is there still no word from Hoshino?
+[Ayane]: No. She's never been out of contact for this long before…
+[Nonomi]: So...what should we do here?
+[Serika]: …
+[Shiroko]: …
+[Sensei]: "You don't want to hand Problem Solver over to them, right?"
+[Nonomi]: B-But we can't fight them head on...can we?
+[Serika]: I get what you're asking us, but what are we supposed to do about it?
+[Serika]: …
+[Shiroko]: We must be of one mind on this. We have to resist the Prefect Team.
+[Nonomi]: Shiroko?!
+[Ayane]: …
+[Ayane]: She's right.
+[Ayane]: The Prefect Team escalated this into a political conflict the moment they commenced tactical operations here in our district.
+[Ayane]: Yes, those Problem Solver geeks may have started this mess…
+[Ayane]: ...but that doesn't give the disciplinary board of another academy carte blanche to project force in our jurisdiction without our say-so.
+[Serika]: Yeah, that's right! How dare they? They're basically spitting in our faces!
+[Serika]: We're the ones who're going to take Problem Solver down! I'm gonna make sure they
+[Serika]: pay for what they did to Shiba Seki Ramen!
+[Serika]: Scene change
+[Chinatsu]: …
+[Chinatsu]: The Abydos students are preparing for battle.
+[Iori]: *sigh* They want to do this the hard way, huh? Even though it's only four of them against our entire brigade?
+[Iori]: But the Prefect Team standing down from a fight is out of the question. All units, prepare
+[Iori]: for combat!
+[Chinatsu]: Wait. Hold a moment, Iori.
+[Iori]: Huh?
+[Chinatsu]: A civilian has been sighted on the Abydos side. One moment while we confirm.
+[Chinatsu]: What is it?!
+[Chinatsu]: That person over there. Could it be...? [NAME] Sensei from Schale?!
+[Iori]: Huh? Schale? What's that?
+[Chinatsu]: W-Wait a minute. If Schale is working with them, then…
+[Chinatsu]: We can't! We mustn't engage!
+[Iori]: What are you on about?
+[Prefect Team Member]: The Abydos students are headed our way. Open fire!
+[Prefect Team Member]: <*ratta-tat-tat-tat-tat-tat-tat-tat*>
+[Iori]: Tch! They're not going to give us any other choice! Engage in combat!
+[Chinatsu]: *sigh*...
+[Chinatsu]: <<Battle Sequence>>
+[Chinatsu]: Despite being outnumbered, the Foreclosure Task Force is victorious with Sensei's guidance. After the battle, the senior administrator of Gehenna's Prefect Team, Ako, steps in to mediate. Meanwhile, Haruka hatches a conspiracy.
+[Iori]: What the heck?! Did we lose?!
+[Shiroko]: …
+[Nonomi]: …
+[Serika]: …
+[Chinatsu]: …
+[Sensei]: "Hello, Chinatsu."
+[Chinatsu]: Sensei... I didn't expect us to meet again under these circumstances.
+[Chinatsu]: I knew we had no hope of winning once I saw you standing there. We should have
+[Chinatsu]: retreated. My apologies…
+[Ayane]: This is Okusora Ayane of the Abydos Foreclosure Task Force. Please identify yourselves.
+[Iori]: Well, uh…
+[Ako]: *crackle* I can answer that.
+[Ayane]: Someone's patching into the comms!
+[Iori]: Ako?
+[Chinatsu]: Senior Administrator!
+[Ako]: Greetings, Abydos students. My name is Ako, and I'm the senior administrator of Gehenna Academy's Prefect Team.
+[Ako]: I'd like to take a moment to explain what's going on, if you don't mind.
+[Iori]: Wait a sec, Ako…
+[Ako]: Iori, the template for apology letters is in the left-hand drawer of my desk. Understood?
+[Iori]: …
+[Iori]: Scene change
+[Haruka]: *shifts*
+[Haruka]: *sneaking*
+[Haruka]: …
+[Haruka]: Heh heh…
+[Haruka]: Heh heh heh. They're all sitting ducks…
+[Haruka]: *smirks* This is our chance.
+[Haruka]: Haruka sneaks away
+[Haruka]: Fade to black
+[Haruka]: No forgiveness... It's unforgivable.
+[Haruka]: Unforgivable, unforgivable, unforgivable, unforgivable… Unforgivable, unforgivable,
+[Haruka]: unforgivable, unforgivable…
+[Haruka]: <<TO BE CONTINUED IN CHAPTER 2>>

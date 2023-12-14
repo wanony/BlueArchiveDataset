@@ -1,0 +1,4477 @@
+Chapter 1: Strange Days for the Task Force
+The Foreclosure Task Force was formed to prevent Abydos High School from closing. The school's debt persists despite the students' best efforts.
+
+
+01 - Welcome to the Foreclosure Task Force!
+Sensei receives a letter from Abydos High School and learns the students there are being bullied by a criminal organization. In a hurry, Sensei heads toward the Abydos district, but gets hopelessly lost in the process.
+
+[Schale Executive Office]
+
+Arona: Good morning, Sensei!
+
+A lot of people are starting to talk about Schale, and we've received letters from other students asking for help.
+
+That's a great sign, and it means there's a lot of work for us to do!
+
+Um, but...there's this one letter we got.
+
+I think you should take a look.
+
+Sensei: Read the letter.
+
+To the advisor of the Federal Investigation Club.
+
+Hello. My name is Okusora Ayane, and I'm a student at Abydos High School.
+
+I’m writing this letter because I want to ask for your help.
+
+Our academy is being harrassed.
+
+One of the local gangs has been tormenting us.
+
+(Read the next page.)
+
+It's a long story, but we think…
+
+…this gang is after the school building itself.
+
+The Students are doing their best to stop them.
+
+It’s only a matter of time before we run out of ammunition and supplies, though.
+
+At this rate, the school will fall to them for sure.
+
+(Read the last page.)
+
+
+That’s why I'm writing to ask for your help
+
+Can you please help us, Sensei?
+
+Arona: Hmm... Abydos High School, huh?
+
+It used to have a large, thriving district, but it fell on hard times due to climate change.
+
+The district was so big that people would even get lost in the middle of town!
+
+Heehee. That must sound ridiculous. How does someone get lost in the middle of modern civilization?
+
+I'm sure that was just an urban legend.
+
+Anyway, I can't believe the academy is being bullied by some lowlife gang. It sounds pretty serious.
+
+I wonder what brought this on.
+
+Sensei: "I need to go to Abydos."
+
+Arona: You want to head there right away? You really don't back down, do you?
+
+All right, then! Good luck!
+
+<I eventually arrived in Abydos…>
+
+<…but got lost in the middle of the district. It took days to find the school>
+
+<<To be Continued>>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+02 - First Day at Abydos
+Shiroko rescues Sensei and eventually the two arrive at Abydos' Foreclosure Task Force club room. Soon after, the school is attacked by the Kata-Kata Helmet Gang, and Sensei teams up with the students to fight back.
+
+[Abydos Residential Area]
+
+<*chirp* *chirp* *chirp*>
+
+???: Huh?
+
+
+<*screech*>
+
+???: …
+
+Hmm…
+
+…
+
+Are you okay?
+
+Sensei: Nod. / Ask for help.
+
+Shiroko (Foreclosure Task Force): At least you're alive. I thought you were a goner when I saw you lying in the road like that.
+
+What's that? You fainted from hunger?
+
+Does that mean you're homeless?
+
+Oh…
+
+[Abydos Residential Area]
+
+Shiroko (Foreclosure Task Force): *glances*
+
+You came here on business, but fainted out of hunger and dehydration when you couldn't find a single shop open?
+
+Well, that's hardly surprising.
+
+It happens all the time around here. It's been a long time since there were businesses open in this neighborhood that offer food and drinks.
+
+You would have more luck further toward the outskirts.
+
+You're not sure how to get there? So this must be your first time here.
+
+Hold on.
+
+<*rummaging*>
+
+Shiroko (Foreclosure Task Force): Here. Have some of my energy drink.
+
+It's for cycling, but it's all I have right now. Better than nothing.
+
+Wait. Let me get you a cup or something.
+
+Sensei: Drink it straight from the bottle.
+
+<*gulp* *gulp*>
+
+Shiroko (Foreclosure Task Force): …!
+
+You weren't supposed to…
+
+Never mind. Don't worry about it.
+
+Sensei: Thank her for coming to your rescue.
+
+Shiroko (Foreclosure Task Force): Um…
+
+You look like you're an adult from the General Student Council. Are you here on some kind of academy-related business?
+
+Ours is the only one around.
+
+So you're here to visit Abydos Academy?
+
+Sensei: Nod.
+
+Shiroko (Foreclosure Task Force): Oh. It's been a long time since anyone visited us.
+
+Let me show you the way. It's not too far from here.
+
+What? Too hungry to move?
+
+That's...a problem.
+
+Sensei: Ask for a ride.
+
+Shiroko (Foreclosure Task Force): But my bike only has one seat.
+
+Sensei: Ask her for a piggyback ride instead.
+
+Shiroko (Foreclosure Task Force): …
+
+Fine. I'd rather do that.
+
+Let me just park my bike.
+
+Hop on.
+
+<*shuffle*>
+
+
+Shiroko (Foreclosure Task Force): Wait.
+
+…
+
+It's just, I had been cycling for a while. I didn't work up that much of a sweat, but still…
+
+I usually have to take a shower at school afterward and keep a change of clothes there.
+
+Huh? You don't mind?
+
+You actually think I smell good?
+
+…
+
+What is anyone supposed to say to that? Whatever. As long as you're not going to complain.
+
+Let's go.
+
+*shuffle*
+
+Hold on tight.
+
+[Abydos Foreclosure Task Force]
+
+Shiroko (Foreclosure Task Force): I'm back.
+
+Serika (Foreclosure Task Force): Welcome back, Shiro...ko?
+
+Who's that riding on your back?!
+
+Nonomi (Foreclosure Task Force): Whoa! Shiroko kidnapped someone!
+
+Ayane (Foreclosure Task Force): That or it's a dead body! What did you do, Shiroko?!
+
+Serika (Foreclosure Task Force): Everyone, calm down. We have to help her hide the body! Go grab a shovel and pickaxe from the storage!
+
+Shiroko (Foreclosure Task Force): …
+
+<*collapses*>
+
+Shiroko (Foreclosure Task Force): Settle down—they're alive and breathing. They just came to visit the school.
+
+Ayane (Foreclosure Task Force): What? It's not a corpse?
+
+Serika (Foreclosure Task Force): A visitor? Are you sure you didn't kidnap them?
+
+Shiroko (Foreclosure Task Force): Uh…
+
+Sensei: Greet them with a smile.
+
+Nonomi (Foreclosure Task Force): I'm shocked. We haven't had a visitor in ages.
+
+Ayane (Foreclosure Task Force): True...but were we expecting anyone?
+
+Sensei: "I'm an advisor with Schale. It's nice to meet you."
+
+! ! !?
+
+Ayane (Foreclosure Task Force): No way! Are you?!
+
+Serika (Foreclosure Task Force): You're with Schale? The Federal Investigation Club?!
+
+Nonomi (Foreclosure Task Force): Wow! That means you got the letter Ayane wrote! ☆
+
+Ayane (Foreclosure Task Force): This is great. This means we can finally get more ammo and supplies.
+
+I have to tell Hoshino. Wait... Where is she anyway?
+
+Serika (Foreclosure Task Force): She's taking a nap in the next room. I'll go wake her up.
+
+Serika leaves
+
+<*pop* *pop* *pop* *tat*>
+
+Nonomi (Foreclosure Task Force): Was that gunfire?!
+
+Shiroko (Foreclosure Task Force): …!
+
+
+Helmet Gangster B (Kata-Kata Helmet Gang): Hahaha!
+
+
+Helmet Gangster A (Kata-Kata Helmet Gang): They're all out of ammo! Finish 'em off, and then take over the school!
+
+<*pop* *pop* *pop* *tat*>
+
+Gangsters march forward
+
+Ayane (Foreclosure Task Force): There's a group approaching the school! It must be the Kata-Kata Helmet Gang!
+
+Shiroko (Foreclosure Task Force): Those punks... They have some nerve coming back for more.
+
+Serika (Foreclosure Task Force): I've got Hoshino! Now if she'd just wake up!
+
+Hoshino (Foreclosure Task Force): *yawn*Just five more minutes…
+
+Ayane (Foreclosure Task Force): Hoshino! The Helmet Gang is attacking again! By the way, this is Sensei from Schale.
+
+Hoshino (Foreclosure Task Force): Ohhh. That's a problem... *yawn* Nice to meet you, Sensei.
+
+Serika (Foreclosure Task Force): Wake up and get your butt in gear, Hoshino! Literally! We have to defend the school!
+
+Hoshino (Foreclosure Task Force): *yawn* Don't they know it's rude to wake the elderly during naptime? Time to teach those Helmet Gang whippersnappers a lesson.
+
+Shiroko (Foreclosure Task Force): Let's get going. Sensei brought us ammo and supplies to use.
+
+Nonomi (Foreclosure Task Force): Okay! Let's sortie, everyone! ☆
+
+Everyone leaves
+
+Ayane (Foreclosure Task Force): I'll navigate us from here.
+
+Stay on the back lines and provide support, Sensei!
+
+<<Battle Sequence>>
+Under Sensei's command, the students of Abydos repel the Helmet Gang and return safely to the school.
+
+Ayane (Foreclosure Task Force): The Kata-Kata Helmet Gang is retreating from the district.
+
+Nonomi (Foreclosure Task Force): Wow! We won! ☆
+
+Serika (Foreclosure Task Force): Hahaha! How do you like that, Helmet Gang?
+
+Ayane (Foreclosure Task Force): Great job, everyone! You're safe to return to campus.
+
+<<To be Continued>>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+03 - Being an Adult is Amazing!
+After defeating the Helmet Gang, the Foreclosure Task Force introduce themselves to Sensei at Abydos High School. Having solved some supply issues with Sensei's help, the students want to use their momentum to crush the Helmet Gang's outpost.
+
+[Abydos Foreclosure Task Force Club Room]
+
+Hoshino (Foreclosure Task Force): Wow, I can't believe we won! The Helmet Gang seemed pretty determined.
+
+Ayane (Foreclosure Task Force): You shouldn't say that, Hoshino. Those thugs would have taken over the school had we lost.
+
+Shiroko (Foreclosure Task Force): Sensei gave us the edge we needed to turn the tide. We couldn't have done it otherwise.
+
+Experience was likely the deciding factor. It was amazing how you handled resources, equipment, and support.
+
+Hoshino (Foreclosure Task Force): Sheesh, Shiroko. You sound like you have a schoolgirl crush. Anyway, can I go back to sleep now that it's over?
+
+Serika (Foreclosure Task Force): You shouldn't tease Shiroko like that, Hoshino! Besides, haven't you slept enough today?
+
+Nonomi (Foreclosure Task Force): Someone got yelled at!
+
+Ayane (Foreclosure Task Force): Haha. Anyway, we should introduce ourselves, Sensei.
+
+	We're the Abydos Foreclosure Task Force.
+
+	I'm Ayane, and I'm a first-year in charge of the task force's records and operations.
+
+	This is Serika, also a first-year.
+
+Serika (Foreclosure Task Force): Hey.
+
+Ayane (Foreclosure Task Force): And these are our second-years: Shiroko and Nonomi.
+
+Nonomi (Foreclosure Task Force): Hello,Sensei!
+
+Shiroko (Foreclosure Task Force): We met before.
+
+...Ignore what Hoshino said, okay?
+
+Ayane (Foreclosure Task Force): And this here is our president.
+
+Hoshino is our lone third-year.
+
+Hoshino (Foreclosure Task Force): Nice to meet you, Sensei.
+
+Ayane (Foreclosure Task Force): I'm sure you've noticed by now that our school is in crisis. That's why I reached out to Schale for help, and you've already managed to come through for us.
+
+Those thugs would have succeeded in taking over the school if not for you. We can't thank you enough.
+
+Sensei: Ask what the Foreclosure Task Force's purpose is.
+
+Ayane (Foreclosure Task Force): The Foreclosure Task Force's goal is to bring Abydos back to its former glory.
+
+Nonomi (Foreclosure Task Force): We're the only club in the school where every single student is a member! I mean, we're the only five students at this school, but still…
+
+Shiroko (Foreclosure Task Force): All the others either transferred or dropped out and left town.
+
+I don't blame them for leaving Kivotos entirely, with the state that Abydos is in. And now we have to deal with thugs like the Kata-Kata Helmet Gang trying to take over the school.
+
+It's too difficult to defend Abydos on our own, and embarrassing to see the state it's in, if I'm being honest…
+
+Ayane (Foreclosure Task Force): We would have been in real big trouble this time if Schale hadn't come around to help us.
+
+Hoshino (Foreclosure Task Force): Seriously. I figured we were done for once we ran out of supplies. That's some timing you had there, Sensei.
+
+Nonomi (Foreclosure Task Force): At least we don't have to worry about the Helmet Gang anymore! It pays to have adults in high places! ☆
+
+Shiroko (Foreclosure Task Force): No. I'm sure it's only a matter of time before they come back.
+
+Serika (Foreclosure Task Force): Yeah, probably. Man, I hate them.
+
+Ayane (Foreclosure Task Force): Who knows how long this will drag out? We have plenty of other things to worry about besides the Helmet Gang.
+
+Hoshino (Foreclosure Task Force): I have a plan.
+
+Serika (Foreclosure Task Force): What the...?! Hoshino came up with a plan?!
+
+Ayane (Foreclosure Task Force): I'm surprised too!
+
+Hoshino (Foreclosure Task Force): I know I'm getting senile in my old age, but you don't have to hurt my feelings. I do my part too, you know.
+
+Serika (Foreclosure Task Force): Well? Spill it.
+
+Hoshino (Foreclosure Task Force): If history repeats itself, the Helmet Gang will attack again in a few days.
+
+So before then, why don't we go on the offensive for once? They're probably sulking and vulnerable after that last fight.
+
+Ayane (Foreclosure Task Force): Y-You mean right now?
+
+Hoshino (Foreclosure Task Force): Yeah, now. With Sensei here, we have more than enough supplies to finish the job once and for all.
+
+Shiroko (Foreclosure Task Force): True. The Helmet Gang's base is 30 kilometers from here. We have plenty of time if we leave now.
+
+Nonomi (Foreclosure Task Force): I'm all for it. The last thing they're expecting is for us to strike now.
+
+Ayane (Foreclosure Task Force): I can't deny that, but...what do you think, Sensei?
+
+Sensei: "I'm on board."
+
+Hoshino (Foreclosure Task Force): Great! If Sensei is giving us the green light, then let's hurry up and go.
+
+Shiroko (Foreclosure Task Force): Let's strike while the iron is hot.
+
+Nonomi (Foreclosure Task Force): Okay! Let's go!
+
+Ayane (Foreclosure Task Force): You're now on the Kata-Kata Helmet Gang's turf.
+
+	I'm detecting their signal within a 15 kilometer radius.
+
+	They must know you're there. Don't let your guard down!
+
+<<Battle Sequence>>
+Together, Sensei and the students destroy the Kata—Kata Helmet Gang's outpost without much trouble and return to the school.
+
+Ayane (Foreclosure Task Force): They're retreating!
+
+Better yet, the Helmet Gang's supplies, hideout, and ammunition were all taken out.
+
+Shiroko (Foreclosure Task Force): I bet they'll think twice before attacking us again.
+
+Hoshino (Foreclosure Task Force): Great work, everyone. You too, Sensei.
+
+Let's head back to the school.
+
+<<To be Continued>>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+04 - The Task Force’s Predicament
+The students explain to Sensei that their school's over 900 million yen in debt and how difficult it is for them to even keep up with interest payments. When Sensei offers to help, Serika goes off on a tirade about how grown-ups can't be trusted.
+
+[Foreclosure Task Force Room]
+
+Ayane (Foreclosure Task Force): Welcome back, everyone. Great work today.
+
+Hoshino (Foreclosure Task Force): We're back!
+
+Serika (Foreclosure Task Force): Thanks, Ayane. You too.
+
+Nonomi (Foreclosure Task Force): We finally took down the Kata-Kata Helmet Gang. It should be smooth sailing from here.
+
+Shiroko (Foreclosure Task Force): More like we can finally get back to more important matters.
+
+Serika (Foreclosure Task Force): Haha! All we have to focus on now is paying back the debt!
+
+	Thanks for your help, Sensei. We won't forget what you did for us!
+
+Sensei: "Debt?"
+
+Serika (Foreclosure Task Force): Wait... Shoot!
+
+Ayane (Foreclosure Task Force): W-Well, the thing is…
+
+Serika (Foreclosure Task Force): Stop right there! Not another word, Ayane!
+
+Ayane (Foreclosure Task Force): …!
+
+
+Hoshino (Foreclosure Task Force): Why not, Serika? It's not like it's a secret.
+
+Serika (Foreclosure Task Force): That doesn't mean we should go telling everyone!
+
+Hoshino (Foreclosure Task Force): It isn't as though we're guilty of anything. Besides, Sensei is one of us now.
+
+Shiroko (Foreclosure Task Force): Hoshino is right, Serika. Sensei is responsible—trustworthy, even.
+
+Serika (Foreclosure Task Force): I know, but they're still an outsider.
+
+Hoshino (Foreclosure Task Force): I'm not saying Sensei can solve this problem on our behalf, but they're the only adult we have to turn to.
+
+Serika (Foreclosure Task Force): Well…
+
+Sensei just showed up out of nowhere! Why would an adult care about our problems,	 anyway?
+
+	We've always taken care of ourselves! Why do we suddenly need to be supervised?
+
+	I don't want any part of this!
+
+Serika leaves
+
+Ayane (Foreclosure Task Force): Serika?
+
+
+Nonomi (Foreclosure Task Force): I'll go talk to her.
+
+Nonomi leaves
+
+Hoshino (Foreclosure Task Force): …
+
+Back to the matter at hand... Our school owes quite a bit of money to a loan company. It's a challenge, but not exactly an uncommon problem either.
+
+The real issue is...that it's over 900 million yen.
+
+Ayane (Foreclosure Task Force): It's 962,350,000 yen to be exact.
+
+That's the amount that Abydos—no. That's the amount the Foreclosure Task Force has	taken upon itself to pay back.
+
+The loan company will foreclose on the school and shutter it permanently if we don't repay them.
+
+But the odds of paying back a debt that large are practically zero. That's why most of the students left the school and town…
+
+Shiroko (Foreclosure Task Force): All except for us, that is.
+
+Ayane (Foreclosure Task Force): The debt is the source of everything that's wrong. It's why the school is on the brink of closure, why the students left, and why the town is so desolate…
+
+Sensei: Ask about what happened.
+
+Ayane (Foreclosure Task Force): You mean how the debt was accrued in the first place?
+
+Ayane (Foreclosure Task Force): There was a sandstorm in the desert surrounding the school several years ago.
+
+	Sandstorms are common in the Abydos region, but that particular storm	was devastating
+
+Some areas were completely buried in sand, and it just kept piling up.
+
+The school had to raise a lot of funds for disaster relief…
+
+...but there wasn't a single bank that would give such a large loan.
+
+Shiroko (Foreclosure Task Force): So the school was forced to turn to loan sharks…
+
+Ayane (Foreclosure Task Force): Exactly. They were looking to take the easy way out and pay the money back quickly…
+
+	...but the sandstorms only worsened as the years went on. Despite the	school's best intentions, the situation just kept getting worse.
+
+	Today, more than half of Abydos is under sand and the debt keeps growing.
+
+Hoshino (Foreclosure Task Force): …
+
+Shiroko (Foreclosure Task Force): …
+
+Ayane (Foreclosure Task Force): We're barely able to pay the interest every month. We can't even afford ammunition or school supplies.
+
+Shiroko (Foreclosure Task Force): I can sympathize with Serika's frustrations. No one has ever cared enough to ask about our situation before, let alone reach out to help.
+
+Hoshino (Foreclosure Task Force): That's the long and short of it.
+
+	Now that you've helped us scare the Helmet Gang away, we can return our focus to
+paying off the debt.
+
+Even if we appoint you as our club's advisor, you don't have to trouble yourself with our 
+debt. It was kind of you to listen to our story.
+
+Shiroko (Foreclosure Task Force): We're not trying to pressure you. You've already helped us enough.
+
+Sensei: "I'm a member of the Task Force too! Keep your chins up!" / "We're in this together now. I won't abandon you."
+
+Ayane (Foreclosure Task Force): You don't have to say all that…
+
+...but thank you for doing so anyway, Sensei.
+
+Hoshino (Foreclosure Task Force): Listen to you being so noble. You're really going to insist on helping…
+
+Ayane (Foreclosure Task Force): I feel so relieved. There's some hope if we have Schale's support.
+
+Shiroko (Foreclosure Task Force): True. Things are looking up, at least.
+
+Serika (Foreclosure Task Force): …
+
+	Hmph.
+
+Serika walks away
+
+Nonomi walks around
+
+Nonomi (Foreclosure Task Force): Serika, where are you?
+
+<<To be Continued>>
+
+
+
+
+
+
+
+
+
+
+
+
+
+05 - A Day in the Life of Serika
+Sensei and the Foreclosure Task Force trail Serika to her part-time job at a ramen shop. They end up sharing a nice meal with her, but Serika is still quite sullen. On her way back from work, Serika is kidnapped by the Helmet Gang.
+
+[Abydos Residential Area, 45th Block District]
+
+<I spotted a familiar face while walking through the neighborhood near Abydos.>
+
+Serika (Foreclosure Task Force): Ugh. It's you again.
+
+Sensei: “Good morning.”
+
+
+Serika (Foreclosure Task Force): Good morning! Wait, no! Don't act like we're friends!
+
+	Hmph. Whatever.
+
+	Don't you have anything better to do than loiter around so early in the morning? And you
+call yourself an adult…
+
+Sensei: "Heading to school, Serika?"
+
+Serika (Foreclosure Task Force): What's with you?! Stop acting like you know me!
+
+	What I do is none of your business.
+
+Look at you hanging around with nothing better to do. I hope I never grow up to be as aimless as you.
+
+Why don't you buzz off and bother someone else? I'm busy.
+
+What? You want to walk to school together?
+
+Why on earth should I go with you?
+
+Besides, it's our day off. I don't have class.
+
+Huh? Then where am I going? What business is that of yours?
+
+I'm outta here. Bye!
+
+<Serika ran away.>
+
+Sensei: Follow her.
+
+Serika (Foreclosure Task Force): Huh? Why are you following me?!
+
+	You wanna know where I'm going?
+
+What are you talking about? Go away, you stalker!
+
+Ugh! Fine! I'lljust tell you.
+
+I'm going to my part-time job.
+
+I don't have the freedom to just slack off all day like you do.
+I have money to make.
+
+There, happy now? So stop following me!
+
+Serika whisks away
+
+Sensei: Follow her.
+
+Serika (Foreclosure Task Force): Ugh. You're so annoying.
+
+What? Where do I work?
+
+Would you go away already, you idiot?! You're cruising for a bruising if you don't leave me alone.
+
+<Serika ran away again.>
+
+Serika (Part-Timer Student): Welcome to Shiba Seki Ramen!
+
+How many are in your party? I'll show you to your seats.
+
+just a minute! Extra noodles for table three!
+
+<*door opens*>
+
+
+Serika (Part-Timer Student): Welcome to Shiba Seki…
+
+	What the...?!
+
+Nonomi (Foreclosure Task Force): Hello! Table for five! ☆
+Ayane (Foreclosure Task Force): Haha. Hello, Serika…
+
+
+Shiroko (Foreclosure Task Force): Hey.
+
+Serika (Part-Timer Student): What are you guys doing here?
+
+Sensei: “Hi.”
+
+
+Serika (Part-Timer Student): Sensei is with you too...? I knew you were stalking me!
+
+Hoshino (Foreclosure Task Force): Don't blame Sensei. We figured this was the only place you might work, so we just came by.
+
+Serika (Foreclosure Task Force): So it was you, Hoshino? Ugh.
+
+Master Shiba (Shiba Seki Ramen): Are these your Abydos classmates, Serika? Stop with the chit-chat and take their order.
+
+Serika (Part-Timer Student): Y-Yes, sir. Follow me. I'll take you to your table.
+
+
+
+
+
+
+
+
+
+
+
+Nonomi (Foreclosure Task Force): Okay! Over here, Sensei! Sit next to me!
+
+Shiroko (Foreclosure Task Force): Um... Or you can sit here if you want.
+
+Sensei: Sit next to Nonomi. / Sit next to Shiroko.
+
+<*scooch*>
+/
+<*sits*>
+
+Nonomi (Foreclosure Task Force): It's a bit tight, but you're okay, right?
+/
+Shiroko (Foreclosure Task Force): Um…
+
+Nonomi (Foreclosure Task Force): Huh? Are you uncomfortable? Would you rather sit on my lap?
+/
+Serika (Part-Timer Student): It's too narrow! Sitting that close can't possibly be comfortable for Sensei. Move a little this way.
+
+Serika (Part-Timer Student): What are you doing?!
+/
+Shiroko (Foreclosure Task Force): No, it should be fine. Right, Sensei?
+
+Nonomi (Foreclosure Task Force): Haha! I'm just joking, Serika. ☆
+/
+Serika (Part-Timer Student): But there are plenty of seats! Can't you all just sit like NORMAL people?
+
+Serika (Part-Timer Student): There's enough seats for each of you, so just sit down like normal SANE people!
+/
+Shiroko (Foreclosure Task Force): Hmm…
+
+Nonomi (Foreclosure Task Force): Haha. Okay, okay.
+/
+N/A
+
+Nonomi (Foreclosure Task Force): Your uniform is adorable, Serika! ☆
+
+Hoshino (Foreclosure Task Force): I didn't know you were into this kind of stuff. Chose to work here solely based on the uniform, did ya?
+
+Serika (Part-Timer Student): Wh-What are you talking about? It had nothing to do with that! I just used to be a regular here, that's all…
+
+Hoshino (Foreclosure Task Force): I bet I could fetch a pretty yen ifI sold pictures of you in that uniform, Serika. What do you say, Sensei? Wanna be my first customer?
+
+Ayane (Foreclosure Task Force): Knock it off, Hoshino…
+
+Shiroko (Foreclosure Task Force): So, how long have you been working here?
+
+Serika (Part-Timer Student): Maybe about a week.
+
+Nonomi (Foreclosure Task Force): Now I get why you were running off from time to time. I guess it was because you were working. ☆
+
+Serika (Foreclosure Task Force): Would you all shut up already and place an order?!
+
+Hoshino (Foreclosure Task Force): I think what you meant was, "May I take your order?" Right, Serika? We're your guests here after all.
+
+Serika (Part-Timer Student): Ugh... May I take your order?
+
+Nonomi (Foreclosure Task Force): I'll have the chashu ramen, please!
+
+Shiroko (Foreclosure Task Force): One shio ramen.
+
+Ayane (Foreclosure Task Force): Hmm... I'd like the miso ramen.
+
+Hoshino (Foreclosure Task Force): I want the special miso! With extra grilled chashu!
+
+	Order whatever you want, Sensei. Shiba Seki Ramen is one of the best
+	remaining restaurants in Abydos!
+
+Serika (Part-Timer Student): Did you all bring your own money? You're not just going to make Nonomi pay again, are you?
+
+Nonomi (Foreclosure Task Force): It's not like I mind. I'm still way under my card's credit limit. ☆
+
+Hoshino (Foreclosure Task Force): Nah, we can't make you do that. Sensei is going to pick the tab up today! Right?
+
+What? No one told you? Hahaha! Well, now you know!
+
+Sensei: Run away.
+
+Black Screen
+
+Hoshino (Foreclosure Task Force): Where do you think YOU'RE going?
+
+<Hoshino made catching up to me look easy.>
+
+Hoshino (Foreclosure Task Force): You've got credit to burn, right? This is our chance to make use of it.
+
+Ayane (Foreclosure Task Force): You can't force Sensei to pay. We only came because you said it was your treat, Hoshino.
+
+Hoshino (Foreclosure Task Force): This is a perfect chance for Sensei to treat their students. Wallet-flexing opportunities like this don't come around every day.
+
+Nonomi (Foreclosure Task Force): … (smile)
+
+Nonomi (Foreclosure Task Force): (Here, Sensei. Just pay with this card.)
+
+Nonomi (Foreclosure Task Force): (Huh? Are you sure you don't want to? But...)
+
+<I ended up paying for everyone's meals.>
+
+Hoshino (Foreclosure Task Force): That was delicious, Sensei!
+
+Nonomi (Foreclosure Task Force): Thank you for treating us.
+
+Shiroko (Foreclosure Task Force): Thanks.
+
+Serika (Part-Timer Student): Would you all get out of here already?! And never come back! You're nothing but a bunch of busybodies.
+
+Ayane (Foreclosure Task Force): Hahaha! See you tomorrow, Serika!
+
+Serika (Part-Timer Student): I hate you! I won't forget this!
+
+Hoshino (Foreclosure Task Force): Hahaha! She's got a lot of spunk, eh?
+
+Sensei: Take your leave.
+
+<*closes door*>
+
+
+Serika (Foreclosure Task Force): Phew. It's finally over. What a busy day.
+
+I can't believe all of them showed up like that. And they were so loud.
+
+Did they really have to come all the way out here to blabber on like that? 
+"Sensei! Sensei!" Ugh. They're so annoying.
+
+Damn you, Hoshino! She probably planned to bring Sensei here after what happened 
+yesterday.
+
+Hmph. You think I'm going to fall for it that easily? Yeah, right…
+
+Serika walks away 
+
+Helmet Gangsters appear
+
+Helmet Gangster A (Kata-Kata Helmet Gang): …
+
+Helmet Gangster A (Kata-Kata Helmet Gang): Is that her?
+
+
+Helmet Gangster B (Kata-Kata Helmet Gang): Yeah. She's from Abydos' Foreclosure Task Force.
+
+Helmet Gangster A (Kata-Kata Helmet Gang): Get ready. We'll nab her at the next block.
+
+The gangsters silently walk away
+
+Serika (Foreclosure Task Force): …
+
+Hmm…
+
+This neighborhood gets emptier by the day. There used to be a lot more people.
+
+And it's becoming less safe too…
+
+No. We gotta stay strong. It's up to us to bring the school back from the brink.
+
+I can pay back a little bit more of the debt once I get my paycheck, and then…
+
+Dozens of helmet gangsters appear
+
+Serika (Foreclosure Task Force): …?!
+
+
+	What do you want?!
+
+Helmet Gangster A (Kata-Kata Helmet Gang): Are you Kuromi Serika?
+
+Serika (Foreclosure Task Force): The Kata-Kata Helmet Gang? You have a lot of nerve coming back here!
+
+	Actually, I'm glad you're here. I've been in a bad mood today. I'll make you regret ever 
+showing your faces here again!
+
+<*pop* *pop* *pop* *pop* *tat*!>
+
+Serika (Foreclosure Task Force): H-Huh?!
+
+	(From behind too? It's an ambush.)
+
+Helmet Gangster A (Kata-Kata Helmet Gang): Get her.
+
+<*pow*>
+
+<*booooom*>
+
+Serika (Foreclosure Task Force): *cough* *cough*
+
+(An anti-aircraft gun? No... Could that sound have been from an improved Flak 41 model?)
+
+(Fire support? Where are they...? Not good.)
+
+(They aren't messing around this time. This is dangerous...)
+
+(I'm...losing consciousness...)
+
+(...)
+
+<*flop*>
+
+Helmet Gangster B (Kata-Kata Helmet Gang): …
+
+Helmet Gangster B (Kata-Kata Helmet Gang): Should we thrash her some more?
+
+Helmet Gangster A (Kata-Kata Helmet Gang): Nah, that's enough. Throw her in the car and take her to the rendezvous point.
+
+Helmet gangsters leave
+
+<*vroom*>
+
+<<To be Continued>>
+
+
+
+
+
+
+
+06 - Rescue Mission!
+When Serika goes incommunicado after parting at the ramen shop, Sensei uses Schale's authority to triangulate ramen shop, Sensei uses Schale's authority to triangulate her.
+
+[Serika’s Room]
+
+<*ding dong*>
+
+Ayane (Foreclosure Task Force): Serika? Are you there, Serika?
+
+<*ding dong* *ding dong*>
+
+Ayane (Foreclosure Task Force): Are you there? Why haven't you been answering your phone?
+
+Where does she keep her spare keys...?
+
+<*opens door*>
+
+Ayane (Foreclosure Task Force): What's going on, Serika? Are you still not home yet?
+
+This is so strange…
+
+Could it be...?
+
+Nonomi (Foreclosure Task Force): What about her phone?
+
+Ayane (Foreclosure Task Force): It's been turned off for a few hours now…
+
+Shiroko (Foreclosure Task Force): Her boss said she clocked out and left like everything was normal. Did she never make it home?
+
+Nonomi (Foreclosure Task Force): Nothing like this has ever happened before. She always gets home safely…
+
+Shiroko (Foreclosure Task Force): You don't think... Was it the Helmet Gang?
+
+Ayane (Foreclosure Task Force): What? The Helmet Gang?!
+
+Shiroko (Foreclosure Task Force): A possibility, but let's not jump to conclusions. Hoshino and Sensei are still investigating.
+
+Ayane (Foreclosure Task Force): …
+
+Time passes
+
+<*opens door*>
+
+Hoshino (Foreclosure Task Force): Sorry to keep you waiting.
+
+Ayane (Foreclosure Task Force): Hoshino! Sensei!
+
+Sensei: “We’re back.”
+
+
+Shiroko (Foreclosure Task Force): Did you find out what happened?
+
+Hoshino (Foreclosure Task Force): Sensei was able to log in to the General Student Council's central communication network.
+
+Ayane (Foreclosure Task Force): You were able to get into their network? Wow. Sensei's the real deal…
+
+Hoshino (Foreclosure Task Force): It's a secret, though. We're in big trouble if they catch us.
+
+Ayane (Foreclosure Task Force): Wait! Does that mean you didn't ask for permission?!
+
+Sensei: "It's fine. It's for Serika's safety." / "It's okay as long as I don't get caught..."
+
+Ayane (Foreclosure Task Force): Sensei…
+/
+Ayane (Foreclosure Task Force): Yeah, but…
+
+Ayane (Foreclosure Task Force): …
+/
+N/A
+
+Ayane (Foreclosure Task Force): Okay.
+/
+N/A
+
+Ayane (Foreclosure Task Force): Thank you, Sensei.
+/
+N/A
+
+Hoshino (Foreclosure Task Force): This is the last known location of Serika's phone before it went offline.
+
+Nonomi (Foreclosure Task Force): That's one of the neighborhoods that's become more desolate, isn't it?
+
+Shiroko (Foreclosure Task Force): It's more like an abandoned wasteland. There's no one there to enforce public safety, so there are a lot of outlaws skulking about.
+
+Ayane (Foreclosure Task Force): Right. We found that Helmet Gang members lived in those areas while researching risk factors surrounding the school.
+
+So it really was them!
+
+Hoshino (Foreclosure Task Force): They must have kidnapped Serika while she was on her way home and taken her to their hideout.
+
+Shiroko (Foreclosure Task Force): Likely still bitter over our last battle. Maybe they took Serika hostage as a way to retaliate.
+
+Nonomi (Foreclosure Task Force): Probably! We have to go save her!
+
+Shiroko (Foreclosure Task Force): I agree.
+
+Hoshino (Foreclosure Task Force): There's no time to waste!
+
+Sensei: “Let’s go!”
+
+
+FTF leaves
+
+Fade to black
+
+<*clunk* *clunk*>
+
+
+Serika (Foreclosure Task Force): Ugh…
+
+	Huh?
+
+
+	…?!
+
+
+	Where am I? Was I kidnapped?!
+
+Ow... My head.
+
+<*clunk* *clunk*>
+
+
+Serika (Foreclosure Task Force): Is this the back of a truck?
+
+The Helmet Gang... Where could they be taking me?
+
+It's dark, but there is a little bit of light coming through the crack in the door.
+
+Maybe I can see something outside…
+
+Sand...and a railroad?
+
+Does that mean we're in the desert on the outskirts of Abydos?
+
+No... There's nothing but wasteland out here and no way to get a signal. I won't be able to contact the others even ifI do manage to escape.
+
+What should I do? They must be worried sick about me.
+
+…
+
+Are they going to bury me somewhere in the desert so no one can find me?
+
+Maybe the team will think I bailed on them and left like all the other students…
+
+Will they think I betrayed them?
+
+Is this how I'm going to die...?
+
+No. I can't let that happen…
+
+…
+
+Ugh…
+
+*sniffle*
+
+*booooom*
+
+Wh-What was that?!
+
+<*thump* *crash*>
+
+Serika (Foreclosure Task Force): *cough* *cough*
+
+Smoke subsides
+
+Serika (Foreclosure Task Force): What the heck? An explosion? Why did that truck blow up out of nowhere?!
+
+Where are these shells coming from?
+
+Ayane (Foreclosure Task Force): I've located Serika!
+
+Serika (Foreclosure Task Force): A-Ayane?!
+
+Shiroko (Foreclosure Task Force): I have eyes on her! Repeat: visual on Serika! She's crying!
+
+Serika (Foreclosure Task Force): …?!
+
+
+Hoshino (Foreclosure Task Force): What?! Our little Serika is crying? Aw, she must have missed us. I had no idea she cared so much!
+
+Serika (Foreclosure Task Force): Ugh! You guys are so annoying! I wasn't crying!
+
+Shiroko (Foreclosure Task Force): False! I can confirm there were tears in your eyes just moments ago!
+
+Nonomi (Foreclosure Task Force): Don't cry, Serika! We're here now, and we promise to dry those tear-soaked cheeks of yours!
+
+Serika (Foreclosure Task Force): Damn it! Could you be any more grating?! I said I wasn't crying, so shut up already!
+
+
+Sensei: "I'm glad to see you're okay."
+
+Serika (Foreclosure Task Force): What? You're here too, Sensei?! But why?
+
+Sensei: "I'm a stalker, remember?" / "Rescuing princesses is what heroes do, right?"
+
+Serika (Foreclosure Task Force): What are you talking about? You're such a perv!
+/
+Serika (Foreclosure Task Force): Are you...
+
+N/A
+/
+Serika (Foreclosure Task Force): What did you just say? Are you stupid? Have a DEATHWISH?!Wh-Who are you calling a princess?!
+
+Hoshino (Foreclosure Task Force): Heh. Our damsel in distress has been rescued. She's gonna be fine.
+
+Ayane (Foreclosure Task Force): Thank goodness. I was so worried about you, Serika.
+
+Serika (Foreclosure Task Force): Ayane…
+
+Shiroko (Foreclosure Task Force): It's too soon to let our guard down. We may have stopped the truck, but we're still in enemy territory.
+
+Hoshino (Foreclosure Task Force): You're right. Reinforcements are likely on the way now that the truck's been destroyed.
+
+Ayane (Foreclosure Task Force): Multiple hostiles from the Kata-Kata Helmet Gang confirmed ahead!
+
+I also see more than a handful of super heavy firearms! They're steadily forming a dragnet!
+
+Hoshino (Foreclosure Task Force): Me and my big mouth! Ugh. What do you say we push our way through these losers?
+
+Serika (Foreclosure Task Force): Be careful. Those goons have a modified heavy tank.
+
+Shiroko (Foreclosure Task Force): Yeah, we know. It's a refurbished Flak 41.
+
+Hoshino (Foreclosure Task Force): All right…
+
+FTF locks and loads
+
+Hoshino (Foreclosure Task Force): Shall we?
+
+
+<<Battle Sequence>>
+
+<<To be Continued>>
+
+
+
+
+
+
+
+
+
+07 - A New Threat?
+Sensei and the task force manage to rescue Serika from the Helmet Gang. Ayane finds signs of contraband among the tank's wreckage. Meanwhile, the Kaiser PMC that controlled the Helmet Gang decides to enlist the help of Problem Solver 68.
+
+[Foreclosure Task Force Room]
+
+Ayane (Foreclosure Task Force): Well done, everyone.
+
+Will you be all right, Serika?
+
+Serika (Foreclosure Task Force): Uh-huh. I'll be fine. Never better…
+
+*stumbles*
+
+<*collapses*>
+
+Nonomi (Foreclosure Task Force): Serika!
+
+Shiroko (Foreclosure Task Force): I'll take her to the infirmary.
+
+Grabs and leaves
+
+Hoshino (Foreclosure Task Force): I'd be more concerned if she WAS still standing after getting hit by a Flak 41 artillery shell. She better get some rest.
+
+Ayane (Foreclosure Task Force): It could have been much worse had Sensei not been here…
+
+Nonomi (Foreclosure Task Force): Uh-huh. Tracking down Serika's location was a piece of cake thanks to you, Sensei. You're always so reliable! ☆
+
+Hoshino (Foreclosure Task Force): Oh, really? All in a day's work for a stalker, huh?
+
+Ayane (Foreclosure Task Force): ...Excuse me, everyone. Could I have your attention?
+
+I was looking into the tank parts we collected in battle. It turns out they're from an illegal model that is prohibited within Kivotos.
+
+I'll have to dig a little deeper, but right now it looks like the Helmet Gang has gained access to weapons that should be contraband.
+
+Nonomi (Foreclosure Task Force): I bet we can find out who those hooligans answer to if we analyze the distribution channels for these parts!
+
+Ayane (Foreclosure Task Force): Bingo. That, and also why a minor criminal organization is targeting our school so obsessively…
+
+Hoshino (Foreclosure Task Force): Sounds good to me. Let's proceed a little cautiously and see where this leads.
+
+[High-Rise Office}
+
+???: …
+
+Is this the best an organized crime group can do? Providing them with a tactical tank was a waste.
+
+You'd think a gang of students would be able to handle some other students. In that case, I'll simply have to enlist the services of more skilled professionals.
+
+<*ring* *ring*>
+
+<*click*>
+
+???: Hello. Problem Solver 68. We'll do the crime if you've got the dime.
+
+???: I have a special task for you, my dear fixers.
+
+???: …
+
+[Kata-Kata Helmet Gang's Base]
+
+Helmet Gangster B (Kata-Kata Helmet Gang): *sigh*...
+
+What the...?!
+
+<*pop* *pop* *pop* *tat*!>
+
+Helmet Gangster B (Kata-Kata Helmet Gang): Guh!
+
+Gunfire
+
+Helmet Gangster B (Kata-Kata Helmet Gang): …!
+
+
+<*collapses*>
+
+???: Hmph. All clear on this end.
+
+???: All done over here too, Boss.
+
+Helmet Gangster A (Kata-Kata Helmet Gang): G-Gah... Who are you people?
+
+???: Heh heh heh.
+
+	*presses rifle against her*
+
+Helmet Gangster A (Kata-Kata Helmet Gang): Graugh! Are you runts from Abydos? How dare you...?
+
+???: Please. And you call this dirty, stinking lair your base? You lot are pathetic.
+
+Oh, well. I'll put you out of your misery—don't worry.
+
+Helmet Gangster A (Kata-Kata Helmet Gang): Wh-What?!
+
+???: Relax. We're just here to tell you that you've been relieved of your duties. We'll be taking Abydos off of your hands now.
+
+Helmet Gangster A (Kata-Kata Helmet Gang): Wh-What the...?! Who do you think you are?!
+
+<*thwack*>
+
+Helmet Gangster A (Kata-Kata Helmet Gang): Gaaarrgh!
+
+<...>
+
+???: …
+
+???: Problem Solver 68.
+
+???: We'll do the crime if you've got the dime.
+
+Camera pans out
+
+???: The best fixers in all of Kivotos.
+
+<*door opens*>
+
+Serika (Foreclosure Task Force): Huh?
+
+
+	Wait... Sensei?! What are you doing here?!
+
+Sensei: "I came to see how you were doing."
+
+Serika (Foreclosure Task Force): Oh. I'm fine. I shouldn't be spending so much time lying around doing nothing anyway.
+
+I don't want to worry Ayane or the others too much. Plus, I have my part-time job to go to.
+
+Y-You don't have to worry about me so much! I'm fine, really.
+
+Sensei: "That's a relief."
+
+Serika (Foreclosure Task Force): …
+
+Uh, so... By the way!
+
+Th-The thing is…
+
+Looking back on it, I don't think I ever thanked you, Sensei…
+
+S-So...thanks. For all the help and stuff…
+
+But still! Don't assume this has done anything to actually help our school! We're gonna settle this debt if it's the last thing we do!
+
+…
+
+Wh-What?! What's with that smug look on your face?!
+
+*sigh* Geez.
+
+Whatever... I'll see you tomorrow!
+
+Sen…
+
+…Sensei.
+
+Serika leaves
+
+<<To be Continued>>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+08 - The Might of Problem Solver 68
+The Foreclosure Task Force struggles to come up with ideas on how to pay off the school's debt. Sensei and the students run into the impoverished employees of Problem Solver 68 while grabbing some ramen after the meeting.
+
+[Foreclosure Task Force Room]
+
+Ayane (Foreclosure Task Force): All right. Time for us to begin our regularly scheduled Abydos Foreclosure Task Force meeting.
+
+I'll remind you that Sensei is in attendance today, so I would hope for more decorum than usual…
+
+Nonomi (Foreclosure Task Force): Okay! ☆
+
+Shiroko (Foreclosure Task Force): Naturally.
+
+Serika (Foreclosure Task Force): Come on. You say that like we've never taken it seriously before…
+
+Hoshino (Foreclosure Task Force): It's good of you to join us, Sensei.
+
+Sensei: “Thanks for having me.”
+
+Ayane (Foreclosure Task Force): Okay. Let's get down to business and discuss the key item on our agenda… How do we settle the school's debts? Discuss.
+
+	Raise your hand if you'd like to share your thoughts!
+
+Serika (Foreclosure Task Force): Ooh! Me! Me!
+
+Ayane (Foreclosure Task Force): Yes, first-year Kuromi Serika. You have the floor.
+
+Serika (Foreclosure Task Force): Seriously, again with the formalities? I hate it when you do that…
+
+Ayane (Foreclosure Task Force): Why not? This is our first formal meeting in ages.
+
+Hoshino (Foreclosure Task Force): Yeah, what's the big deal? It's nice to pull out all the stops once in a while. It's not every day we get to run a meeting with Sensei.
+
+Shiroko (Foreclosure Task Force): This is the only time we've had a meeting with Sensei in attendance, to be precise.
+
+Nonomi (Foreclosure Task Force): That's right! It's like we're a proper task force now! ☆
+
+Serika (Foreclosure Task Force): *sigh* Fine. You guys do have seniority here, I guess…
+
+	Moving on! The school is on the verge of bankruptcy. And I'm the treasurer, in case you 
+forgot, so I really mean it!
+
+Abydos will seriously get shut down at this rate. Got it?
+
+Hoshino (Foreclosure Task Force): Well, yeah.
+
+Serika (Foreclosure Task Force): We're paying nearly 8 million yen every month alone. We're doing everything we can to hold on, but that much is barely keeping up with the interest.
+
+	There's only so much we can do by just arresting wanted criminals or taking care of 
+civilian requests.
+
+We're royally screwed unless something changes. What we need is something big! Huge, even!
+
+Ayane (Foreclosure Task Force): Something...big?
+
+Serika (Foreclosure Task Force): This is it! It's a flier from downtown!
+
+Ayane (Foreclosure Task Force): What's that?
+
+Hoshino (Foreclosure Task Force): Let me see here.
+
+	"Ready to become a boss babe billionaire? Get rich quick with the Germanium 
+Granite...Bracelet...Network"?!
+
+Serika (Foreclosure Task Force): That's right! We're all gonna become boss babe billionaires!
+
+Ayane (Foreclosure Task Force): …
+
+Serika (Foreclosure Task Force): I was downtown recently, and these really cool people invited me to a seminar. They told me all about these amazing germanium bracelets! Did you know they can cleanse your aura and bring you good luck?
+
+Shiroko (Foreclosure Task Force): …
+
+Serika (Foreclosure Task Force): They're so powerful that you can boost your good vibes just by wearing them! They're so powerful that you can boost your good vibes just by wearing them!
+
+!
+
+Serika (Foreclosure Task Force): What? Why are you looking at me like that?
+
+Hoshino (Foreclosure Task Force): Proposal denied.
+
+Serika (Foreclosure Task Force): What?! Why?!
+
+Ayane (Foreclosure Task Force): Serika... Have you ever heard the phrase "pyramid scheme" before?
+
+Shiroko (Foreclosure Task Force): It's a scam.
+
+Serika (Foreclosure Task Force): What?!
+
+
+Ayane (Foreclosure Task Force): First, I don't think germanium can possibly affect your luck, if it even exists. Second, if this is such a great business plan, why would they give it away for free at such a fishy-sounding seminar?
+
+Serika (Foreclosure Task Force): N-No way! I already bought two bracelets, so that can't be right!
+
+Nonomi (Foreclosure Task Force): Serika is so gullible it's cute! ☆
+
+Serika (Foreclosure Task Force): …!
+
+
+Hoshino (Foreclosure Task Force): Aw, you can be so naive, Serika. Sweet, but naive. You'd better start wising up, or else you're going to have your life ruined by one of these schemes someday!
+
+Serika (Foreclosure Task Force): B-But...it sounded so convincing. I even skipped lunch so I could buy these…
+
+Nonomi (Foreclosure Task Force): There, there, Serika. It's okay. Why don't I treat you to lunch?
+
+Serika (Foreclosure Task Force): *sniff* Aww. Nonomi…
+
+Ayane (Foreclosure Task Force): Well, then... That's it for Serika's suggestion. Anyone else?
+
+Hoshino (Foreclosure Task Force): Me! Me!
+
+Ayane (Foreclosure Task Force): Okay. President Takanashi Hoshino has the floor…
+
+Hoshino (Foreclosure Task Force): Thank you. Ahem…
+
+You know what this school's problem is? It's that the entire student body is just us.
+
+More students means more money. Think about Trinity or Gehenna with their five-digit enrollment numbers. Then think about how much they must be raking in with monthly student fees alone!
+
+Ayane (Foreclosure Task Force): I suppose... And?
+
+Hoshino (Foreclosure Task Force): So we need to increase our enrollment numbers! That's our top priority.
+
+	We'll also get more representatives and have a better say with the General Student 
+Council that way.
+
+Ayane (Foreclosure Task Force): I admit you raise a good point, but how do you suggest we do this?
+
+Hoshino (Foreclosure Task Force): Simple. We abduct another academy's school bus!
+
+Ayane (Foreclosure Task Force): Excuse me?!
+
+Hoshino (Foreclosure Task Force): We hijack a bus full of students on their way to school, and we hold them hostage until they agree to transfer their enrollment over to our school!
+
+	This is sure to get our enrollment numbers up!
+
+Shiroko (Foreclosure Task Force): Interesting.
+
+So who's our target? Trinity? Gehenna? Or is it Millennium?
+
+We'll have to evolve our strategy to fit the target.
+
+Hoshino (Foreclosure Task Force): Oh, yeah? Well, what about Trinity? No, wait! Let's hit Gehenna!
+
+Ayane (Foreclosure Task Force): Wait a second! We can't possibly boost our enrollment with a stunt like that!
+
+Not to mention the other schools' respective leaderships would surely put up a fight…
+
+Hoshino (Foreclosure Task Force): Heh heh. Oh, would they now?
+
+Ayane (Foreclosure Task Force): That wasn't supposed to be a challenge, Hoshino... Can you please try to take this meeting seriously?
+
+Hoshino steps down
+
+Shiroko (Foreclosure Task Force): I have an even better idea.
+
+Ayane (Foreclosure Task Force): Fine. Go ahead, second-year student, Sunaookami Shiroko.
+
+Shiroko (Foreclosure Task Force): We rob a bank.
+
+Ayane (Foreclosure Task Force): What?!
+
+
+Shiroko (Foreclosure Task Force): It's a surefire plan, and we already have the perfect target. Let's hit the First Central Bank downtown. -
+
+	I've already mapped out everything from the location of the vault to the positions of the 
+guards, blind spots for the security cameras, and even the armored car's transportation 
+route.
+
+Ayane (Foreclosure Task Force): Is that what you've been working so hard on lately?!
+
+Shiroko (Foreclosure Task Force): We can earn 100 million yen in five minutes flat. In-and-out, easy. Here, I even brought masks.
+
+Shiroko dawns her mask
+
+Ayane (Foreclosure Task Force): Where did you find the time to prepare all of this?
+
+Hoshino (Foreclosure Task Force): Whoa! Did you sew these yourself, Shiroko?
+
+Nonomi appears with mask on
+
+Nonomi (Foreclosure Task Force): Wowie! Check it out! Don't I look like a luchador?
+
+Ayane (Foreclosure Task Force): …
+
+Hoshino (Foreclosure Task Force): Dang...! It's so obvious! You gotta risk big to win big! Isn't that what life is all about, Serika?
+
+Serika (Foreclosure Task Force): Heck no it isn't! Absolutely not! DENIED!
+
+Ayane (Foreclosure Task Force): She's right! We can't possibly stoop to being criminals!
+
+…
+
+Silently takes off mask
+
+Shiroko (Foreclosure Task Force): …
+
+Ayane (Foreclosure Task Force): Pout all you want, Shiroko, but there are some lines that can't be crossed!
+
+*sigh* Seriously. If no one comes up with a real idea soon…
+
+Nonomi (Foreclosure Task Force): Hey, excuse me! Me next!
+
+Ayane (Foreclosure Task Force): Ayane (Foreclosure Task Force): Very well. Second-year Izayoi Nonomi... As long as it doesn't involve scams or breaking the law, you have the floor.
+
+Nonomi (Foreclosure Task Force): You got it! I have the perfect thing, and I promise it isn't illegal or a pyramid scheme. This one is definitely gonna work!
+
+Two words: pop idols! Schoolgirl pop idols, to be exact!
+
+Ayane (Foreclosure Task Force): Pop idols...?!
+
+Nonomi (Foreclosure Task Force): You heard me! It happens all the time in anime. Nothing helps revitalize a school like becoming a pop superstar! If we all break into the industry together as pop idols…
+
+Hoshino (Foreclosure Task Force): Denied.
+
+Nonomi (Foreclosure Task Force): What...? You don't like that idea either?
+
+Serika (Foreclosure Task Force): Why not? You'd definitely have some fans, Hoshino.
+
+Hoshino (Foreclosure Task Force): Yeah, more like I'd have a bunch of creeps after me. No, thanks.
+
+Nonomi (Foreclosure Task Force): But I even came up with a pose…
+
+	*poses*
+
+	Christina of the Swimsuit Gang! ♧
+
+Serika (Foreclosure Task Force): Are you…
+
+	...KIDDING ME?! The Swimsuit WHAT?! Get real!
+
+Nonomi (Foreclosure Task Force): Aww. But I worked on it all night…
+
+Ayane (Foreclosure Task Force): This meeting is just going in circles now. Shouldn't we at least try to decide on something? Anything?
+
+Hoshino (Foreclosure Task Force): Why not let Sensei decide? Sensei, which idea do you think we should go with?
+
+Ayane (Foreclosure Task Force): No way! You want to make a decision already? Shouldn't we at least throw out some better ideas first?
+
+Hoshino (Foreclosure Task Force): It'll be fine. If Sensei backs it, then I'm sure it'll be the right one.
+
+Ayane (Foreclosure Task Force): Now wait just a minute. How does that make any sense?
+
+Serika (Foreclosure Task Force): I mean, at least this means becoming pop idols is off the table...right?
+
+Nonomi (Foreclosure Task Force): Pop idol stardom, here we come! ☆
+
+Shiroko (Foreclosure Task Force): *hopefully puts mask back on*
+
+Sensei: "Time to hijack a school bus!" / "We're going bank robbing!" / "Become pop idols! I'll be the manager!"
+
+Ayane (Foreclosure Task Force): THAT'S what you're picking?! Are you sure?!
+
+Hoshino (Foreclosure Task Force): Hahaha! I guess we have a winner. Let's do this!
+
+Nonomi (Foreclosure Task Force): Yay! That sounds like so much fun! ☆
+
+Serika (Foreclosure Task Force): This is a joke...right? We aren't really…
+
+Hoshino (Foreclosure Task Force): Why not?
+
+Shiroko (Foreclosure Task Force): Might as well go big or go home. Isn't that right, Ayane?
+
+Ayane (Foreclosure Task Force): Obviously…
+
+Serika (Foreclosure Task Force): Really?
+
+
+Ayane (Foreclosure Task Force): OBVIOUSLY NOT!
+
+<*craaash*>
+
+Hoshino (Foreclosure Task Force): She did it! Ayane flipped the table!
+
+Shiroko (Foreclosure Task Force): …
+
+Nonomi (Foreclosure Task Force): Ahhh! Ayane is in berserk mode! Everyone take cover!
+
+Hoshino (Foreclosure Task Force): She's grown up to be such a stern young lady. It does my old heart proud.
+
+Ayane (Foreclosure Task Force): Can't you take this seriously for one second?! I swear, it's like I'M the only mature one here!
+
+	All you four ever do is fool around! Robbing banks, pyramid schemes... Is this supposed 
+to be some kind of joke?!
+
+Serika (Foreclosure Task Force): *flinches*
+
+Shiroko (Foreclosure Task Force): …
+
+Fade to black
+
+<Ayane continued to chew everyone out for a while.>
+
+Hoshino (Foreclosure Task Force): Everything's going to be all right, Ayane. We're sorry, okay? I'll treat you to some ramen to make it up to you.
+
+Ayane (Foreclosure Task Force): I'm...not angry…
+
+Nonomi (Foreclosure Task Force): That's it. Hush now. There's a good girl. ☆
+
+Ayane (Foreclosure Task Force): Will you stop patronizing me like I'm a child?!
+
+Serika (Part-Timer Student): That's fine and all, but did you guys seriously have to come back here again?
+
+Shiroko (Foreclosure Task Force): Want some more chashu, Ayane?
+
+Ayane (Foreclosure Task Force): *nom* *nom* Yesh.
+
+<*door opens*>
+
+Haruka (Problem Solver 68): …
+
+	Oh... U-Um…
+
+Serika (Part-Timer Student): Welcome! How many in your party?
+
+Haruka (Problem Solver 68): Uh... Excuse me. How much is the cheapest thing on your menu?
+
+Serika (Part-Timer Student): Our lowest priced dish?
+
+	That would be the regular Shiba Seki Ramen Bowl for 580 yen! It's our signature dish 
+and super tasty too!
+
+Haruka (Problem Solver 68): Oh, uh, thank you!
+
+<*door opens*>
+
+
+Serika (Part-Timer Student): Hmm?
+
+<*door opens*>
+
+
+2 more students walk in
+
+Mutsuki (Problem Solver 68): Heh. We finally found something that costs less than 600 yen!
+
+Aru (Problem Solver 68): A yen saved is a yen earned. I knew we'd find one.
+
+Haruka (Problem Solver 68): Y-You were right. I guess you really do know everything, Boss…
+
+Kayoko (Problem Solver 68): *sigh*
+
+Serika (Part-Timer Student): So, four in your party? I'll show you to your seats.
+
+Mutsuki (Problem Solver 68): Oh, no, no, no. You don't have to do that. We're only going to order the one.
+
+Serika (Part-Timer Student): Just one...? Still, you may as well be comfortable. Plus we're not very busy at the moment.
+
+Mutsuki (Problem Solver 68): Well, isn't that nice of you? Don't mind if we do.
+
+	Oh, and can you get us four pairs of chopsticks while you're at it? Thanks.
+
+Serika (Part-Timer Student): Four pairs? Uh, you're not thinking of splitting a single bowl between the four of you, are you?
+
+Haruka (Problem Solver 68): S-Sorry! I'm so sorry! I'm sorry that we're broke and we're poor!
+
+Serika (Part-Timer Student): What the...?! You don't have to apologize to ME over something like that…
+
+Haruka (Problem Solver 68): No, really! What's the point of living like this? We're just a waste of air! Lower than dirt! We never should have come in here. Sorry, sorry, sorry…
+
+Kayoko (Problem Solver 68): *sigh* For crying out loud... Knock it off, Haruka. You're making a scene.
+
+Serika (Part-Timer Student): Don't say that! Being poor isn't a crime or anything to be ashamed of. You shouldn't be so hard on yourself!
+
+Haruka (Problem Solver 68): I...shouldn't?
+
+Serika (Part-Timer Student): You're students! No one expects you to be loaded with cash. Still, you and your friends scraped enough to share a bowl of ramen together. That's saying something, isn't it?
+
+Hang tight. I'd be glad to bring it out for you.
+
+Serika walks away
+
+Kayoko (Problem Solver 68): I think she got the wrong idea.
+
+Mutsuki (Problem Solver 68): Yeah! It's not like we're beggars. It's just because Aru blew through our cash.
+
+Aru (Problem Solver 68): That's "Boss" to you. You should know better than to not refer to me by my title, Chief of Staff Mutsuki.
+
+Mutsuki (Problem Solver 68): Really? You still want us to call you Boss when we're off the clock? And what kind of boss can't afford to treat her employees to more than one measly bowl of ramen?
+
+Aru (Problem Solver 68): …
+
+Kayoko (Problem Solver 68): Maybe you should've thought of that before blowing all of our money on hired goons
+
+Aru (Problem Solver 68): Heh. Would you expect me to do anything less? Be grateful there was enough left for a bowl of ramen.
+
+Kayoko (Problem Solver 68): You could have negotiated to make sure there was enough left for four, you know…
+
+Mutsuki (Problem Solver 68): Just admit that you forgot to account for dinner in today's expenses, Aru.
+
+Aru (Problem Solver 68): Heh heh heh…
+
+Kayoko (Problem Solver 68): I get why you would want to reduce the risk factor of this operation. You're right about not underestimating the target. They aren't jobbers like the Helmet Gang.
+
+	But really, Boss? Are these Abydos students really worth blowing our entire
+	budget on hiring extra muscle?
+
+Aru (Problem Solver 68): They could be…
+
+Mutsuki (Problem Solver 68): Aru probably doesn't even know. That's why she hired those goons—because she's chicken.
+
+Aru (Problem Solver 68): Who are you calling a chicken?! I'm just being careful and covering our bases!
+
+	Failure is not an option. You all know Problem Solver 68's motto: Expect the unexpected.
+
+Kayoko (Problem Solver 68): This is the first I'm hearing about a motto.
+
+Mutsuki (Problem Solver 68): Pretty sure she just made that up on the spot.
+
+Aru (Problem Solver 68): Shut up! I'll take you all out for sukiyaki once we finish this job and get paid. So you'd better go all out!
+
+Haruka (Problem Solver 68): Sukiyaki...?! Wait. What's that?
+
+Kayoko (Problem Solver 68): It's a dish that adults like...and really expensive.
+
+Haruka (Problem Solver 68): W-Wow. I don't know if dirt like me could appreciate it, then. Would I have to sacrifice my life afterward for overindulging?
+
+Aru (Problem Solver 68): Heh heh. Problem Solver is an industry titan at this point. We deserve only the best, wouldn't you agree?
+
+Mutsuki (Problem Solver 68): Heh! You're so ambitious, Aru.
+
+Aru (Problem Solver 68): I told you to call me Boss!
+
+Serika (Part-Timer Student): Order up! The bowl's hot, so be careful!
+
+<*thud*>
+
+Mutsuki (Problem Solver 68): What the...? This bowl is huge.
+
+Kayoko (Problem Solver 68): It looks like it could feed ten people…
+
+Haruka (Problem Solver 68): Uh, are you sure this is the right order? We don't have the money to pay for something like this…
+
+Serika (Part-Timer Student): This is exactly what you ordered: a plain 580-yen Shiba Seki Ramen Bowl. Isn't that right, Master?
+
+Master Shiba (Shiba Seki Ramen): Well, I might have overfilled a smidge, but that's all right.
+
+Serika (Part-Timer Student): Master says it's all good, so don't worry! Enjoy your meal!
+
+Haruka (Problem Solver 68): W-Wow…
+
+Mutsuki (Problem Solver 68): I say we eat first and ask questions later. Chopsticks ready!
+
+Aru (Problem Solver 68): I didn't see this coming, but it'd be rude of us to send it back.
+
+Mutsuki (Problem Solver 68): Let's dig in!
+
+Black screen
+
+<*slurp*>
+
+
+Aru (Problem Solver 68): …!
+
+Haruka (Problem Solver 68): I-It's so yummy!
+
+Mutsuki (Problem Solver 68): Not bad at all. Who knew there was such a good ramen shop out here in the boonies?
+
+Nonomi (Foreclosure Task Force): *squeezes in* I know, right? Isn't it the best?
+
+Mutsuki (Problem Solver 68): Huh? Weren't you sitting at the table next to us?
+
+Nonomi (Foreclosure Task Force): Yep! The ramen here is the best around. People come from all over just to get a taste of it.
+
+Aru (Problem Solver 68): I can see why. I've been to my fair share of shops, and ramen this good is hard to find.
+
+Ayane (Foreclosure Task Force): We're regulars here. Sorry to interrupt your meal, but we wanted to say it's good to see students from other schools come here and see the light.
+
+Shiroko (Foreclosure Task Force): That uniform you're wearing is Gehenna's, right? That's a long trip.
+
+Nonomi (Foreclosure Task Force): Girls sharing a bowl of ramen together like this. It's a little nostalgic, isn't it?
+
+Hoshino (Foreclosure Task Force): Wasn't that a bowl of udon?
+
+Kayoko (Problem Solver 68): (...)
+
+
+(Their uniforms...)
+
+Mutsuki (Problem Solver 68): (Hey, you're right.)
+
+Aru (Problem Solver 68): Haha! I never expected to run into fellow connoisseurs here. Isn't life wonderfully unpredictable sometimes?
+
+Mutsuki (Problem Solver 68): (Something tells me Aru hasn't put two and two together yet.)
+
+Kayoko (Problem Solver 68): (Should I tell her?)
+
+Mutsuki (Problem Solver 68): (Nah. This is interesting. Let's see what happens.)
+
+Aru and Nonomi conversing
+
+Kayoko (Problem Solver 68): (...)
+
+
+<<To be Continued>>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+09 - Unrelenting Blood Feud
+Aru grapples with her feelings after realizing that the ones who treated her to a bowl of ramen were actually Abydos students. She resolves anew to attack Abydos High School with her hired guns.
+
+Serika (Part-Timer Student): Take care on your way home!
+
+Nonomi (Foreclosure Task Force): Good luck with your business!
+
+Aru (Problem Solver 68): Same to you guys! Good luck with revitalizing your school. I'll be cheering you on!
+
+Bye-bye!
+
+Scene change
+
+Aru (Problem Solver 68): Heh... What great kids, yeah?
+
+Kayoko (Problem Solver 68): …
+
+Mutsuki (Problem Solver 68): … (glimmer)
+
+Kayoko (Problem Solver 68): Aru. Didn't those uniforms look familiar to you?
+
+Aru (Problem Solver 68): Huh? No. Why?
+
+Mutsuki (Problem Solver 68): Those were Abydos students.
+
+…
+
+Black screen
+
+Aru (Problem Solver 68): Wh-What?! They were?!
+
+Back to scene
+
+Mutsuki (Problem Solver 68): Hahaha! You should see the look on your face.
+
+Kayoko (Problem Solver 68): Did you really not know?
+
+Haruka (Problem Solver 68): B-But doesn't that mean they're our targets? Sh-Should I go back inside and snuff them out?
+
+Mutsuki (Problem Solver 68): Haha. It's a little late for that. We're gonna raid 'em in a bit anyway, so save it for then, Haruka.
+
+Aru (Problem Solver 68): Y-You're serious... They're the ones from Abydos? Ugh. Ah… Why is fate such a cruel mistress?
+
+Mutsuki (Problem Solver 68): What's wrong, Aru? Isn't it time for us to get to work?
+
+Kayoko (Problem Solver 68): The hired muscle is waiting for instructions.
+
+Aru (Problem Solver 68): Do we gotta...? Do we have to wipe them out this second?
+
+Mutsuki (Problem Solver 68): Looks like our sweet little Aru is being torn ape
+
+What happened to doing the crime as long as the client has the dime? Problem Solver 68 doesn't let emotions get in the way, so what's going on?
+
+Aru (Problem Solver 68): I-I know that, but…
+
+Kayoko (Problem Solver 68): (She really is conflicted right now.)
+
+Aru (Problem Solver 68): I gotta pull myself together! What kind of executive would I be ifI can't do a simple job like this?
+
+Aru (Problem Solver 68): Let's do it! Round up the muscle!
+
+…
+
+Part-Timer A (Part-Timer Student): Hey. What took you so long?
+
+Aru (Problem Solver 68): Just taking care of business. I trust you're all prepared?
+
+Part-Timer A (Part-Timer Student): Whatever you say. Just remember we're clocking out on the dot. Especially since you were stingy with our pay.
+
+Aru (Problem Solver 68): We can leave the fine print for later. Let's get going! Time to attack Abydos!
+
+Mutsuki (Problem Solver 68): Let's move!
+
+Kayoko (Problem Solver 68): *sigh*
+
+Haruka (Problem Solver 68): I-I won't let you down, Aru!
+
+	We'll crush them to dust!
+
+Ayane (Foreclosure Task Force): I'm reading a large armed group 15 kilometers south of campus!
+
+Shiroko (Foreclosure Task Force): What? Is it the Helmet Gang again?
+
+Ayane (Foreclosure Task Force): N-No! It's not them.
+
+Ayane (Foreclosure Task Force): They look like mercenaries! Someone must have hired them to attack!
+
+Hoshino (Foreclosure Task Force): What'd they do, pick them up from Thugs Depot at the crack of dawn? It must have cost a fortune to hire that many of them.
+
+Ayane (Foreclosure Task Force): We can't allow them to get any closer! Sensei, give us the order to move out!
+
+Sensei: “It’s showtime.”
+
+
+Ayane (Foreclosure Task Force): I've got eyes on a squad leading those goons up ahead!
+
+Nonomi (Foreclosure Task Force): Wait. Aren't those the girls we met at the ramen shop?
+
+Aru (Problem Solver 68): U-Urgh…
+
+Serika (Foreclosure Task Force): You guys are the ones attacking us?! After I gave you all that extra ramen?! You ungrateful pricks!
+
+Mutsuki (Problem Solver 68): Heehee! I really did appreciate that, but it doesn't matter. This is business, not personal.
+
+Kayoko (Problem Solver 68): Agreed. It's regrettable, but business is business. We have to uphold our contract.
+
+Shiroko (Foreclosure Task Force): So you're fixers, then.
+
+Nonomi (Foreclosure Task Force): What kind of job is that for girls your age?! Shouldn't you be working normal part-time jobs?
+
+Aru (Problem Solver 68): It's not a part-time job! This is a real, respectable business! With titles and everything!
+
+	And I'm the boss!
+
+Mutsuki in scene
+
+She's the chief of staff.
+
+Kayoko in scene
+
+And this here is the department head.
+
+Kayoko (Problem Solver 68): Please. The title isn't nearly as impressive as you make it out to be.
+
+Shiroko (Foreclosure Task Force): So, who hired you? Or are you not willing to tell us?
+
+We could always get it out of you by force.
+
+Aru (Problem Solver 68): Haha. Good luck. We don't spill trade secrets.
+
+Get 'em, girls!
+
+<<Battle Sequence>>
+Thanks to the work of the Foreclosure Task Force, Aru and Problem Solver are forced to withdraw.
+<*ding* *ding* *ding* *dong* *ding* *ding* *ding* *dong*>
+
+Part-Timer A (Part-Timer Student): Phew. It's quittin' time.
+
+Part-Timer B (Part-Timer Student): It sure is. That's all you get for the money you paid us today. You can handle the rest on your own. Let's go, ladies.
+
+Aru (Problem Solver 68): Wh-What?! W-Wait a second!
+
+Part-Timer A and B leave
+
+Part-Timer C (Part-Timer Student): Time to clock out.
+
+Part-Timer D (Part-Timer Student): Wanna grab a bowl of soba on the way back?
+
+Part-Timer C and D leave
+
+Aru (Problem Solver 68): Hey! What the heck is this?! Don'tjust leave!
+
+Kayoko (Problem Solver 68): …
+
+Mutsuki (Problem Solver 68): Welp. We're boned. I kind of thought we would have wrapped up by now. What now, Aru? Should we run for it?
+
+Aru (Problem Solver 68): Ughhh...
+
+Y-You haven't seen the last of us, Abydos!
+
+Mutsuki (Problem Solver 68): Haha. You sound like a corny third-rate villain, Aru.
+
+Aru (Problem Solver 68): Shut up! Everyone, run... I mean, retreat!
+
+Problem Solver whisks away
+
+Nonomi (Foreclosure Task Force): Hang on...! Oh, well. They're gone.
+
+Hoshino (Foreclosure Task Force): They move a lot faster when they're running away at least.
+
+Ayane (Foreclosure Task Force): I'm still not sure what that was all about, but I can at least confirm their hired forces did clock out. I mean, uh, retreated.
+
+But, still. This is a problem. Now we have to worry about some strange hitmen targeting our school? What on earth is going on?
+
+Hoshino (Foreclosure Task Force): Eh, I'm sure we'll find out soon enough. We'll learn something useful once we look into that Aru girl.
+
+Ayane (Foreclosure Task Force): Sounds good. Head back inside for now, everyone. Good work today.
+
+<<To be Continued>>
+
+
+
+
+
+
+
+10 - In Search of a Clue
+The Foreclosure Task Force learn that Problem Solver 68 is a group of delinquents from Gehenna Academy and that the Helmet Gang's weapons came from the Black Market. Sensei and the students head there to investigate.
+
+[Abydos Residential Area]
+
+Ayane (Foreclosure Task Force): Oh, good morning, Sensei.
+
+Where am I heading off to so early?
+
+Oh. We have an interest payment on the school's debt due today. There's a lot of prep work involved.
+
+I have to get to school ahead of time to take care of it...and do some planning for how we'll move forward.
+
+Oh, that's right. I also compiled some intel on the students we ran into yesterday. I'd appreciate if you could take a look at it later.
+
+Those girls are in fact students at Gehenna Academy and…
+
+?
+
+Mutsuki (Problem Solver 68): Wow! If it isn't Sensei! Hey there!
+
+Mutsuki nudges in
+
+Ayane (Foreclosure Task Force): What the...?!
+
+Mutsuki (Problem Solver 68): How ya doin'? Wow, what a coincidence running into you this morning.
+
+*jump* *squeeze* Hmm? I'm not too heavy, am I? I'm sure you can still breathe, Sensei, so you'll just have to endure it.
+
+Blush
+
+Ayane (Foreclosure Task Force): Wh-What do you think you're doing? Let go of Sensei this instant!
+
+Mutsuki (Problem Solver 68): Hey, quit pulling!
+
+Well, well, well. If it isn't Little Miss Four-Eyes from Abydos. You really like to stick your nose in other people's business, don't you?
+
+You seemed a lot more polite we ran into each other at the ramen place yesterday. Remember?
+
+Ayane (Foreclosure Task Force): That was before you assaulted our school! What are you up to? Why are you trying to be so buddy-buddy all of sudden?
+
+And my name's not Little Miss Four-Eyes! It's Ayane!
+
+Mutsuki (Problem Solver 68): What? It's not like we have anything against you guys.
+
+We told you it was just business. We can make nice when we're not fighting.
+
+Ayane (Foreclosure Task Force): A-Are you actually trying to tell me not to take things personally after what you did?! 
+
+Mutsuki (Problem Solver 68): Why not? It's not like Schale only works for you Abydos kids. Isn't that right, Sensei?
+
+Sensei: "Can't we all just get along?"
+
+Mutsuki (Problem Solver 68): Haha! That's a good one. Fat chance. We have a business to run. Aru isn't going to let us go unemployed or anything.
+
+Oh, well. Stop by our office anytime you want, Sensei. I bet Aru and the others would be thrilled to have you there.
+
+Well, bye-bye! See you next time, Miss Ayane.
+
+Ayane (Foreclosure Task Force): There will be no later! I'll shoot on sight if I catch you in our district again!
+
+Mutsuki (Problem Solver 68): Whatever you say.
+
+Mutsuki leaves
+
+Ayane (Foreclosure Task Force): *sigh*
+
+	The nerve of that girl!
+
+Teller (Kaiser Loans): A 7,883,250 yen payment on your loan, including variable interest and additional interest, has been confirmed.
+
+	Paid in cash. No issues to report.
+
+	Thank you once again for doing business with Kaiser Loans. See you 
+next month.
+
+<*vroom*>
+
+Ayane (Foreclosure Task Force): …
+
+Nonomi (Foreclosure Task Force): …
+
+Hoshino (Foreclosure Task Force): We've managed to make it another month.
+
+Shiroko (Foreclosure Task Force): How much longer to go?
+
+Ayane (Foreclosure Task Force): The repayment schedule is 309 years. At the rate we're going…
+
+Serika (Foreclosure Task Force): Don't say it! I'm gonna snap ifI hear the details!
+
+Just face it. We'll never pay this off in our lifetimes! Why even bother doing the math?!
+
+Ayane (Foreclosure Task Force): …
+
+Nonomi (Foreclosure Task Force): Do you ever wonder why they only accept cash payments? Why go through all the trouble to constantly pay for armored trucks?
+
+Shiroko (Foreclosure Task Force): …
+
+Glimmer
+
+Serika (Foreclosure Task Force): I hope you aren't planning to rob them, Shiroko.
+
+Shiroko (Foreclosure Task Force): Don't worry. I'm not.
+
+Serika (Foreclosure Task Force): That doesn't mean you can daydream about doing it either!
+
+Shiroko (Foreclosure Task Force): Fine…
+
+Hoshino (Foreclosure Task Force): Come on, guys. All we can do is focus on what's right in front of us.
+
+Let's go inside.
+
+Ayane (Foreclosure Task Force): Let's begin, shall we? We need to go over two issues.
+
+First off is yesterday's assault.
+
+The culprits belong to a club called Problem Solver 68.
+
+They're a notorious group of student delinquents from Gehenna Academy.
+
+They present themselves as a fixer agency, but they're more like a freelance errand center.
+
+The club president is a girl named Aru.
+
+She would be the one you ran into that was calling herself the boss.
+
+Aru has three employees beneath her: a chief of staff, a department head, and an entry-level employee.
+
+Hoshino (Foreclosure Task Force): They really do mean business, huh?
+
+Nonomi (Foreclosure Task Force): She's an executive at her age? That's so cool! ☆
+
+Ayane (Foreclosure Task Force): Again, her title is self-proclaimed. I suspect they're currently operating out of a location close to Abydos—especially since we ran into one of them this morning.
+
+Shiroko (Foreclosure Task Force): Is what they're doing officially recognized by Gehenna Academy?
+
+Ayane (Foreclosure Task Force): I wouldn't think so. I bet they took whatever contract they‘re under because they felt like it.
+
+Nonomi (Foreclosure Task Force): So they're in violation of school regulations... Strange. They didn't strike me as all that bad or malicious.
+
+Ayane (Foreclosure Task Force): On the contrary. They're known for being troublemakers and causing a lot of headaches at Gehenna as well.
+
+And now they're targeting our school! We need to take this seriously!
+
+Hoshino (Foreclosure Task Force): Maybe we ought to capture and interrogate them…
+
+Ayane (Foreclosure Task Force): For once, I agree. We should take initiative and nip this problem in the bud.
+
+Serika (Foreclosure Task Force): Geez, Ayane. You're acting like this is personal. Is there something you want to tell us about?
+
+Ayane (Foreclosure Task Force): Next up, the mastermind behind the Helmet Gang's attack on Serika!
+
+After analyzing the weapons that were recovered from the last battle...I've learned that this model is no longer on the market.
+
+Hoshino (Foreclosure Task Force): So it's been discontinued?
+
+Serika (Foreclosure Task Force): Then how did they get their hands on it?
+
+Ayane (Foreclosure Task Force): The only place you can get those kind of weapons is in Kivotos' Black Market.
+
+Nonomi (Foreclosure Task Force): Isn't that place supposed to be really dangerous?
+
+Ayane (Foreclosure Task Force): Yes. Dropouts, burnouts on leave, flunkies... The Black Market is a gathering spot for delinquents. Not to mention a place where unauthorized clubs do illegal activities.
+
+Shiroko (Foreclosure Task Force): Like Problem Solver 68?
+
+Ayane (Foreclosure Task Force): Indeed. Word on the street is that Problem Solver 68 has been responsible for a couple of incidents at the Black Market already.
+
+Nonomi (Foreclosure Task Force): There's our link!
+
+Ayane (Foreclosure Task Force): I agree. We should be looking for a connection there.
+
+Hoshino (Foreclosure Task Force): It's obvious what we have to do next. Let's go to the Black Market and take a look around.
+
+Hoshino (Foreclosure Task Force): You never know what kind of clues we might find there.
+
+<<To be Continued>>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+11 - To the Black Market! Part 1
+The Foreclosure Task Force bumps into Trinity student Hifumi at the Black Market. She came to buy a limited-edition Peroro plush, but was chased by a group of bullies. The task force steps in, and a fight ensues.
+
+[Black Market]
+
+<There's a huge crowd of people in the market.>
+
+Serika (Foreclosure Task Force): So this is the Black Market…
+
+Nonomi (Foreclosure Task Force): Whoa! There's a ton of people here!
+
+Shiroko (Foreclosure Task Force): Seriously. I was expecting a smaller operation, but this is like a city unto itself.
+
+I didn't realize an unauthorized district would be so big and so busy.
+
+Hoshino (Foreclosure Task Force): To be fair, we hardly ever leave Abydos. There are a lot of weird places outside our district.
+
+Shiroko (Foreclosure Task Force): Have you ever been here before, Hoshino?
+
+Hoshino (Foreclosure Task Force): No, but I've heard stories about all kinds of places around the city.
+
+Apparently, there's a giant aquarium somewhere too!
+
+We should all go there next time. Heh heh.Just think of all the fishies…
+
+Serika (Foreclosure Task Force): Not thatI know, but I'm gonna go out on a limb and guess that this place isn't anything like an aquarium.
+
+Ayane (Foreclosure Task Force): Eyes sharp, everyone. You're in the heart of the illegal weapons and arms trade, so be ready for anything.
+
+If anything does happen, I'll... Huh?!
+
+<*pop* *pop* *pop* *tat*>
+
+Shiroko (Foreclosure Task Force): Gunfire.
+
+Scene change
+
+Footsteps
+
+Thug 1 (Street Outlaw): Stop right there!
+
+Hifumi (Go-Home Club): W-Waaah! No, no, no! P-Please, stop chasing me!
+
+Thug 1 (Street Outlaw): And why would we do that?!
+
+Hifumi and the thugs dash away
+
+Ayane (Foreclosure Task Force): Hey. That uniform…
+
+!
+
+Hifumi (Go-Home Club): Watch out! Coming through!
+
+!?
+
+<*crash*>
+
+Hifumi (Go-Home Club): O-Ow... Sorry about that!
+
+Shiroko (Foreclosure Task Force): Are you okay?
+
+	Though I guess being chased answers that question.
+
+Hifumi (Go-Home Club): Well...that's…
+
+Thug 2 (Street Outlaw): Who the heck are you? Get outta the way! We got business with that Trinity student!
+
+
+Hifumi (Go-Home Club): Uh... But I don't have any business with you.
+
+Ayane (Foreclosure Task Force): …!
+
+
+	That's right! That uniform belongs to Trinity General School, one of the largest 
+academies in all of Kivotos!
+
+Thug 1 (Street Outlaw): And one of the richest too! Kidnapping her is sure to command a hefty ransom!
+
+Thug 2 (Street Outlaw): Abductions and negotiations! Now that's what I call an investment plan!
+
+Whaddaya think? You interested? We could make a fair split…
+
+Nonomi and Shiroko approach
+
+?
+
+Thug 2 (Street Outlaw): Huh?
+
+<*thwack*>
+
+The thugs fucking die
+
+Thug 2 (Street Outlaw): Arrrggghhh!
+
+Nonomi (Foreclosure Task Force): Bad guys have to be punished! ☆
+
+Shiroko (Foreclosure Task Force): Hmm.
+
+Hifumi (Go-Home Club): Oh. Oh, dear.
+
+Scene change
+
+Hifumi (Go-Home Club): Th-Thank you so much. I would have been in so much trouble with my school if not for you.
+
+It's bad enough I snuck out here on my own. If something bad happened… It's giving me—a headache just thinking about it!
+
+Hoshino (Foreclosure Task Force): You said your name was Hifumi, right? So what's a Trinity student doing in a dangerous place like this?
+
+Hifumi (Go-Home Club): A-Ahaha... It's kind of a long story. I came here looking for something…
+
+Its something that's out of production, but I heard that it shows up in trades every now and then on the Black Market.
+
+Shiroko (Foreclosure Task Force): Like a tank?
+
+Hoshino (Foreclosure Task Force): A contraband firearm?
+
+Nonomi (Foreclosure Task Force): A biochemical agent?
+
+Hifumi (Go-Home Club): What?! No, of course not! It's...a limited edition piece of Peroro merchandise.
+
+Serika (Foreclosure Task Force): Peroro?
+
+Shiroko (Foreclosure Task Force): Limited edition merchandise?
+
+Hifumi (Go-Home Club): Yup! It's this guy right here. A limited edition plush from the Peroro and Ice Cream franchise collaboration!
+
+	Only 100 of them were ever made!
+
+	What do you think? Cute, right?
+
+Shiroko (Foreclosure Task Force): …
+
+Nonomi (Foreclosure Task Force): Wow! I love Momo Friends too! Peroro is so cute! ☆ I'm a fan of Mr. Nicholai, personally.
+
+Hifumi (Go-Home Club): Right? The way Mr. Nicholai philosophizes is just so dashing!
+
+In fact, I recently bought a compilation of Mr. Nicholai's work, "Reaching Beyond Good & Evil"! It was a first edition too!
+
+Hoshino (Foreclosure Task Force): I have no idea what they're talking about.
+
+Serika (Foreclosure Task Force): You never did care for cutesy stuff, Hoshino.
+
+Hoshino (Foreclosure Task Force): Huh. I guess I just don't get the young people these days.
+
+Serika (Foreclosure Task Force): We're practically the same age…
+
+Hifumi (Go-Home Club): I came here looking for that, but ended up getting targeted by those thugs. I came here looking for that, but ended up getting targeted by those thugs.
+
+Anyway, what brings Abydos students to a place like this?
+
+Hoshino (Foreclosure Task Force): The same thing as you. We're looking for something.
+
+Shiroko (Foreclosure Task Force): Yeah. Something that's out of production now and hard to find. But we heard we might be able to find it here.
+
+Hifumi (Go-Home Club): Wow, great minds think alike.
+
+Ayane (Foreclosure Task Force): Hang on, guys! Armed forces are closing in on you!
+
+Serika (Foreclosure Task Force): What?!
+
+Scene change
+
+Thug 1 (Street Outlaw): There they are!
+
+Thug 3 (Street Outlaw): You're gonna pay for messing with us!
+
+Thugs march forward
+
+Scene change
+
+Ayane (Foreclosure Task Force): They must be from the same gang as those thugs you scared off. And they look like they're raring for a fight!
+
+Shiroko (Foreclosure Task Force): Well, if it's a fight they want…
+
+Serika (Foreclosure Task Force): Why do we keep getting involved with these rough-and-tumble types everywhere we go? Is it us?
+
+Ayane (Foreclosure Task Force): You'll have time to complain later... Now's the time to act!
+
+<<Battle Sequence>>
+Having beat back the bullies, Hifumi and the Foreclosure Task Force leave the scene before an even bigger mess happens
+
+Ayane (Foreclosure Task Force): The enemy is retreating.
+
+	But at this rate…
+
+Shiroko (Foreclosure Task Force): Are they going to bring reinforcements? Fine by me.
+
+Hifumi (Go-Home Club): W-Wait a second! We can't just keep engaging them like this!
+
+Shiroko (Foreclosure Task Force): I don't see why not.
+
+Hifumi (Go-Home Club): The Black Market's enforcers might crack down on us if we make any more of a scene!
+
+And we'll be in really big trouble if that happens. We should get out of here.
+
+Hoshino (Foreclosure Task Force): Fair. You know more about this place than we do, Hifumi, so we'll take your lead.
+
+Serika (Foreclosure Task Force): Tch. They should consider themselves lucky!
+
+Hifumi (Go-Home Club): This way!
+
+The gang leaves
+
+<<To be Continued>>
+12 - To the Black Market! Part 2
+Hifumi agrees to guide The Foreclosure Task Force around the market in return for helping her earlier. Meanwhile, the boss of Problem Solver—68, Aru, struggles to get a loan so she can pay off her earlier mistake.
+
+[Entertainment District]
+
+Hifumi (Go-Home Club): Ithink we lost them…
+
+Shiroko (Foreclosure Task Force): This place really lives up to its reputation.
+
+Hifumi (Go-Home Club): I guess you could say that. The General Student Council doesn't have much influence here.
+
+The Black Market's operational scale is equivalent to at least that of the smaller academies in Kivotos. It definitely shouldn't be underestimated…
+
+Especially since there are also corporations here constantly battling for control over all sorts of illegal trades and activities.
+
+The Black Market even has its own bank and law enforcement.
+
+Serika (Foreclosure Task Force): A bank and police force?! That can't be legal, can it?!
+
+Hifumi (Go-Home Club): It's not in the slightest.
+
+Nonomi (Foreclosure Task Force): I can't believe how organized it all is.
+
+Hifumi (Go-Home Club): You especially don't want to get involved with their police force—trust me. The best thing to do when something happens is to just run away and take cover.
+
+Hoshino (Foreclosure Task Force): You seem to know quite a lot about this place, Hifumi.
+
+Hifumi (Go-Home Club): Do I? I did a lot of research before coming here because of the stories…
+
+Hoshino (Foreclosure Task Force): Then it's settled!
+
+Hifumi (Go-Home Club): …?
+
+Hoshino (Foreclosure Task Force): Hifumi will be coming with us until we've got what we came for!
+
+Hifumi (Go-Home Club): I will be?
+
+Nonomi (Foreclosure Task Force): Wow! That's a brilliant idea! ☆
+
+Shiroko (Foreclosure Task Force): A kidnapping. Good thinking.
+
+Hifumi (Go-Home Club): Excuse me?!
+
+Serika (Foreclosure Task Force): No, no, not a kidnapping. They mean they'd like you to be our guide. That is, if you're okay with it, Hifumi.
+
+Hifumi (Go-Home Club): Oh. I'm not sure I'd be very helpful, but I do owe you all one, so...a|l right.
+
+Hoshino (Foreclosure Task Force): Great, so you'll be coming with us. For now, at least.
+
+<*riiiiiinnnnnng*>
+
+<*riiiiiinnnnnng*>
+
+Mutsuki (Problem Solver 68): The heck, Aru?! Why aren't you answering your phone?
+
+Aru (Problem Solver 68): …
+
+Kayoko (Problem Solver 68): Check out the look on her face. It must be the client…
+
+Mutsuki (Problem Solver 68): Oof. I wouldn't want to be her right now, having to report a failure.
+
+Mutsuki (Problem Solver 68): Aru…
+
+Aru (Problem Solver 68): Tch.
+
+	*click*
+
+	Problem Solver 68…
+
+Kaiser PMC Director (Kaiser PMC): …
+
+	Well. This is interesting.
+
+I had a fine time watching you get warmed up. So tell me, when will the real operation begin?
+
+Aru (Problem Solver 68): Uh, what? But that was the real op—
+
+I mean, uh, the real operation will be underway soon. That is to say, it will be in a week. Yup…
+
+Kayoko (Problem Solver 68): ...?!
+
+Mutsuki (Problem Solver 68): …!
+
+Aru (Problem Solver 68): Hahaha. That's right. You have nothing to worry about.
+
+<*clang*>
+
+
+Kaiser PMC Director (Kaiser PMC): As far as I know, the data we have on that group should be accurate.
+
+	Was it an error in our calculations?
+
+Black Suit (Affiliation Unknown): You seem troubled.
+
+Kaiser PMC Director (Kaiser PMC): …
+
+	No, not troubled. It must have been a calculation error, that's all. Those Abydos students 
+happened to have a little more fight in them than expected, based on the data.
+
+Black Suit (Affiliation Unknown): …
+
+	On the contrary. The data was flawless.
+
+Kaiser PMC Director (Kaiser PMC): …?
+
+Black Suit (Affiliation Unknown): The only way this can be interpreted is the Abydos students have somehow grown in strength.
+
+Kaiser PMC Director (Kaiser PMC): That's preposterous.
+
+Black Suit (Affiliation Unknown): We'll have to find out if any new variables have appeared in Abydos recently.
+
+Pardon me.
+
+Black Suit leaves
+
+Kaiser PMC Director (Kaiser PMC): …
+
+<*clang*>
+
+Aru (Problem Solver 68): *exhale*
+
+Mutsuki (Problem Solver 68): You don't look so good, Aru.
+
+Kayoko (Problem Solver 68): What was that all about? You're not planning on starting another fight, are you?
+
+Aru (Problem Solver 68): Truth be told, I don't know a lot about the client, butI know they're not to be messed with. We don't want to disappoint them…
+
+Kayoko (Problem Solver 68): …
+
+Mutsuki (Problem Solver 68): But those Abydos kids were way stronger than we thought. Plus, they've got Schale in their corner. We're not gonna be enough.
+
+And we've already spent our entire budget. How would we fight them even if we wanted to?
+
+Haruka (Problem Solver 68): Sh-Should I start looking for some part-timers to use as hired muscle?
+
+Kayoko (Problem Solver 68): That would cost a year's worth of work just to be able to afford again.
+
+	Remind me why we signed a lease for this office. It's a waste of money.
+
+Aru (Problem Solver 68): B-Because a proper business needs a proper workplace! B-Because a proper business needs a proper workplace!
+
+Mutsuki (Problem Solver 68): She has a point, but I wouldn't really care if we started doing business out of a tent in the park like we used to.
+
+Aru (Problem Solver 68): Shut up! Just shut your mouths! All of you!
+
+…
+
+We'll get a loan.
+
+Mutsuki (Problem Solver 68): You can't be serious, Aru! I thought your credit was in the dumpster!
+
+Aru (Problem Solver 68): Nuh-uh! My account just been frozen because of a bounty!
+
+Mutsuki (Problem Solver 68): Is that what happened...? Oh, now I remember. The Prefect Team did that.
+
+Aru (Problem Solver 68): Those jerks... I can't believe they'd stoop so low.
+
+Mutsuki (Problem Solver 68): Try explaining that to the bank. We'd be laughed right out of the lobby!
+
+Aru (Problem Solver 68): Shut up! We'll figure it out somehow!
+
+Kayoko (Problem Solver 68): …
+
+Aru (Problem Solver 68): Stupid Abydos twits. I said they hadn't seen the last of us, didn't I?!
+
+We're just getting started!
+
+Aru whisks away
+
+Kayoko (Problem Solver 68): …
+
+Mutsuki (Problem Solver 68): Heh. What in the world is she planning?
+
+<<To be Continued>>
+
+
+
+
+
+
+
+13 - The Mask Swimsuit Gang! Part 1
+At the Black Market, the Foreclosure Task Force see their debt money being funneled into the Stygian Bank. Outraged that their hard-earned money is being used for illicit activities, the students plan a bank heist.
+
+[Black Market Streets]
+
+Serika (Foreclosure Task Force): *sigh* I'm beat.
+
+Nonomi (Foreclosure Task Force): It feels like we've been walking for hours…
+
+Hoshino (Foreclosure Task Force): I'm getting too old for this kind of thing. My knees and back are killing me.
+
+Hifumi (Go-Home Club): Really? How old are you again, Hoshino?
+
+Serika (Foreclosure Task Force): Like I said, we're all pretty much the same age!
+
+Nonomi (Foreclosure Task Force): Look over there! They're selling taiyaki!
+
+Hoshino (Foreclosure Task Force): Hey, they really are. I didn't know they had street vendors here.
+
+Nonomi (Foreclosure Task Force): Should we grab some snacks and take a break? I'm buying!
+
+Serika (Foreclosure Task Force): What?! Nonomi, are you gonna use your card again?!
+
+Hoshino (Foreclosure Task Force): We could always use Sensei's card instead!
+
+Nonomi (Foreclosure Task Force): No, that's okay. I really want some, so I insist.
+
+Taiyaki Store Owner: Thank you!
+
+Serika (Foreclosure Task Force): *nom* *nom*
+
+	That's tasty!
+
+Hoshino (Foreclosure Task Force): Whew, perfect timing. My blood sugar was getting low.
+
+Hifumi (Go-Home Club): *rustle* Haha. Thanks. Don't mind if I do.
+
+Shiroko (Foreclosure Task Force): *nom*
+
+	Oh.
+
+	You take one too, Sensei.
+
+Sensei: "Can't say no to that."
+
+Nonomi (Foreclosure Task Force): Sorry you're not here, Ayane. We'll bring some back for you.
+
+Ayane (Foreclosure Task Force): Haha. That's okay, Nonomi. I have snacks with me.
+
+Hoshino (Foreclosure Task Force): See? Nothing to worry about. Let's just chow down and enjoy this.
+
+Scene change
+
+Hifumi (Go-Home Club): It's strange that we haven't been able to find any leads.
+
+About those weapons you're looking for, I mean. I'm sure they're out there, but we haven't tracked down a single clue.
+
+	There's not even a paper trail. No records of transactions, storage logs… Nothing. It's 
+like someone's trying to hide the whole operation.
+
+Even the corporations shouldn't be able to manipulate the Black Market to this extent.
+
+Shiroko (Foreclosure Task Force): It is pretty strange.
+
+Hifumi (Go-Home Club): I don't know if I would call it strange. It's more like... Why go through all this trouble?
+
+	This is the Black Market we're talking about. Corporations typically have no trouble 
+conducting illegal business out in the open.
+
+For example, see that building there? That's the Black Market's infamous Stygian Bank.
+
+Serika (Foreclosure Task Force): The Stygian Bank?
+
+Hifumi (Go-Home Club): It's one of the largest banks in the Black Market. It's said that about 15 percent of all illicit profits from Kivotos' criminal activities flow through that bank.
+
+The take from extortion, armed robbery, abductions, and so on are then used to fund illegal weapons and arms for additional criminal activities.
+
+It's a never-ending cycle.
+
+Nonomi (Foreclosure Task Force): Goodness. So the bank is just as complicit as anyone else.
+
+Hifumi (Go-Home Club): Yeah. If you think about it, the bank is really a whole criminal organization unto itself.
+
+Shiroko (Foreclosure Task Force): …
+
+Serika (Foreclosure Task Force): That's ridiculous! Why isn't the General Student Council doing anything?!
+
+Hoshino (Foreclosure Task Force): I'm sure they have their reasons. You never know.
+
+Shiroko (Foreclosure Task Force): It looks like the real world isn't all sunshine and butterflies like we thought. I guess we were too sheltered within the safety of Abydos…
+
+Marching
+
+Ayane (Foreclosure Task Force): Hang on a second, everyone! There are armed forces heading your way!
+
+Shiroko (Foreclosure Task Force): …!
+
+
+Ayane (Foreclosure Task Force): I don't think they've spotted you, but you should take cover just to be safe.
+
+Hifumi (Go-Home Club): Th-Those are Market Guards!
+
+Nonomi (Foreclosure Task Force): Market Guards?
+
+Hifumi (Go-Home Club): They act as the top enforcers for all the groups I just mentioned!
+
+	Hurry!
+
+The gang runs away
+
+Fade to black
+
+Hifumi (Go-Home Club): It just looks like they're on a routine patrol…
+
+<*click* *clank* *click*>
+
+
+Shiroko (Foreclosure Task Force): That looks like an armored truck full of cash they're escorting.
+
+Nonomi (Foreclosure Task Force): Hey. Look over there.
+
+<*click* *clank* *click*>
+
+
+Nonomi (Foreclosure Task Force): It's entering the Stygian Bank?
+
+<*screech*>
+
+Teller (Kaiser Loans): These are the collections from this month.
+
+Stygian Bank Employee: Even earlier than scheduled. Well done. Sign the transport papers here.
+
+Teller (Kaiser Loans): Of course. *scribble*
+
+Stygian Bank Employee: Perfect.
+
+Teller (Kaiser Loans): Well, then. Have a good day.
+
+Teller leaves
+
+Stygian Bank Employee: Open the gates. It's the cash collections for this month.
+
+<*vroom*>
+
+Nonomi (Foreclosure Task Force): Hey. Wasn't that...?
+
+Serika (Foreclosure Task Force): What the heck?! That's the bank employee who takes our interest payments every month…
+
+Hoshino (Foreclosure Task Force): Hey, no kidding.
+
+Hifumi (Go-Home Club): What was that...?
+
+Shiroko (Foreclosure Task Force): What's going on?
+
+Ayane (Foreclosure Task Force): Confirmed! That's a Kaiser Loans truck!
+
+	In fact, it's the same truck that our cash payment was loaded into this morning! What is it 
+doing at the Black Market?!
+
+Hifumi (Go-Home Club): K-Kaiser Loans?!
+
+Hoshino (Foreclosure Task Force): You've heard of them, Hifumi?
+
+Hifumi (Go-Home Club): That's the infamous Kaiser Corporation's loan shark company…
+
+Shiroko (Foreclosure Task Force): Infamous? Is it a criminal organization?
+
+Hifumi (Go-Home Club): Not exactly. The Kaiser Corporation doesn't do anything outright illegal, but they're definitely shady. They practically play jump rope with the line between legitimate and criminal activities…
+
+	Kaiser's been trying to extend its reach into the Trinity district as well, and the Tea Party 
+has been watching them like a hawk to make sure they don't cause any problems for the 
+students.
+
+Hoshino (Foreclosure Task Force): The Tea Party... That's Trinity's student council ifI remember right.
+
+Hifumi (Go-Home Club): This debt you guys owe is to Kaiser Loans?
+
+Nonomi (Foreclosure Task Force): Well, technically, we weren't the ones who originally owed the debt.
+
+Hoshino (Foreclosure Task Force): It's kind of a long story. Ayane, can you get a bead on that armored truck?
+
+Ayane (Foreclosure Task Force): One moment.
+
+…
+
+Ayane (Foreclosure Task Force): No good. I think they're working on a closed network. I can't pull anything up on them at all.
+
+Hoshino (Foreclosure Task Force): Should've known…
+
+Nonomi (Foreclosure Task Force): Come to think of it, they were very adamant about cash only. Do you think it's because...?
+
+Shiroko (Foreclosure Task Force): Our cash payments are being funneled into this Black Market bank?
+
+Serika (Foreclosure Task Force): So we've essentially been funding criminal activities for the Black Market this entire time?!
+
+Ayane (Foreclosure Task Force): …
+
+Shiroko (Foreclosure Task Force): …
+
+Hoshino (Foreclosure Task Force): …
+
+Nonomi (Foreclosure Task Force): …
+
+Ayane (Foreclosure Task Force): W-We can't say for certain yet... There isn't anything concrete to back it up. Not until we figure out where that truck is going.
+
+Hifumi (Go-Home Club): Wouldn't those transport papers that employee just signed tell us?
+
+Shiroko (Foreclosure Task Force): Hey. Yeah.
+
+Hoshino (Foreclosure Task Force): Good thinking, Hifumi.
+
+Hoshino (Foreclosure Task Force): On second thought, those papers are inside the bank... So they wouldn't do us much good after all.
+
+Not just any bank—the most heavily guarded bank in the entire Black Market. And it's crawling with armed guards.
+
+If only we could find another way to get that truck's transport route. Let's see. Hmm…
+
+Shiroko (Foreclosure Task Force): No.
+
+	There's no other way.
+
+Hifumi (Go-Home Club): Pardon?
+
+Shiroko (Foreclosure Task Force): It's our only option, Hoshino.
+
+Hoshino (Foreclosure Task Force): You make a good point.
+
+Hifumi (Go-Home Club): Come again?
+
+Nonomi (Foreclosure Task Force): Oh, now I get it! We're going to use THAT plan, aren't we?
+
+Serika (Foreclosure Task Force): Hold on. You can't be serious. You three aren't thinking what I think you're thinking...are you?
+
+Shiroko (Foreclosure Task Force): … (glimmer)
+
+Serika (Foreclosure Task Force): Was that a yes?! Seriously?!
+
+Hifumi (Go-Home Club): I'm not sure I follow. What are you all talking about?
+
+Shiroko (Foreclosure Task Force): It's finally time.
+
+*shuffle*
+
+Shiroko (Masked High School Girl): We're gonna hit the bank.
+
+Hifumi (Go-Home Club): What?!
+
+
+Hoshino (Masked High School Girl): Turns out it was the best plan after all.
+
+Hifumi (Go-Home Club): Excuse me?
+
+Nonomi (Masked High School Girl): Yippee! Time to teach that evil bank a lesson! ☆
+
+Hifumi (Go-Home Club): Th-This is a joke, right?!
+
+Serika (Foreclosure Task Force): This is actually happening. We're really doing this?
+
+	Because if you three are serious…
+
+Serika (Masked High School Girl): ...then count me in too!
+
+Hifumi (Go-Home Club): You too, Serika...?
+
+Ayane (Foreclosure Task Force): …
+
+	*sigh* Copy that. I doubt I can talk any of you out of it at this point. Good luck. I'm sure 
+you'll manage somehow.
+
+…
+
+Shiroko (Masked High School Girl): Sorry, Hifumi. We don't have a mask prepared for you.
+
+Hoshino (Masked High School Girl): They would pin everything on Trinity if we were to be caught.
+
+Hifumi (Go-Home Club): That would be really...REALLY bad…
+
+Nonomi (Masked High School Girl): But I don't want you to feel left out.
+
+This is the best we can do last-minute. Take this, Hifumi! ☆
+
+Hoshino (Masked High School Girl): The bag the taiyaki came in? Brilliant!
+
+Hifumi (Go-Home Club): Hold on! I never agreed to…
+
+	A-Ah…
+
+<*crumple* *crumple*>
+
+Hifumi (Go-Home Club): Nonomi…
+
+Hifumi (Paper Bag-Wearing Schoolgirl): …
+
+Shiroko (Masked High School Girl): It suits her perfectly.
+
+Nonomi (Masked High School Girl): I even wrote you a number, Hifumi. You‘re No.5. ☆
+
+Hoshino (Masked High School Girl): Whoa, it makes her look like she's our boss. What a leader.
+
+Hifumi (Paper Bag-Wearing Schoolgirl): I-I am? I mean, are we really going to hit the Stygian Bank?
+
+Hoshino (Masked High School Girl): Of course we are, Hifumi. Remember? We're sticking together today.
+
+Hifumi (Paper Bag-Wearing Schoolgirl): How will I explain this to the Tea Party if they ever find out?
+
+Serika (Masked High School Girl): What's to explain? We're hitting a criminal bank! We're the good guys!
+
+Shiroko (Masked High School Girl): Would you do us the honors, Sensei?
+
+Sensei: “Let’s eat the rich!”
+
+Nonomi (Masked High School Girl): Yay! Let's go! ☆
+
+Hifumi (Paper Bag-Wearing Schoolgirl): Oh, no…
+
+Ayane (Foreclosure Task Force): *sigh* I dub you all the Masked Swimsuit Gang.
+
+<*shuffle*>
+
+Ayane (Masked High School Girl): Let's do this!
+
+<<To be Continued>>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+14 - The Masked Swimsuit Gang! Part 2
+Aru is waiting for a loan interview at the Stygian Bank when the masked members of the Foreclosure Task Force burst in and steal all the bank's money. The Black Market Guard gives chase, and Aru admires the students' act of pure villainy.
+
+[Bank]
+
+Bank Examiner: Sorry for the short delay...Aru, was it?
+
+Aru (Problem Solver 68): You call that a short delay?! I've been waiting here for six hours!
+
+What kind of loan interview is this?! I've been here the whole day, and there wasn't even anyone in front of us!
+
+Look at my associates over there! We've been waiting for so long that they've passed out on the couch!
+
+Bank Examiner: We've had some internal issues. Our apologies.
+
+However, I'm not quite sure if you're in the position to make any demands, Miss Aru.
+
+Aru (Problem Solver 68): U-Ugh…
+
+Bank Examiner: As someone in need of assistance from our bank, waiting is the least you can do. And not to mention, it's frowned upon to sleep on communal seating.
+
+	*snaps* Guard. Wake up those bums...I mean, customers…
+
+Scene change
+
+Bank Guard: All right, all right! Rise and shine! Time to wake up!
+
+Mutsuki (Problem Solver 68): Zzz…
+
+	Eek?! The heck?!
+
+Kayoko (Problem Solver 68): …!
+
+Haruka (Problem Solver 68): S-Sorry! We're very sorry! We shouldn't have dozed off!
+
+Scene change
+
+Aru (Problem Solver 68): …
+
+Bank Examiner: *flip* Now, let's see here. Name...Rikuhachima Aru. Affiliation: second-year at Gehenna Academy.
+
+Present employment: boss of Problem Solver 68... That reads like a shell corporation to me. Your financial documents are a complete mess.
+
+Aru (Problem Solver 68): N-No! We're completely legitimate! Wejust haven't received payment on some of our commissions yet!
+
+Bank Examiner: And look at this. You only have four people under you, but each have special titles… Chief of staff, section chief, and entry-level employee? That's quite a reach. Are you playing make-believe at running a company?
+
+Aru (Problem Solver 68): If you want to earn commissions, you have to keep up appearances…
+
+Bank Examiner: Would you care to explain this extravagant office lease you're paying? You should know better than to extend yourself beyond your means.
+
+Aru (Problem Solver 68): Y-You've gotta spend money to make money...?
+
+Bank Examiner: …
+
+My, my, Aru. This doesn't look like it's going well for you at all.
+
+Aru (Problem Solver 68): Th-This can't be happening!
+
+Bank Examiner: My strong recommendation is that you secure legitimate employment at once. Might I suggest looking into the early-morning day-laborer market?
+
+Aru (Problem Solver 68): Wh-What was that?!
+
+Fade to black
+
+Aru (Problem Solver 68): *shudder*
+
+	(Why you little... I oughta smash everything and rob this bank right now!)
+
+	(I need to stay cool. Even ifI rob this bank, escaping from the Black Market is another 
+story. Consider all those Market Guards on patrol everywhere...)
+
+	(But is it really? Maybe those guys aren't actually that big of a deal. Who's to say the four 
+of us won't be able to blast our way out of here and take 'em down?)
+
+(On second thought...I don't have the guts to make the entire Black Market my enemy.)
+
+(This is so pathetic. I wanted to become the greatest outlaw in all of Kivotos, but look at 
+me now...)
+
+(This loan, my business... Everything I touch turns into a huge mess.)
+
+(This isn't want I wanted at all... I wanted to be a hard-boiled outlaw. A true, free spirit not bound to anything—not even fear.)
+
+	(It's all I ever wanted.)
+
+Bank Examiner: Aru, are you listening?!
+
+Aru (Problem Solver 68): O-Of course I am! So...could you repeat that?
+
+Bank Examiner: I said, your loan application has been denied. Now, run along.
+
+Aru (Problem Solver 68): Wait, what?! H-Hold on a second!
+
+Black screen
+
+<*pow*>
+
+Bank Examiner: What's going on? A power outage?!
+
+	Did someone trip a breaker? All of the computers are dead!
+
+<*pop* *pop* *pop* *tat*>
+
+
+Aru (Problem Solver 68): Gunfire?!
+
+Gunfire
+
+Market Guard 1: Garrrgh!
+
+Market Guard 2: Arrrgh!
+
+Footsteps
+
+Punch
+
+Market Guard 3: What’s happening? Ugh!
+
+
+<*ping*>
+
+
+The gang appear
+
+<*ta-da!*>
+
+Shiroko (Masked High School Girl): Everyone, down! Toss your weapons aside and hands where we can see them!
+
+Nonomi (Masked High School Girl): Or else! ☆
+
+Hifumi (Paper Bag-Wearing Schoolgirl): Th-This is a stick up...so get down on the ground if you don't want to get hurt!
+
+Aru (Problem Solver 68): B-Bank robbers?!
+
+Bank Examiner: *WEE WOO* *WEE WOO* Alert! Alert!
+
+Hoshino (Masked High School Girl): It's no use. The outer security system has already been turned off.
+
+Bank Examiner: *gasp*
+
+
+Serika (Masked High School Girl): Hey, you over there! You were told to get down on the ground! Try any more funny business and I'll put holes in your circuits!
+
+Hifumi (Paper Bag-Wearing Schoolgirl): Please, everyone just do as we say. Please…
+
+Hoshino (Masked High School Girl): Everything's going according to plan! Time to move to the next phase. Give us your orders, Faust!
+
+Hifumi (Paper Bag-Wearing Schoolgirl): What?! Are you referring to me?!
+
+Nonomi (Masked High School Girl): That's right—you're the leader! The boss! And as for myself…
+
+I'm Christina of the Masked Swimsuit Gang! ♧
+
+Serika (Masked High School Girl): Hey, when did we agree to give ourselves names?! And what kind of choice is that? It's so lame!
+
+Nonomi (Masked High School Girl): …
+
+Hoshino (Masked High School Girl): Heh heh! Better do as Faust says. You don't wanna make her angry. You wouldn't like her when she's angry.
+
+Hifumi (Paper Bag-Wearing Schoolgirl): Wh-What?! How did I end up being the boss? Oh, no… How can I face the Tea Party now?
+
+Scene change
+
+Mutsuki (Problem Solver 68): Wait a second... Aren't they...?
+
+Kayoko (Problem Solver 68): The students from Abydos?!
+
+Mutsuki (Problem Solver 68): That's right. I'm not sure which is which, but it's gotta be them. The heck are they doing here? And what's with those masks?
+
+Haruka (Problem Solver 68): A-Are they here for us?! Sh-Should I go annihilate all of them?
+
+Kayoko (Problem Solver 68): No, I don't think they're here for us... Are they being serious right now? They're sticking this place up?
+
+Mutsuki (Problem Solver 68): What are you doing, Aru?
+
+Scene change
+
+Shiroko (Masked High School Girl): I have the security camera blind spots, guard positions, and the bank's internal structure memorized. So nobody try anything stupid, or else.
+
+	All right, you over there. That cash truck that just left. I want you to take this bag and fill it 
+up.
+
+Bank Examiner: O-Of course! Cash, bonds, gold, whatever you want! You got it!
+
+Shiroko (Masked High School Girl): No, uh... What I want are the transport logs…
+
+Bank Examiner shuffles around
+
+Bank Examiner: H-Here they are! All neatly organized, so please don't hurt me!
+
+Shiroko (Masked High School Girl): Th-Thanks…
+
+Aru (Problem Solver 68): …
+
+(They're really robbing a Black Market bank! That's sooooo cool!)
+
+(How are they gonna pull off the getaway? And more importantly, how do they have the GUTS to do this kind of stuff?!)
+
+(Look at that cool, calm composure. They're pros. It's like they were born to do this. They pulled this off in five minutes flat!)
+
+(I-It's magnificent! So badass! Now these guys are real outlaws! I'm gonna start tearing up.)
+
+Scene change
+
+Kayoko (Problem Solver 68): She has absolutely no clue…
+
+Mutsuki (Problem Solver 68): Is she actually getting teary-eyed?
+
+Kayoko (Problem Solver 68): *sigh*
+
+Haruka (Problem Solver 68): Uh, so do we just stay put?
+
+Kayoko (Problem Solver 68): Between those guys or the bank, there's no reason for us to help either side. And with Aru in that state right now...we're better off staying out of it.
+
+Haruka (Problem Solver 68): If you say so…
+
+Serika (Masked High School Girl): Hey, Shiro—I mean, uh...B|ue. You got the goods?
+
+Shiroko (Masked High School Girl): Y-Yeah. The eagle has landed.
+
+Hoshino (Masked High School Girl): Then, c'mon! Let's move it, people!
+
+Nonomi (Masked High School Girl): All righty, then. Adios! ☆
+
+Hifumi (Paper Bag-Wearing Schoolgirl): A-And no one got hurt. S-Sorry about this everyone. Thank you, and have a great day!
+
+<*whoosh*>
+
+Bank Examiner: D-Don't let them get away! Seal off the roads! Contact the Market Guards!
+
+	They must be found at once!
+
+<<Battle Sequence>>
+
+<<To be Continued>>
+
+
+
+
+15 - Riding off Into the Sunset!
+After outrunning the Black Market Guard, the group begins to question their resolve. Hoshino persuades them to take only the documents they need. Later, Problem Solver discovers the piles of money that were left behind.
+
+[Downtown]
+
+Takes off mask
+
+Serika (Foreclosure Task Force): Phew, that was starting to get really stuffy. We can take these off now, right?
+
+Hoshino (Foreclosure Task Force): Let's not waste any time. They're going to catch up to us soon.
+
+Hifumi (Go-Home Club): Hoshino's right. They're going to seal off more roads by the minute.
+
+Nonomi (Foreclosure Task Force): Everything's been planned and accounted for, so no worries! ☆
+
+Shiroko (Masked High School Girl): This way. Hurry!
+
+Serika (Foreclosure Task Force): Hey, Shiroko...why are you still wearing that? Isn't it hot?
+
+Hoshino (Foreclosure Task Force): She probably doesn't want to take it off because it's helped her discover her true calling. It's like a piece of her soul now, probably.
+
+Serika (Foreclosure Task Force): Thank goodness Shiroko ended up at Abydos. I bet she would have become a criminal mastermind if she had gone to a different school.
+
+…
+
+Shiroko (Foreclosure Task Force): I don't know about that…
+
+Ayane (Masked High School Girl): ...?!
+
+Takes off mask
+
+Ayane (Foreclosure Task Force): …
+
+Ayane (Foreclosure Task Force): You're through the barricade. You should be safe now.
+
+Serika (Foreclosure Task Force): Nice! We did it!
+
+Ayane (Foreclosure Task Force): I can't believe you all really pulled a heist on a Black Market bank…
+
+Hoshino (Foreclosure Task Force): Shiroko. You have the transport logs, right?
+
+Shiroko (Foreclosure Task Force): Yes. They're in my bag.
+
+<*whoosh*>
+
+Hoshino (Foreclosure Task Force): Huh? What is all this stuff...? Are these bundles of cash?!
+
+Serika (Foreclosure Task Force): WH-WHAT?! Shiroko, you went after the cash instead?!
+
+Shiroko (Foreclosure Task Force): No...? I asked for the logs, just like we planned. That bank employee is the one who got the wrong idea and gave us this cash.
+
+Hoshino (Foreclosure Task Force): Let's see... There‘s at least 100 million yen in there, from the looks of it. Wow, we really did rob them of 100 million in five minutes!
+
+Serika (Foreclosure Task Force): Nice going! What are you all staring at each other for? Let's take it!
+
+Shiroko (Foreclosure Task Force): …
+
+Ayane (Foreclosure Task Force): W-Wait a second! You want to keep that money?!
+
+Serika (Foreclosure Task Force): What's wrong, Ayane? This is our chance to settle the debt.
+
+Ayane (Foreclosure Task Force): But then we really would be nothing but criminals, Serika!
+
+Serika (Foreclosure Task Force): We're the ones who shed blood, sweat, and tears to earn this cash in the first place! It was that evil bank who decided to funnel it away into crime!
+
+	This money would have funded more weapons, ammo, and who knows what else for the 
+real bad guys! Fine, we stole from some criminals. So what? Where's the harm there?!
+
+Hifumi (Go-Home Club): …
+
+Nonomi (Foreclosure Task Force): I agree with Serika. This would've just funded more crime anyway. Whatever we do with it, we'll put it to far better use.
+
+Serika (Foreclosure Task Force): See? Told you! And this will help with Abydos High School's debts for sure!
+
+Hoshino (Foreclosure Task Force): Hmm. That's true...but what do you think, Shiroko?
+
+Shiroko (Foreclosure Task Force): I think you must be against this, Hoshino. So what else is there to discuss?
+
+Serika (Foreclosure Task Force): What?!
+
+Hoshino (Foreclosure Task Force): I can always count on you to know what I'm thinking, Shiroko.
+
+	What we need are those documents! Not the cash.
+
+	If we cross this line today because it's us versus criminals, what about the next time? Or 
+the time after that?
+
+Serika (Foreclosure Task Force): …
+
+Hoshino (Foreclosure Task Force): If we start getting desensitized to that sort of thinking, soon we won't see any line at all.
+
+Shiroko (Foreclosure Task Force): …
+
+Hoshino (Foreclosure Task Force): Then one day, something really crucial is gonna force our hand, and we're gonna end up doing something we really shouldn't do, while making excuses that we had no choice.
+
+I wouldn't want my adorable underclassmen to end up like that.
+
+And what's the point of protecting the school if that's how we go about it?
+
+Ayane (Foreclosure Task Force): …
+
+Hoshino (Foreclosure Task Force): We could've just used Nonomi's solid gold credit card to pay off the debt if this is the way we were going to go about things.
+
+Nonomi (Foreclosure Task Force): Well, I did offer that as a solution, but Hoshino was against it…
+
+	I mean, I understand. If we use illegitimate means to pay off Abydos' debt, we'll just be 
+paying it off in exchange for being beholden to something else…
+
+Hoshino (Foreclosure Task Force): Heh. Something like that.
+
+	So, that's why we're leaving the bag behind. Only take the documents. President's 
+orders.
+
+Serika (Foreclosure Task Force): Argh! You have to be kidding me! You want us to just dump all this cash?! Of all the times to take a stand, this is when you do it?!
+
+Shiroko (Foreclosure Task Force): You heard her. President's orders…
+
+Hifumi (Go-Home Club): I can't pretend to fully understand what it's like to be in Abydos' situation… but I do know that taking this cash will only lead to an even bigger mess.
+
+	Ithink you would regret it in the long run.
+
+Nonomi (Foreclosure Task Force): Now that doesn't leave us with much of a choice, does it? I'll just get rid of this bag somewhere discreet.
+
+Hoshino (Foreclosure Task Force): Much appreciated.
+
+Ayane (Foreclosure Task Force): Hang on! Someone is headed your way!
+
+Shiroko (Foreclosure Task Force): Are the Market Guards after us?!
+
+Ayane (Foreclosure Task Force): No, it doesn't look like it. Whoever it is, they don't seem hostile.
+
+	Hang on a second. I know this reading. Is that...?
+
+	I-It's Aru from Problem Solver 68!
+
+Scene change
+
+Aru (Problem Solver 68): *pant* *pant* H-Hold up a second!
+
+Shiroko (Foreclosure Task Force): *puts mask back on*
+
+Aru (Problem Solver 68): Hold on a second! I'm not here to pick a fight.
+
+Serika (Masked High School Girl): (What is SHE doing here?)
+
+Shiroko (Masked High School Girl): (Should we attack?)
+
+Hoshino (Masked High School Girl): (Not sure. It doesn't look like she's going to make the first move.)
+
+Hifumi (Paper Bag-Wearing Schoolgirl): (You all know this girl?)
+
+Hoshino (Masked High School Girl): (We go way back.)
+
+Aru (Problem Solver 68): So, um... I just wanted to say…
+
+	Iwatched you hit that bank. I can't believe you robbed a Black Market bank and got away 
+with it in five minutes flat! Outlaws like you guys come only once in a generation.
+
+Shiroko (Masked High School Girl): …?!
+
+Aru (Problem Solver 68): To be honest, it left a huge impression on me. That kind of bravado is a rarity these days. Let's just say I was inspired.
+
+I-I'm gonna keep working hard, and someday, I'm gonna become an outlaw just like you! A truly free spirit unrestricted by any rules or laws!
+
+Serika (Masked High School Girl): (What the heck is she going on about...?)
+
+Aru (Problem Solver 68): S-So please...! At least tell me your name!
+
+Shiroko (Masked High School Girl): Name…?
+
+
+Aru (Problem Solver 68): Like, what's the name of your group? Or is it a faction, or a club? It doesn't have to be your real names...but I want to know who it is I'm looking up to!
+
+Hoshino (Masked High School Girl): (Uh, I think she's got the wrong idea about this...)
+
+Nonomi (Masked High School Girl): Oh, nowI get it! We'd be happy to tell you!
+
+Serika (Masked High School Girl): (N-Nonomi?!)
+
+Nonomi (Masked High School Girl): We are...the Masked Swimsuit Gang!
+
+Aru (Problem Solver 68): You said..."the Masked Swimsuit Gang"?!
+
+That name is so...so...BADASS! I love it!
+
+Serika (Masked High School Girl): (...)
+
+Hoshino (Masked High School Girl): We're supposed to wear swimsuits along with our masks, but we were in such a rush that we only brought our masks with us.
+
+Serika (Masked High School Girl): (She's acting like a star-struck little girl.)
+
+Nonomi (Masked High School Girl): That's right! We're pop idol superstars by day, and swashbuckling vigilantes of justice who fight bad guys by night!
+
+	I'm Christina! ♧
+
+Aru (Problem Solver 68): Wow! You have a gimmick and everything?!
+
+Hoshino (Masked High School Girl): Bwahaha! An eye for an eye, a tooth for a tooth! Forsake mercy and walk the path of chaos! That's our motto.
+
+Aru (Problem Solver 68): H-Holy smokes!
+
+Scene change
+
+Kayoko (Problem Solver 68): What kind of joke did we just walk in on?
+
+Mutsuki (Problem Solver 68): Wow, Aru is totally enraptured! She looks like a kid on a film set!
+
+Scene change
+
+Serika (Masked High School Girl): (That ought to be enough, right? Let's start looking for a way out!)
+
+Nonomi (Masked High School Girl): All righty, then. Adios! ☆
+
+Hoshino (Masked High School Girl): Now, time for us to ride off into the sunset!
+
+Hifumi (Paper Bag-Wearing Schoolgirl): But it's still the middle of the afternoon…
+
+<*bolt*>
+
+
+Aru (Problem Solver 68): …
+
+The path of chaos it is! I'm gonna burn that motto into the depths of my soul!
+
+Kayoko (Problem Solver 68): …
+
+Mutsuki (Problem Solver 68): …
+
+Kayoko (Problem Solver 68): (We ought to say something to her, but I don't know when or how...)
+
+Mutsuki (Problem Solver 68): (Leave her be. It's way more interesting this way.)
+
+Haruka (Problem Solver 68): Hey, um…
+
+What should we do with this bag? I think those guys left it behind…
+
+Aru (Problem Solver 68): What? You don't think...the Masked Swimsuit Gang left this here as a gift for me, do you?
+
+Kayoko (Problem Solver 68): Uh, no. I don't think so... They probably just forgot about it.
+
+Mutsuki (Problem Solver 68): It feels pretty hefty. I wonder what's inside.
+
+<*click*>
+
+
+?!
+
+Aru (Problem Solver 68): …!
+
+Mutsuki (Problem Solver 68): No. Way.
+
+Kayoko (Problem Solver 68): Isn't...this...?!
+
+Nonomi (Foreclosure Task Force): Uh-oh. I think I forgot to pick up the cash bag.
+
+Serika (Foreclosure Task Force): What?!
+
+Hoshino (Foreclosure Task Force): We were going to throw it away anyway. Just forget about it.
+
+Shiroko (Foreclosure Task Force): Oh, well. I'm sure it'll end up with someone who needs it.
+
+Nonomi (Foreclosure Task Force): I hope so too! I hope it goes to someone who could really use the money.
+
+Hifumi (Go-Home Club): Maybe we should think about it as a good deed for the day, then. I'd like to think someone who usually has to go hungry found that money.
+
+Serika (Foreclosure Task Force): I think I'm going to be sick to my stomach. Gah! I can't believe this!
+
+Aru (Problem Solver 68): Huh?!
+
+Mutsuki (Problem Solver 68): Whaaa?!
+
+Kayoko (Problem Solver 68): Now what?
+
+Haruka (Problem Solver 68): So...?
+
+	Does this mean we won't have to share ramen next time?
+
+<Back at Problem Solver 68's office…>
+
+Black screen
+
+Aru (Problem Solver 68): Whaaat?!
+
+	The Masked Swimsuit Gang was actually those girls from Abydos?!
+
+Mutsuki (Problem Solver 68): Hahaha! Aru, you look like you just found out Santa Claus doesn't exist!
+
+Kayoko (Problem Solver 68): *sigh*
+
+<The truth finally dawned on Aru.>
+
+<<To be Continued>>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+16 - The Truth Revealed
+The documents reveal the true mastermind: a mega-syndicate known as the Kaiser Corporation. Confronted with such a seemingly insurmountable societal evil, the dejected students of the Foreclosure Task Force call it a day. 
+
+[Abydos Foreclosure Task Force Club Room]
+
+<Everyone, including Hifumi, gathered to review the documents upon returning to Abydos High School.>
+
+<*smaaash*>
+
+Serika (Foreclosure Task Force): What in the heck is this?!
+
+Nonomi (Foreclosure Task Force): …!
+
+
+Shiroko (Foreclosure Task Force): Look at the truck's transport log. It says "Abydos - 7,880,000 yen collected". This has got to be the truck that came to our school.
+
+	But right after that, it says "Kata-Kata Helmet Gang - 5 million delivered in mission 
+funds".
+
+Nonomi (Foreclosure Task Force): So, that means…
+
+Serika (Foreclosure Task Force): Right after they took our cash, they delivered it straight to the Helmet Gang's base to fund their mission?!
+
+Ayane (Foreclosure Task Force): By mission, do you mean when the Helmet Gang...?
+
+The Helmet Gang was acting...under the orders of Kaiser Loans?!
+
+Shiroko (Foreclosure Task Force): …
+
+Serika (Foreclosure Task Force): …
+
+Hifumi (Go-Home Club): …
+
+Nonomi (Foreclosure Task Force): But why would they do that? They won't be paid if the school goes bankrupt. It doesn't make any sense…
+
+Hoshino (Foreclosure Task Force): Hmm…
+
+Shiroko (Foreclosure Task Force): I think this goes way beyond just a simple bank scheme. The only way it makes sense is if Kaiser Corporation's HQ is involved somehow…
+
+Hifumi (Go-Home Club): I agree. That's the only explanation.
+
+Footsteps
+
+Hifumi (Go-Home Club): I know a lot happened today, but I still had fun.
+
+Nonomi (Foreclosure Task Force): Same here. Sorry for bringing you into this mess, Hifumi.
+
+Hifumi (Go-Home Club): That's okay. Haha…
+
+Hoshino (Foreclosure Task Force): Don't be a stranger, you hear me?
+
+Hifumi (Go-Home Club): I won't.
+
+We don‘t have all the details, but I'm sure the Kaiser Corporation must have direct ties to violent criminal organizations.
+
+I'll pass along what happened today to the Tea Party!
+
+I'll also tell them all about Abydos High School's circumstances.
+
+Hoshino (Foreclosure Task Force): …
+
+Fair warning: I bet that's gonna be old news to the Tea Party.
+
+Hifumi (Go-Home Club): I-It Will be?!
+
+Hoshino (Foreclosure Task Force): I doubt the hot shots at all the other academies haven't figured it out by now. It's not like they don't have manpower to dedicate to intelligence gathering.
+
+Hifumi (Go-Home Club): B-But that means they knew about you and still didn't…
+
+Hoshino (Foreclosure Task Force): You're so innocent, Hifumi. The world isn't all sunshine and rainbows, you know.
+
+Hifumi (Go-Home Club): …
+
+Hoshino (Foreclosure Task Force): I appreciate the gesture, but I don't know what good it'll do to tell them. In fact, it might just make things more complicated for us.
+
+Hifumi (Go-Home Club): Y-You think so...?
+
+Hoshino (Foreclosure Task Force): Our school is on the verge of collapse. It doesn't matter if it's a super-academy like Trinity or Gehenna. There isn't much anyone can do to change things. Do you get what I'm saying?
+
+Hifumi (Go-Home Club): If someone were to take advantage of the situation under the guise of helping...you'd be powerless to stop it.
+
+N-Now I get it. That's definitely a possibility. Ugh... I hate politics.
+
+Nonomi (Foreclosure Task Force): Aren't you being too cynical about this, Hoshino? What if they just really wanted to help?
+
+Hoshino (Foreclosure Task Force): Give me a break. I'm old, cranky, and my back hurts too much to trust anyone at this age.
+
+That's how this school ended up in this mess: by ignoring all of the "what ifs".
+
+Shiroko (Foreclosure Task Force): …
+
+Hifumi (Go-Home Club): …
+
+So…
+
+Um…
+
+The thing is, we've been through a lot together in such a short time…
+
+Shiroko (Foreclosure Task Force): We have been. It was a lot of fun.
+
+Serika (Foreclosure Task Force): Fun? Speak for yourself, Shiroko.
+
+Hifumi (Go-Home Club): I dunno. I kinda had fun too…
+
+Hoshino (Foreclosure Task Force): Glad to hear it. Thanks for all your help, Faust.
+
+Hifumi (Go-Home Club): Y-You don't have to keep calling me that!
+
+Nonomi (Foreclosure Task Force): How does "fearless leader of the Masked Swimsuit Gang" sound?
+
+Ayane (Foreclosure Task Force): Come on, guys... Stop giving Hifumi a hard time.
+
+Hifumi (Go-Home Club): Uh, anyway... I know you have some tough times ahead, but I'll be cheering you on. Good luck.
+
+I'll see you around, everyone.
+
+Scene change
+
+Ayane (Foreclosure Task Force): It's been a really long day. Why don't we all go home and get some rest? We can regroup tomorrow.
+
+Hoshino (Foreclosure Task Force): Dismissed!
+
+<<To be Continued>>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+17 - A Gathering Storm
+Aru grapples with the thought of using funds acquired by Aru grapples with the thought of using funds acquired by To lift her spirits, Problem Solver takes her to get Shiba Seki ramen. Meanwhile, a man in a black suit appears before Hoshino with a clandestine proposal.
+
+[Problem Solver Office]
+
+Mutsuki (Problem Solver 68): Good morning!
+
+Aru (Problem Solver 68): *yawn* Good morning…
+
+Mutsuki (Problem Solver 68): What's wrong with you, Aru? Did you stay up all night?
+
+Aru (Problem Solver 68): N-No. I slept...technically speaking.
+
+Kayoko (Problem Solver 68): What's eating at you this time, Boss?
+
+Mutsuki (Problem Solver 68): The planning is all done, right? We hire double the muscle, then we lure the Abydos kids somewhere we'll have the upper hand.
+
+Kayoko (Problem Solver 68): By the way. Haruka left first thing this morning to go plant the explosives. The plan is to pick off those Abydos kids off one-by-one with them. Does that sound good to you?
+
+<*opens*>
+
+Haruka (Problem Solver 68): I'm back.
+
+Kayoko (Problem Solver 68): Hi, Back. So...? How did it go?
+
+Haruka (Problem Solver 68): I finished planting the bombs at key junctions. Now, all I have to do is press this button, and…
+
+Mutsuki (Problem Solver 68): Nice! Just make sure to remember where they‘re all placed.
+
+Haruka (Problem Solver 68): Of course. Say the word and they'll be blown to smithereens…
+
+Aru (Problem Solver 68): Tch…
+
+Mutsuki (Problem Solver 68): What's wrong now? The money? If this was gonna put us out so much, then why didn't we get an advance from the client and use that for our plans?
+
+Aru (Problem Solver 68): No upfront payments—company policy. You know that.
+
+Kayoko (Problem Solver 68): Because accepting payment in advance would give the client too much say in how we operate, or something like that?
+
+Aru (Problem Solver 68): Exactly. We get paid only when the job is done. That's how it has to be. And I never compromise.
+
+Mutsuki (Problem Solver 68): Really? Since when?
+
+Aru (Problem Solver 68): Since always! We're hard-boiled outlaws untethered to rules or laws! That's always been the guiding vision for Problem Solver 68!
+
+Mutsuki (Problem Solver 68): Huh, was it? I guess it does sound a little familiar.
+
+Aru (Problem Solver 68): Contracts are no different. There's always a chance it might turn into a trap. We don't want to get caught doing something we don't want to do.
+
+And that's why we only accept payment once the job is done.
+
+Kayoko (Problem Solver 68): …
+
+	You know, Boss...if this is getting to be too much pressure, we could all just throw in the towel and go back to Gehenna.
+
+Aru (Problem Solver 68): What?!
+
+	Wh-Who said anything about it being too much pressure?! I'm just...a little…
+
+Mutsuki (Problem Solver 68): Heh... The pressure must be eating her alive deep down, huh? She knows the Prefect Team would never let her off the hook.
+
+Kayoko (Problem Solver 68): That's a good point.
+
+	The Prefect Team must see us as nothing but a thorn in their sides. Still, 
+it's not as though we came out here to run away either.
+
+And don't forget: The only reason the Prefect Team is considered to be the most feared 
+organization in all of Kivotos…
+
+Fade to black
+
+Kayoko (Problem Solver 68): ...is because of Head Prefect Hina.
+
+	Most of their firepower comes from the head prefect alone. She's like a one-woman 
+army.
+
+	In other words…
+
+	...the rest of the Prefect Team is anything but invincible.
+
+	We have a puncher's chance of winning if we play our cards right.
+
+Mutsuki (Problem Solver 68): You don't say? I didn't realize you were thinking so far ahead, Kayoko.
+
+Kayoko (Problem Solver 68): .We'll have to fight them sooner or later. We could use the same resources we're utilizing against Abydos to fight the Prefect Team without Hina.
+
+	That's how strong I think the Abydos girls are. Their only real weakness is 
+that they have no backup.
+
+Mutsuki (Problem Solver 68): Huh. You don't say…
+
+Aru (Problem Solver 68): …
+
+No. Going back is out of the question.
+
+But I wish it wasn't…
+
+Kayoko (Problem Solver 68): Would you make up your mind, already?
+
+Mutsuki (Problem Solver 68): Fine. Let's give this boring conversation a break and get something to eat. I'm starving.
+
+	How does ramen sound? Shiba Seki, anyone?
+
+Kayoko (Problem Solver 68): That place?
+
+Mutsuki (Problem Solver 68): Worried about that part-timer? She only works in the afternoon. We just have to make sure we don't run into her.
+
+Kayoko (Problem Solver 68): I guess... I'll admit their food was pretty good. And a pick-me-up would do the boss some good.
+
+Mutsuki (Problem Solver 68): All right! Let's go! ♪
+
+[Abydos Foreclosure Task Force Club Room]
+
+<I was greeted by the sight of Hoshino resting her head in Nonomi's lap upon entering the club room.>
+
+Hoshino (Foreclosure Task Force): Hey. Good morning, Sensei.
+
+Nonomi (Foreclosure Task Force): You're here early. Good to see you.
+
+Hoshino (Foreclosure Task Force): Look comfortable, don't I? Nonomi's lap is super soft and perfect for taking a nap. It's like my very own pillow. 
+
+Nonomi (Foreclosure Task Force): There's room for you too, Sensei! Make yourself comfortable! ☆
+
+Hoshino (Foreclosure Task Force): Nope! I have dibs on this lap, so why don't you back off and take one of those chairs over there, Sensei?
+
+Nonomi (Foreclosure Task Force): No one said you could call dibs, Hoshino…
+
+	(Why don‘t you come back later when no one else is around, Sensei?)
+
+Hoshino (Foreclosure Task Force): *stretch*
+
+Gets up
+
+*yawn* How is everyone already so busy this morning?
+
+Nonomi (Foreclosure Task Force): It's the first breather we've had in a while... So I guess everyone is trying check some stuff off their lists.
+
+	Shiroko is probably working out and Ayane is most likely studying at the library.
+
+Hoshino (Foreclosure Task Force): Wow. And you came to school early to tidy up the club room, Nonomi? You're all such hard workers.
+
+As for me? Heh. As if I'd be up to anything right now!
+
+Nonomi (Foreclosure Task Force): Maybe you'd like to do something productive for a change, Hoshino? Like a part-time job or going to the gym?
+
+Hoshino (Foreclosure Task Force): Nope. I've already got way too much on my plate. Plus, I'm just an wrinkly old coot who can barely endure extracurricular activities.
+
+Nonomi (Foreclosure Task Force): But we're practically the same age.
+
+Hoshino (Foreclosure Task Force): Anyway, the others should be arriving soon now that Sensei is here. I'm gonna go kill some time.
+
+Nonomi (Foreclosure Task Force): Huh? Hey, where are you going?
+
+Hoshino (Foreclosure Task Force): Today's my day off! I'll be out for the day, so call me if anything comes up.
+
+Hoshino leaves
+
+Nonomi (Foreclosure Task Force): Hoshino... I bet she's gonna go take another nap.
+
+I guess that's okay. Ayane will make sure the meeting runs smoothly anyway.
+
+Haha... Still, Hoshino's changed a lot since I first met her.
+
+Hmm? What was she like before?
+
+Well, she might come across as a lazy sleepyhead now, but there was never a moment when Hoshino didn't seem frazzled back then.
+
+What was she frazzled by? I dunno... Everything?
+
+I don't know all the details, but there used to be another student around here before…
+
+Apparently, she was the last student council president Abydos had. From what I heard, she wasn't very reliable or trustworthy. Hoshino had to do everything herself after she disappeared.
+
+That was back when Hoshino was just a first-year. Anyway, like I said, I don't know all the details.
+
+But now we have you, Sensei. And she seems to have no trouble hanging out with students from other academies too…
+
+She never would have done something like that before. I guess you could say she's finally softened up a bit.
+
+And I think it's all thanks to you, Sensei! ☆
+
+Hoshino (Foreclosure Task Force): …
+
+Hoshino leaves
+
+{Next BG}
+
+Hoshino (Foreclosure Task Force): …
+
+???: Ah, you're here.
+
+Black Suit (Affiliation Unknown): I've been waiting for you, Horus of the Da—ah, pardon me. You go by "Hoshino", was it?
+
+I'm afraid I'm still getting used to how things are done in Kivotos. This way, if you please, 
+Miss Hoshino.
+
+Hoshino (Foreclosure Task Force): What do you want this time, Black Suit?
+
+Black Suit (Affiliation Unknown): To put it simply, circumstances have changed. And as you possess the greatest To put it simply, circumstances have changed. And as you possess the greatest
+
+Hoshino (Foreclosure Task Force): This again? Would you give it a rest already?! I've already...!
+
+Black Suit (Affiliation Unknown): Ah-ah-ah. Let's keep it down, shall we?
+
+Hoshino (Foreclosure Task Force): …
+
+Black Suit (Affiliation Unknown): How shall I put this? Ah, let me use this quote from a favorite movie of mine.
+
+Fade to black
+
+<*sits down*>
+
+
+Black Suit (Affiliation Unknown): I'm going to make you an offer you can't refuse.
+
+You'll find it very enticing, I assure you. Won't you hear me out?
+
+Heh heh... Hahaha.
+
+<<To be Continued>>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+18 - We’re Not Their Friends!
+Upon entering Shiba Seki, Master Shiba's warm welcome sends Aru into a screaming fit, unable to bear her guilty conscience any longer. Before anyone can stop her, Haruka plants a bomb and blows the shop to smithereens.
+
+[Shiba Seki Ramen Shop]
+
+Mutsuki (Problem Solver 68): We're here! Time to carbo-load!
+
+Haruka (Problem Solver 68): And we each get our own bowl. How luxurious.
+
+Master Shiba (Shiba Seki Ramen): You're friends of those Abydos kids, aren't you? Let me know ifI can get you anything else.
+
+Aru (Problem Solver 68): …?!
+
+
+Kayoko (Problem Solver 68): There isn't even a line. How do they not have more customers?
+
+Mutsuki (Problem Solver 68): Maybe they need to move to a better location? They're right next to a failing school after all.
+
+Kayoko (Problem Solver 68): I guess so. Not that I really care as long as the food is good. Let's eat…
+
+Aru (Problem Solver 68): We're not…
+
+Kayoko (Problem Solver 68): Hmm?
+
+
+Black screen
+
+Aru (Problem Solver 68): We're not their friends!
+
+<*slam*>
+
+Mutsuki (Problem Solver 68): What?!
+
+Aru (Problem Solver 68): You know what my problem is? I've figured it out. It's this shop! That's what my problem is!
+
+Haruka (Problem Solver 68): ...?!
+
+Mutsuki (Problem Solver 68): What has gotten into you?!
+
+Aru (Problem Solver 68): We're here to work, right? Dangerous, hard-boiled, rough-and-tumble work! Like outlaws!
+
+But what's this place? A little shop that feeds you when you get hungry! It's cushy, warm, and the people here are nothing but nice to you! They even have the nerve to start polite conversation!
+
+We're going to be friends and regulars if we keep coming here like this!
+
+Mutsuki (Problem Solver 68): And...? What's wrong with that?
+
+Aru (Problem Solver 68): It's ruining everything! How am I ever going to be a real, true-blue villain ifI keep coming to a heartwarming hole-in-the wall like this?!
+
+What I need right now is cold-blooded ruthlessness and steely determination! Not this load of sweetness and fluff!
+
+Mutsuki (Problem Solver 68): Geez, you don't have to be so serious about it…
+
+Haruka (Problem Solver 68): …
+
+So...you're saying that this shop needs to go, Aru?
+
+Aru (Problem Solver 68): Huh?
+
+Haruka (Problem Solver 68): *scooch*
+
+	I'm so glad. Now I can finally be of assistance to you.
+
+Mutsuki (Problem Solver 68): Hey, what are you doing with that detonator?
+
+Kayoko (Problem Solver 68): Haruka! W-Wait a sec!
+
+Haruka (Problem Solver 68): *click*
+
+Aru (Problem Solver 68): …
+
+	Wait a sec…
+
+White screen
+
+<*BOOM*>
+
+Ayane (Foreclosure Task Force): An explosion has been detected within a ten-kilometer radius!
+
+Shiroko (Foreclosure Task Force): Ten kilometers? Isn't that downtown? Is it an ambush?!
+
+Ayane (Foreclosure Task Force): It looks like the shockwaves were set off by a chain reaction of C4. It doesn't seem like any sort of bombardment, but I'll try to find out more!
+
+	The explosion WAS downtown! The exact location is…
+
+Shiba Seki Ramen?!
+
+Shiba Seki Ramen has been completely obliterated!
+
+Serika (Foreclosure Task Force): What?! N-No way! Why would that place be a target for anyone?
+
+Shiroko (Foreclosure Task Force): It's not a strategic location, and it's not part of a major transportation route. Why would someone...?
+
+Serika (Foreclosure Task Force): No way... Could they have been targeting me?!
+
+Shiroko (Foreclosure Task Force): We can try to guess what happened later. We need to get moving!
+
+Nonomi (Foreclosure Task Force): She's right! Now's not the time! Let's head over right away!
+
+Ayane (Foreclosure Task Force): I'll send word to Hoshino. C'mon, let's go!
+
+Serika (Foreclosure Task Force): I-I can't believe it! I really hope Master is all right…
+
+<*woosh*>
+
+
+Mutsuki (Problem Solver 68): *cough* Wow, will you look at that? The entire building's been leveled.
+
+Kayoko (Problem Solver 68): *cough* *cough* What in the world...?
+
+Haruka (Problem Solver 68): *dazed*
+
+<<To be Continued>>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+19 - You’ll Pay for This!
+Unaware of Aru '5 true feelings, the Foreclosure Task Force blame Aru for the heinous atrocity she accidentally caused. Eventually, Aru ends up confronting the team, pretending to be the villain they believe she is.
+
+[Destroyed Downtown Abydos]
+
+<*woosh*>
+
+Mutsuki (Problem Solver 68): *cough* Wow, will you look at that? The entire building's been leveled.
+
+Kayoko (Problem Solver 68): *cough* *cough* What in the world...?
+
+Haruka (Problem Solver 68): *dazed*
+
+Aru (Problem Solver 68): *cough* *cough* A-Aaauuuggghhh…
+
+?
+
+?
+
+Aru (Problem Solver 68): (Wh-What's going on?! What the heck just happened?!)
+
+Mutsuki (Problem Solver 68): How could you?! I can't believe you really did that, Aru!
+
+Aru (Problem Solver 68): ME?! What did I do?!
+
+Mutsuki (Problem Solver 68): After everything the nice people at the ramen shop did for us, you blew everything up because you were starting to get a soft spot for them?! Geez, I didn't think you had it in you…
+
+	You're as cold-blooded and ruthless as they come! An absolutely rotten, bad-to-the-bone 
+evil villain! A complete scumbag!
+
+Aru (Problem Solver 68): Er, what? Huh?
+
+Mutsuki (Problem Solver 68): A real, hard-boiled outlaw! That was amazing! I had you all wrong!
+
+Aru (Problem Solver 68): Uh, wha...? O-Oh! A-Ahahaha... Th-That's right! Exactly! We'll do anything as long as we get paid! Yep, that's us!
+
+???: Is that so?! I see how it is, you punks!
+
+?
+
+Serika (Foreclosure Task Force): You jerks... We've given you the benefit of the doubt over and over again, but this is how it really is, huh?!
+
+Shiroko (Foreclosure Task Force): …
+
+Nonomi (Foreclosure Task Force): …
+
+Ayane (Foreclosure Task Force): Master Shiba's safety has been confirmed. Luckily, he's only sustained superficial wounds, so he'll be treated at a nearby shelter!
+
+Serika (Foreclosure Task Force): Perfect. That means we can get as rough as we want then, right?
+
+You'll pay for this!
+
+Aru (Problem Solver 68): …?!
+
+
+Mutsuki (Problem Solver 68): About time they showed up.
+
+Kayoko (Problem Solver 68): This isn't how we planned for things to go, but this showdown was inevitable anyway, so…
+
+I'll go ahead and call in the hired thugs we contracted.
+
+Kayoko leaves
+
+Aru (Problem Solver 68): …
+
+	Y-Yeah, that's right! That's the kind of person I am. You finally getting the picture, you 
+Abydos losers?
+
+It's time for us to settle this! Go ahead and make your move!
+
+Haruka (Problem Solver 68): That's right. I'll mow them all down.
+
+Serika (Foreclosure Task Force): I hope you know what you've gotten yourselves into!
+
+Shiroko (Foreclosure Task Force): *click*
+
+Nonomi (Foreclosure Task Force): Get ready to get owned!
+
+Aru (Problem Solver 68): Oh, puh-lease! I'm gonna teach you a lesson about tangling with a true outlaw!
+
+<<Battle Sequence>>
+During the climax of the battle between Problem Solver and Foreclosure Task Force, the combatants are suddenly shelled from afar. Ayane announces that the cannons were fired by Gehenna Academy's Prefect Team.
+
+Aru (Problem Solver 68): *pant* *pant* You've got to be kidding me!
+
+	Don't they ever give up...?!
+
+<*kablam*>
+
+
+<*KABLAM*>
+
+<*KABOOM*>
+
+Mutsuki (Problem Solver 68): Now what?! What's going on?!
+
+Kayoko (Problem Solver 68): …
+
+Wait. That's...!
+
+Scene change
+
+Explosion
+
+Shiroko (Foreclosure Task Force): What was that?
+
+Serika (Foreclosure Task Force): It sounded like…
+
+Ayane (Foreclosure Task Force): We're getting bombarded! I've marked multiple grenadiers about three kilometers away!
+
+They're 50 millimeter mortar shells! They seem to be aimed at Problem Solver and not us, but I can't be sure…
+
+Nonomi (Foreclosure Task Force): Mortars...?
+
+Shiroko (Foreclosure Task Force): If they're 50 millimeter mortar shells, then…
+
+Ayane (Foreclosure Task Force): Unit affiliation confirmed. That's the Gehenna Prefect Team! It's a single medium-sized brigade!
+
+Shiroko (Foreclosure Task Force): The Prefect Team...!
+
+<<To be Continued>>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+20 - The Prefect Team Goes to War!
+Gehenna's Prefect Team declares their intent to arrest the members of Problem Solver 68. The Foreclosure Task Force prepares for battle, rebutting that Gehenna Academy-has no authority to make such an arrest on Abydos territory.
+
+[Destroyed Downtown Abydos]
+
+Kayoko (Problem Solver 68): Boss! Mutsuki, Haruka! We have to get out of here! It's them!
+
+Mutsuki (Problem Solver 68): Who's "them"?
+
+Kayoko (Problem Solver 68): The Gehenna Prefect Team is here! Have they been tracking us all this time? And why now…
+
+No, wait. This might be them picking the perfect time to attack!
+
+<*KA-BLAM*>
+
+Kayoko (Problem Solver 68): Gah!
+
+	Damn it…
+
+<*collapses*>
+
+Prefect Team Grenadier (Prefect Team): Targets neutralized.
+
+Iori (Prefect Team): Good. Squads one and two, move in.
+
+Chinatsu (Prefect Team): What about the others, Iori?
+
+Iori (Prefect Team): You mean the students from that school? What was it called again...? Abydos?
+
+Do you really need to ask? Anyone who interferes with the execution of official duties is an enemy.
+
+Chinatsu (Prefect Team): Then all we can do is hope is that they stay out of our way...but procedure dictates that we state our intentions first.
+
+Iori (Prefect Team): What for? Is it even necessary?
+
+Chinatsu (Prefect Team): …
+
+Iori (Prefect Team): It's tiring enough already, going after all these loser delinquents from our academy. Why waste the time or effort? Just wipe them out with the rest if they put up a fuss.
+
+Chinatsu (Prefect Team): …
+
+Scene change
+
+Serika (Foreclosure Task Force): Is the Prefect Team here to take those Problem Solver kids into custody?!
+
+Ayane (Foreclosure Task Force): I'm not sure yet... And they're not exactly sending us any good vibes, either.
+
+Shiroko (Foreclosure Task Force): Yeah. They weren't targeting us specifically, but we were still in their bombardment zone.
+
+Nonomi (Foreclosure Task Force): Geez…
+
+Serika (Foreclosure Task Force): Fat chance we'll allow it! Those Problem Solver scumbags are ours! Who the hell do they think the are?!
+
+Nonomi (Foreclosure Task Force): Dealing with the Prefect Team and some small-time crooks like Problem Solver couldn't be any more different. They're the official armed forces of their academy.
+
+	This might escalate into a political conflict if we're not careful…
+
+Nonomi (Foreclosure Task Force): Ayane, is there still no word from Hoshino?
+
+Ayane (Foreclosure Task Force): No. She's never been out of contact for this long before…
+
+Nonomi (Foreclosure Task Force): So...what should we do here?
+
+Serika (Foreclosure Task Force): …
+
+Shiroko (Foreclosure Task Force): …
+
+Sensei: "You don't want to hand Problem Solver over to them, right?"
+
+Nonomi (Foreclosure Task Force): B-But we can't fight them head on...can we?
+
+Serika (Foreclosure Task Force): I get what you're asking us, but what are we supposed to do about it?
+
+…
+
+Shiroko (Foreclosure Task Force): We must be of one mind on this. We have to resist the Prefect Team.
+
+Nonomi (Foreclosure Task Force): Shiroko?!
+
+Ayane (Foreclosure Task Force): …
+
+She's right.
+
+The Prefect Team escalated this into a political conflict the moment they commenced tactical operations here in our district.
+
+Yes, those Problem Solver geeks may have started this mess…
+
+...but that doesn't give the disciplinary board of another academy carte blanche to project force in our jurisdiction without our say-so.
+
+Serika (Foreclosure Task Force): Yeah, that's right! How dare they? They're basically spitting in our faces!
+
+	We're the ones who're going to take Problem Solver down! I'm gonna make sure they 
+pay for what they did to Shiba Seki Ramen!
+
+Scene change
+
+Chinatsu (Prefect Team): …
+
+	The Abydos students are preparing for battle.
+
+Iori (Prefect Team): *sigh* They want to do this the hard way, huh? Even though it's only four of them against our entire brigade?
+
+	But the Prefect Team standing down from a fight is out of the question. All units, prepare 
+for combat!
+
+Chinatsu (Prefect Team): Wait. Hold a moment, Iori.
+
+Iori (Prefect Team): Huh?
+
+Chinatsu (Prefect Team): A civilian has been sighted on the Abydos side. One moment while we confirm.
+
+What is it?!
+
+That person over there. Could it be...? [NAME] Sensei from Schale?!
+
+Iori (Prefect Team): Huh? Schale? What's that?
+
+Chinatsu (Prefect Team): W-Wait a minute. If Schale is working with them, then…
+
+We can't! We mustn't engage!
+
+Iori (Prefect Team): What are you on about?
+
+Prefect Team Member (Prefect Team): The Abydos students are headed our way. Open fire!
+
+<*ratta-tat-tat-tat-tat-tat-tat-tat*>
+
+Iori (Prefect Team): Tch! They're not going to give us any other choice! Engage in combat!
+
+Chinatsu (Prefect Team): *sigh*...
+
+<<Battle Sequence>>
+Despite being outnumbered, the Foreclosure Task Force is victorious with Sensei's guidance. After the battle, the senior administrator of Gehenna's Prefect Team, Ako, steps in to mediate. Meanwhile, Haruka hatches a conspiracy.
+
+Iori (Prefect Team): What the heck?! Did we lose?!
+
+Shiroko (Foreclosure Task Force): …
+
+Nonomi (Foreclosure Task Force): …
+
+Serika (Foreclosure Task Force): …
+
+Chinatsu (Prefect Team): …
+
+Sensei: "Hello, Chinatsu."
+
+Chinatsu (Prefect Team): Sensei... I didn't expect us to meet again under these circumstances.
+
+I knew we had no hope of winning once I saw you standing there. We should have 
+retreated. My apologies…
+
+Ayane (Foreclosure Task Force): This is Okusora Ayane of the Abydos Foreclosure Task Force. Please identify yourselves.
+
+Iori (Prefect Team): Well, uh…
+
+Ako (Prefect Team): *crackle* I can answer that.
+
+Ayane (Foreclosure Task Force): Someone's patching into the comms!
+
+Iori (Prefect Team): Ako?
+
+Chinatsu (Prefect Team): Senior Administrator!
+
+Ako (Prefect Team): Greetings, Abydos students. My name is Ako, and I'm the senior administrator of Gehenna Academy's Prefect Team.
+
+	I'd like to take a moment to explain what's going on, if you don't mind.
+
+Iori (Prefect Team): Wait a sec, Ako…
+
+Ako (Prefect Team): Iori, the template for apology letters is in the left-hand drawer of my desk. Understood?
+
+Iori (Prefect Team): …
+
+Scene change
+
+Haruka (Problem Solver 68): *shifts*
+
+*sneaking*
+
+…
+
+Heh heh…
+
+Heh heh heh. They're all sitting ducks…
+
+*smirks* This is our chance.
+
+Haruka sneaks away
+
+Fade to black
+
+Haruka (Problem Solver 68): No forgiveness... It's unforgivable.
+
+Unforgivable, unforgivable, unforgivable, unforgivable… Unforgivable, unforgivable, 
+unforgivable, unforgivable…
+
+<<TO BE CONTINUED IN CHAPTER 2>>

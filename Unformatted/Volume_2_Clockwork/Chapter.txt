@@ -1,0 +1,4476 @@
+Blue archive Transcript Vol 2 Clockwork Flower Pavane
+
+Character Clubs and Affiliation :
+
+Schale : 
+Sensei
+Arona
+Game Development Department :
+Saiba Momoi
+Saiba Midori
+Hanaoka Yuzu
+Tendou Aris
+C&C (Cleaning and Clearing)
+Mikamo Neru
+Murokasa Akane
+Ichinose Asuna
+Kakudate Karin
+Veritas :
+Omagari Hare
+Konuri Maki
+Otose Kotama
+Akeboshi Himari (Mentioned)
+Engineering Club :
+Shiraishi Utaha
+Nekozuka Hibiki
+Toyomi Kotori
+Seminar : 
+Hayase Yuuka
+Ushio Noa (Offscreen)
+Operator (Episode 13)
+
+Chapter 1 : Retromania 
+
+The Game Development Department is in danger of getting shut down due to declining membership and performance. Can the ragtag band of gamers come together to make the best video game ever?
+
+
+Episode 1 | The Adventure Begins
+
+…
+can you hear my voice
+
+???	: …save the world
+	  I’ve been waiting for you
+	  In the beginning, the Celestials and Demons…
+	  …
+	  Cut! Cut!
+	  This is way too cliche! It’s so lame right off the bat!
+	  If i bought a game that started this lame I’d be returning it before i even got an hour
+	  In !
+	  Let’s go again! Ahem.
+
+???	: I’ve been waiting for you, warrior.
+	  I am the goddess known as Momoria.
+	  Our world, millenneapolis, is now on the brink of an unprecedented crisis.
+	  You are the only one who can overcome this crisis and save the Game 
+  Development Department…I mean, Millenneapolis.
+	  This may be a difficult truth to accept, but I beg of you.
+	  The adventure ahead will be difficult.
+	  You may face untold trials and hardship…
+	  …but, please, don’t lose courage.
+	  Your maidens will always be by your side.
+	  
+You are more than just a warrior to the young ladies of this new world.
+Thy will call you by a title even more special.
+That great title is…
+
+???	: Sensei!
+
+[???]
+
+Sensei : 
+[“I don’t know this ceiling…”] 
+[“Where am I”]
+
+???	: Wow! Sensei’s eyes are open!
+Momoi	: Are you awake? You got lucky!
+
+Midori : Don’t say weird stuff like that. You’re embarrassing Sensei.
+
+Momoi : I’m just happy is all. Are you okay, Sensei? I was afraid you’d never wake up.
+
+Midori : Thank Goodness, I thought I was an accessory to murder after that FlyStation she 
+  threw out the window hit you on the head.
+  Let me apologize on her behalf. 
+
+Momoi : Hmph. Don’t act so high and mighty, Midori. When I said, “I think I hit Sensei” the 
+  first thing you asked me was, “Is the FlyStation okay?”
+
+Midori : Th-That’s simply because it’s the Game Development Department’s most valuable 
+  asset. I blurted that out without thinking
+  Um, anyway!
+	  So, Sensei. You represent schale, right
+
+Momoi	: You do?! You must have read our letter! I didn’t think you’d really come!
+
+Sensei : 
+[“Letter…?”]
+
+[Schale Executive Office]
+
+Arona	: We’ve received a request from Millenium.
+	  The sender is…the Millenium Game Development Department? Hmm. I’ll read it.
+	  “The Game Development Department is fighting for its survival. The student council 
+  has us cornered, and you’re our only hope. Please, warrior, save us!”
+  Heehee. This is the most urgent yet funniest request I’ve received.
+  Oh. Are you familiar with the Millennium School, Sensei?
+
+Sensei : 
+[“Sure am”]
+[“Not in the slightest”]
+
+Arona	: It’s one of the biggest academies in kivotos alongside Trinity and Gehenna.
+	  Its full name is the Millennium Science School. They value rationality and 
+  technology more than any other school in Kivotos.
+  It’s a place where students that specialize in science and engineering can gather in 
+  the name of research
+  They don’t have the long history of the two more traditional academies, but their 
+  influence over Kivotos is just as great.
+  Millennium is also where the latest and moist cutting-edge technologies in Kivotos   
+  typically get their start
+  Why not visit and see for yourself?
+  …
+
+[Millennium Game Development Department]
+
+
+Momoi	: Welcome to the Game Development Department, Sensei!
+
+Midori	: We’re glad you came.
+
+Momoi	: I’m Momoi: the department’s scenario writer
+
+Midori	: And I’m Midori: Illustrator and the one in charge of all game visuals.
+
+Momoi : There’s also our president, Yuzu, but she’s not here at the moment…
+	  Together we make up the Millennium Game Development Department!
+	  We can finally explore the ruins now that you’re here, Sensei.
+
+Sensei : 
+[“Ruins…?”]
+[“I’m going to need a summary of what’s going on.”]
+
+Momoi	: Okay!
+	  until recently, the Game Development Department had been creating a 16-bit game 
+  in peace.
+  Then one day, the Student Council Launched its attack!
+  Two days ago, Yuuka, one of the Student’s Council’s Four Divine Beasts, appeared 
+  and gave us an ultimatum.
+
+???	: Allow me to explain it to you myself.
+
+Momoi : I-I know that voice!
+
+<<To be continued…>>
+
+
+Episode 2 | Seminar Treasurer Yuuka
+
+[Millenium Game Development Department]
+
+Yuuka : …
+
+Momoi	: It’s you! One of the Student Council’s Four Divine Beasts! The Cold and Calculating 
+  Treasurer, yuuka!
+
+Yuuka 	: Could you please not refer to me like I’m some kind of monster? I’m simply trying to 
+  do my job.
+  …
+  Sensei.
+
+Sensei :
+[“Good to see you Yuuka”]
+
+Yuuka	: *sigh* What a mess.
+	  Momoi.
+	  You all are as stubborn as ever, aren’t you? Now you've resorted to involving Schale 	  to stop us from shutting you down.
+	  But it doesn’t matter.
+	  Whether it’s Schale, the General Student Council–or even if the General Student 
+  Council president herself suddenly returned. It still wouldn’t make a difference!
+  The academy’s Student Council has full discretion over the preparation of its clubs.
+  The Game Development Department will be closed. No one can stop it.
+
+Momoi	: N–Not so fast!
+	  You said that if we don’t have the minimum required members to meet our club's objectives…
+
+Yuuka : …that you would lose your budget and club room, yes. It’s been explained countless times to you.
+	  It’s been over a year, and you still don’t have enough members nor has your club been completing its objectives.
+	  With that in mind, on what grounds could you possibly object to our decision?
+
+Momoi	: I do have grounds! We’re standing on tons of ‘em! O–Our club is working its butt off at our activities
+	  So, w–we deserve a summit hearing!
+
+Yuuka	: I think you mean a mitigation hearing…
+	  And don’t be ridiculous!
+	  You’ve tried opening a pachinko parlor inside the school, Attacked the Ancient History Research Society looking for a rare classic game console…
+	  Your club’s activities are anything but typical! How dare you ask for more funds?!
+	  You’re just creating havoc under the guise of “fostering a healthy development environment”
+	  What do you have to say for yourselves?!
+
+Momoi : S–Sometimes you’ve gotta look at the intentions behind something instead of the results…
+
+Yuuka	: That’s what a failure would say. I don't want to hear it.
+
+Momoi : You’re the one who asked for an excuse!
+
+Yuuka	: I merely wanted a reason, not a meaningless excuse. Results are all that matter in Millennium.
+
+Momoi	: It’s not like we don’t have any results! we DID complete an objective!
+We finished a game!
+
+Midori	: Th–That’s right! Tales Saga Chronicle won top prize at a competition!
+
+Sensei :
+[“Tales Saga Chronicle?”]
+
+Yuuka	: Yes I’m aware of the award you won.
+	  I suppose sensei is in the dark, however.
+	  Tales Saga Chronicle is the only game their club has successfully produced thus far.
+	  And its reviews were just as impressive as the game itself. I remember it quite well.
+	  “ If they wanted to create the most pathetic RPG of all time, then job well done”
+	  “it’s lacking in a lot of areas, especially common sense”
+	  “Oh My God. This game makes DeadCrimson look like a masterpiece”
+
+Momoi	: Y–You can’t judge our game based on some trolls tearing us down…
+
+Yuuka	: These are hardly outliers. it was the consensus.
+	  That’s why you won the award for Worst Game Of The Year
+
+Momoi : H–Hey, all publicity is good publicity, right?!
+
+Sensei :
+[“Did it come with a trophy and everything?!”]
+
+Momoi	: …
+
+Midori	: …
+
+Yuuka : …
+	  …Anyway.
+	  It is unacceptable for your club to be wasting funds while damaging Millennium’s reputation.
+	  You’re a drain on our resources and impeding the progress of other clubs on campus.
+	  So, the burden of proof lies with you to show that your club is conducting valid activities.
+
+Momoi	: you want us to prove it?
+
+Yuuka	: As I’ve said, if your club can produce meaningful results, we’ll rescind our decision to shut you down.
+
+Midori	: Do you mean like winning accolades?
+
+Yuuka	: Yes. Take the baseball team advancing to the Interhigh Championship or the Engineering Club submitting new inventions for example. something on those lines.
+	  Surely there must be some sort of contest the Game Development Department can enter.
+	  Try not to win yet another Worst Game of the Year award.
+
+Midori	: Ugh.
+
+Yuuka	: If you’d rather save time, I could shut it down now instead. Feel free to vacate the club and throw all this junk if that’s what you want.
+
+Momoi : …
+	  D–Don’t call it junk.
+
+Yuuka	: What is it if not junk?
+
+Momoi	: They’re my…
+	  (I got it!)
+	  You want results? you’ll get them!
+
+Yuuka	: Will I…?
+
+Momoi : In fact, development is practically done!
+
+Yuuka	: Is it?
+
+Midori	: Wh–What are you talking about?
+
+Momoi	: Why so surprised, Midori?
+	  We have a secret weapon up our sleeves.
+	  And we’ll be making a submission to the millennium prize…
+	  Tales Saga Chronicle 2! Otherwise known as TSC2!
+
+Yuuka	: ?!
+
+Sensei : 
+[“What’s the Millennium Prize?”]
+
+Momoi	: It’s a contest where hundreds of Millennium clubs submit the fruits of their labor. No one could shut us down if we won that! Not even you!
+
+Yuuka	: That may be true.
+	  If–and only if–you were to win.
+	  I’m sure you realize how absurd what you’re proposing is, Momoi.
+	  It would be like our baseball team moving up in the majors rather than simply advancing to the Interhigh Championship.
+	  Regardless, I’m excited to see what you have in store–even if it is destined to end in failure.
+	  …
+	  So here it is: your final chance.
+	  You have two weeks until the Millennium Prize. I hope you’re looking forward to it as much as I am.
+	  It was good seeing you again, Sensei. I’m sorry it wasn’t under better circumstances
+	  But business is business when it comes to the Student Council matters.
+	  I hope that things will be more pleasant the next time we meet. So long.
+	  
+*clank*
+
+Momoi	: …
+
+Midori	: Momoi…
+	  It’s a long shot, but don’t you think it’d be easier to recruit another member than it would be to develop a new game?
+
+Momoi	: We’ve been trying that for months, and no one’s joined.
+	  I’m tired of people saying retro games are trash when things like VR have already been around for years.
+
+Midori	: …
+
+Momoi	: That sneaky Yuuka! She’s just discriminating against us because she knows we’re nerds that don’t have friends! I hate her!
+
+Midori	: You can’t blame Yuuka… We’re the ones who are breaking the rules that apply to all the other clubs.
+
+Momoi : Whatever. My point is we have no hope of going the recruitment route.
+	  But that doesn’t mean there isn’t a way.
+
+Midori	: Oh, right. What’s this “secret weapon” you mentioned Yuuka?
+
+Momoi	: It’s Sensei, obviously.
+
+Sensei :
+[“Me?”]
+
+Momoi	: Don’t you remember those ruins I mentioned, Sensei?
+	  There’s a mysterious place near Millennium the General Student Council won’t allow anyone to enter.
+	  Supposedly, the reason access is restricted is because it’s dangerous, but they’ve never told anyone what the danger is. That's pretty suspicious if you ask me.
+	  It’s impossible to know if anyone has ever gone in or if anyone has ever made it back.
+	  It’s a completely unknown world…
+
+Sensei :
+[“Why would you want to go to a place like that?”]
+
+Momoi	: Because we wanna make a great game!
+	  Let me be clear.
+	  I know the only thing we have to our name thus far is a crummy Worst Game of the Year award
+	  But the game consoles that I love, that have always made me happy…
+	  …are anything but junk! They’re my Treasures!
+
+Midori	: Momoi…
+
+Momoi	: All we have to do is go to the ruins and finally find it.
+
+Sensei :
+[“What is ‘it’?”]
+
+Momoi	: Oh, I probably should have explained that first.
+	  Sensei, by any chance…
+	  …have you ever heard of the G.BIBLE?
+
+
+<<To be continued…>>
+
+
+Episode 3 | To the Ruins
+
+[The Ruins]
+
+…
+
+Momoi	: …
+
+Midori	: Hey, Momoi?
+	  How much longer do we have to stay like this?
+
+Momoi	: Shh don’t make a sound. Keep your head down, Sensei!
+
+Robot A : …
+	    – – –  – – – –...
+
+Robot B : …– – –.
+
+Robot A : – – – –  – –.
+
+Momoi	: Phew. Are they gone?
+Good. Let’s go.
+
+Midori : This isn’t good at all!
+	  What is this place? it’s crawling with weird robots!
+
+Momoi	: What do you mean? I told you before we came here.
+	  These are the ruins.
+	  But I get what you mean. I knew this place was supposedly dangerous, still…
+
+Midori : Why are all of these robots here?
+	 What reason would they gave to be guarding the ruins?
+
+Momoi : I don’t know much other than what I heard from Veritas…
+	  I already told you that access to this location was heavily restricted, right?
+
+Sensei :
+[“You have mentioned it a few times”]
+[“How did I get here? what’s going on?”]
+
+Momoi : Well, now that we’re here, I’ll explain it again. The one who restricted Access to this place and tried to hide its very existence was none other than…
+	  …the President of the Prime Student Council.
+
+Midori : Do you mean the president who presides over all the others? The one who suddenly disappeared?
+
+Momoi : One and the same. The Prime Student Council also had troops stationed here, but they withdrew after she went missing.
+	  We wouldn’t have gotten this far otherwise. The point is this!
+	  Since the Prime Student Council has given up on trying to hide or watch this place, Veritas was able to slip us in.
+	  According to what Himari Told me…
+	  …these ruins might hold all sorts of long lost things from Kivotos’ past.
+
+Midori : Himari? Do you mean that pretty upperclassmen from Veritas that uses a wheelchair?
+	  She gives me all–knowing RPG sage vibes. If even she doesn’t know…then this place is really mysterious.
+	  But what makes you think the G.BIBLE is here…? Wait a second!
+	  Don’t tell me that you jumped to the conclusion that G.BIBLE is here just because of what Himari said!
+
+Momoi : That’s not it. When I asked Veritas for the G.BIBLE, they also looked into the last place it was activated.
+	  But the result came back as “area redacted”
+
+Midori : That means…?!
+
+Momoi : Exactly.
+	  G.BIBLE is somewhere in these ruins.
+
+
+Sensi : 
+[“What IS this G.Bible thing you two are talking about?”]
+
+Momoi : I was gonna tell you yesterday before Yuuka interrupted us.
+	  back in Millennium’s early days–well, all of Kivotos’ early days, really…
+	  There was a legendary game developer.
+	  That person created the G.BIBLE while they were attending Millennium.
+	  The exact details aren’t known…
+	  …but I was told it contains the secrets to making a perfect game.
+
+Midori : That sounds like a marketing tactic for a game development school or something.
+
+Momoi : No! The G.BIBLE is real! I know the bible for creating the perfect game is out there somewhere!
+	  If we were to get our hands on G.BIBLE, Tales Saga Chronicles 2 would be perfect!
+	  All we have to do is follow the coordinates Veritas gave us and we’ll finally have it.
+
+Robot : *sneaking*
+	  – – –  – – – – !
+
+Momoi : Ah…Uh… Uh–oh.
+
+Midori : Ah! Robots?!
+	  Th–They’re so aggressive! How many robots are there?!
+	  We’ll be surrounded at this rate!
+
+Momoi : Ugh, What do we do?!
+
+Sensei :
+[“Looks like there’s a factory over there!”]
+
+Midori : Huh? Factory?
+
+Momoi : Ooh! Good thinking, Sensei! Hurry and break through the robots! We’re going to the factory!
+
+Midori : Sensei! Please lead us into the battle!
+
+>>Battle<<
+
+<<To be continued…>>
+
+
+Episode 4 | On That Day, We Met a Girl
+
+[???]
+
+Momoi : What the…?
+	  Why aren’t the robots still chasing us?
+	  They were hot on out heels right up until we entered the factory
+	  I don't get what they’re doing but it works out great for us! Right?
+
+Midori : I can’t take this anymore! What did we do to deserve to be chased by robots?!
+
+Momoi : Calm down, Midori. The worst is behind us.
+
+Midori : This is your fault!
+
+Momoi : Never mind that. What even is this place
+
+Midori : Did the Prime Student Council restrict access to the ruins because they knew about the robots?
+Momoi : Actually, I was wondering if those robots were brought here by them to begin with.
+	  I’m starting to doubt that now…
+	  I think there’s more to this. And…
+
+Mysterious Voice : Access denied. Access denied.
+
+Momoi : Wh–What was that?
+
+Midori : Where’s that voice coming from?
+
+Mysterious Voice : Verifying subject identity. Saiba Momoi. Unqualified.
+
+Momoi : What the…? How does it know my name?
+
+Mysterious Voice : Verifying subject identity. Saiba Midori. Unqualified.
+
+Midori : What’s going on?
+
+Mysterious Voice : Verifying subject identity. “Sensei”
+		      …
+
+Momoi : Don’t tell me…
+
+Mysterious Voice : Qualified. you have permission to enter, Sensei.
+
+Midori : Whoa!
+
+Momoi : What was that?! Have you been here before?!
+
+Midori : No, Sensei looks just as confused as we do
+
+Mysterious Voice : Saiba Momoi and Saiba Midori have been recognized as “ Students” of 
+       Sensei. Access as companions…granted.
+		       Bottom door, open.
+
+Midori : Bottom door? Is that not the one in front of us?
+
+Momoi : Wait. by Bottom, it doesn’t mean…?
+
+Midori : That can’t be. it’s just an ordinary floor
+
+*clank*
+
+Midori : Oh. It did mean that. W–We’re falling!
+
+Momoi : Waah!
+
+Midori : Momoi! Sensei! Aaaaahhhh!
+
+…
+
+Midori : Ugh…
+	  *gasp* Momoi? Sensei?!
+
+Momoi : Ugh….I thought we were gonna die.
+
+Midori : Are you okay, Momoi? Where’s Sensei…?
+
+Sensei : 
+[“I’m down here”]
+
+Midori : Aaaah! Wh–What are you doing down there?!
+
+Momoi : What do you mean? Be grateful Sensei broke our fall.
+
+Midori : O–Oh. I guess I was so frazzled that I jumped to conclusions.
+
+Momoi : I think you owe Sensei an apology for that one.
+	  Are you okay?
+
+Sensei :
+[“I’m doing pretty alright”]
+[“I wouldn’t mind staying down here”]
+
+MIdori : A–Anyway…thanks for your help.
+
+Momoi : Luckily, we didn’t fall as far as I thought we would. Huh?
+	  …
+	  What in the…?
+
+Midori : Is something wrong Momoi?
+	  Huh?!
+
+Momoi : A girl?
+
+Midori : What’s she doing down here? Is she asleep?
+
+Momoi : *poke* *poke* Nothing. it’s almost like she’s dead
+
+Midori : Don’t say that! I don’t think that’s a corpse. Take a closer look
+	  She doesn’t look injured. More like…destroyed.
+
+Momoi : Really? Come to think of it, I guess she does kind of look like a mannequin. Let’s see…
+	  *poke* Hmmm Her skin is so soft. Oh, there’s some letter here
+	  AL-1S…
+	  What’s that supposed to mean? Is it supposed to be her name?
+	  How would you pronounce that?
+
+Midori : No, wait. That’s not a letter. It’s actually…AL–1S
+
+Momoi : R–Really?
+
+Midori : Who is this girl ? And now what’s this place supposed to be?
+
+Momoi : Maybe we should ask her/
+
+Midori : If she wakes up, that is. Let’s give her some clothes first. I feel bad leaving her like this.
+
+Momoi : Wow, you really did bring an extra change of clothes. Wait! That’s my underwear!
+
+Midori : No, They’re mine. The kitty face in the front is different
+	  *rustle* Okay. All done.
+
+*be–beep beep*
+
+Midori : Huh?
+
+Momoi : What was that noise ?!
+
+Midori : It sounded like some kind of alarm… Are there any robots nearby?
+
+Momoi : No… I think it came from her.
+
+Midori : What? Could it be…?
+
+Status update, Contact with approved subject detected. Dormant state deactivated
+
+??? : …
+
+Midori : Sh–She opened her eyes!
+
+??? : *whir*
+	Circumstances unknown
+	Attempt conversation. Please explain
+
+Momoi : Explain? You want to know what’s going on?
+
+Midori : That’s what we were going to ask you! Who are you? What IS this place?!
+
+??? : Sense of self, memory, and purpose not found. No data available.
+
+Midori : What does that mean? And…you’re not going to attack us, are you?
+
+??? : Negative. The offensive capabilities of this unit cannot be activated when in contact with approved subject.
+
+Momoi : Fascinating. Kivotos have several robotic citizens, but I've never seen one that looks like us.
+
+Midori : What do we do, Sensei?
+
+Sensei :
+[“Tell me what you mean by ‘approved subject’”]
+[“Who are you? And what is this place?”]
+
+??? : Answer not found. This is presumably the first occurrence of deep consciousness for this unit. Answers unknown
+
+Midori : Deep consciousness? What does that mean?
+
+Momoi : Hmm…
+ 	 Factory basement… No clothes… Memory loss
+	  That’s pretty suspicious if you ask me.
+
+Midori : I…really don’t like where you’re going with this
+
+??? : ???
+
+[Millenium Game development Department]
+
+??? : ???
+
+Midori : What are you thinking?!
+	 Why did you bring her to the club room?!
+
+Momoi : Ugh ! Don’t choke me! I can’t breathe! *cough*
+	  I had no choice. I couldn’t leave her there with all those scary robots…
+
+??? : *munch*
+
+Midori : Ah! Don't put that in your mouth! Spit it out!
+
+Momoi : We couldn’t leave her all alone
+
+Midori : I know that…
+  …but shouldn't we submit a response about her to the Prime Student Council or Valkyrie?
+
+Momoi : We can’t do that. Not until our task is all done
+
+Misori : What do you mean “task”?
+
+Momoi : Hmm. First, we should give her a name. How does “Aris” sound?
+
+??? : Please confirm Aris as the designated name for this unit.
+
+Midori : W–Wait! You said her name was that AL–1S. Where did you get “Aris” from?
+
+Momoi : Eh. The other thing would take too long to say, and it’s not cute enough. Trust Me–a dev knows best. What do you think, Aris?
+
+??? : …
+	Confirmed.
+
+Aris : Unit designation: Aris.
+
+Momoi : Hahaha! See? Do I Know how to pick a cute name or what?
+
+Midori : Well, as long as she’s fine with it
+
+Momoi Now, let’s move on to the next step
+
+Midori : You can’t be serious. this isn’t as simple as adopting a cat!
+
+Momoi : Think about it, Midori.
+	  Why did we risk our lives to get G.BIBLE in the first place?
+
+Midori : Huh? It was to make a good game so we can keep our club.
+
+Momoi : Exactly
+	  To keep our club, we have to meet one of the two conditions
+	  Making a good game and winning the Millennium Prize is just one of our options.
+
+Midori : But I thought you said it was the only way. We haven’t had any luck recruiting people to work on a retro game.
+	  Hold on…
+	   Momoi. Don’t tell me…
+	  You’re thinking of disguising her as a Millennium student and having her join our club!
+
+Momoi : Aris!
+	  You’re now one of us!
+
+Aris : *munch*
+
+Momoi : That’s my Game Girl Advance SP! It’s the only 16-Bit game console in Kivotos with an 8-core, 16-thread custom CPU capable of 8K resolution!
+
+Midori : *sigh*
+	  I Hope this works.
+
+<<To be continued…>>
+
+
+Episode 5 | I, Aris…
+
+[Millennium Game Development Department]
+
+Midori : I don't know about this.
+	Will it really be okay if we disguise her as a club member?
+
+Aris : Okay? Verifying meaning. A condition lacking in negative attributes or problems. Confirmed.
+
+Midori : There’s no way this will work! She’ll blow her cover the second she opens her mouth!
+	It’s hopeless. We can’t pull something like this off!
+
+Momoi : We have to. I'll do whatever it takes if it means saving the Game Development Department.
+	  Yuzu can’t move back to the dorms. if we don’t do this…she’ll have nowhere to go
+
+Midori : …
+	That’s true…
+
+Momoi : I think she passes the eye test. All she needs now is a weapon and a student ID.
+	  I’ll take care of getting her registered and having an ID made
+	  Midori, I want you to teach Aris how to hold a conversation with Yuzu.
+
+Midori : A conversation? What do you mean?
+
+Momoi : Like you said, she’s not gonna sound like anormal student
+	  People have been saying for ages that our club can’t recruit new members because we have no friends.
+	  So, Yuzu asks Aris whether she really belongs to the Game Development Department and Aris responds with something like…
+   “Affirmative. Aris is property registered to the Game Development Department. Beep boop.”
+	 …That’s going to raise a few eyebrows.
+
+Midori : I mean, sure, but…
+	 *sigh*
+	 Okay, then. I’ll try.
+
+Momoi : Good! I’m counting on you!
+
+Midori : W–Wait!
+	 Um…
+
+Aris : …?
+
+Midori : Uh, so…Aris?
+
+Aris : Affirmative, Aris is the designated name of this unit
+
+Midori : Hmm… I don’t even know how I learned to make conversation. I suppose I just picked it up from watching TV or hearing other people talk.
+	 Hmm. Maybe I can find an educational program for kids online.
+
+Aris : *looks around*
+	…?
+	Query. Please verify object identity
+
+Midori : Huh?
+	 Y-You mean that?!
+	 Oh. That. It’s a little embarrassing, but it has an article about a game we made. It got a lot of really bad reviews.
+	 Oh, right!
+	 I’m not proud of the fact it won Worst Game of the Year…
+	 …but why don’t you give it a try, Aris?
+	 There are all kinds of conversations in the game, so it might be a good opportunity to learn.
+
+Aris : …?
+	Purpose not understood
+	However… *nod*
+
+Midori : Really?! Give me just a minute. I’ll set it up for you!
+	 Okay, it’s ready!
+
+Aris : …
+	Aris, starting game.
+
+Midori : As the title suggests, our game is a classic fantasy RPG with a rich, fairy tale atmosphere.
+
+<Cosmic Calendar Year 2354. Mankind is engulfed in the flames of retribution>
+
+Aris : …?
+
+Midori : Well…it does take inspiration from some other genres’ trends too. Sticking with the same tired tropes can get boring after a while.
+
+Aris : …
+	Pressing button.
+
+<Beginning tutorial>
+<Press the B button to equip the weapon in front of you>
+
+Aris : Press…B button…
+
+*boom*
+
+Aris : …?
+
+<GAME OVER>
+
+Aris : …?!
+
+Momoi : Ahahaha!
+	  Where’s the fun in knowing what will happen?! The trick is you should press the A button there!
+
+Midori : What are you doing here Momoi? I thought you were going to get the student ID
+
+Momoi : Oh, I must have gotten there too late since no one was there. I’ll go back tomorrow.
+
+Midori : Anyway, on second thought, I think the way we designed this scene is a little unfair.
+
+Aris : …
+	A-Again…
+	Resume. Experiencing emotion that cannot be conveyed through words.
+
+Momoi : Ooh! I know what you’re feeling! it must be “interest” or “anticipation”!
+
+Midori : I’m going to guess it’s “rage”.
+
+<weapon equipped successfully>
+
+Aris : Picked up…sword…
+
+Momoi : You’re picking this up quicker than I expected! once you’re past the tutorial, It won’t be long until you get the best part of any RPG…
+
+<COMBAT START!>
+
+Aris : …?!
+
+<a wild Puny Jelly appeared!>
+
+Aris : Tension. Excitement. Interest.
+
+Momoi : Mash the A button! Trust me!
+
+Aris : A button… Secret Sword Tsubame Gaeshi attacks twice.
+	Must get the Puny Jelly.
+	Secret Sword Tsubame…!
+
+<Pow!>
+<Counterattack, one-hit KO>
+
+<GAME OVER>
+
+Aris : …?!
+
+<Puny Jelly: You should know better than to bring a sword to a gun fight. Hmph!>
+
+Momoi : Do you think the “Hmph!” at the end is a little too much?
+
+Midori : I don't think that’s the biggest issue here.
+
+Aris : Operational error. Processing.
+
+Midori : A-Are you okay, Aris?
+
+Aris : …
+Resuming functionality. Initiating.
+	Notice : caution required while in range of the Puny Jelly. Navigate and Exterminate.
+
+Momoi : You’re getting it! It’s all about learning a little bit at a time until you know how to handle anything and everything. That’s the allure of retro games!
+
+(Two hours later…)
+
+Aris : A critical computational processing and comprehension error has occurred.
+
+Momoi : I-It’s okay, Aris! Right after this phase is the climax!
+
+Midori : Ugh. We really messed up on this part…
+	 It’s supposed to say that he prefers meat, but we couldn’t find the right words…
+	 When he says, “Sorry I can’t help you ladies with those veggies, I’m more of a sausage lover myself,” Aris’ circuits almost got fried!
+
+Aris : Query, Why is my mother a love interest and why was she my wife in a previous life?
+	Additional query, Why did my wife’s missing childhood half-friend come through a time warp? Dictionary lookup of “half-friend” returned negative. Definition not found.
+	E-Error!
+
+Midori : A-Aris! Are you alright? You’re almost to the climax!
+
+Aris : Initiating reboot.
+	System restore complete
+	Phew…
+	This is…your game…
+	Resuming play.
+
+(Two hours later…)
+
+Aris : “please…kill…me…”
+
+Momoi : That was incredible, Aris! Sure you had two devs with you, but you got the true ending in only three hours! What a speedrun!
+
+Midori : By the way, momoi…
+	 Have you noticed the more Aris plays…
+	 …the weirder the way she talks has become?
+
+Aris : If you dost inquire of my opinion, dear warrior, yours truly heartily agrees.
+
+Momoi : Yeah, I get what you mean…
+
+Midori : It’s definitely awkward, but it sure beats her just listing words out!
+	 U-Um so…
+	 I have a kind of embarrassing question for you, Aris.
+	 How was our game? Did you have fun?!
+
+Aris : …
+	Queried description not found.
+
+Momoi : B-But why…?
+
+Aris : Expression lookup in progress…
+	Loading response…
+
+Midori : P-Please don’t be a curse word.
+
+Aris : …Fun.
+	Fun…confirmed.
+
+Momoi : *gasp!*
+
+Aris : the more I played…
+	…the more it felt like I was being transported to a new world.
+	It was like…a dream.
+	I…need more…
+	…
+	*sob*
+
+Momoi : Wh-What the…?!
+
+Midori : A-Aris, why are you crying?
+
+Momoi : Whaddya mean why? She’s been touched by our game!
+
+Midori : But our game is just a comedy RPG…
+
+Momoi : Thank you, Aris! Your tears cancel out a thousand bad reviews! I wish Yuzu could be here to see this!
+
+??? : …I’m here.
+
+*creak*
+
+Momoi : huh? When did the cabinet get open?
+
+Midori : Eeek! A gh-ghost!
+
+Momoi : Midori, stop! Don’t throw the FlyStation again!
+
+Yuzu : …
+
+Aris : …?
+
+Momoi : Yuzu!
+
+Midori : We couldn’t find you anywhere! How long have you been hiding in the cabinet?
+
+Yuzu : Since you guys came back from the ruins.
+
+Midori : That was a long time ago! Oh, were you scared of Aris or something?
+ You should have said something . Aris and I could have stepped out if you needed us to
+
+Momoi : Anyway, I think an introduction is in order. Aris, meet Yuzu, the president of the Game Development Department.
+
+Yuzu : *scooches closer*
+
+Aris : Hm?
+
+Yuzu : Um. So, I mean…
+	Th… Th…
+
+Aris : Th…?
+
+Yuzu : Thank you.
+	Thank you for saying…the game was fun…and that you wished it wouldn’t end.
+	And thank you for crying…It really means a lot.
+
+Ars : …?
+
+Yuzu : I’ve always wanted to hear those things said about our game…
+
+Midori : Yuzu…
+
+<<To be continued…>>
+
+
+Episode 6 | How to learn a Language
+
+[Millenium Game Development Department]
+
+Yuzu : Anyway, It’s nice to meet you, Aris.
+	Like Momoi said, my name is Yuzu, and I’m the president of the Game Development Department
+.	Thank you for joining our club, Aris.
+	I look forward to making things with you.
+
+Aris : Look…forward?
+	Acknowledged.
+	Bum bum bum! Yuzu has joined the party!
+	That is what you mean, affirmative?
+
+Yuzu : Uh, Y-Yeah. I think that covers it.
+	It seems like you really understand our game. Getting new party members is one of the simple joys of playing an RPG.
+	Oh, and if you want another fun game to play…
+	…I do have a recommendation.
+
+Momoi : Wait! I’ve got some must-plays first!
+	  The more you play, the more natural your natural speech is becoming. All we gotta do is get a lot of words in front of you…
+	  First, The Fable of Heroes, then Final Fantasia and then ChronoDigger–
+
+Midori : huh?~ Aris is new to games, though! The Legend of Zinda: Lonk’s Awakening is the obvious choice for a noob!
+
+Yuzu : Sorry but I can’t keep quiet about this. Her next game has to be Romancing NaGa. I don’t care what comes after that…
+
+Aris : …?
+	…
+	Excitement confirmed. I’m going to start the game.
+
+(Two hours later…)
+
+Aris : *beep bop boop*
+
+Momoi : Wow, you read so fast, Aris. And you understand everything on screen too?
+
+Midori : Hey, Aris, let’s try Stratagem Oger next! I’ll introduce you to the world of tactics games!
+
+Aris : *nod*
+*beep* *bop* * boop* *bop*
+
+(Time passes to night…)
+
+Midori : Zzz…
+
+Momoi : Zzz—mmm…
+
+Aris : *beep* *bop* * boop* *bop*
+	*beep* *bop* * boop* *bop*
+	Cleared.
+
+(TIme passes to morning…)
+
+Aris : *beep* *bop* * boop* *bop*
+	…And–cleared.
+
+*chirp chirp tweet*
+
+Midori : Ughhh…
+	 M-Morning already?! Oh, no! I have to get ready for school!
+
+Aris : *sneak*
+	You’ve finally opened your eyes…
+	Thank goodness. I was not sure you were going to ever wake up.
+
+Midori : Huh?!
+	 Aris! you can speak normally now!
+
+Aris : Indeed, mortal. Gaze upon me and know it to be true.
+
+Midori : H-Haha. I-I guess there’s still some room for improvement.
+
+Yuzu : Um. Good morning, everyone…
+
+*creak*
+
+Momoi : Good morning!
+	  Here ya go, Aris.
+
+*Gives ID*
+
+Aris : …?
+	Strange item obtained!
+
+Momoi : Wooow! You’re getting so good at talking now. This is a student ID.
+
+Midori : Maybe it’s actually kinda cool that she talks like she’s in a retro game…
+
+Aris : A student ID?
+
+Momoi : You need a student ID to prove you go to our school. Veritas hacked–I mean, registered you in the academy list, so you’re one of us now!
+
+Aris : One of you? As in, I am an ally?
+	Bum bum bum! Ariss has joined the party!
+
+Midori : I-Is this really gonna work?
+
+Momoi : Of course! We’re already got the uniform and the student ID! It’s fiiiiine…
+	  Next order of business is…
+	  …a weapon.
+	  All right, Aris. We’ve got some things to show you.
+
+Aris : By that you mean?
+
+Momoi : Like a grand tour of the Millennium School!
+
+<<To be continued…>>
+
+
+Episode 7 | Much Too Big to Be Called a Gun
+
+[Millenium Game Development Department]
+
+Momoi : All students in Millennium–or well, Kibotos have their own personal weapons.
+	  So, you’ll need one too, Aris
+	  And there’s only one place that’ll get you what you need in short notice.
+	  The Engineering Club
+
+Aris : That is a new word. “En…gineer…ing”?
+
+Midori : It’s a club of experts who make and repair machines here at MIllenium.
+	 Their members are called meisters.
+
+Momoi : They do a bunch with machines in general and also handle remodeling the school’s weapons…
+	  So I betcha they’ve got some spare weapons lying around.
+	  All right, let’s go!
+
+[Engineering Club Workshop]
+
+Utaha : …I see.
+	You want to get a better weapon for your classmate.
+	Well, you’ve come to the right place.
+	A competent student is nothing without an appropriate weapon.
+	If you look to that corner there, you’ll see some prototypes we’ve put together.
+	It’s all fair game, so help yourselves
+
+Momoi : Wow! Thanks a bunch, Utaha!
+
+Hibiki : Uh, hi. I’m Hibiki, and, um, I’m a first year here… Let’s find you something special
+	How about this?
+
+Momoi : Oh, a pistol.
+
+I get the feeling this girl, uh, doesn’t have much combat experience. Am I right?
+
+Aris : Disagreed. I have already saved humanity 27 times, defeated the demon king 46 times, and explored hundreds of dungeons.
+
+Midori : …
+
+Hibiki : That’s, uh, pretty prolific of you.
+	Still, it seems like you’re new to guns.
+	In which case, a pistol is ideal. It has a light plastic frame, and there isn’t much recoil…
+	It’s a good starter gun, but there’s something even better about it.
+	This model has a never-before-seen feature that–until recently–has never existed in the history of our school.
+
+Momoi : Wh-What is it?
+
+Midori : It sounds impressive. Please tell us.
+
+Hibiki : The new feature that will rock the world of firearms is…
+	Bluetooth.
+
+Momoi : …Huh?
+
+Hibiki : The one and only pistol that allows wireless music playback and file sharing via Bluetooth.
+	It also functions as a digital car key, and can be used to tag into IC panels on public transit services.
+	And to top it all off, if you enable the NFC feature, you can use it to make payments at convenience stores.
+
+Momoi : Th-That’s amazing.
+	  But imagine how the store clerk would freak out if you whipped a pistol and said “I’ll be paying with this!”
+
+Midori : What do you think Aris–wait, where did she go?
+
+Hibiki : Oh, there she is.
+	She’s looking at…
+
+Aris : *staring intently*
+
+*weird cannon*
+
+Aris : Is that…?
+
+Kotori : Heh Heh. You have a good eye, customer.
+
+Aris : Who are you?
+
+Kotori : I’m Kotori, one of the Engineering Club’s meisters and a master of explanations!
+
+Aris : …?
+
+Kotori : And you must be Aris, the fourth member of the Game Development Department!
+
+Midori : Oh, hello again, Kotori. What is this huge thing here?
+	 It kind of looks like…a cannon.
+
+Kotori : Excellent deduction, Midori. This was produced using about 70 percent of the club’s budget for the second half of the year…
+	 Allow me to introduce our most ambitious project yet–-a railgun fit for an intergalactic battleship!
+
+Momoi : An intergalactic b-battleship…That’s nuts…
+
+Midori : Didn’t a lot of people get horrible colds when you tried making that cryo-sleep hibernation device?
+
+Utaha : Wll, I mean, the DIrect to Future Express is still in use today…
+	…but now as a refrigerator. We’re sending the food into the far future, so it wasn’t a complete failure.
+
+Momoi : That’s quite the name for a fridge!
+
+Kotori : The Engineering Club is going to develop an intergalactic battleship–right after some helicopter and general-purpose work robots!
+	This railgun is the beginning of that plan. A live-ammunition weapon developed for use in the vacuum of space! No one’s ever attempted this in the history of Millennium!
+
+Momoi : When you put it that way, it gets me kind of excited!
+
+Midori : Me too! If anyone can do it, it’s the Engineering Club!
+
+Kotori : Heehee! You can count on us!
+	 But, actually, we, uh… The whole plan is on ice for the time being.
+
+Momoi : why’d you hype me up just to shoot me down?!
+
+Kotori : Like usual, our problem is not a lack of imagination or passion, but one of budget.
+	 It took 70 percent of this semester’s budget just to make this one gun. To make an intergalactic battleship we’re going to need a thousand times more…
+
+Momoi : Then why did you make this gun in the first place?!
+
+Utaha	: What a disappointing question Momoi.
+	 It’s simple, really. It’s because …we love laser beams.
+
+Hibiki : *nod nod*
+
+Kotori : Well said, Utaha. I agree wholeheartedly of course. If Momoi can’t appreciate laser beams, Then she’s surely a fool.
+
+Momoi : I’m surrounded by idiots!
+
+Hibiki : By the way, the official name of this passion project is…
+
+Kotori : “Supernova: The Sword of Light”!
+
+Midori : Another overblown name…
+
+Aris : …!
+	The Sword of Light?!
+
+Momoi : Whoa! Look at Aris’ eyes sparkle!
+
+Aris : Wow! Incredible!
+
+Midori : I-I’ve never seen her so excited
+
+Aris : I…want one.
+
+Hibiki: …Huh?
+
+Aris O great formers of steel. Bequeath unto me the might of the dragon’s breath
+
+Utaha : Uhhh… I’m glad to hear you’re so… passionate.
+
+Kotori : But we couldn’t possibly fill that request!
+
+Momoi : But you said everything in this corner is fair Game
+
+Hibiki : …I have my reasons.
+
+Aris : What reasons, though?
+	Is my level too low? What stats do I need to equip this gun?
+
+Utaha : That’s not really what I mean
+	Which matters like this, you have to be realistic.
+
+Momoi : Ah. I knew it. THis is about money.
+	  Don’t worry, Aris if you must. I’m willing to part with Midori’s Flystation
+
+Utaha : …That’s not it either
+
+Momoi : What are we getting realistic about if the issue is not money ?!
+
+  Don’t get me wrong, but the budget is something to be concerned about
+  However, there is something more pressing here…
+  This weapon is too heavy-duty to be used as a personal weapon
+
+Kotori : By itself, the railgun probably weighs 140 kilograms. Add the optical accuracy device and the battery…and that’s almost 200 kilograms!
+
+Ariss : Hmm…
+
+Utaha : Exactly. We’re all happy you’re so interested in our creation, and were you able to actually handle it yourself, I imagine we could part with it.
+
+Aris : …?
+	Oh?!
+	Are you certain nothing beguiles your thought, technomage?
+
+Utaha : Huh? She’s speaking weird again…
+
+Midori : I-I think she wants to know if you’re serious about what you just said.
+
+Utaha : Of course I am. How about this, do you want to try holding?
+
+Aris : *nod*
+	*scooches forward*
+	She who lifts this weapon on high…
+	..shall rule this land!
+
+Kotori : Haha! That’s the spirit.
+
+*grab*
+
+Aris : Hup…!
+
+Hibiki : B-Be careful. don’t hurt yourself… We really should have the crane over here to–
+
+Aris : Haaaaah!
+
+Utaha : Wha…
+
+Kotori : HUH?!
+
+*woosh*
+
+Aris : Hooray I-I did it!
+
+Hibiki : No…way…
+
+Aris : Umm…So how does button layout work? Would this be the R trigger…?
+
+Hibiki : W-Wait!
+
+Aris : Blinding Light!
+
+*boooom*
+
+Kotori : Ahhh! The roof!
+
+Aris : …Amazing.
+	I will equip this to my weapon slot.
+
+Kotori : W-Wait! Pick something else! We put so much of our budget into that one…
+
+Utaha : It’s okay…
+	 She should take it.
+
+Midori : Is that really okay, Utaha?
+
+Utah : No one else can use it anyway.
+	Hibiki, put a shoulder strap and add some handles so Aris can carry it more easily.
+
+Hibiki : Can do.
+	On the plus side, we’re going to be able to collect a lot of good data from, uh, real combat scenarios.
+
+Momoi : This is crazy. I feel like we just got a super rare item!
+Thanks guys!
+
+Aris : Th-Thank you!
+
+Utaha : It’s a little early to be thanking us.
+
+Momoi : What now?
+
+Utaha : Hibiki, Go get all those drones and robots we were going to throw out
+
+Hibiki : …Okay.
+
+Midori : What’s Utaha up to?
+
+Momoi : Ah! Maybe she’s not going to let the railgun so easily.
+
+Utaha : You catch on quick.
+	 If you want that weapon…
+
+Kotori : …you’ll have to get through us!
+
+Aris : Oh?!
+
+Momoi : S-Seriously?! I thought you said we could have it if she could lift it, Utaha!
+
+Midori : W-We just wanted a weapon for Aris…
+
+Utaha : Were it any other weapon, I would happily let it go.
+	but this project, you need to earn my approval first
+
+Midori : Wh-What does that mean?
+
+Utaha : I guess it’s more of a qualification exam than a bid of approval.
+
+Midori : I don’t understand…
+
+Aris : Combat drones and robots detected. Danger confirmed.
+	Here they come!
+
+Midori : Eeek!
+
+>>Battle<<
+
+Utaha : …
+	Not bad.
+
+Kotori : Ugh! I can’t believe we lost, but I guess a deal is a deal
+	 Aris! The Sword of Light is now yours alone!
+
+Aris : Hooray!
+
+Midori : Phew, everything worked itself out
+
+Hibiki : I still can’t believe you can even lift the gun…
+	Anyway, uh, come here, Aris. I can give you some operating instructions and reinforce the grip some more.
+
+Utaha : (Grip strength of at least one metric ton, being able to maintain balance while firing, and she has superhuman strength. Not to mention a “body” which perfectly maintains itself…)
+	(It could be self-repairing itself via nanomachines, meaning it was designed for use in harsh environments where constant maintenance is required…)
+	(Obviously, one such environment immediately springs to mind…)
+	(...the battlefield)
+	(Just who is Aris, really?)
+
+<<To be continued…>>
+
+
+Episode 8 | Eligibility Screening
+
+[Millenium Game Development Department]
+
+Momoi : Haha! Now that all the hard stuff is out of the way, we can kick back and play games, right?
+	  We’ve got a raid today, Are you ready, Aris?
+
+Aris : I understand the strategy. Our gear ready, and I posted the announcement “Beginners welcome - 4 man Burning Forest Expedition - healers/DPS needed.” Ah. Peroro32 joined.
+
+Midori : Can we really afford to take it easy?
+	 Did you talk to Yuuka and tell her we have four members now?
+
+Momoi : ‘Course I did. She said she’ll come this afternoon to screen Aris’ eligibility… Oh! Aris ! The boss is about to do its AOE breath attack! Careful or we’ll get wiped!
+
+Aris : Evasive maneuvers! Casting protection magic.
+
+Midori : We’re in danger in real life too! Screening her eligibility?! What does that even mean?
+	 The survival of our club is on the line, and you’re raiding in an MMO!
+
+Momoi : Chillax, Midori. Aris is totally ready.
+
+Midori : Huh?
+
+Momoi : Aris! Do your introduction!
+
+Aris : I am known as Aris the Blue Eyes. A dwarven lancer wielding the Flame Dragon Fang gunlance, I hail from the Steel Mountains, but lost my family at an early age to a demon attack–
+
+Momoi : No, not your game character! I mean yourself, Aris!
+
+Aris : Oh, understood.
+	Hello. My name is Aris. I am a first-year here at the Millennium School. I recently transferred, but missed registration, so I will not be starting my classes until next month
+	Even though I am not in any classes yet, I was told I could still join a club, so I ended up joining the Game Development Department.
+
+Midori : Oooh. That was actually pretty good.
+
+Aris : My role in the Game Development Department is to tank and deal light-type melee damage…
+
+Momoi : You’re a programmer!
+
+Aris : R-Right! Programming… I learned to code in JABA before I ever spoke my first word…
+
+Midori : Are we going to make it through this…?
+
+Yuuka : …There’s no way this is true.
+	 There’s no way someone would join the Game Development Department now!
+
+Momoi : Sorry, but you’re wrong!
+
+Midori : Yuuka…
+
+Aris : …?
+
+Yuuka : So, you must be the “Aris” everyone is talking about. The supposed fourth member of the Game Development Department
+	 Hmm. I thought I knew every single Millennium School student…
+	 How could I have missed such a cute girl…?
+
+Momoi : (Ack!)
+
+Aris : Huh?
+	Oh.
+	It is here, the specter…
+
+Yuuka : Wh-Who are you calling a specter?!
+
+Momoi : It’s uh, a misunderstanding! Aris is a little scatterbrained so she didn’t finish her word. She must have been trying to say the “spectacular” something!
+
+Yuuka : Ugh… I don’t take kindly to strangers speaking to me this way.
+	 You have a sharp tongue, newcomer.
+
+Momoi : C-Calm down! It wasn’t personal!
+	  All that confusion aside, we got the number of members we needed! Can we keep the Game Development Department now?
+
+Yuuka : What you say is true…
+	 …assuming your new member joined of her own free will.
+
+Momoi : (Ack!)
+
+Yuuka : In the past, there were times clubs got by on just notifying us that they had found new members.
+	 Recently, however, the rules have become more strict.
+	 So, as per the new rules, I’ve got an interrogation waiting for Aris… Wait, I didn’t mean to say it like that.
+	 Anyway, I've just got a few simple questions for her.
+
+Momoi : You TOTALLY meant to say it that way…
+
+Yuuka : Don’t worry. This won’t take long.
+
+Aris : *gulp*
+	I-Is it possible to achieve a bad ending depending on the answers I choose?
+
+Yuuka : Well…I suppose anything’s possible. Okay, then. Aris.
+	 Let the games begin.
+
+<<To be continued…>>
+
+
+Episode 9 | Yuuka’s Questions
+
+[Millenium Game Development Department]
+
+Yuuka : (psst. Hey, Aris, if the Game Development Department is threatening you into staying here, blink your left eye.)
+
+Aris : *blankly stares into the distance*
+
+Momoi : What are you whispering about?! What are you trying to do to our Aris?!
+
+(Aris’ Millennium ID)
+
+Momoi : Here, take a look at this pristine student ID! She’s the real deal!
+
+Yuuka : Hmm…I Already confirmed that she’s in the student registry and was issued a student ID card.
+	 but you’re going to have to do better than that to satisfy me.
+
+Momoi : (Ack!)
+
+Midori : (I-Is she onto us?!)
+
+Yuuka : Enough preamble, let’s begin the interrogation.
+
+Momoi : She didn’t even try to hide it that time…
+
+Yuuka : So, tell me, Aris, how did you come to join the Game Development Department?
+
+Aris : Well, when I woke up, I was here… Wait, no, that is not right…
+
+Yuuka : Momoi, can you please stop glaring daggers at us like that?
+
+Aris : I, um… I wanted to play Castlemania and then I heard there was a game club here…
+
+Yuuka : Hmm…I see.
+
+Midori : (Nice you’re doing great, Aris!)
+
+Yuuka : You said “game club” in your previous answer. as I’m sure you’re aware by now, the Game Development Department doesn’t exist solely to play games.
+	 If you’re to be involved in development, what is your role here?
+
+Aris : Tank and light-type melee fighter…
+
+Yuuka : …What?
+
+Aris : Whoops! I-I mean…I am a… p-p-pro glamor!
+
+Yuuka : You mean a “programmer”?
+
+Aris : Oh, yes, that one! I am the very picture of the perfect programmer.
+
+Momoi : (She totally biffed it!)
+
+Yuuka : I see… Programming is a difficult position
+
+Aris : Oh, yes, it is tough being a programmer. Sometimes we die from working too much.
+
+Yuuka : Wh-What?!
+
+Aris : But it’s not actually that big of a deal!
+
+Yuuka : DYING isn’t a big deal?!
+
+Aris : Yeah! Usually, you just wake up at an inn or give money to the cathedral, and you are totally revived.
+
+Yuuka : Huh…? Wh-What are you talking about?
+
+Aris : Hm? It is common sense, really. Have you not played The Fable of Heroes or any of the games in the Brother series?
+	Aris : They are very good. You should give them a try.
+
+Momoi : …
+	  It’s game over…
+
+Yuuka : …
+	 All right, I think we’re done here.
+	 I think I understand who Aris is now.
+
+Momoi : (We are so screwed!)
+
+Midori : (Wh-Wh-What do w-we do?!)
+
+Aris : Uh…
+
+Yuuka : For one, I can tell you’re an odd duck
+	 But more than that, you’re someone who likes to explore new worlds, work with your friends, and achieve new things…
+	 I have no doubt in my mind that you’re a member of the Game Development Department
+
+Momoi : Wait, really…?
+
+Midori : Then that means…?!
+
+Yuuka : You’ve met the necessary requirements to maintain your status as an official club.
+
+Momoi : Woohoo!
+
+Midori : We did it!
+
+Momoi : S-So we keep the club room? Oh, and are we gonna get a budget?!
+
+Yuuka : Of course.
+	 Well, until the end of the semester, that is
+
+Momoi : Wow! Wait…what?
+
+Midori : Wh-What did you say?!
+
+Momoi : But we have enough people! What more do you want?!
+
+Yuuka : Huh? Oh, I thought you already knew.
+	 Sure, the low member count was an issue, but you also need to produce some tangible result as a club.
+	 Of course, you get a grace period since these rules just changed recently.
+	 However, if you can’t produce results within a month, your club will be shut down regardless of whether you have four members or four hundred!
+
+Momoi : Th-This can't be happening!
+
+Yuuka : But it is! I’ve already explained this to all the club presidents.
+	 Now that i think about it, your president, Yuzu, was absent from that meeting
+
+Midori : Huh?!
+
+Yuuka So the onus to comply with the change falls to you.
+
+Momoi : Grr… This is so unfair!
+
+Yuuka : What’s unfair about it? In fact, making everyone follow the same rules is the definition of fair, really.
+	 If I’m being honest, I still have my suspicions about Aris’ identity and I had come in here today intent on shutting down this club.
+
+Midori : Huh?!
+
+Yuuka : But one thing is clear to me–Aris has a real passion for gaming.
+	 Given that passion, I don’t think I can take away your grace period in good conscience. If that passion is real, it should produce fitting results.
+	 As I recall, Momoi, didn’t you tell me you’d have something amazing to show us at the Millennium Prize?
+
+Momoi : I…I guess i did
+
+Yuuka : Well, now that you have a new member, You’ll have more resources to make your new game all that much more fun, right?
+	 I’m looking forward to playing iy. Bye!
+
+Momoi : Hold on you… You…! Arrrgh!
+
+Midori : She’s gone…
+
+…
+
+Midori : Hmm…
+	 So in the end, we’re still in big trouble.
+
+Momoi : Gah! This sucks! They’re just trying to get us kicked out!
+
+Yuzu : …I’m sorry. I should have gone to the club meeting.
+
+midori : I-It’s not your fault, Yuzu! Momoi was supposed to go in your place if you couldn’t make it!
+
+Momoi : Right, but, um…
+	  Well, y’know, the item drop rate was doubled at the time.
+
+Midori : Delete that game right now!
+	 Ugh… There’s only one option left.
+
+Momoi : Yeah…
+
+Midori : We have to make a game that we can take to the Millennium Prize.
+
+Momoi : So we need the G.BIBLE after all! Ugh, Does that mean we’re going back to the ruins?
+
+Yuzu : …
+	This is all my fault
+
+Midori : Huh? What was that, Yuzu?
+
+Yuzu : If you’re going back to the ruins…then I’m coming with you.
+
+Momoi : You WHAT?!
+
+Midori : B-But you haven’t left the school building in half a year. You’ve taken every class online!
+
+Yuzu : I need to take responsibility for my mistake… This club belongs to everyone, not just me.
+	For the sake of everyone, I want to protect it. 
+
+Midori : Yuzu…
+
+Aris : Bum bum bum! Yuzu has joined the party!
+
+Momoi : Alright. Let’s do this!
+
+Midori : Aris. Make sure your weapon and equipment is ready!
+
+Ariss : Loadout complete. I have equipped Supernova: the Sword of Light to my weapon slot.
+
+Momoi : That’s the spirit! This time, that G.BIBLE is ours! Let’s go!
+
+Midori : …
+	 Right
+	 We’ll protect this club room together!
+
+<<To be continued…>>
+
+
+Episode 10 | Back To the Ruins
+
+[The Ruins]
+
+Momoi : Sensei!
+	  Get down!
+
+*BOOM*
+
+Yuzu : Agh! Is everyone okay?
+
+Midori : They’re tougher than we thought. Are you okay, Sensei?!
+
+Sensei :
+[“I’m all right.”]
+
+Yuzu : If the robots keep coming like this, then…!
+
+Momoi : Don’t worry. We lured them into this narrow space  on purpose.
+
+Midori : …
+	 Aris!
+	 It’s your time to shine!
+
+Aris : *nod*
+	Today my role is…light-type AOE DPS…
+	Targeting front line threats.
+	Blinding Light!
+
+*boom*
+
+Momoi : I-It worked!
+
+Midori : That was amazing!
+
+Yzu : C-Cancel the victory animation, they’re still coming!
+
+Midori : There’s more…! We should run away, or Sensei will be in danger…
+
+Momoi : No.
+	  We can’t keep running away, We have to break through.
+
+Midori : What are you saying?!
+
+Momoi : If we retreat here, we’ll never get another chance. Now that the battle’s begun, the robot will never stop coming.
+	  This is our only chance to get into the factory and go to where the G.BIBLE should be.
+
+Midori : B-But Momoi…
+
+Aris : We can do it.
+
+Midori : Huh? But how?!
+
+Aris : As a team of four, we have explored 27 dungeons and carried out 139 successful raids to date.
+	If we are together, there is nothing we cannot do.
+
+Midori : You think we can win a gun fight because we’re good at an MMO?!
+
+Yuzu : It’s risky, but I-I won’t give up here.
+
+Midori : But what about Sensei! We might be okay, but Sensei could be in a lot of danger!
+
+Aris : Do not worry
+
+midori : Huh?
+
+Aris : I will protect Sensei no matter what happens.
+	Sensei, are you with us?
+
+Sensei :
+[“Or course I am”]
+[“We’re a party, aren’t we?”]
+
+Aris : …!
+	Bum bum bum! Sensei has joined the party!
+
+Midori : *sigh* fine, fine! I get it already!
+	 Prepare to breach their ranks!
+	 Please lead the charge Sensei!
+
+>>Battle<<
+
+<<To be continued…>>
+
+
+Episode 11 | Right There, In That Place
+
+[Inside the factory]
+
+Midori : *pant pant*...Did we make it?
+
+Aris : Entry successful, Objective complete.
+
+Momoi : Wow! We’re actually, like, crazy strong! If we tried, we could probably even take on C&C or some of those ace squads from other academies!
+
+Midori : You’re nuts, we’d never beat C&C…but you’re right. We’re actually pretty good…
+	 Maybe it’s because Sensei is leading us!
+
+Yuzu : I get what you mean. Having Sensi around…definitely makes a difference…
+
+Midori : Oh, how’s our ammo supply doing?
+
+Aris : My battery is…blinking. Is my MP low?
+
+Yuzu : I’m running low, myself. I can probably only handle one more short firefight.
+
+Misori : Hmm. Then we should avoid another encounter
+
+Aris : This place is…?
+	Oh.
+
+Momoi : What’s up, Aris?
+
+Aris : …
+	I am…not sure. Something feels familiar. We have to go this way
+
+Momoi : Huh?
+
+,,,
+
+Aris : There is no data of this place in memory. but…my body knows it.
+	It is like playing a game you last played many years ago
+	Without a tutorial or explanation, you still have a sense of where to go.
+
+Momoi : Hmm. I know what you mean. Y’know, I guess this place is kind of similar to where we found Aris in the first place
+
+Midori : Like that computer over there, you mean? Huh?
+
+Momoi : I think that computer is already on!
+
+…
+*beep*
+<Welcome to the Divi:Sion System. Please enter the item you need help with>
+
+Momoi : Wow, this’ll be easier than I thought! Should I type in “G.BIBLE”?
+
+Midori : Uhhh…isn’t this kind of suspicious? What’s the Divi:Sion System, anyway? Could that refer to this munitions factory?
+
+Aris : *swoop*
+	Keyboard obtained. Searching for G.BIBLE. *click clack*
+
+Momoi : Oh! Something popped up!
+
+<…>
+<#$@#$$%#%^*&(#@>
+
+Momoi : I-Is it broken?! Aris What did you do?!
+
+Aris : I-I did not press enter, though…
+
+<Identity check, are you AL-1S?>
+
+Momoi : Huh?!
+
+Midori : Whoa!
+
+Aris : Hmm?
+No. I am…me. I am “Aris”
+
+Midori : W-Wait!
+	 Something’s weird about this. I don't think you should hit enter. Aris…
+
+<Voice recognition confirmed. Access granted. Welcome back, AL-1S.>
+
+Momoi : Huh?!
+
+Midori : Why even have a keyboard?!
+
+Yuzu : Why does it think Aris’name is AL-1S?
+
+Midori : Um, sorry, Yuzu. I should’ve told you earlier.
+
+Aris : …
+	My name is actually…?
+	Computer, do you know about Al-1S
+
+<…>
+<…>
+
+Midori : It’s really taking its time…
+
+Momoi : The screen’s getting all blurry, what’s wrong with it?
+
+<Ye—@!#%#@!$%@!!!>
+
+Midori : H-Huh? What was it saying?
+
+<That’s…>
+<…>
+<An emergency situation has occurred>
+<Power down imminent>
+<Power down imminent. All data will be lost in power down. 51 seconds remain.>
+
+Momoi : What?! N-No, don’t die! We have to find the G.BIBLE!
+
+<Seeking query “G.BIBLE.” Found. Commence load [YES/NO]>
+
+Momoi : Really?!
+
+Midori : Yes!
+
+<G.BIBLE verify complete. Game code identified. For human comprehension and reference, data registry will be discarded. 35 seconds remain…>
+
+Momoi : Don’t go throwing parts away! It’s a treasure among game developers–no, the entire world!
+
+<Suggestion: If you wish to acquire the G.BIBLE, connect a storage device to receive transfer data.>
+
+Momoi : What? Do you know where the G.BIBLE is?
+
+<Yes. And so do you>
+<You’ve already found it>
+
+Momoi : Wh-What?!
+
+<To be precise, I contain the G.BIBLE. However, my current form will not last much longer. Please move me to a new storage device.>
+
+Momoi : Hmm. What do we have that could work…? Oh! We can use this Game Girl SP memory card?
+
+<*sigh.mp3* That’s fine, I guess…>
+
+Momoi : Wh-Why does it seem so unhappy all of a sudden…?
+
+Yuzu : Let me plug the link cable, And…there!
+
+<Initiating transfer. Insufficient storage space detected. Deleting existing data. 9seconds remain.>
+
+Momoi : You what?! My Game Girl files are all disappearing! What do you think you’re doing?!
+
+<As I said, “Insufficient storage space”>
+
+Momoi : Find some more room somewhere else! Please! Anything but my save files! I worked so hard to get that equipment…
+
+<Sorry, file deletion complete>
+
+Momoi : Aaaaah! Noooooo!
+
+<…>
+<...>
+
+Midori : huh…? Did it run out of power?
+
+Momoi : My Saaaves!
+
+<*screen turns on*>
+
+Midori : W-Wait!
+	 There’s something on the screen…
+
+<Transfer complete.>
+
+Momoi : What now?
+
+<New data confirmed>
+<G.BIBLE.exe.>
+
+Yuzu : I-It’s really here!
+
+Momoi : If we have it, we might as well make sure it’s the real deal!
+	  Exe go! Oh, There’s a pop-up…
+	  It wants a password?! Are you kidding me?!
+
+Midori : I-If the password isn’t too complicated…then Veritas can figure it out?
+
+Yuzu : *nod nod*
+
+Momoi : And if we do that…!
+
+Midori : We can actually make Tales Saga Chronicles 2…fun…
+
+Momoi : We can do it! Yes! Ahaha!
+	  Watch out Millennium prize–no, all of the Kivotos game awards! Our new game will shake the Kivotos gaming industries to its core!
+
+Midori : Shhh! If you keep yelling like that–
+
+Robot : …
+
+Midori : Of course they heard you…
+
+Momoi : Whoops…
+
+Robot : – – –  –  – !  – – – !
+
+Yuzu : Wh-Why does it seem so mad ?!
+
+Robot : *rat-tat-tat-tat*
+
+Momoi : Eek! R-Run!
+
+Midori : Momoi, the console!
+
+Momoi : Take it! Yuzu, protect Sensei! Aris and I will hold back the robots while you escape!
+
+Midori : Let’s do this!
+
+Momoi : I’m not going to lose now that we finally have the G.BIBLE!
+	  Game Development Department, here we go!
+
+All : RIGHT!
+
+>>Battle start<<
+
+<<To be continued…>>
+
+
+Episode 12 | In Search of the Mirror
+
+[Millennium - Veritas]
+
+Hare : I’ve reached my conclusion about the data you delivered.
+
+Midori : It’s finally time…
+
+Aris : My heart is beating really fast.
+
+Hare: As you know, Veritas prides itself on being the best hacker in all of Kivotos.
+	We’re handed cases regarding system and data recovery on a daily basis. Of course, we’ve solved problems like yours countless times…
+	Hm. I’m going to be frank with you.
+
+Yuzu : *gulp*
+
+Hare : Momoi. Your save files cannot be recovered.
+
+Momoi : *sob* Nooooo!
+
+Midori : Momoi! You were supposed to ask them to figure out the password to the G.BIBLE!
+
+Kotama : Oh, that’s what Maki’s working on.
+
+Midori : Maki is?
+
+Maki : Good mornin’, Mido!
+	I was just about to head over to see you guys, but here you are.
+
+Momoi : *sniffle* All my saves…WAAAH!
+
+Maki : What’s her deal?
+
+Midori : Don’t worry about her. Please tell us about the G.BIBLE.
+
+Maki : I finished my analysis. All signs point to this being the real G.BIBLE, the manual written by the legendary game developer themself
+
+Midori : Yes!
+
+maki : The file creation time, last sent time, file format, and the author all match the IP of the legendary game developer you mentioned, and above all, the data has been copied exactly once.
+
+Midori : That means…!
+
+Maki : Yep. This is the real deal.
+
+Midori : A-Amazing!
+
+Maki : That said…we haven’t able to decrypt the password yet
+
+Momoi : Huh? You’re killing me, MAKI!
+
+Maki : Sheesh. I may be a hacker, but this is some white-hat-level stuff we’re dealing with.
+	But it’s not like we’re out of options.
+
+Momoi : Oh?
+
+Maki : While it’s basically impossible to brute force that password, we may be able to dupe it without the security file.
+	And to do that, we’re going to need a tool known as the Optimus Mirror System–or the Mirror for short.
+
+Momoi : Th-This is all going way over my head…
+
+Midori : Do I have this right? You need this Mirror thing to open the G.BIBLE? Where is it now?
+
+Maki : Well, uh, we used to have it here at Veritas…
+
+Momoi : Great, then let’s crack this sucker op–wait! “Used to”?! You mean it’s not here anymore?!
+
+Maki : Haha, well, the freaking Student Council came in and took it away!
+	That Yuuka stormed in here a few days ago, saying all sorts of stuff like it’s “disgraceful” that we had “illegal equipment.” Sheesh. What a killjoy.
+
+Kotama : Besides the Mirror, she also took my…wiretaps…
+
+Midori : Is this Mirror thing as dangerous as a wiretap?
+
+Hare : Not at all. It’s just a simple tool optimized for cracking encrypted systems.
+	And…it’s the only hacking tool in the world created by our club president.
+
+Midori : You mean Himari?
+
+Aris : Who is Himari?
+
+Midori : She’s the president of Veritas. Even though she’s wheelchair-bound because of her health, Himari’s not one to be underestimated or pitied.
+	 She’s a genius known for being the only three students in Millennium to receive the Omniscience Award.
+
+Momoi : Yeah, yeah, that’s impressive and all, but what I wanna know is how you managed to lose this genius’ equipment!
+
+Kotama : I just wanted to see what was Sensei texting…
+	    Purely out of scientific curiosity, of course.
+
+Midori : Riiiiight…
+
+Maki : Gah! If I don’t get that Mirror back soon, the president’s gonna yell at me!
+
+Hare: Anyway, as you can see our interests have aligned.
+	We need our president’s tool back, and you want to unlock the G.BIBLE
+
+Momoi : Ah. I was wondering why you wanted an in-person meeting. I think I know where this is going.
+
+Midori : Wait. You don’t mean…?
+
+Maki : Heh. you’re pretty sharp, Momo.
+
+Momoi : It's like they say, birds of a feather flock together.
+
+Aris : Before we enter the dungeon, we become a raid party.
+
+Midori : A-Are you guys seriously suggesting…
+	 …we attack the Student Council with Veritas?
+
+…
+[Millennium Rooftop]
+
+Yuuka : Yes, you heard me correctly.
+
+Akane : you say that, but I’m still having a hard time believing it.
+	 I know of Millennium’s Game Development Department.
+	 They seem like such cute, innocent girls. you really think they intend on attacking the Student Council?
+
+Yuuka : They’re naive. That’s why they do ridiculous things sometimes
+	 But it’s not so simple this time, Veritas is also involved.
+
+Akane : Veritas? Those Hackers?
+
+Yuuka : Indeed. both groups are willing to pull out all the stops when the things they hold dear are on the line.
+
+Akane : I see. Well, it is our job to respond to requests
+	 However, there is one little problem.
+
+…
+[Millennium - Veritas]
+
+Momoi : What kind of problem?
+
+Maki : It’s the folks guardin’ the Students Council’s Contraband storage where the Mirror is.
+	It’s the Maid Club.
+
+Midori : The maid Club…?
+
+Momoi : I see. They also got C&C, right? They’re a strike team from our school who wear maid outfits and “clean up” their targets…
+
+Maki : Exactamundo! Don’t worry, it’s just a minor snag!
+
+Momoi : Right! It’s minor…Super minor…
+	  …
+	  Gah! It’s impossible! We have no choice but throw in the towel!
+
+Maki : Whoa, what the heck are you giving up for, Momo? Don’t you need the G.BIBLE?!
+
+Momoi : Sure we need it, but are you serious right now? The Maid Club?! You've gotta be kidding me!
+	  We’d be better off standing in front of a moving train or throwing ourselves into a volcano than trying to fight them!
+
+Maki : B-But, if we don’t do somethin’, the president is gonna yell at me–Imean, the Game Development Department is gonna be shut down!
+
+Momoi : Of course I don't want to get us shut down! But, come on! This is just crazy talk!
+	  C&C have gotten rid of countless extremist groups and armed factions. And you know what else?
+
+Hare : …When they “clean up,” they don’t leave a single trace of their existence behind.
+
+Momoi : Exactly! The club is important, but I can’t put Midori and Aris at that kind of risk! It’s too dangerous!
+
+Maki : Danger! You’ve got it all wrong! We’re not Gehenna’s Prefect Team or Trinity’s Justice Task Force or something. Why would the Maid Club have to make us disappear?
+	ya see, our goal isn’t to get rid of the Maid Club. All we gotta do is get what we need out of the storage room they’re guarding!
+
+Momoi : That’s basically the same thing!
+
+Hare : Actually, she has a point.
+
+Kotama : From what I’ve heard, the Maid Club’s not a full force right now.
+
+Momoi : Don’t tell me…
+
+Hare : I see. While the Maid Club is widely considered the strongest squad in Millennium…
+	…It wasn’t just their skill as agents that earned them that reputation.
+	It was because of “her.”
+
+Midori : The president of the Maid Club, Callsign Double O, Neru.
+
+Hare : Correct.
+	But as it happens, right now, she’s…
+
+…
+[Millennium Rooftop]
+
+Yuuka : N-Neru isn’t here?!
+
+Akane : That’s right. I believe she’s out on personal business in the outskirts of Millenium.
+	  But you needn’t worry.
+	  Our president is, well, let’s just say she’s much fit for destroying, rather than protecting.
+	  C&C is a strong fighting force when we’re with our president.
+	  But if the job is to protect something…we may be better off without her.
+	  As such, we’ll accept your request.
+	  Until the deadline given to the Game Development Department, all access to the Student Council’s contraband storage is off-limits.
+
+…
+[Millennium - Veritas]
+
+Momoi : So we avoid direct combat, grab the Mirror, and run for our lives…
+
+Midori : …
+	 Let’s do it, Momoi.
+
+Momoi : You too, Midori?! Even without Neru, the Maid Club is still, uber scary!
+
+Midori : I know, but…I’m not just going to give up.
+	 Our club room’s old and leaky, but…
+	 …it’s not just where we get together to play games anymore
+	 It’s…where we all belong.
+	 If we can avoid fighting the Maid Club…I think we have a chance.
+	 no, even if we have to fight them!
+	 I want to keep it safe.
+	 For Aris and Yuzu and all of us together/
+
+Momoi : Midori…
+
+Aris : I believe in us.
+	When the world is on the brink of destruction, the legendary hero must rise to save it by defeating the wicked demon lord.
+	After playing approximately 45 RPGs…I have determined that there is a powerful weapon all these legendary heroes have in common.
+
+Momoi : What do you mean? like leveling up or upgrading equipment?
+
+Kotama : Or perhaps wiretap?
+
+Maki : Or an EMP?!
+
+Aris : Uh… No.
+	they fight alongside their friends
+
+Momoi : Aris…
+	  …
+	   All right.
+	  We’re doing this, We’re gonna break into the Student Council and take the Mirror.
+	  You’ve got a plan right, Hare?!
+
+Hare : Naturally.
+	But, in order to put that plan into action…
+	…we have some preparations to make.
+	Like wiretaps, EMPs and…
+	…as Aris so eloquently put it, a little help from our friends.
+
+Momoi : By that you mean…?
+
+Aris : Ah! *sparkle sparkle*
+
+Hare : But, um, we’re not exactly on the best of terms at the moment, so I think you’ll have to do the talking, Sensei.
+
+Sensei : 
+[“You want me?”]
+[“What do you have in mind?”]
+
+Hare : Yup
+	To be frank, this plan is dead on arrival unless we can enlist their help.
+
+[Millennium Engineering Club]
+
+Utaha : I see.
+	 As you said, you’d have a hard time pulling off a plan like this without our help.
+	 Very well. you can count us in…
+
+Midori : Wait, really?
+	 But hasn’t the Engineering Club already qualified to be renewed?
+
+Utaha : We did.
+
+Midori : Then why would you team up with us to take on the Maid Club?
+
+Utaha : Oh. It’s actually pretty simple.
+
+Hibiki : Because that sounds fun.
+
+Kotori : Plus, it’s a chance to hang out and get to know Sensei!
+
+Utaha : That aside, there’s also…
+
+Aris : ???
+
+Midori : Huh?
+
+Utaha : …Oh. Don’t mind me. I look forward to seeing what you guys can do.
+
+Midori : Uhhh, okay.
+	 Anyway, here’s to a fruitful partnership!
+
+[Millennium - Veritas]
+
+Momoi : All right! Is everyone here?
+
+Hare : Yes, and we are ready to proceed.
+
+Momoi : Awesome!
+	  So when is go time for the mission?
+
+Hare : The mission…?
+	Well, actually, it’s already begun.
+
+…
+[Millennium Rooftop]
+
+Akane : I do have one thing I'm curious about, Yuuka.
+	 How do you know the Game Development Department and Veritas will attack the Student Council?
+	 When it comes to information warfare, I didn't think there was anyone at Millennium who could surpass Veritas.
+
+Yuuka : You’re right about that.
+	 However, that’s precisely how we came to know this plot.
+
+Akane : What?
+
+Yuuka : There was only one person who could tip us off to such a thing.
+	 The president of Veritas herself, Himari…
+
+<<To be continued…>>
+
+
+Episode 13 | Nerds vs. Maids
+
+[Millennium Main Control Room]
+
+*booooom*
+
+Aris : Gah!
+	I-I am down!
+	Resurrection spell…please…
+	*flop*
+
+Yuuka : …
+	 Ridiculous.
+	 Their plan for taking on the student Council was…a bum rush?
+
+Akane : So this must be Aris
+	 She’s. So. Cute. Can I keep her? I just want to scoop her up and train her to become our sixth maid agent.
+
+Yuuka : You may not.
+	 She’ll be held in the counseling room for assaulting the Student Council.
+	 What a mess. I can’t believe she tried to get past the elevator’s fingerprint recognition system by blasting down the door.
+
+Operator : The elevator’s lock is beyond repair. It needs to be replaced immediately.
+
+Yuuka : Hmm… Then let’s order a replacement right–wait a second.
+	 That weapon Aris had must have come from the Engineering Club…
+	 If that’s the case, then it wouldn't be wise to go to them like we usually would.
+	 Something about this smells suspicious…
+	 Find the strongest security system in kivotos not designed byu the Engineering Club and get that ASAP.
+
+[Millenium Outer Hallway]
+
+Momoi : C-Crap! They’re taking Aris away!
+
+Yuzu : calm down, Momoi. This is all part of the plan.
+
+Midori : Stay strong, Aris… We’ll save you soon
+
+Hare : Well… So far so good.
+	Right, Sensei?
+
+Sensei :
+[“That’s right”]
+[“Are you all ready?”]
+
+Maki : The Engineering Club’s message says, “Good work. The trojan horse is past the gates”
+
+Momoi : Phew ! That’s a relief. If this hadn’t worked out, Aris would have gotten locked up for nothing.
+
+Hare : It’s time for the next phase.
+
+[Millenium Outer Hallway - Night]
+
+Midori : Sh-Should we get started?
+	 *sigh* I’m so nervous.
+	 I haven’t felt like this since we invaded the Ancient History Research Society building.
+
+Momoi : What’s the status of Hibiki and Utaha?
+
+Hare : We’re all set to meet our guests.
+
+Momoi : Good.
+
+Midori : Is it really, though?
+
+Momoi : What about Maki and Kotori?
+
+Maki : Standing by!
+
+Kotori : Don’t worry, we can do this for sure! My calculations say we’ve got a whole two percent chance of pulling this off!
+
+Momoi : B-But that means there’s a 98 percent chance of failure!
+
+Kotori : Heehee I’m totally kidding! It’s actually the other way around!
+
+Midori : Well, if Kotori and Maki are ready…
+
+Momoi : …then phase two is a go.
+
+Midori : Sound us off, Sensei!
+
+Sensei :
+[“Let’s do this!”]
+
+Midori : Right!
+
+Momoi : Here we go!
+
+[Millennium Main Control Room]
+
+*be-beep be-beep*
+
+Yuuka : They’re here.
+
+Operator : Camera visual on target confirmed, Target is emerging at point A1 of entrance 
+No. 1.
+		Target is approaching point A2
+
+Akane : Which means they have no means of escape, correct? All right, then. I’m on it.
+
+Yuuka : Huh? Is this really something you need to handle yourself?
+
+Akane : But of course.
+	 After all, welcoming guests with a smile is a maid’s most basic duty.
+
+[Millennium - Veritas]
+(Two hours ago…)
+
+Hare : First, let me detail our target, the Student Council’s contraband storage. THe current location of the MIrror.
+	Seminar, Millennium’s Student Council, are naturally suspicious bunch, and the topmost floor of the Millennium Tower is dedicated to their exclusive use.
+	The contraband storage is on the west side of that topmost floor.
+
+Maki : Between our location and the storage room are about 400 cameras and a little more than 50 security robots. Some of said robots were confiscated from shady organizations
+
+Utaha : 442 surveillance cameras and 52 robots of three kinds to be precise.
+	 It was the Engineering Club that helped implement the security system, you see.
+
+Momoi : Whoa…
+
+Hare : The biggest issue is that you have to take an elevator to get to the contraband storage, And this elevator can only be accessed by personnel with fingerprint authorization.
+	Even if you were to bypass the elevator, you’re bound to run into members of the Student Council and armed security guards. And most importantly…
+	…these areas exclusive to Student Council members are all sectionable.
+
+Midori : What does that mean?
+
+Hare : Let’s say that smoke is detected in one of the rooms. That triggers a shutter that sections off the room from the rest.
+	Once a shutter drops, it can only be disabled by a Student Council member’s fingerprint.
+	What happens if an unauthorized fingerprint is input? A titanium-enforced shutter also drops. Disabling both then requires a valid simultaneous Student Council fingerprint and a retina scan.
+
+Midori : Ugh. I’m having a hard time wrapping my head around all this.
+	 Let me get this straight: The only way to move between floors is by elevator.
+	 The area upstairs is equipped with fingerprint-based security devices, which, when triggered, activate heavy shutters that section off the area.
+	 Furthermore, failing to get through the security triggers an even more powerful shutter.
+
+Maki : Don’t forget about the armed guards and security cameras!
+
+Utaha : Surveillance cameras can be hacked. However, these security shutters are impossible to tamper with, even for Veritas. Their only connection is to an isolated, internal network
+
+Hare : We’ve also just learned that trying to brute force the elevator will seal off the entire floor.
+
+Momoi : Arrrgh! This is nothing but terrible news! Where’s the good news?!
+
+Hibiki : Well, there is a weakness. We should know–we put it there.
+	For starters, the system is vulnerable to external power failures. When power is lost, it automatically connects to the external network, opening a short window for the system to be hacked.
+	Using our nano-EMP, we can send Millenium back to the Stone Age for about six seconds.
+
+Hare : Six seconds…
+	It's enough time.
+
+[Millennium Outer Hallway - Night]
+(Back in present…)
+
+Momoi? : Um. It should be around here.
+
+Midori? : This isn’t right, Doesn't it seem like we’re in too deep?
+
+Akane : Not at all. You’re exactly where you’re supposed to be.
+
+Momoi? : Huh?!
+
+Akane : Welcome. I’ve been waiting for you.
+	 As you’ve no doubt already realized. Your plan has failed.
+	 I’m C&C’s callsign Zero-Three. My real name is confidential, so you can just call me the Beautiful Maid of Mystery.
+
+Midori? : *gasp* It’s Akane!
+
+Momoi? : Isn’t she the maid agent who specializes in assassination?
+
+Akane : Phooey. What’s the point of maintaining a secret agency if everyone knows about it? Does this mean I should stop playing the mysterious heroine?
+
+Momoi? : Oh, right, didn’t Kotama say that the last time you weighed yourself, you were–
+
+Akane : S-S-Stop right there! The fact you even know something like that is a huge problem!
+	 You’d better keep that info to yourself, Momoi. You too, Midori!
+
+Momoi? : …
+
+Midori? : …
+	
+Momoi? : Hehehe.
+
+Akane : ?
+
+Momoi? : You don’t realize it yet, but you’re the ones who failed.
+
+Akane : I beg your pardon?
+
+Maki : *step step*
+	Hiya, Akane! We got lost on our way to the dorms, Can ya believe it?
+
+Akane : Wh-Who are you?!
+
+Kotori : You really wanna know?! Then allow us to introduce ourselves!
+	Ask and ye shall receive! The walking encyclopedia of the Engineering Club, Toyomi Kotori!
+
+Maki : Why do art and science have to be at odds? Meet Veritas’ resident digital artist, Maki!
+
+Akane : But you're not with the Game Development Department… What is…?!
+	 Yuuka! What is the meaning of this?
+
+Yuuka : I don’t know! The surveillance cameras definitely show Momoi and Midori approaching point A2! But I can’t see you anywhere!
+
+Akane : Wh-What? Then…can it be?!
+
+Yuuka : Reset camera settings! Block cloud access and play the only closed circuit feed!
+
+Operator : Refreshing feed! Visual confirmed! It's Akane! She’s locked in a confrontation with Kotori and Maki!
+
+Akane : That means…
+	 …the feed we’ve been watching until now was…?!
+
+[Millenium Passageway]
+
+I wonder if they’ve figured out that the security footage is pre-recorded.
+
+Midori : Do you think it would have been better for us to just play the pre-recorded footage of an empty hallway while we grab the Mirror?
+
+Momoi : People are coming and going through there all the time. They wouldn’t take the bait unless we did it just right.
+	  Splitting up the maids and trapping them in place is our best chance.
+	  …
+	  Oh, It's the elevator. Let’s go up for real this time.
+
+Midori : Wait a second… Sensei, it’s pretty dark, so grab ahold of our hands.
+	 Okay then…Ready!
+
+Momoi : Here we go!
+
+*woooooeee*
+[Millennium Outer Hallway]
+
+SYSTEM : Intruder detected. Commencing emergency shutdown for designated Seminar floor sector.
+
+Akane : Hey, now! The shutters are dropping. Wait, you don't think…?!
+
+*thunk*
+
+Akane : Oh, dear…
+
+Maki : Looks like we got locked in together!
+
+Akane : No matter. Unlike you all, I can easily escape from here.
+	 All I have to do is put my finger here, and I’ll be free, while you are trapped here… *beep*
+
+SYSTEM : Invalid fingerprint.
+
+Akane : …Huh?!
+
+SYSTEM : Secondary shutters activated.
+
+Akane : No, wait!
+
+*rummmble thunk*
+
+[Millennium Main Control Room]
+
+Operator : Akane’s been trapped!
+
+Yuuka : Send a student Council member! Noa is nearby! She can open the door.
+	 (What are they thinking? The real Momoi and Midori should also be trapped somewhere.)
+	(Wait a second. It can’t be…!)
+
+Operator : We’ve just received word from Noa! She’s also trapped, and the door won’t open!
+		The second shutter also dropped on her. Noa needs help!
+
+Yuuka : Wh-What the…?!
+	 But how?! This is brand new equipment, just installed todah–oh, no!
+	 This is why Aris broke those doors? This was their plan all along?!
+
+[Millennium Main Corridor]
+
+Midori : Sensei! Momoi! We’ve received a communication from Hare! The plan to trap Akane worked!
+
+Momoi : The fingerprint recognition device is working just as it should be.
+	  All of the Student Council members have been isolated! Now, we’re the only ones who can move freely through the Student Council floor!
+
+Midori : Thank goodness the Engineering Club was able to trick that manufacturer into being the go-between seller for their new security system.
+
+Momoi : It’s so well-made that the council had no idea it was actually designed by the Engineering Club. Anyway, Let’s get going
+
+*beep* Saiba Momoi, Saiba Midori, and Sensei. Acces granted.
+
+Midori : Hmm? Didn’t something like this happen not that long ago…?
+
+Momoi : Right. Wasn’t it at the ruins? How nostalgic. It already feels like a lifetime ago.
+	  Anyway, It’s good that we were able to lock up Akane, but I wish we could get Asuna too. We still don’t know where she is, do we?
+
+Midori : Hare looked all over Millennium but couldn’t find her. Maybe she’s outside the academy?
+
+Momoi : Probably. I heard she ditched a mission once to get a parfait. She still got back on time and finished the mission, but still… Anyway, everything’s going according to plan!
+
+??? : Who goes there?!
+
+Momoi : Eek! Student Council members?! There’s still some left?!
+
+Midori : S-Sensei?!
+
+Sensei :
+[“Let’s push through”]
+[“Let’s run away”]
+
+Momoi : I guess we have no choice.
+
+Midori : Sensei… You’re actually serious?
+
+…
+
+Sensei :
+[“Let’s go!”]
+
+>>Battle<<
+
+[Millenium Outer Hallway]
+
+Maki : That wall looks a lot more formidable than those steel shutters. We’re really stuck aren’t we?
+
+Kotori : Hehe. Akane, since we just happened to be confined in here with nothing else to do, why not take this time to listen to my lecture on relativity?
+
+Akane : Come in, command! This is callsign Zero-Three, and I’m trapped in area A-11! Requesting response from callsign Zero-One! Do you copy?
+
+SYSTEM : Your call has been forwarded to an automatic voice mailbox…
+
+Akane : AHHH! Asuna! Where the hell are you?! Turn your comm on, for crying out loud!
+
+*beep beep*
+Connecting. New Message…
+
+??? : I don’t know where Asuna is, but don’t worry, Akane.
+	I’ve got the Game Development Department exactly where I want them.
+
+From: callsign Zero-Two
+
+<<To be continued….>>
+
+
+Episode 14 | Maids vs. Meisters
+
+[Millennium Hallway]
+
+Momoi : The last shutter is down. Now the only way to navigate the Student Council floor is with my fingerprint! Just a little bit farther until we reach the contraband storage and the Mirror…
+
+Hare : Momoi! Hit the deck!
+
+Momoi : Huh?
+
+*kaboom*
+
+Momoi : Aaaah! 
+	  Wh-What WAS that?! That massive thing barely went over our heads! Look how big that hole in the wall is!
+
+Midori : A 13.97 millimeter anti-materiel sniper round?! That was close.It would have hit you square in the head if you were just a couple of centimeters taller.
+
+Momoi : Thank goodness we’re so tiny–not! What’s going on?!
+
+Midori : Their sniper is already in position.
+	 C&C’s sniper: Karin.
+
+Momoi : It’s coming again! Midori, get down!
+
+*bang*
+
+Momoi : Ahhhhh!
+
+[Millennium Institute 3 Rooftop]
+
+Karin : Hm? Not bad.
+	Those pip-squeeks are hard to hit. They’re as nimble as they’re small.
+	However, their speed and movement are predictable. No wind and no obstacles in the line of fire. Even clinging to walls and avoiding windows won’t save them now
+	Sorry, girls, but there’s no escape now…
+
+??? : You sure about that?
+
+Karin : …?!
+
+??? : My calculations say otherwise. In fact, Your chances of hitting are zero percent.
+
+Karin : Who’s there?
+
+Thundergun : *pop* *pop* *tat*
+
+Karin : Huh?
+
+*brat-tat-tat-tat-tat*
+
+Karin : Whoa! Th-The hell is that?!
+
+??? : I do believe introductions are in order.
+
+Utaha : Feast upon your eyes upon the Engineering Club’s latest and greatest invention, the bipedal all-terrain, combat-ready chair: Thundergun!
+
+Karin : …But why? Who needs a walking chair?! And why does it have a catapult?!
+
+Utaha : Your lack of imagination is depressing, I suppose I should have realized earlier that a dullard such as yourself wouldn’t be able to appreciate Thundergun’s charms
+
+Karin : You and that “chair” don’t make sense, but the rest is coming together.
+	I’d been wondering how those kids from the Game Development Department managed to make it this far on their own
+	Is it because of that Sensei of yours?
+	I bet Himari’s intel was just a ruse as well
+	In that case…
+
+Thundergun : !!!
+
+Utaha : Ahhh! Thundergun!
+
+Karin : It’s pretty tough, isn't it? My shot didn’t come out the other side. Oh, well. Not much good it’ll do you stuck on its back like a turtle.
+	I’ve got to admit, the idea of a walking chair with a gun strapped to it is pretty amusing
+	However, if you really wanted to stop me, you should have attempted and ambush instead of trying to take me on with this stupid glorified wheelchair.
+	Your calculations were foolish, Utaha.
+	You were never going to beat me somewhere as open as this rooftop without cover.
+
+Utaha : …
+	Without cover, huh? Yeah, that’s true.
+	But you know what else a rooftop doesn’t have? a ceiling.
+
+Karin : ???
+
+*whirrr*
+
+Karin : Wh-What’s that sound?!
+
+*kabooooom*
+
+Karin : Gah! A mortar?! But where?
+
+Utaha : Our dearest Hibiki is firing off shells from the opposite side of Millennium Tower
+	 Reaching hibiki means going through four walls and two ceilings. That is, unless you also have a mortar hiding in that frilly maid costume.
+
+Karin : You can’t be serious!
+
+Utaha : Haha. You doubted them…
+	 …but my calculations are always right.
+
+[Millennium Main Corridor]
+
+Momoi : It’s quieted down out there.
+
+Midori : That must be Utaha and Hibiki’s doing! We should get moving while they have Karin pinned down!
+
+*rumble*
+
+Momoi : Eeel W-Was that an earthquake? 
+
+Midori : N-No, an explosion. You don’t think…?!
+
+[Millenium Main
+
+Kotori : Ugh. My lecture’s…not over yet!
+
+Maki : I thought we were toast! Where the heck does she keep all those bombs anyway?!
+
+Akane : *sigh* Normally, I wouldn’t condone destruction of school property.
+	  My apologies for destroying the shutters, Yuuka. What’s the Game Development Department’s current location?
+
+Yuuka : Karin had them suppressed until a moment ago, but they’ve slipped out of our since
+	 However, it’s not hard to guess where they’re headed.
+
+Akane : It must be contraband storage where the Mirror is being kept. Understood. I’ll take the elevator and intercept.
+
+*beep*
+(Lights out)
+
+Akane : …?!
+	 Y-Yuuka?
+	 They cut the power?!
+	 they’d really go to such lengths…?
+
+[Millennium Main Corridor]
+
+Momoi : That blackout just now… Do you think it means Utaha and Hibiki succeeded?
+
+Midori : Probably? It’s so dark, though. Watch your step, Sensei.
+	 Just through here should be…
+
+Momoi : The Student Council’s contraband storage! Haha. We did it!
+
+??? : Wow! You finally made it!
+
+Momoi : Hmm?
+
+Midori : Huh?!
+
+??? : What kept you?
+
+Asuna : Howdy, Game Development Department! And… Uhhh, what was your name again? “Sensy”?
+	 Oh, right! It’s Sensei!
+	 I’ve been waiting here the whole time!
+
+Midori : A-Asuna? How’d you know we’d be here?!
+
+Asuna : I dunno!
+	 Call it a hunch! I had a feeling that if I waited here, I’d meet up with Sensei sooner or later. And you guys too!
+	 Call it a woman’s intuition.
+
+Midori : Geez. You didn’t even try to figure it out with reasoning.
+
+Asuna : Anyway, shall we begin?
+
+Midori : Huh? Begin what?
+
+Asuna : Our fight of course, silly! There’s nothing better to do than a good fight!
+	 Oh, right. We should make formal introductions first.
+	 C&C’s callsign Zero-One, Asuna, reporting for duty!
+	 Ready or not, here I come!
+
+Momoi : Oh, crap!
+
+<<To be continued…>>
+
+Episode 15 | A Spreading Danger
+
+[Millennium Main Control Room]
+
+Yuuka : Activate all the confiscated robots!
+	 I’d originally wanted to repurpose them into cleaning machines…
+	 …but right now we’ve got more pressing messes to deal with!
+	 I hereby transfer their command to Akane and the Maid Club!
+
+Akane : Understood. I’ll use those robots to sweep the Game Development Department.
+
+[Millennium Main Hallway]
+
+Momoi : Argh!
+
+Midori : Dang, she’s so strong.
+
+Midori : So this is what C&C agents are capable of…
+
+Asuna : Heh heh.
+	 (Hmm. They aren’t that strong on their own, but I have to give them some credit)
+	 (It’s their teamwork. They move in sync like one person with two bodies. Even most veterans aren’t capable of that.)
+	 So, this is the advantage of being twins, is it?
+How marvelous.
+
+Momoi : *pant* I never expected we’d run into Asuna here.
+
+Midori : Sis, I can’t keep going. Let’s run for now!
+
+Momoi : I guess we don’t have a choice.
+
+Asuna : Trying to retreat? I don’t think so!
+
+*bang*
+
+Midori : Eek!
+
+Momoi : Th-Those shells are huge! D-Do you think…?
+
+Midori : Karin? No way. D-Did she beat Utaha…?
+
+[Millennium Institute 3 Rooftop]
+
+Utaha : …
+	 Why am I on my back? And whose butt is right over my head?
+
+Karin : That would be mine.
+	For getting hit as hard as you did, you woke up much faster than expected.
+	Sorry, but you never stood a chance.
+
+Utaha : I see… You hit me through the gun smoke, and now you’re staying close to me on purpose.
+
+Karin : That’s right The mortar girl will think twice before launching another shell. She seems rather fond of you.
+
+Utaha : Heh. My calculations definitely didn’t account for this. How did you manage to hit me through all that smoke?
+
+Karin : C&C snipers don’t rely on sight alone.
+	Anyway, stay close to me. I don’t think my heart or your body can take any more of this.
+
+Utaha : …
+	 Can you do me a favor? I really feel like I'd rather just get hit with a mortar shell, so please, get your butt out of my face.
+
+Karin : Then just don’t look at it!
+
+[Millennium Main Hallway]
+
+Momoi : Update from Hare! Karin is back up, and Utaha’s been captured!
+
+Midori : We can see that!
+
+Momoi : Maki has an update too! Akane has blasted through the shutters and escaped!
+
+Momoi : Also, a group of giant robots is headed this way!
+
+Midori : *gasp*
+
+Asuna : I’m not sure, but I’ve got a feeling that we’re winning. And not only that…
+	 …something tells me you girls are in trouble.
+
+Midori : Ugh!
+
+Momoi : Did we fail?
+
+Midori : …No.
+	 Not yet.
+
+[Millennium - Veritas]
+(Fifteen minutes earlier…)
+
+Momoi : Gah. Every time we get this point in the run through, the plan always falls apart.
+	  Getting everyone’s attention is easy enough.
+
+Midori : Trap Akane and Asuna. Isolate Karin. Take on the student Council’s security robots. After all that is the easy part, getting into the storage room.
+
+Midori : Trap Akane and Asuna. Isolate Karin. Take on the Student Council’s security robots. After all that is the easy part, getting into the storage room.
+	 But, if any of that falls through…
+
+Momoi : …then it’s game over. Nobody at the Millenium can go head-to-head with an opponent as prepared as the Maid Club.
+	 Even using Himari’s name to sow confusion can only get us so far. It’ll buy us some time, but we’ll probably still end up getting cornered.
+	 So by minute 2, we trap Akane and Asuna. By minute 5, Karin is isolated. At minute 11 we defeat the automata… We secure the Mirror at minute 13…
+
+Yuzu : And by minute 20, we’ll all be arrested.
+
+Midori : …
+	 …But what if it wasn’t ALL of us?
+
+Momoi : What do you mean?
+
+Midori : To win, some of us have to lose.
+	 And then…
+
+Momoi : M-Midori, what are you saying?
+
+Midori : I’m talking about turning the bug of the plan failing…into a feature.
+
+ [Millennium
+
+Aris : Oh. 
+	A blackout. So that means…
+
+*clank*
+
+Aris : The EMP went off and Hare hacked the system settings. Which means the doors in the Student Council build should be open as well as the shutters.
+	All right. 
+	Jail break time.
+	And the next quest marker is at…
+	…the Student Council contraband storage.
+
+[Millennium Main Hallway]
+
+Momoi : No matter how vigilant they are, there’s no way they’ll be thinking about Aris when things are happening.
+	  Even if we get caught, and assuming they only put us on probation, we could still use the G.Bible to secretary create Tales Saga Chronicle 2 in the club room.
+
+Asuna : I can’t hear when you’re whispering, but It doesn’t really matter.
+	 You don’t seem as desperate as you were before. Not giving up just yet?
+
+Yuuka : It’d be best if you gave up now.
+
+Momoi : Ugh. It’s Yuuka.
+
+Yuuka : I have to congratulate you for fooling us thus far.
+	 But you’ve gone too far this time.
+	 I can hardly believe the sheer audacity of you to attack the Student Council with the help of terrorists.
+	 And to think I gave you a grace period to try and save your club. I guess I’ve been too soft.
+	 Don’t even imagine trying to escape punishment. You’d better be prepared to be confined or suspended for no less than a week.
+
+Momoi : W-Wait. What?!
+
+Midori : B-But the Millennium Prize will be over in a week!
+
+Yuuka : Lucky for you that your friend Aris is already in custody. I felt bad about locking her up alone, so I’m sure she’ll be happy to have some company.
+
+Momoi : ugh…
+
+Midori : S-Sis!
+
+Momoi : I thought we could make it work even if we got caught, but…
+	  But if we’re caught…it’s over! Even if we had the Mirror, Aris and Yuzu can’t make the game alone.
+	 So we have no choice. We have to get through this no matter what!
+
+Yuuka : Oh? You want to go through us?
+
+Akane : *huff puff* …Phew, barely made it. Why am I so out of breath…? Ugh, Could it really be my weight…? N-No way! C-Couldn’t be!
+
+Momoi : Huh?!
+
+Midori : I-It’s Akane and the combat robots!
+
+Akane : Ha. We’ve reached the end of the line.
+	 Pleased to make your acquaintance, Momoi, Midori.
+	 You should know that despite our reservations, Maki and Kotori still have a chance of being forgiven.
+	 But anyone who’s come this far is beyond forgiveness.
+	 Also…
+
+Yuuka : You should be expecting a stern letter to Schale, Sensei.
+
+Momoi : Ugh…
+	  Is this…really how it ends…?
+
+Midori : Sis!
+
+Momoi : I’m sorry, Sensei. You tried so hard for us, but we ruined it! Our best wasn’t enough!
+
+Sensei :
+[“Don’t give up”]
+[“Don’t be sorry. It’s been an honor”]
+
+Momoi : Thanks, Sensei. but…it’s already over.
+	  Millennium’s strongest forces, C&C and the Student Council, have us in a pincer.
+	  How are we supposed to have hope in a situation like this?!
+
+Target confirmed.
+*vrrrrrrr*
+MP charge… 100%
+
+Momoi : D-Do you hear that?
+
+Midori : Sis! Get on the Ground!
+
+Akane : Hmm?
+
+Asuna : huh?
+
+Yuuka : …?
+
+Blinding Light!
+
+*booooom*
+
+Akane : Gah!
+
+Asuna : Agh!
+
+Akane : A-Asuna?! Are you okay?!
+
+Asuna : Definitely not! Whoa! Wh-What was that?! Ahaha! I’m hit! And it hurts like hell. I can’t move a single muscle!
+
+Akane : I’m sure you’ll be fine.
+
+Yuuka : Ugh. It’s not just Asuna, half the robots are down too! I can’t believe this!
+	 And all with a single attack…?
+
+Akane : Karin! Status update! What was that laser…?
+	 …Karin? Karin?! She hasn’t provided support in a while!
+
+*boom*
+
+Akane : A light? It’s coming from the roof!
+
+[Millennium Institute 2 Rooftop]
+
+Karin : Ahhh! My eyes! The mortar can launch flash grenades too?!
+
+Utaha : But of course. My sweet little protege would never risk exploding her dearest Utaha.
+	 She’s a clever girl.
+Karin : Damn it! I can’t see anything, let alone support Akane. Why are you going so far out of your way to do this?!
+
+Utaha : Why? To protect that club, of course.
+
+Karin : I’m no gossip, but even I’ve heard the rumors.
+	I don’t know much about the Engineering Club, but the Game Development Department is a pitiful excuse of a club.
+	They’re just a bunch of selfish brats. Why would you go so far for them of all people ? 
+
+Utaha : They aren’t selfish.
+	 These kids are giving it everything they have against impossible odds, all for the sake of each other.
+
+Karin : They don’t even need a club to make games together!
+
+Utaha : you’re not wrong.
+	 But you see, while just working as a friends is great…
+	 …having a place to be, and people to be there with is a special thing.
+	 That’s what they’re fighting for.
+	 The place where they all belong together.
+
+Karin : but still!
+
+*whish*
+*pow*
+
+Karin : Again?!
+
+Utaha : Haha.
+	 That wasn’t in my calculations, but it sure was funny
+
+[Millennium Main Hallway]
+
+Aris : Momoi! Midori!
+	Now!
+
+Midori : Aris?!
+
+Momoi : What are you doing here?!
+
+Aris : I did a lot of thinking on my way to the contraband storage room.
+	Final Fantasia, Dragon Crest, Tales of Destiny, Chrono Digger, The Fable of Heroes, Pyre Emblem, and…Tales Saga Chronicle.
+	No matter which game you look at…
+	The heroes never, ever, leave their friends behind.
+	So I will not, either.
+	We will get through these trials–together!
+
+Midori : Aris…
+
+Momoi : If we've gotten caught, it’d all be over anyway.
+	  All right, Game Development Department, move out!
+
+Midori : Right!
+
+Akane : Ah! We can’t let them escape!
+
+Asuna : Ahaha! It hurts so bad, but I’m having so much fun! This is the best!
+
+Akane : …Are you sure you’re in pain? More importantly, Karin stopped shooting. Do you think something happened?
+
+Yuuka : M-Momoi and Midori are getting away!
+
+Akane : They’re not going anywhere.
+	  Asuna, step back.
+	  Now engaging the enemy!
+
+>>Battle<<
+
+<<To be continued…>>
+
+
+Episode 16 | Just One Step Forward!
+
+[Millennium Student Council Contraband Storage]
+
+Momoi : *huff puff* Did we make it?!
+	  Sensei? Midori? Aris? Is everyone okay?
+
+Aris : My HP is not critical.
+
+Midori : I-I’m fine. So is Sensei
+
+Momoi : Thank goodness… So this is the contraband storage room? it’s a mess.
+
+Midori : Broken glass all over… Drawers upended…
+	 There was probably an explosion from the battle that did this. Karin’s doing, perhaps?
+
+Momoi : Anyway. Yuuka probably thought Aris would take the Mirror and run to the GAme Development Department. Heh heh. She probably has no idea we’d come here ourselves.
+	  We just need the Mirror, and Veritas can handle the rest.
+
+Midori : Here it is! Key item obtained!
+
+Momoi : Heehee. This is so exciting. Let’s go back…
+
+Aris : …?
+	Everyone, please mute yourselves.
+
+Momoi : Huh?
+
+Aris : Someone is coming. Based on the footsteps, they are alone.
+
+Momoi : If it’s only one person, we can ignore them or break through quickly. What should we do if Yuuka and the Maid Club come back?
+
+Aris : …
+
+Midori : Pause.
+	I’ve got a message from Hare.
+
+(RUN OR HIDE! JUST DON’T—*bzzzzt*)
+
+Momoi : Huh? What’s that supposed to mean?
+
+Midori : It’s weird for Hare to be freaking out. Maybe there’s a rat in the veritas club room or something?
+
+Aris : Identifying approaching target. Searching Millennium student list. Target confirmed.
+	Height: 4’9”... Dual SMGs… Dragon-patterned bomber jacket over a maid uniform…
+
+Midori : Wha…?
+
+Momoi : N-No way!
+
+Midori : Hide!
+
+…
+
+Aris : Sensei! Your head is hidden, but your butt is poking out!
+
+Midori : H-Hurry! We’ve gotta move!
+
+…
+
+Neru : …
+	Hmm. This place is a pit.
+
+Momoi : (N-N-Neru?!)
+
+Midori : (B-But why?! What in the world is she doing here?!)
+
+Neru : Heh?
+	That whispering I’m hearin’?
+
+Momoi : *gasp*
+
+Midori : (Eek!)
+
+Aris : (...)
+	(This girl…She is different from the rest.)
+	(I am feeling a new emotion. Is this…fear?)
+	(Our probability of victory in a battle under current conditions is unequivocally… zero percent!)
+
+Neru : Let’s see…
+	Under the desk. maybe?
+
+*clomp*
+*clomp*
+
+Momoi : (Th-The suspense is killing me!)
+
+Midori : (We’re so dead…)
+
+Momoi : (S-Sensei! What should we do?!)
+
+Aris : (All she has to do is look down, and…!)
+
+??? : U-Um, excuse me!
+
+Neru : Heh?
+
+Yuzu : N-Neru! It’s an emergency!
+
+Momoi : *gasp*
+
+Midori : (Y-Yuzu?!)
+
+Neru : And you are…?
+
+Yuzu : M-My name’s Yuzu, and I’m with Seminar.
+	The robots are out of c-control! It's a disaster!
+	Akane and Karin are trying, but it’s just…
+
+Neru : Huh? We’ve had those bots for a while, yeah? Shouldn’t they be set up already?
+
+Yuzu : I-I’m not sure… But they need help, and I heard y-you were here and I…
+
+Neru : *sigh* Guess I gotta do everything around here.
+
+Yuzu : I-I’ll stay and clean up. I don’t have any ammo or experience, so I-I’m scared of fighting…
+
+Neru : Not that it’s really any of my business…
+	…but you should remember the most important thing in a fight isn’ weapons or experience.
+
+Yuzu : Pardon?
+
+Neru : It’s guts kid.
+	And you already got that in spades, I reckon.
+	Not just anyone can waltz up and ask ME a favor in a situation like this.
+
+Yuzu : H-H-Huh?! I, Uh… thank you.
+
+Neru : See ya around kid.
+
+Yuzu : *gulp*
+
+*flop*
+
+…
+
+Yuzu : I-I thought I was dead for sure.
+
+Momoi : Yuzuuu!
+
+Midori : That was amazing, Yuzu-chan! You saved us!
+
+Yuzu : I’m glad I made it in time.
+	A-Anyway, that thing in Aris’ hands must be…
+
+Aris : Correct.
+	I present the object of our quest which will abate mankind’s destruction…
+	…the legendary Mirror.
+
+Yuzu : …!
+
+Momoi : We’ll have to save the party for later. If Neru comes back, we’re all dead meat!
+
+Yuzu : There are a lot of robots ahead. Be careful!
+
+Midori : R-Right! Our mission isn’t over yet!
+
+Yuzu : To reach our true goal, the G.BIBLE, we have to get the Mirror to Veritas club room!
+
+Aris : TIme to pull out. I will guard the rear. Your orders, Sensei?
+
+Sensei :
+[“Let’s make for the club room!”]
+[“Everyone, prepare for battle!”]
+
+Midori : Right!
+
+Momoi : We’ll make it back, no matter what!
+
+Aris : Equipment set and ready to go!
+
+>>Battle<<
+
+<<To be continued…>>
+
+
+Episode 17 | Just Getting Warmed Up
+
+[Millennium Main Hallway]
+
+Asuna : …
+
+Karin : …
+
+Akane : …
+
+Neru : …
+	So let me get this straight…
+	All this was done by some club I’ve never heard of, “the Game Development Department.”
+	And that bunch of shrimps pulled one over all of ya. That’s right?
+
+Akane : I have no excuse.
+	 It was I who accepted the request and made the preparations.
+	 My failure has tarnished the Maid Club’s reputation. I’m Sorry.
+
+Neru : None of that crap matters at all.
+
+Akane : I beg your pardon?
+
+Neru : When I got there, Rio called me.
+
+Karin : you mean the president of Seminar–I mean, the Student Council?
+
+Neru : The one and only.
+	She said the request is being withdrawn.
+
+Karin : …?!
+
+Akane : But why?
+
+Neru : Hmm. All I can think of is that Rio or Himari wanted to test somethin’.
+
+Akane : They were testing us?
+
+NEru : Nah.
+	Bet they wanted to know what that ARis girl was capable of.
+	All right, then.
+	This has nothin’ to do with the request, but, Akane…
+	…I want you to look into this.
+
+Akane : Sorry? Look into what now?
+
+Neru : The Game Development Department.
+
+Akane : Hm? Why? Oh–for revenge?
+
+Neru : I’m not usually interested in dirty work like this, but we might as well take care of it.
+	Once the investigation is wrapped here. I've got a house call in store for those twerps
+
+Akane : That sounds perfect. I imagine right now they’re celebrating how they managed pull one over on the Maid Club.
+	Heehee. I Can't wait to see the look on their faces when we pay them a visit.
+
+[Millennium Game Development Department]
+
+Momoi : …
+
+Midori : …
+
+Yuzu : …
+	I haven’t been so sad since Tales Saga Chronicle’s alpha update…
+
+Aris : H-Hey…Momoi.
+
+Momoi : Haha. AHAHAHA! It’s over! We’re finished!
+
+Aris : Midori, are you okay?
+
+MIdori : Sorry, Aris… I don’t feel like talking right now…
+
+Aris : Hey, Yuz–
+
+Yuzu : Rage. Destruction. Desolation. Despair. Emptiness. All the world hurtles toward inevitable ruination…
+
+Aris : E-Everyone! I do not understand why…
+	Is this…
+	…is this because of the G.BIBLE?
+
+Momoi : …
+
+Midori : …
+
+Aris : But… I do think the G.BIBLE was lying.
+
+Momoi : That’s ridiculous!
+
+Aris : Huh?
+
+Momoi : I wish it had lied! I wouldn’t be mad if it had!
+	  Gaaah! We’re totally screwed! The club’s as good as gone!
+
+Aris : ???
+
+[Millennium Game development Department]
+(Two hours ago…)
+
+MAki : Hello, hello, Game Development Department gals. miss Maki here’s got a special something for ya.
+
+Momoi : Oh! It’s finally ready!
+
+Maki : Ta-da!
+
+<G.BIBLE.exe: prepared for runtime.>
+
+Midori : It’s really here… the G.BIBLE!
+
+Maki : Sorry for the wait. We took the mirror back to the Student Council after unlocking the G.BIBLE.
+
+Momoi : Huh? You returned the mirror?
+
+Maki : Himari already knew everything, She said it’s not a big deal, and we won’t be needing it from now on.
+	Oh, yeah, when I was decrypting G.BIBLE, I found a folder called “Key”
+
+Momoi : Key? But I though you already unlocked it?
+
+Aris : Hmm…?
+
+Midori : She means they found it AFTER they unlocked it. Sis, how did you even pass the entrance exams…?
+
+Maki : Hmm. This one’s got me stumped. The file doesn’t seem corrupted, but there’s no way it was coded in a language from our era.
+	Anyway, I was able to open the G.BIBLE like you wanted, but I Couldn’t get that key folder open. Any idea what it is?
+
+Momoi : Unfortunately, we don’t know either/
+
+MIdori : Hmm…
+	 I wonder what could the key be…?
+
+<Identity checkL Are you AL-1S?>
+
+Maki : Um. You’re looking for Aris, right?
+Was I? Whatever, the G.BIBLE is the important thing here.
+	COme by later when you’ve got some free time! We can analyze the key folder together.
+	Alright, I’ve delivered it to you, so I'll see you later!
+
+Midori : Good work, Maki!
+
+Momoi : You’ll have to schedule an appointment through my secretary next time we get together! ‘Cause we’re fonna make it big with TSC2!
+
+Maki : Heh. I’m excited to pop ‘er open.
+
+…
+
+Momoi : Aris! Yuzu! Midori! Everyone, gather round!
+	  It’s time to look at the G.BIBLE.
+	  No one knows what’s in here. A famous developer believed to have read the G.BIBLE once said: 
+	  “The true secret of hame development is a miracle everyone thought they knew, but, infact, no one truly understood the meaning of.”
+	  I want to know the truth so we can…
+
+Midori : …make the best game ever.
+
+Momoi : It’s our only chance of being able to stay here together.
+	  If we fail, Yuzu has to go back to the dorm with people she doesn’t like, and Aris…
+
+Midori : I don’t even want to think about it. But at least Sensei said Schale will help us if it comes to that.
+
+Aris : Schale? I like Sensei being with us.
+	But are you saying I cannot be with you anymore?
+
+Momoi : Ah!
+	  That’s not gonna happen! We’re definitely gonna make the best game ever!
+	  Aris, soon you’ll be asking people “Have you played TSC 2? It’s a masterpiece”
+	  And so to get there…
+	  All right, Aris. Hit it!
+
+Aris : Understood.
+	G.BIBLE…
+	…activated!
+
+<<To be continued…>>
+
+
+Episode 18 | G.BIBLE
+
+[Millennium Game Development Department]
+
+Aris : The G.BIBLE… It is on!
+
+<Welcome to the world of G.BIBLE.>
+
+Momoi : I-It’s working!
+
+<”What makes a game ‘the best’?”>
+<There’s innumerable answer to such a question.>
+<Quality, popularity, vivid storytelling, impact, innovative direction…>
+<Are all aspects in the best of games.>
+<However, they are mere byproducts derived from the greater truth.>
+
+<There is a single secret behind all the best games…>
+<...and G.BIBLE was made to hold said secret.>
+
+Momoi : F-Finally!
+
+Midori : This is so cool…
+
+<I will now reveal the one and only secret to making games.>
+
+Aris : Oh!
+
+<...>
+
+<LOVE …	Video	… Games>
+
+Momoi : Wow, what an inspiring opener…
+
+Midori : Y-You think so?
+
+<LOVE VIDEO GAMES.>
+
+Yuzu : Wait… Th-That can’t be it right?
+
+Midori : I-is it broken or something?
+
+Momoi : H-Hang on!
+	  L-Let’s try the settings button…
+
+<LOVE VIDEO GAME.>
+<(If you pressed this button, you must be thinking that the file is corrupt… 
+
+…or that something else has gone wrong.)>
+
+Momoi : Oh! I knew that couldn’t be everything–
+
+<However, that was everything you need to know.>
+
+Midori : S-Seriously?!
+
+<Sorry!>
+
+<just LOVE VIDEO GAMES!>
+
+Momoi : Th-This can’t be happening! It has to be an error or something!
+
+Midori : The file isn’t corrupt and hasn’t been modified… The meta data, file size, and data of the most recent copy are an exact match.
+
+Yuzu : Th-This is…for real, then?
+
+Momoi : That was it…?!
+	  Uh…
+
+Midori : I…think we’ve been had… Sis?
+
+Momoi : DAMN IT!
+
+(Back in the present…)
+
+Aris : Uh… Momoi, what about your daily quest?
+	You always say that the dailies are more important than the end game.
+
+Momoi : I…Just leave me alone, Aris. My HP is at zero…
+
+Aris : Hmm…?
+	Midori…
+
+Midori : I’m sorry , Aris. This is just how reality is. This is the true ending…
+
+Aris : Ah…
+	Wh-What about you, Yuzu…? Wait, where did she go?
+
+Momoi : oh, the cabinet's shaking again. She must be inside.
+
+Aris : It is lieke…
+	…everyone’s spirit have been debuffed.
+
+Momoi : Ergh…
+	  How else are we supposed to feel! That was it! How could we have known that all we’d got is one stinking sentence everybody already knows! They got us hook, line, and sinker!
+	I wasn’t expecting to hear the secret and magically have all our problems go away! But come on, help a girl out here!
+
+Midori : *sigh*
+	 I’m sorry, Aris. We… We just can’t do it without the G.BIBLE. we’re just hopeless failures now.
+
+Aris : …
+	You are wrong.
+	I will not allow you to say that.
+	I had fun every time I played Tales Saga Chronicle.
+	Real, genuine fun.
+
+Midori : Huh?
+
+Aris : And I can feel it…
+	I can feel how much Momoi, Midori, And Yuzu…
+	…put their love into the game.
+	When I play and travel in that world you made…
+	Well… my heart pounds in my chest.
+	Traveling in an unknown world with your companions at your side…
+	You taught me what it means to dream.
+	When I realize that our quest was coming to an end, a thought crossed my mind.
+	‘I wish this dream could never end.”
+	It was all I could think.
+
+Momoi : Aris…
+
+Yuzu : …
+
+Midori : Oh, Yuzu. When did you get out of the cabinet?
+
+Yuzu : Not long ago… just since you started talking about Tales Saga Chronicle.
+
+Momoi : So the whole time, then!
+
+Yuzu : We should do it…
+
+Midori : Huh?
+
+Yuzu : I’ve always wanted to hear people say the game I made is fun…
+	But the first version of Tales Saga Chronicle got thousands of negative comments, and people were brutal…
+	I couldn't take it. So I locked myself away in the Game Development Department.
+	But that’s when you guys came along.
+
+(Six months ago…)
+
+<Calling this a video game is pretty generous.>
+<I’d love to know what goes on in the mind of whoever made this.>
+<Ha. I can answer that. nothing obvs.>
+<This is why normies shouldn’t make games.>
+<When will they realize they are ruining the medium?>
+<seriously. This isn’t even a game. it’s just trash dressed up like a game.>
+
+Yuzu : Ugh…
+	Please…I’m sorry, so please stop…
+	I can’t do this anymore, so please… Please… Forgive me!
+
+*thud thud thud*
+
+Yuzu : Eek!
+	Wh-Who’s there?!
+
+??? : Hey, isn't this the Millennium Game Development Department? The one that made the Tales Saga Chronicle alpha?
+
+Yuzu : S-Seriously…IRL complaints?
+	I-I’m sorry, all right. I’ll never make another game, so please just–
+
+??? : What?!
+	Why would you do that?! You can’t just drop a fun game during alpha!
+	I wanted to know what happens next! Don’t get me excited for nothing.
+
+Yuzu : …What?
+
+??? : I love Tales Saga Chronicle!
+
+??? : It’s true. I played it all night long!
+
+??? : Yeah, you were right next to me the whole time. And you don’t even like games!
+
+??? : Well, the characters were so cute that I…
+
+??? : Anyway, excuse us!
+
+*click*
+
+Yuzu : …?!
+
+Momoi : Are you UZ?
+
+Yuzu : Uh… Yes, I am.
+
+Midori : I’m a huge fan of your work!
+
+Momoi : Me too! I wanna make fun games just like you!
+
+Yuzu : *gasp*
+
+…
+
+Yuzu : That’s how we met…
+	Together, we finished Tales Saga Chronicle, and had the honor of winning the Worst Game of the Year.
+
+Momoi : (Ack!)
+
+Midori : …
+
+Yuzu : And then Aris appeared…
+	When she said my game was fun, it filled my heart with joy.
+	Creating a game while surrounded by wonderful people and getting to hear that others enjoy what we made… It’s always been my dream.
+
+Momoi : …
+
+Yuzu : But I’m also not ready for this dream to end.
+
+Midori : Yuzu…
+
+Momoid : Hmm…
+	  Midori. How much time is left until the Millennium Prize?
+
+Midori : Sis!
+
+Aris : Sic days, four hours, and thirty eight minutes.
+
+Momoi : Then there’s still time.
+	  Game Development Department, assemble!
+	  Let’s begin development of Tales Saga Chronicle 2!
+
+Midori : Let’s do it!
+
+<<To be continued>>
+
+Episode 19 | Double O
+
+[Millennium Game Development Department]
+
+MIdori : Momoi! Are you done yet?
+
+Momoi : Gimme a minute… I just need to enter this and I’ll be done…
+
+Midori : We only have two minutes left! There’s no time to spare!
+
+Aris : 96 seconds to be exact. Oh, 92 now…
+
+Momoi : Okay! Okay! I’m done!
+
+Yuzu : Let’s just do a quick test, and… Okay.
+	There’s no errors, Momoi!
+
+Momoi : All right! Beginning the upload! 15 seconds to delivery! Aris, the time?!
+
+Aris : 19 seconds remaining…
+
+Midori : Please, please please…
+
+Momoi : Status: Sent…
+
+<Thank you for your submission and participation in the Millennium Prize.>
+
+Momoi : We did it!
+
+Yuzu : Pheeew… That was too close.
+
+Midori : Now all we have to do is wait for the announcement in four days.
+
+Momoi : We made it in time, but we won’t know our fate until the results come.
+	  In four days, it’ll be decided if we have to stay or go.
+	  So I have a proposal.
+	  Why don’t we try uploading an open web version of Tales Saga Chronicle 2 in the time we have left?
+
+Yuzu : Huh?
+
+Midori : Why would we do that?
+
+Momoi : ‘Cause who cares what the judge think. Don’t you want to know what regular-old players have to say about our game?
+
+Midori : B-But what if they say it’s horrible?
+
+Momoi : Think about it this way. We did this for us, the Millennium Prize is just a bonus
+	  We did our best, and that's something to be proud of!
+
+Midori : Well, sure, but…
+
+Yuzu : Let’s do it.
+
+Midori : Huh?
+
+Yuzu : Art is nothing if the people never get to experience it.
+	I want people to experience what we made.
+
+Midori : Yuzu…
+
+Yuzu : It’s okay. Even if it’s just like last time, and I get an avalanche of nasty comments…
+	…I’ll know that we did our best. And we did it together. That’s what’s truly important.
+	I’m all right, honest.
+
+Miroi : …
+
+Momoi : Okay! I’m just going to upload it now!
+
+Midori : W-Wait!
+
+Momoi : And…done! In two or three hours, the reviews will be rolling in. I’m going to take a break while we wait.
+
+Midori : Sure…
+
+Aris : …
+	…*plop*
+
+Momoi : Aris Why are you sitting in front of the computer?
+
+Aris : I am waiting.
+	People are starting to download the game. I want to know what they think.
+
+Midori : A watched pot never boils, Aris. The real reviews won’t come until later.
+
+Aris : Well. I am just going to wait.
+
+Yuzu : Me too.
+	I’m too anxious to sleep anyway.
+	So I’ll wait with you.
+
+Midori : Ah.
+	My heart is pounding.
+
+Momoi : Agh! I’m more worried than excited. And I’m the one who suggested we do this!
+
+*ding*
+
+Midori : Oh it’s our first comment!
+
+Momoi : Wh-What?! Really?!
+
+<helmet021: Yo, the Worst Game Of the Year frauds are back! I thought they’d quit after realizing they’re talentless hacks but here they are crapping out sequels LOL>
+
+Aris : …
+
+Momoi : Ah… It’s okay Aris. Don’t let it get to you.
+
+Aris : Understood.
+	I am going to have Maki give me this person’s IP address so I can go blast them with a full strength laser beam.
+
+Midori : Y-You can’t do that!
+
+Yuzu : Midori’s right.
+	They clearly didn’t even try the game, so just try to ignore it.
+
+*ding*
+
+Kotoha0507: The first one was a disaster, but it had a few interesting ideas. I hope they’ve improved the gameplay this time.
+
+Momoi : Hey, now we’re getting somewhere.
+
+*ding*
+
+QueenC: I’m scared… When I finish the game, how will my future self judge the current me? Will I curse myself for purposely downloading this game, or will I rejoice at my leap of faith?
+
+*ding*
+
+kirakiraNO1: The first one made me want to quit games forever lol seriously crap like this make me cringe so hard lmao, Y do I always feel like trying this stuff tho?
+
+Momoi : W-Wow! People are actually excited to play our game!
+
+Midori : Uh… I feel like they’re acting like our game is some kind of ticking time bomb.
+
+Yuzu : They think they’re going to hate it but want to try it anyway…
+
+*ding ding*
+
+cat0808: I have a make-up test in two hours, but TSC2 lookin kinda :eyes: I’m thinking of skipping to play. Should I?
+Yousee-me: Play TSC2, obv! Test’s are temporary, getting to play TSC2 on release is eternal. Waiting to play would be a crime against art!
+
+Yuzu : Uhhh… They should really go take their test.
+
+Momoi : Whoa we already have over 2000 downloads. How’d that happen?
+
+Midori : Oh. Someone posted it on a social media aggregate site.
+
+Momoi : Ahhh! I was just hoping people wouldn't be apathetic, but now I’m scared!
+
+Aris : …
+	My heart is beating really fast.
+
+Momoi : I can’t tell if I’m scared or excited!
+
+*BOOM*
+
+Momoi : Huh?!
+
+Aris : Did Momoi’s heart just explode?
+
+Momoi : What?! No, that wasn’t me!
+
+Yuzu : Then what was it? Did our console finally die?
+
+Momoi : It was getting pretty old…
+
+Midori : No! This shell is a 13.97 Millimeter round! It belongs to Karin!
+
+*BOOM BOOM*
+
+Yuzu : Eek!
+
+Aris : Ranged attack confirmed. Position: eleven o’ clock. Distance: approximately one kilometer!
+
+Momoi : W-Was our last game really THAT bad?!
+
+Aris : Preparing counterattack!
+
+Momoi : Don’t Aris! We have Sensei here.
+	  And if we fight here, the club room will be destroyed!
+
+Midori : Momoi…
+
+Yuzu : Student Council forces are outside, maybe they’re here for revenge!
+
+Midori : I can’t believe iI felt bad for them before!
+
+Momoi : Eek!
+
+Sensei : 
+[Calm down.]
+[Let’s go outside.]
+
+Midori : Sensei!
+	 Right!
+
+Momoi : Yuzu and I will take the lead. you know what that means, right, Aris?
+
+Aris : Yes.
+	I must protect everyone.
+
+Momoi : All right. Let’s move out!
+
+<<Battle>>
+
+[Millennium Old Building Hallway]
+
+Momoi : …*pant*...*pant*
+	  Phew, we just barely escaped!
+
+Yuzu : What do we do now though?
+
+Midori : Well, we already submitted the game to the Millennium Prize.
+	 All we have to do is keep running away until they announce the results!
+
+??? : I don't think so.
+
+Midori : Huh?!
+
+*ratta-tat-tat*
+
+Midori : Ahhh!
+
+Aris : Midori!
+
+Neru : …
+	Ah.
+	I figured that’d work.
+	So the one that led these little chicks to attack the contraband storage…
+	…was you, right?
+	Should I call you “Sensei,” too?
+	I guess Akane’s investigation was no joke, after all.
+
+Sensei : 
+[Why are you here for revenge?]
+[You realize you’re also pretty little, right?]
+
+Neru : What?! I’m a third year! Call me “little” again, and I’ll cave your face in!
+
+Karin : Mind your composure, Neru.
+
+Akane : Wow, someone’s brave enough to call Neru little to her face.
+
+Neru : Grr…*sigh*
+	I was THIS close to losin’ it, but I’m good. Anyway, you over there with that huge weapon…
+
+Aris : *looks from side to side*
+
+Neru : Yeah, you!
+
+Aris : What about me?
+
+Neru : You’re not like the others.
+	You shot straight at C&C!
+	I’ve got something you need to hear.
+
+Aris : Oh, I recognize this situation.
+	Next is: “I have never felt this way before.”
+	It is a confession. The small maid is confessing to me.
+
+Neru : The hell are you talking about?! And who the hell are you callin’ small>! You canna die, you…!
+
+Aris : Uhhh…
+
+Momoi : W-We’re so dead!
+
+,,,
+
+Neru : *sigh*
+	You guys are going to make me lose it. Let’s cut to the chase…
+	I’m not here to get revenge for you guys attacking us.
+	Yeah, I’m a little bit pissed, but you guys beat us fair and square.
+	So I’m willing to look past it. However…you’ve caught my attention.
+
+Momoi : What do you mean?
+
+Neru : There’s just something’ I need to see for myself.
+	So, let’s fight.
+	If you win, I leave, and that’s the end of it.
+	This is way better than doing some investigation or somethin’, Don’tcha think?
+
+Aris : …
+	Okay.
+
+Neru : You’ve got some fire in your eyes, I like that.
+
+Aris : So an arena event then? Understood.
+
+Neri : What now? Arena…?
+
+Aris : Last time, my strategies were limited due to the Mirror and limited area to move in.
+	However…
+	…this time my MP is fully charged!
+
+Neru : That’s…!
+
+Arus : Blinding Light!
+
+*BOOOOOM*
+
+Karin : Gah!
+
+Asuna : Whoa!\
+
+Akane : That was amazing!
+	 The wall was completely obliterated!
+
+Momoi : That was amazing, Aris.
+
+Midori : Yeah, I've never seen anything like it.
+
+Aris : Did I kill her?
+
+Midori : A-Aris! You can’t say that!
+
+Aris : Oh, of course. Situations like this call for more grace and nuance.
+
+Aris : Hath the fair maiden fallen in battle?
+
+Midori : Th-That’s not really what I meant…
+
+Sensei : 
+[Not yet]
+
+*ratta-tat-tat*
+
+Aris : AH!
+
+Neru : Sure that attack was pretty special…
+	But is that all you’ve got?
+
+Aris : R-Recharging MP!
+
+Neru : Too slow.
+
+Aris : Oh, n—
+
+*boom*
+
+Aris : Gah!
+
+Neru : Sure, your weapon is strong, but the time between trigger pull and impact with the target is too long.
+	And thanks to that gap, your weapon is useless at a certain range.
+	Because you’ll be cough in the blast yourself
+	And I'll tell ya how many people in Kivotos can beat me at close range.
+	None.
+
+Aris : Uh-oh…
+
+Momoi : Aris!
+
+Neru : What a let down. I can’t believe you managed to trounce my maids.
+
+Aris : …
+	*whoosh*
+
+Neru : Crap!
+
+Midori : D-Did she just swing that railgun like a bat!
+
+Neru : Heh. Not a bad idea in a close-up fight.
+	But I've still got an upper hand at this distance.
+	Even if you can fire, you won’t be able to aim at me.
+
+Aris : Then, I will not aim.
+	Here I go!
+
+Neru : I told you there’s no point… Huh?
+	Th-The hell?! You’re firing? But at this distance…!
+	You are even aiming at me! You’ll hit the floor!
+	Are you insane? Don't you know you’ll be caught in the blast too?!
+
+Aris : Blinding Light!!
+
+*BOOM*
+
+Midori : Aris! *cough* The smoke!
+
+Momoi : The floor completely collapsed… There you are Aris!
+
+Aris : Physical damage is 48 to capacity. We need to retreat!
+
+Sensei : 
+[Get on my back]
+
+Midori : Hurry, Sensei!
+
+*scurries*
+
+Karin : President!
+
+Akane : Do you think she’s okay> Could she be buried in the rubble?
+
+Asuna : I saw Aris get out, and she was a mess. Our little Neru might be a pancake by now…
+
+Neru : Who are you calling “little”?!
+
+Karin : Whoops.
+
+Asuna : Whoa, That’s our president! A little rubble’s got nothing on her!
+
+Neru : Whose side are you guys on, anyway?!
+
+Karin : In any case, Aris was in no condition to continue fighting. SHe is likely going to the infirmary. Should we pursue?
+
+Akane : Hmm. Millennium only has a few infirmaries, so finding her shouldn’t take long.
+
+Neru : …
+	…
+
+Asuna : Neru?
+
+Neru : Ugh…
+	It’s fine. There’s no need to pursue. Let’s pull out.
+	I feel a lot better after destroying some stuff, anyway.
+
+Karin : …
+
+Neru : Well, mission accomplished, I guess. Heh. I get it now why Rio is so interested in the Game Development Department.
+	And that person with them…
+
+Asuna : You’re worried about Sensei aren’t you?
+
+Neru : W-Wai! It’s not like that!
+
+Akane : I understand. Though, I am a little worried.
+	 Given that their group is full of nothing but little girls, I wonder if Sensei…
+
+Karin : Good for you, Neru.
+
+Neru : SHUT UP! One more word out of you, and these barrels will be pointed right at your face.
+	Hmph…
+	(Sensei…and the Game Development Department.)
+	(Hmm.)
+	(They better watch themselves. I’ll make ‘em pay for calling me little))
+	Anyway, I’m starving. Let’s go get some ramen.
+
+Akane : All right!
+
+Asuna : Sounds good!
+
+Karin : Oh? So you really did hit your growth spurt after all…
+
+Neru : I said shut up!
+
+<<To be continued>>
+
+
+Episode 20 | The Millennium Prize
+
+[Millennium Game Development Department]
+
+Momoi : Aris! Aris! Check it out!
+	  Tada! It’s a maid costume!
+
+Aris : Eek!
+
+*scurries away*
+
+Momoi : Hehe! This is so fun!
+
+Midori : What is wrong with you? Can’t you tell Aris is scared out of her mind?!
+	 You okay, Aris?
+
+Aris : Um… Please keep anything wearing a maid outfit away from me from now on, please.
+
+Midori : She seems to be feeling better.
+
+Yuzu : I went to the Student Council to discuss the building we destroyed.
+	Thankfully they deemed it a product of a “sanctioned club accident.”
+
+Momoi : Wow! Really?! I thought we’d be getting expelled or something.
+
+Yuzu : I think C&C smoothed it over for us.
+	And Neru said to me:
+	“ See you soon.”
+
+Aris : Eek!
+
+Midori : Aris! Get out of the cabinet! What have you been teaching her, Yuzu?
+	 Well, that’s good news and all, but…
+
+Yuzu : Right…
+	The Millennium Prize has begun.
+
+Momoi : You know the drill, right? If we take home the gold, we party like there’s no tomorrow. But if we lose…
+
+Midori : We have to pack our bags.
+	 Which Momoi and I can do, but Yuzu and Aris…
+
+Yuzu : …
+
+Aris : …
+
+[The Millennium Award Prize Ceremony]
+
+Kotori : Hello and welcome to the Millennium Prize Award Ceremony! My name is Kotori, and I’ll be your host for the day’s proceedings!
+	I hear this year’s competition has the most entrants that it's ever had!
+	Probably because the Student Council has made it mandatory that each club enter or something!
+
+[Millennium Game Development Department]
+
+Midori : Looks like everything worked out for Kotori.
+
+Yuzu : Well, the Engineering Club is one of Millennium’s most valued clubs. 
+
+Midori : But more entrants means more competition, right…?
+
+Momoi : That's not good…
+
+Kotori : Last year’s winner was Noa’s “The Meter of Memory”. Though unusual for poetry, it was praised as a sure-fire cure for insomnia due to its extensive use of long metaphysical terms.
+	  This year, we have tubes of what looks like toothpaste but is actually cheese, a large missile-equipped umbrella for self-defense…
+	  A necktie power bank, optical camouflage underwear, a portable pencil-case-sized refrigerator– perfect for exactly one can…
+	  And finally a retro-style mobile game that went viral on the Kivotos News Network: Tale Saga Chronicle 2!
+	  Out of the hundreds of submissions, only seven will make it to the top!
+
+Yuzu : *gulp*
+
+Kotori : And so, we’re kicking things off with our seventh place winner!
+	In seventh place, we have the camouflage underwear set designed by Utaha of the Engineering Club! I’m not sure whether this underwear puts form over function…
+	…but they received very high ratings for allowing exhibitionists to exercise their hobby with a peace of mind. I’d like to know who the reviewers are! Anyway, it’s only better from here on!
+
+Momoi : Heehee.
+	  It’s okay, our game doesn’t belong in seventh anyway.
+
+Kotori : Moving on to sixth place! It’s…!
+
+Aris : …
+
+Kotori : In Fifth place is…!
+
+Midori : They haven’t called our name…
+
+Kotori : Next is fourth place…!
+
+Momoi : They should’ve called our name by now…
+
+Kotori : It’s time to crown the top three! Snapping up the third is…
+
+Midori : I can’t bear to watch anymore!
+
+Yuzu : Please… Please…
+
+Kotori : Second place was a really tight race, but in the end it went too…
+
+Aris : …
+	Please be us… Please be us…
+
+Momoi : N-No way… They… didn’t call our name?
+	  That means…
+
+Midori : *gasp*
+
+Kotori : Last but certainly not least, we have our winner. our contestants that will be taking home the MIllennium Prize!
+
+Aris : I can’t take this.
+
+Kotori : And our first-prize winner will be…
+
+Midori : I think I’m going to lose my mind.
+
+Kotori : …announced after this commercial break!
+
+Momoi : A-Aris!
+
+Aris : Laser is fully charged.
+
+Midori : Please don’t shoot it at the awards ceremony!
+
+Momoi : Ahhh! this anticipation’s too much!
+
+Kotori : And we’re back, folks!
+	 The first place prize goes to… the New Material Development Club!
+
+*bang bang bang*
+
+Midori : Agh! Why’d you shoot the TV?!
+
+Momoi : What does it matter? We’re going to lose everything!
+	  Ahhhhh! It’s all over!
+
+Yuzu  *sigh*
+	So this is it?
+
+Midori : It’s all right, yuzu. We can still…
+
+Momoi : I’ve got it! There’s no need to get all depressed!
+	  The reviews we got weren't too bad. We’ve come a long way from being the legendary losers of the Worst Game Of the Year award.
+	  We’re just going to keep getting better.
+	  Even if we get kicked out, we can gather more club members and make something even better! When we reopen, We’ll have an even bigger and better club room!
+
+Midori : but…what about Yuzu and Aris?
+
+Yuzu : It’s okay, midori.
+	I’m going back to the dorms.
+
+Midori : Huh?
+
+Yuzu : I don’t think anyone will call us failures anymore. And if they ro, it doesn’t bother me now.
+	Because I have you guys…and sensei.
+	I want to thank you, Sensei.
+	Ever since you came to this club room, we’ve all grown and changed.
+	But for Aris…
+
+Sensei : 
+[Leave it to me]
+[Come to Schale with me, Aris.]
+
+Midori : Aris…
+
+Aris : …
+
+Midori : I-I’m sorry.
+
+Aris : It’s okay.
+	I know I can trust Sensei.
+	However.
+	That means…
+	I can’t stay with you guys anymore.
+
+Midori : …?!
+	 I’m so sorry, Aris!
+	 I’m going to visit you at Schale every day! Seriously! Every day!
+	 We’ll always be linked by the game we made together.
+
+Momoi : *sniffle*
+	  No!
+	  You can’t take her, Sensei!
+	  Sh-She can stay in our room! We’ll share the bed! I’ll split my meals with her!
+
+Midori : I can share too!
+
+Yuzu : guys, please don’t pressure Sensei. if anyone were to find out…
+
+*slam*
+
+Yuuka : Momoi! Aris! Midori! yuzu!
+
+Momoi : Ack! Yuuka’s already here?!
+
+Midori : You couldn’t wait even a minute to evict us?!
+
+Momoi : That’s just too cruel! How can the Student Council be so heartl—
+
+Yuuka : Congratulations!
+
+Midori : Wha…?
+
+Momoi : …What are you talking about?
+
+Yuzu : What the…heck?
+
+Aris : Hmm?
+
+Yuuka : What’s with you guys?
+	 Didn’t you see the results?
+
+Momoi : yeah…
+
+Midori  We didn’t even make it to seventh place…
+
+Yuuka : Huh?!
+	 What are you talking about? Turn on the TV.
+
+Midori : It has some, um, bullet holes in it.
+
+Yuuka : Sheesh. Fine, Watch from my phone.
+
+[The Millennium Prize Award Ceremony]
+
+Judge : The Millennium Prize’s purpose has always been to award students for creating something practical.
+	 However, practicality fails to fully cover the emotions which can be brought on by an interactive experience.
+	 And so, for the first time in the history of the prize, we are awarding a unique top honor.
+	 Our Special Honors go to the Game Development Department’s Tales Saga Chronicle 2!
+
+Momoi : S-Seriously?!
+
+Midori : What’s happening…?
+
+Judge : We were charmed by a concept that transcended retro, a story not hung up on formalities, and a strange world which complemented both.
+	 Navigating a strange and unknown world, meeting new people, and overcoming a demon king.
+	 We believe it is a piece of work that truly captures the essence of the RPG genre.
+	 It’s a game that reminds us why we came to love video games in the first place…
+	 It is for these reasons that we saw fit to award the game with the Millennium Prize’s Special honors.
+
+[Millennium Game Development Department]
+
+Midori : W-Wow…
+
+Yuuka : Congrats again! I gave it a try too. It wasn’t the most exciting game I’ve ever played, but it was a fresh experience! I really liked it!
+
+Maki : Momo! Mido! I tried playing TSC2! It was so much fun! It’s gone totally viral online!
+	Veritas says it’s being searched more than any celebrity in Kivotos!
+
+Midori : I…can’t believe…
+
+Aris : I see.
+	Tales Saga Chronicle 2 was downloaded 7,705 times with 1,372 comments in just the first three hours of being uploaded.
+	And in the 26 seconds following its announcement at the Millennium Prize, it has amassed over 10000 downloads!
+
+Momoi : *gasp*
+
+Aris : Of the 500 new comments, there are 242 negative comments, 192 expressing excitement, and the remaining 66 are uncertain.
+
+Midori : D-Doesn’t that mean they don’t like it?!
+
+Yuzu : Not exactly,
+
+Midori : huh? What do you mean, yuzu?
+
+Yuzu : …
+	…
+	Take a long look at the most liked comment thread…
+
+chicken: I’ve thought long and hard about it, and I think in the end…I’m glad I was able to play this game.
+kotoha0507: Honestly, I used to be biased against Millennium.
+kotoha0507: But after playing Tales Saga Chronicle 2, I can’t hide behind the idea that Millennium students are all cold and calculating anymore.
+
+Midori : …!
+
+Momoi : But, wait! DO we get to keep our club room?!
+
+Yuuka : Well, as before, the confiscation is postponed. Since the award you won wasn’t official, the Student Council decided to give you another year to reevaluate if you get to keep your club room.
+	 And, also…
+	 *squirm*
+
+Momoi : Huh?
+
+Yuuka : I, uh… I’m sorry I called your consoles junk.
+	 Playing your game, I remembered how much I loved playing games as a kid… It was like I was experiencing it all over again for the first time.
+	 Congratulations. Come to the Student Council room to apply for a club room extension or funding. I’ll be seeing you.
+
+Midori : That means…!
+
+Yuzu : *gasp*
+
+Momoi : We…
+	  WE DID IT!
+
+Midori : Ahhhhh!
+
+Yuzu : Thank goodness… We really did it.
+
+Aris : …?
+	Uhhh…?
+
+Midori : We did it, Aris! We get a budget and get to keep our club room!
+
+Aris : So, does that mean…
+	…we get to stay together?
+
+Momoi : Of course!
+
+Yuzu : Let’s keep making games together!
+
+Aris : …
+	I…I’m so happy!
+
+Midori : Aris!
+
+Momoi : We really did it!
+
+Yuzu : The dream lives on!
+
+Aris : Yeah!
+	A perfect result!
+
+…
+Data recovery at 98.00%
+Booting system.
+System ready.
+Setting program.
+Divi:Sion…
+…
+
+
+
+AL-1S… Or rather…
+Aris. My…
+…precious…!@#$%$^&*(!@$!
+
+
+Retromania *fin stamp*

@@ -1,0 +1,334 @@
+[???]: It was all my fault.
+[???]: My decisions, and everything they caused.
+[???]: It had come to this for me to finally realize that you were right all along…
+[???]: So forgive me for being so bold, but I must ask for your help
+[???]: [NAME] Sensei.
+[???]: You’ll forget these words, but it won’t matter.
+[???]: Even without your memories, you’ll probably make the same decision in the same situation…
+[???]: Therefore, I believe what matters most are the choices we make, not the experiences we have.
+[???]: There are choices only you can make.
+[???]: I’ve spoken of responsibility before.
+[???]: I didn’t truly understand it then, but now I do.
+[???]: Adulthood, responsibility, obligation…and the choices you make that extend beyond those ideals.
+[???]: I even understand their implications
+[???]: …
+[???]: Therefore, Sensei…
+[???]: …you’re the only one I can trust.
+[???]: Only you can free us from this twisted, distorted fate…
+[???]: …and find the choices that will lead us to a new reality
+[???]: So, Sensei. Please…
+[Sharp Voice]: …sei.
+[Sharp Voice]: Sensei, Wake up.
+[Sharp Voice]: [NAME] Sensei!
+[Sharp Voice]: [General Student Council Lobby]
+[Sensei]: “...?”
+[???]: You fell asleep after I asked you to wait here. I even had some trouble waking you up… I didn’t expect you to be so sound asleep.
+[???]: You must be having a dream. Anyway, gather yourself and focus…
+[???]: Let me explain the current situation again.
+[Rin]: My name is Nanakami Rin, and I’m a General Student Council officer from Kivotos, the Academy City.
+[Rin]: And you’re a teacher that we have summoned here…or so it would seem.
+[Rin]: Pardon my uncertainty, but I only say that because I still don’t fully understand how you got here.
+[Rin]: …
+[Rin]: I understand that this must be very confusing to you.
+[Rin]: My apologies. However, I would like you to follow me for now.
+[Rin]: There’s something I require your help with.
+[Rin]: …
+[Rin]: Let’s just say that it’s a grave matter that could determine the very fate of the Academy City.
+[Sensei]: Follow her.
+[Sensei]: *whirring*
+[Rin]: Welcome to Kivotos, Sensei.
+[Rin]: Kivotos is a massive city, home to thousands of different academies. This is where you’ll be working from now on.
+[Rin]: It’s bound to be very different from the place you call home. You might find it difficult to fit in at first…
+[Rin]: …but something tells me that you will adjust in due time.
+[Rin]: After all, you were chosen by the General Student Council president.
+[Rin]: We can leave the rest of the details for later.
+[Rin]: *ding*
+[Rin]: [Reception room]
+[Rin]: *mumbling*
+[Yuuka]: There you are, Acting President! We’ve been waiting! Get the real president here already!
+[Yuuka]: Huh? Who’s that adult with you?
+[Hasumi]: I’ve been waiting to see you, Chief Officer.
+[Chinatsu]: I’m here to meet with the General Student Council president. The head prefect has terms she would like to discuss.
+[Rin]: Well… This timing is rather inconvenient.
+[Rin]: Hello guest that represent neighboring academies’ student councils, disciplinary boards, and those who otherwise have too much time on their hands.
+[Rin]: I am well away why you irksome–I mean, important representatives have come here today.
+[Rin]: You’re here to blame us for the fuss happening in the Academy City. Isn’t that right?
+[Yuuka]: If you’re well aware, then do something! You represent the General Student Council after all!
+[Yuuka]: Thousands of academy districts are in panic! Our academy’s wind generator shut down just a few days ago!
+[Chinatsu]: There are also rumors a student under the Federal Corrections Bureau’s custody has escaped.
+[Suzumi]: There has been a sharp increase in the number of thugs attacking our students on their way to school. Public safety is not being properly enforced.
+[Hasumi]: Illegal distribution of tanks, choppers, and other unknown weapons have increased by over 2000 percent. At this rate, ordinary school life in Kivotos will be a thing of the past.
+[Rin]: …
+[Yuuka]: And what is the General Student Council president doing during such a sorry state of affairs? I demand to see her right this instant!
+[Rin]: …
+[Rin]: The president is not here at the moment. To be frank, she’s gone missing.
+[Yuuka]: What?!
+[Chinatsu]: …!
+[Hasumi]: So the rumors were true…
+[Rin]: Allow me to cut to the chase. The General Student Council has no authority because the top administrator of Sanctum Tower has gone missing.
+[Rin]: We had been searching for a way to bypass the need for verification, all to no avail…until recently.
+[Hasumi]: You mean you’ve found a way now, Chief Officer?
+[Rin]: That is correct.
+[Rin]: Sensei here is the answer to our problems.
+[Yuuka]: …?!
+[Chinatsu]: …!
+[Hasumi]: This person?
+[Sensei]: “Who, me?”
+[Yuuka]: Hold up. Who is this “Sensei” you’re talking about? What are they doing here in the first place?
+[Hasumi]: Whoever they are, they don’t seem to be from Kivotos.
+[Rin]: This is [NAME] Sensei. Not only are they going to be teaching in Kivotos, but they’ve also been personally selected by the General Student Council president.
+[Yuuka]: The president chose them. The one who’s now missing? Things are making less and less sense…
+[Sensei]: Greet everyone cheerfully.
+[Yuuka]: R-Right. It’s good to meet you, Sensei. I’m Millennium Science School’s…
+[Yuuka]: I-I mean, why am I even bothering to introduce myself right now?
+[Rin]: Don’t worry about that annoying girl. Let’s just move on…
+[Yuuka]: Who are you calling annoying?! I’m Hayase Yuuka! You should remember that name, Sensei!
+[Sensei]: “Well, it’s nice to meet you too.”
+[Rin]: You’re here to serve as the adviser for a club that was formed by the General Student Council president.
+[Rin]: The Federal Investigation Club: Schale.
+[Rin]: This isn’t your average club–more like a type of extrajudicial organization, Since it’s a federal club, you’ll be allowed to register students from any of the academies in Kivotos.
+[Rin]: You’re permitted to conduct battle activities in each academy district without restriction.
+[Rin]: How the president was able to create an organization with this much power, I have no idea.
+[Rin]: The Schale club room is about 30 kilometers from here. The building is currently empty, but we had to put something in the basement at the president’s request.
+[Rin]: It’s my job to take you there.
+[Rin]: Momoka. I need a helicopter to take us to the Schale room.
+[Momoka]: The Schale club room? That’s over in the outskirts. Things are kind of crazy over there right now…
+[Rin]: What do you mean “crazy”?
+[Momoka]: A suspended student escaped from the Corrections Bureau and is wreaking havoc. It’s a battlefield over there right now!
+[Rin]: What?
+[Momoka]: They rallied all the thugs in the area and are destroying everything in their path to get revenge on the General Student Council. I hear they’ve even got a Crusader Tank!
+[Momoka]: They must be trying to occupy the Schale building because they know the General Student Council controls it. Maybe they think there’s something valuable inside.
+[Rin]: …
+[Momoka]: Oh, well. The city’s already a dump, so I don’t think it’ll make that much of a difference… Oh, great! The food I ordered is here. I’ll talk to you later!
+[Momoka]: *click*
+[Rin]: …
+[Rin]: *snaps*
+[Sensei]: “Are you okay?” / “Deep breaths, Rin. Deep breaths.”
+[Rin]: I’m fine… It’s just a minor setback. No problem at all.
+[Rin]: *staring*
+[Hasumi]: …?
+[Yuuka]: What? Why are you looking at us like that?
+[Rin]: It’s so reassuring to have you trustworthy academy representatives here with us.
+[Yuuka]: Huh?
+[Rin]: We are going to need your help to bring peace back to Kivotos. Let’s go.
+[Yuuka]: Wait, what? Where are we going?
+[Yuuka]: [The DU Outskirts, Near the Schale room]
+[Yuuka]: *whoosh*
+[Yuuka]: *craaaaash*
+[Yuuka]: What’s going on?
+[Yuuka]: *bang* *bang* *bang* *bang*
+[Yuuka]: Why do we have to be the ones to fight them?!
+[Chinatsu]: Rin said defending the club room is paramount if they’re to regain control of Sanctum Tower.
+[Yuuka]: I get that, but I belong to my school’s student council! Why is busywork like this falling to me?
+[Yuuka]: *rustle* *rustle*
+[Yuuka]: Ah, that smarts! What the heck?! Are they using JHP rounds? That’s cheating!
+[Hasumi]: Just take cover, Yuuka. And besides, hollow-points aren’t considered illegal.
+[Yuuka]: Well, they’re illegal at our academy starting now! That might have left a mark!
+[Hasumi]: We need to remember that Sensei is here with us.
+[Hasumi]: Their safety is our top priority. Reclaiming that building will come second.
+[Chinatsu]: Hasumi is right. Sensei isn’t from Kivotos.
+[Chinatsu]: Unlike us, a single bullet could put Sensei in grave danger. Don’t forget that!
+[Yuuka]: I know that! You can’t just join us on the battlefield, Sensei, so stay put while we take care of this!
+[Sensei]: “I’ll take command. Trust me” / “Just follow me. I know what I’m doing.”
+[Yuuka]: What? You’re going to take command? Well… I guess you are supposed to be a teacher.
+[Hasumi]: Okay. We’ll follow your lead.
+[Chinatsu]: A student must listen to their teacher. We’ll be counting on you.
+[Yuuka]: Okay! Let’s go!
+[Yuuka]: <<To be continued…>>
+[Yuuka]: 1-2
+[Yuuka]: Under Sensei’s direction, the students breeze through combat and advance toward the Schale club room
+[Suzumi]: That battle was much easier than I expected it to be.
+[Yuuka]: I know, right?
+[Hasumi]: We were able to fight more efficiently thanks to Sensei’s commands.
+[Yuuka]: This must be why the General Student Council holds Sensei in such high regard. The president must have had her reasons for choosing Sensei.
+[Hasumi]: I wouldn’t mind sharing the battlefield with you again sometime.
+[Hasumi]: Fade to black
+[Hasumi]: <<End of Chapter>>
+[Hasumi]: 2-1
+[Hasumi]: Rin discovers the incident was instigated by someone named Wakamo from Hyakkiyako. Shewarns Sensei that the student in question is a dangerous convict that escaped from the Corrections Bureau.
+[Yuuka]: The Schael club room is just ahead of us!
+[Rin]: I think I finally figured out who’s responsible for this riot.
+[Rin]: Her name is Wakamo. She’s a fugitive that escaped the Corrections Bureau after being suspended from the Allied Hyakkiyako Academy.
+[Rin]: She’s a repeat offender, so I’d advise that you don’t let your guards down.
+[Rin]: Fade to black
+[Wakamo]: Well, well. The General Student Council didn’t bother to show up in person. Not that it matters.
+[Wakamo]: I’ve no idea what’s in that building, but if it’s important to the General Student Council…I’ll just have to destroy it.
+[Wakamo]: I can;t wait for what’s going to come next. Heeheehee. ❤
+[Wakamo]: <<End of Chapter>>
+[Wakamo]: 2-2
+[Wakamo]: Upon encountering Sensei in the basement, Wakamo turns beet-red and flees. Arriving late, Rin hands the Shittim Chest, left behind by the General Student Council president, to Sensei.
+[Yuuka]: Finally!
+[Hasumi]: Indeed.
+[Rin]: We’ve successfully reclaimed the Schale club room, I’ll be arriving shortly. Let’s meet in the basement of the building.
+[Rin]: [Basement of the Schale Building]
+[Wakamo]: I don’t see what the big deal is about this place. What am I even supposed to destroy?
+[Wakamo]: Oh?
+[Sensei]: “Come here often?” / Greet her with a smile.
+[Wakamo]: Uh…
+[Wakamo]: …
+[Wakamo]: Well…
+[Wakamo]: I, uhh…
+[Wakamo]: I was just leaving!
+[Sensei]: “…?”
+[Sensei]: [Basement of the Schale Building]
+[Rin]: Sorry to keep you waiting. I’m here now.
+[Rin]: Hmm? Did I miss something?
+[Sensei]: “Nothing in particular.”
+[Rin]: If you insist. Well, here is what the General Student Council left behind.
+[Rin]: *shuffle*
+[Rin]: Thankfully, there isn’t a scratch on it.
+[Rin]: Please. Take it.
+[Sensei]: “A smart tablet?”
+[Rin]: Yes. This is what the General Student Council president left for you. The Shittim Chest.
+[Rin]: That name sounds familiar…
+[Rin]: It may seem like a normal tablet, but its origins are a mystery. Its manufacturer, OS, system structure, and components are completely unknown.
+[Rin]: The General Student Council president left the Shittim Chest to you. She said that you’ll be able to take control of the tower with it.
+[Rin]: None of the other members know how to activate it. Perhaps you may be able to figure it out, Sensei, but if not…
+[Sensei]: “...”
+[Rin]: …
+[Rin]: My job here is done. I shall let you take the lead.
+[Rin]: I’ll step away so as not to interfere.
+[Rin]: …
+[Rin]: Activate the Shittim Chest.
+[Rin]: Fade to black
+[Rin]: <<End of Chapter>>
+[Rin]: 2-3
+[Rin]: After activating the Shittim Chest, Sensei meets secretary Arona and regains control of Sanctum Tower. Rin then presents the Schale club room, and Sensei puts the first mission of the Schale Federal Investigation Club into action.
+[Rin]: …
+[Rin]: Connecting to the Shittim Chest…
+[Rin]: Please enter the system password.
+[Sensei]: “The password is…”
+[Sensei]: Enter what you remember.
+[Sensei]: We thirst for the seven wailings.
+[Sensei]: We bear the koan of Jericho.
+[Sensei]: …
+[Sensei]: Password accepted. User identified as [NAME. Confirmed.
+[Sensei]: Welcome to the Shittim Chest, [NAME] Sensei.
+[Sensei]: Converting to operating system ARONA for biological authentication and generation of verification certificate.
+[Sensei]: Fade to black
+[Sensei]: [???]
+[Sensei]: There’s a little girl sleeping at a desk in a strange classroom.
+[???]: Zzz…
+[???]: Zzz…
+[???]: Castella cake… Banana milk…goes better than strawberry milk…
+[???]: Zzz…
+[???]: Heehee… There’s so much left…
+[???]: Shake her awake / Poke her cheek.
+[???]: *shake* / *poke*
+[???]: Huh…?
+[???]: H-Huh?!
+[???]: *stands up*
+[???]: *shuffles*
+[???]: *yawning* What’s going…on?
+[???]: Huh…?
+[???]: Uh… Huh? Wha…?!
+[???]: S-Sensei?!
+[???]: If you’re here, does that mean you’re [NAME] Sensei?!
+[Sensei]: “That’s me.” / “And you are?”
+[???]: What? So I'm right? What time is it?!
+[???]: Wait. Calm down…
+[???]: Um, so… Oh, that’s right! I forgot to introduce myself!
+[Arona]: My name is Arona!
+[Arona]: I’m the system manager that lives inside the Shittim Chest. I serve as its main OS. Think of me as your trusty secretary, Sensei!
+[Arona]: I’m so glad to finally meet you! I’ve been waiting a long time!
+[Sensei]: “Weren’t you sleeping?”
+[Arona]: Well, uh…I guess I might have dozed off there.
+[Sensei]: “Well, it’s nice to meet you too.”
+[Arona]: Yeah! I’m happy to hear that!
+[Arona]: My physical form is still small, and my voice could use a serious upgrade…
+[Arona]: …but I know I can still prove to be useful to you!
+[Arona]: Oh, yeah! Let’s complete your biological authentication. ♪
+[Arona]: Um…this is a little embarrassing, but it’s all part of the protocol. Would you mind standing a little closer?
+[Arona]: Just a liiittle closer.
+[Arona]: Okay. Now, place your fingertip against mine.
+[Arona]: (press)
+[Arona]: Heehee. It’s kind of like we’re making a promise or something, isn’t it?
+[Arona]: What? It reminds you of a scene from a famous sci-fi movie?
+[Arona]: This is just how I’m supposed to verify your fingerprint!
+[Arona]: I’m the one that has to scan every fingerprint that is left on the screen. But don’t worry! I have eyes like a hawk, you know!
+[Arona]: Let’s see…
+[Arona]: Hmm.
+[Arona]: (Um, I can’t really tell…)
+[Arona]: (Hmm. I guess it doesn’t matter.)
+[Arona]: All done! ♪
+[Arona]: What, you think I didn’t do it the way I’m supposed to? That’s not true!
+[Arona]: …
+[Arona]: You’re saying fingerprint readers these days are supposed to be instant? But…I Don’t have that sort of high-tech feature…
+[Arona]: I mean, I don’t need those kinds of features! My eyes will do the trick just fine!
+[Arona]: Hmm… You don’t seem convinced.
+[Arona]: …
+[Arona]: …
+[Arona]: *sob*
+[Arona]: Why don;t you just leave me for Airi if that’s how you feel! Go be with an AI girl that has all the high-tech features you want…
+[Sensei]: “It was only a joke!”
+[Arona]: Hmph…
+[Arona]: Fade to black
+[Arona]: I spent several minutes trying to cheer up Arona
+[Arona]: …
+[Arona]: Got it. A lot’s been going on, hasn’t it?
+[Arona]: The General Student Council president went missing, and there’s no way to control the tower in Kivotos now…
+[Sensei]: “Do you know anything about the General Student Council president?” / “Who IS the president of the General Student Council?”
+[Arona]: I have lots of data on Kivotos, but I know very little about the president. I don’t know who she is or why she disappeared, unfortunately.
+[Arona]: I wish I could be more helpful…
+[Arona]: Um…but I think I can help with the Sanctum Tower problem, at least.
+[Sensei]: “Thanks, Arona.”
+[Arona]: Sure! Just let me restore the access permissions to Sanctum Tower!
+[Arona]: Just a minute!
+[Arona]: *whirring*
+[Arona]: …
+[Arona]: Sanctum Tower admin permissions acquired.
+[Arona]: We’ve successfully regained Sanctum Tower, Sensei! The tower is now under my control.
+[Arona]: That means all of Kivotos is in the palm of your hand!
+[Arona]: I can transfer control of Sanctum Tower to the General Student Council with your approval.
+[Arona]: But…are you sure that’s what you want to do? You would be giving total control to the General Student Council.
+[Sensei]: “I’m sure it’ll be fine.” / “Go ahead.”
+[Arona]: All right, then! Control of Sanctum Tower will now be transferred to the General Student Council!
+[Rin]: Good. Understood.
+[Rin]: *click* Control of Sanctum Tower was just confirmed.
+[Rin]: This will allow us to manage the city as well as we could before the president’s disappearance.
+[Rin]: Well done, Sensei. I want to thank you on behalf of the entire General Student Council for preventing Kivotos from falling into utter chaos.
+[Rin]: You needn’t worry about the suspended students and thugs that attacked us before. They will be tracked down and punished before long.
+[Rin]: My duty was only to see that you received and activated the Shittim Chest, so my job here is done…
+[Rin]: …but there is one more thing we should do for good measure.
+[Rin]: Could you follow me? I’d like to properly introduce you to the Federal Investigation Club: Schale.
+[Rin]: This is Schale’s main lobby.
+[Rin]: It's been empty for a long time, but now it finally has an owner.
+[Rin]: *opens door*
+[Rin]: And you can consider this to be the Schale club room.
+[Rin]: This is where you’ll be working starting now.
+[Sensei]: “What should I do now?”
+[Rin]: Schale may have authority, but it has no particular goals at the moment. But even though you don't have a specific job to do…
+[Rin]: …you can freely enter any of the academy districts in Kivotos. From there, you can register any of the students you find as club members, among other things.
+[Rin]: Fascinating, isn't it? It may be an investigation club, but the president never specified what it would be investigating or what its purpose is.
+[Rin]: In that sense, you have quite a lot of freedom, don’t you?
+[Rin]: …
+[Rin]: As much as I wish to ask the president for further details, the fact of the matter is she remains missing.
+[Rin]: We’re using everything at our disposal to look for her, but that leaves us short-handed at dealing with the other problems around Kivotos.
+[Rin]: The General Student Council is being flooded with civil complaints as we speak. Requests for support materials, environmental aid, make-up work for failing students, requests to save clubs, and so on…
+[Rin]: Perhaps Schale can be the one to look into these requests. Since it looks like you have plenty of time now…
+[Rin]: I put all the documents on your desk. Please review them while you have time.
+[Rin]: We’ll be counting on you.
+[Rin]: And the best of luck with your new position, Sensei. Let me know if you need anything.
+[Yuuka]: Correct. I’ve confirmed the General Student Council has regained control of Sanctum Tower.
+[Hasumi]: Wakamo fled to the student district, but I’m sure she’ll be found and arrested soon.
+[Hasumi]: I’ll leave the rest to the person in charge.
+[Yuuka]: Not too shabby, Sensei. Everyone in Kivotos will be talking about you now. I bet it’s all over social media already.
+[Sensei]: “I couldn’t have done it without all of you.”
+[Hasumi]: We’ll have to say goodbye for now but I hope you can visit us at Trinity General School soon.
+[Suzumi]: *nodding*
+[Chinatsu]: I’ll be reporting what happened here to our head prefect. You’re welcome to stop by and visit if your work ever takes you to Gehenna Academy
+[Yuuka]: I’m sure we’ll see each other again whenever you come to the Millennium Science School. Bye, Sensei!
+[Yuuka]: Return to the Schale office.
+[Wakamo]: …
+[Wakamo]: Oh, no. This won’t do.
+[Wakamo]: Heh heh… Heh heh heh.
+[Wakamo]: Heehee. ❤
+[Arona]: Things got a little hectic, but I think everything is okay now. Thank you for your help.
+[Sensei]: “You did great, Arona.”
+[Arona]: Thanks! But this is only the beginning,
+[Arona]: You’ll have to help solve all the problems the students in Kivotos are going through!
+[Arona]: Even though it may seem simple, this is a really important task.
+[Arona]: Kivotos will be counting on you and Schale, Sensei.
+[Sensei]: “Happy to help” / “You’ll be helping me too, Arona.”
+[Arona]: Let’s start your first official mission for the Federal Investigation Club: Schale!
+[Arona]: <<End of Chapter>>
