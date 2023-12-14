@@ -1,0 +1,583 @@
+ That or it's a dead body! What did you do, Shiroko?!
+ What? It's not a corpse?
+ True...but were we expecting anyone?
+ No way! Are you?!
+ This is great. This means we can finally get more ammo and supplies.
+ I have to tell Hoshino. Wait... Where is she anyway?
+ There's a group approaching the school! It must be the Kata-Kata Helmet Gang!
+ Hoshino! The Helmet Gang is attacking again! By the way, this is Sensei from Schale.
+ I'll navigate us from here.
+ Stay on the back lines and provide support, Sensei!
+ <<Battle Sequence>>
+ Under Sensei's command, the students of Abydos repel the Helmet Gang and return safely to the school.
+ The Kata-Kata Helmet Gang is retreating from the district.
+ Great job, everyone! You're safe to return to campus.
+ <<To be Continued>>
+ 03 - Being an Adult is Amazing!
+ After defeating the Helmet Gang, the Foreclosure Task Force introduce themselves to Sensei at Abydos High School. Having solved some supply issues with Sensei's help, the students want to use their momentum to crush the Helmet Gang's outpost.
+ [Abydos Foreclosure Task Force Club Room]
+ You shouldn't say that, Hoshino. Those thugs would have taken over the school had we lost.
+ Haha. Anyway, we should introduce ourselves, Sensei.
+ We're the Abydos Foreclosure Task Force.
+ I'm Ayane, and I'm a first-year in charge of the task force's records and operations.
+ This is Serika, also a first-year.
+ And these are our second-years: Shiroko and Nonomi.
+ And this here is our president.
+ Hoshino is our lone third-year.
+ I'm sure you've noticed by now that our school is in crisis. That's why I reached out to Schale for help, and you've already managed to come through for us.
+ Those thugs would have succeeded in taking over the school if not for you. We can't thank you enough.
+ The Foreclosure Task Force's goal is to bring Abydos back to its former glory.
+ We would have been in real big trouble this time if Schale hadn't come around to help us.
+ Who knows how long this will drag out? We have plenty of other things to worry about besides the Helmet Gang.
+ I'm surprised too!
+ Y-You mean right now?
+ I can't deny that, but...what do you think, Sensei?
+ You're now on the Kata-Kata Helmet Gang's turf.
+ I'm detecting their signal within a 15 kilometer radius.
+ They must know you're there. Don't let your guard down!
+ <<Battle Sequence>>
+ Together, Sensei and the students destroy the Kata—Kata Helmet Gang's outpost without much trouble and return to the school.
+ They're retreating!
+ Better yet, the Helmet Gang's supplies, hideout, and ammunition were all taken out.
+ Welcome back, everyone. Great work today.
+ W-Well, the thing is…
+ …!
+ Serika?
+ It's 962,350,000 yen to be exact.
+ That's the amount that Abydos—no. That's the amount the Foreclosure Task Force has	taken upon itself to pay back.
+ The loan company will foreclose on the school and shutter it permanently if we don't repay them.
+ But the odds of paying back a debt that large are practically zero. That's why most of the students left the school and town…
+ The debt is the source of everything that's wrong. It's why the school is on the brink of closure, why the students left, and why the town is so desolate…
+ You mean how the debt was accrued in the first place?
+ There was a sandstorm in the desert surrounding the school several years ago.
+ Sandstorms are common in the Abydos region, but that particular storm	was devastating
+ Some areas were completely buried in sand, and it just kept piling up.
+ The school had to raise a lot of funds for disaster relief…
+ ...but there wasn't a single bank that would give such a large loan.
+ Exactly. They were looking to take the easy way out and pay the money back quickly…
+ ...but the sandstorms only worsened as the years went on. Despite the	school's best intentions, the situation just kept getting worse.
+ Today, more than half of Abydos is under sand and the debt keeps growing.
+ We're barely able to pay the interest every month. We can't even afford ammunition or school supplies.
+ You don't have to say all that…
+ ...but thank you for doing so anyway, Sensei.
+ I feel so relieved. There's some hope if we have Schale's support.
+ Haha. Hello, Serika…
+ Knock it off, Hoshino…
+ Hmm... I'd like the miso ramen.
+ You can't force Sensei to pay. We only came because you said it was your treat, Hoshino.
+ Hahaha! See you tomorrow, Serika!
+ Serika? Are you there, Serika?
+ <*ding dong* *ding dong*>
+ Are you there? Why haven't you been answering your phone?
+ Where does she keep her spare keys...?
+ <*opens door*>
+ What's going on, Serika? Are you still not home yet?
+ This is so strange…
+ Could it be...?
+ It's been turned off for a few hours now…
+ What? The Helmet Gang?!
+ …
+ Time passes
+ <*opens door*>
+ Hoshino! Sensei!
+ You were able to get into their network? Wow. Sensei's the real deal…
+ Wait! Does that mean you didn't ask for permission?!
+ Sensei…
+ /
+ Yeah, but…
+ …
+ /
+ N/A
+ Okay.
+ /
+ N/A
+ Thank you, Sensei.
+ /
+ N/A
+ Right. We found that Helmet Gang members lived in those areas while researching risk factors surrounding the school.
+ So it really was them!
+ I've located Serika!
+ Thank goodness. I was so worried about you, Serika.
+ Multiple hostiles from the Kata-Kata Helmet Gang confirmed ahead!
+ I also see more than a handful of super heavy firearms! They're steadily forming a dragnet!
+ Well done, everyone.
+ Will you be all right, Serika?
+ It could have been much worse had Sensei not been here…
+ ...Excuse me, everyone. Could I have your attention?
+ I was looking into the tank parts we collected in battle. It turns out they're from an illegal model that is prohibited within Kivotos.
+ I'll have to dig a little deeper, but right now it looks like the Helmet Gang has gained access to weapons that should be contraband.
+ Bingo. That, and also why a minor criminal organization is targeting our school so obsessively…
+ All right. Time for us to begin our regularly scheduled Abydos Foreclosure Task Force meeting.
+ I'll remind you that Sensei is in attendance today, so I would hope for more decorum than usual…
+ Okay. Let's get down to business and discuss the key item on our agenda… How do we settle the school's debts? Discuss.
+ Raise your hand if you'd like to share your thoughts!
+ Yes, first-year Kuromi Serika. You have the floor.
+ Why not? This is our first formal meeting in ages.
+ Something...big?
+ What's that?
+ …
+ Serika... Have you ever heard the phrase "pyramid scheme" before?
+ First, I don't think germanium can possibly affect your luck, if it even exists. Second, if this is such a great business plan, why would they give it away for free at such a fishy-sounding seminar?
+ Well, then... That's it for Serika's suggestion. Anyone else?
+ Okay. President Takanashi Hoshino has the floor…
+ I suppose... And?
+ I admit you raise a good point, but how do you suggest we do this?
+ Excuse me?!
+ Wait a second! We can't possibly boost our enrollment with a stunt like that!
+ Not to mention the other schools' respective leaderships would surely put up a fight…
+ That wasn't supposed to be a challenge, Hoshino... Can you please try to take this meeting seriously?
+ Hoshino steps down
+ Fine. Go ahead, second-year student, Sunaookami Shiroko.
+ What?!
+ Is that what you've been working so hard on lately?!
+ Where did you find the time to prepare all of this?
+ …
+ She's right! We can't possibly stoop to being criminals!
+ …
+ Silently takes off mask
+ Pout all you want, Shiroko, but there are some lines that can't be crossed!
+ *sigh* Seriously. If no one comes up with a real idea soon…
+ Ayane (Foreclosure Task Force): Very well. Second-year Izayoi Nonomi... As long as it doesn't involve scams or breaking the law, you have the floor.
+ Pop idols...?!
+ This meeting is just going in circles now. Shouldn't we at least try to decide on something? Anything?
+ No way! You want to make a decision already? Shouldn't we at least throw out some better ideas first?
+ Now wait just a minute. How does that make any sense?
+ THAT'S what you're picking?! Are you sure?!
+ Obviously…
+ OBVIOUSLY NOT!
+ <*craaash*>
+ Can't you take this seriously for one second?! I swear, it's like I'M the only mature one here!
+ All you four ever do is fool around! Robbing banks, pyramid schemes... Is this supposed
+ to be some kind of joke?!
+ I'm...not angry…
+ Will you stop patronizing me like I'm a child?!
+ *nom* *nom* Yesh.
+ <*door opens*>
+ We're regulars here. Sorry to interrupt your meal, but we wanted to say it's good to see students from other schools come here and see the light.
+ I'm reading a large armed group 15 kilometers south of campus!
+ N-No! It's not them.
+ They look like mercenaries! Someone must have hired them to attack!
+ We can't allow them to get any closer! Sensei, give us the order to move out!
+ I've got eyes on a squad leading those goons up ahead!
+ I'm still not sure what that was all about, but I can at least confirm their hired forces did clock out. I mean, uh, retreated.
+ But, still. This is a problem. Now we have to worry about some strange hitmen targeting our school? What on earth is going on?
+ Sounds good. Head back inside for now, everyone. Good work today.
+ <<To be Continued>>
+ 10 - In Search of a Clue
+ The Foreclosure Task Force learn that Problem Solver 68 is a group of delinquents from Gehenna Academy and that the Helmet Gang's weapons came from the Black Market. Sensei and the students head there to investigate.
+ [Abydos Residential Area]
+ Oh, good morning, Sensei.
+ Where am I heading off to so early?
+ Oh. We have an interest payment on the school's debt due today. There's a lot of prep work involved.
+ I have to get to school ahead of time to take care of it...and do some planning for how we'll move forward.
+ Oh, that's right. I also compiled some intel on the students we ran into yesterday. I'd appreciate if you could take a look at it later.
+ Those girls are in fact students at Gehenna Academy and…
+ ?
+ What the...?!
+ Wh-What do you think you're doing? Let go of Sensei this instant!
+ That was before you assaulted our school! What are you up to? Why are you trying to be so buddy-buddy all of sudden?
+ And my name's not Little Miss Four-Eyes! It's Ayane!
+ A-Are you actually trying to tell me not to take things personally after what you did?!
+ There will be no later! I'll shoot on sight if I catch you in our district again!
+ *sigh*
+ The nerve of that girl!
+ …
+ The repayment schedule is 309 years. At the rate we're going…
+ …
+ Let's begin, shall we? We need to go over two issues.
+ First off is yesterday's assault.
+ The culprits belong to a club called Problem Solver 68.
+ They're a notorious group of student delinquents from Gehenna Academy.
+ They present themselves as a fixer agency, but they're more like a freelance errand center.
+ The club president is a girl named Aru.
+ She would be the one you ran into that was calling herself the boss.
+ Again, her title is self-proclaimed. I suspect they're currently operating out of a location close to Abydos—especially since we ran into one of them this morning.
+ I wouldn't think so. I bet they took whatever contract they‘re under because they felt like it.
+ On the contrary. They're known for being troublemakers and causing a lot of headaches at Gehenna as well.
+ And now they're targeting our school! We need to take this seriously!
+ For once, I agree. We should take initiative and nip this problem in the bud.
+ Next up, the mastermind behind the Helmet Gang's attack on Serika!
+ After analyzing the weapons that were recovered from the last battle...I've learned that this model is no longer on the market.
+ The only place you can get those kind of weapons is in Kivotos' Black Market.
+ Yes. Dropouts, burnouts on leave, flunkies... The Black Market is a gathering spot for delinquents. Not to mention a place where unauthorized clubs do illegal activities.
+ Indeed. Word on the street is that Problem Solver 68 has been responsible for a couple of incidents at the Black Market already.
+ I agree. We should be looking for a connection there.
+ Eyes sharp, everyone. You're in the heart of the illegal weapons and arms trade, so be ready for anything.
+ If anything does happen, I'll... Huh?!
+ <*pop* *pop* *pop* *tat*>
+ Hey. That uniform…
+ !
+ …!
+ That's right! That uniform belongs to Trinity General School, one of the largest
+ academies in all of Kivotos!
+ Hang on, guys! Armed forces are closing in on you!
+ They must be from the same gang as those thugs you scared off. And they look like they're raring for a fight!
+ You'll have time to complain later... Now's the time to act!
+ <<Battle Sequence>>
+ Having beat back the bullies, Hifumi and the Foreclosure Task Force leave the scene before an even bigger mess happens
+ The enemy is retreating.
+ But at this rate…
+ Haha. That's okay, Nonomi. I have snacks with me.
+ Hang on a second, everyone! There are armed forces heading your way!
+ I don't think they've spotted you, but you should take cover just to be safe.
+ Confirmed! That's a Kaiser Loans truck!
+ In fact, it's the same truck that our cash payment was loaded into this morning! What is it
+ doing at the Black Market?!
+ One moment.
+ …
+ No good. I think they're working on a closed network. I can't pull anything up on them at all.
+ …
+ W-We can't say for certain yet... There isn't anything concrete to back it up. Not until we figure out where that truck is going.
+ …
+ *sigh* Copy that. I doubt I can talk any of you out of it at this point. Good luck. I'm sure
+ you'll manage somehow.
+ …
+ *sigh* I dub you all the Masked Swimsuit Gang.
+ <*shuffle*>
+ Let's do this!
+ <<To be Continued>>
+ 14 - The Masked Swimsuit Gang! Part 2
+ Aru is waiting for a loan interview at the Stygian Bank when the masked members of the Foreclosure Task Force burst in and steal all the bank's money. The Black Market Guard gives chase, and Aru admires the students' act of pure villainy.
+ [Bank]
+ ...?!
+ Takes off mask
+ …
+ You're through the barricade. You should be safe now.
+ I can't believe you all really pulled a heist on a Black Market bank…
+ W-Wait a second! You want to keep that money?!
+ But then we really would be nothing but criminals, Serika!
+ …
+ Hang on! Someone is headed your way!
+ No, it doesn't look like it. Whoever it is, they don't seem hostile.
+ Hang on a second. I know this reading. Is that...?
+ I-It's Aru from Problem Solver 68!
+ Scene change
+ By mission, do you mean when the Helmet Gang...?
+ The Helmet Gang was acting...under the orders of Kaiser Loans?!
+ Come on, guys... Stop giving Hifumi a hard time.
+ It's been a really long day. Why don't we all go home and get some rest? We can regroup tomorrow.
+ An explosion has been detected within a ten-kilometer radius!
+ It looks like the shockwaves were set off by a chain reaction of C4. It doesn't seem like any sort of bombardment, but I'll try to find out more!
+ The explosion WAS downtown! The exact location is…
+ Shiba Seki Ramen?!
+ Shiba Seki Ramen has been completely obliterated!
+ I'll send word to Hoshino. C'mon, let's go!
+ Master Shiba's safety has been confirmed. Luckily, he's only sustained superficial wounds, so he'll be treated at a nearby shelter!
+ We're getting bombarded! I've marked multiple grenadiers about three kilometers away!
+ They're 50 millimeter mortar shells! They seem to be aimed at Problem Solver and not us, but I can't be sure…
+ Unit affiliation confirmed. That's the Gehenna Prefect Team! It's a single medium-sized brigade!
+ I'm not sure yet... And they're not exactly sending us any good vibes, either.
+ No. She's never been out of contact for this long before…
+ …
+ She's right.
+ The Prefect Team escalated this into a political conflict the moment they commenced tactical operations here in our district.
+ Yes, those Problem Solver geeks may have started this mess…
+ ...but that doesn't give the disciplinary board of another academy carte blanche to project force in our jurisdiction without our say-so.
+ This is Okusora Ayane of the Abydos Foreclosure Task Force. Please identify yourselves.
+ Someone's patching into the comms!
+ You’re their senior administrator? That would make you the Prefect Team’s second-in command…
+ (Talking through hologram)
+ Our president is away right now. And we’re not the student council. We’re the Foreclosure Task Force, Miss Senior Administrator.
+ (Hmm?)
+ And like we said before…that’s not gonna happen!
+ An academy like gehenna abusing their massive forces to wantonly conduct tactical operations at a tiny school like ours?
+ That’s a crystal-clear breach of jurisdictional authority!
+ We’ll be the ones to decide how Problem Solver will be dealt with!
+ It’s disgraceful that an academy of Gehenna’s caliber would abuse their power to launch this kind of assault!
+ In conclusion, there’s no need for us to negotiate with you! We demand that the Gehenna Prefect Team removes its forces immediately!
+ Prefect Team forces are advancing from all directions.
+ You had more coming? I-In such overwhelming numbers?
+ …?
+ …!
+ The enemy has begun the siege!
+ Sensei! Please lead Problem Solver 68 with us!
+ [Battle]
+ *Problem Solver & Foreclosure Task Force VS Prefect Team*
+ Part 2
+ The Prefect Team are calling for a third round of backup!
+ The Gehenna head prefect is Sorasaki Hina.
+ Her appearance checks out. It must be her.
+ But the Gehenna Head Prefect is the highest ranking member of Gehenna’s military… What would bring someone like that all the way here?
+ …
+ W-Wait a minute! The Gehenna head prefect is extremely powerful. There’s no one stronger than her in all of Kivotos!
+ Don’t be in such a rush. We have to negotiate first! Why do you guys like fighting so much?
+ We’re the Abydos Foreclosure Task Force, Miss Head Prefect.
+ Do you understand the situation?!
+ …?!
+ Wait…Problem Solver is gone, and the number of troops hasn’t changed. All we have is Sensei…and it’s hard to stop the others…
+ I wish Hoshino was here right now…
+ …?
+ Huh?
+ H-Hoshino?!
+ Pulling out?!
+ All the Prefect Team’s forces…vanished from Abydos in the blink of an eye…
+ To be able to move such a large force so quickly… The head prefect is really something
+ We don’t have a clue either! Where were you?!
+ *sigh* I feel like…things are getting worse.
+ It’s all so chaotic…and hard to navigate.
+ Yes. Let’s disband for today and figure out the situation at school tomorrow.
+ Hello, Master. I’ve come to check on you.
+ What? You were going to close your shop?
+ Th-The building owner? What are you talking about? Buildings in the Abydos district are owned by the Abydos School, so your shop has to be…
+ What?!
+ I-If that’s what happened…
+ Serika, Sensei, you should go ahead back to the school. I have to check something before I go.
+ Okay. In that case, you should go back to the club room first, Sensei. We’ll be right behind you!
+ Let’s go, Serika!
+ It’s a land registration map of the district! It…
+ …Huh?
+ Eh?
+ D-Did something happen?
+ This is a property map of the Abydos district, which includes a record of all its most recent transactions.
+ When we visited the hospital this morning, Master explained everything!
+ Most of the buildings in the Abydos district, including the Shiba Seki ramen shop…
+ …are not owned by our school.
+ …Kaiser Construction!
+ Yes. The building already belongs to the Kaiser Corporation. The eviction order was issued some time ago…
+ So, Master decided to close the shop… He said it was bound to happen eventually.
+ Nor only that, but the main building of Abydos, along with the surrounding desert and wilderness and even the buildings that nature has not reclaimed yet…all of that already belongs to them.
+ The only areas that they don’t have control over are the main building of the school and parts of the surrounding area…
+ She’s right. The transaction was led by Abydos’ previous Student Council.
+ Yes. No further deals have come to light since the Student Council disappeared.
+ The district belongs to the school. That’s common knowledge, so we were only concerned about the school’s debt, not the school’s assets.
+ If only I had known sooner…
+ Yes. In fact…she was vice president of the last Student Council…
+ Your grades aren’t that great either…
+ I-I know that! Why are you bringing up my grades all of a sudden? I’m just saying!
+ …
+ Hoshino…
+ Yeah. When Serika went missing, you were the first to ask Sensei for help.
+ No...I don’t think so.
+ Yes. That’s what I think too. Even back then, the school’s debt was enormous.
+ But since it was sold at such a low price, forget the principal. They couldn’t even keep up with the increasing interest…
+ …!
+ Yes. At first, they must have told them to sell the useless lands in the wasteland and desert.
+ The land had already been ruined, so anyone would have been tempted by such an offer…
+ But because they sold it at such a low price, the debt never decreased, and they kept handing over more and more land…
+ And so the Abydos district slowly became the property of Kaiser…
+ Serika…
+ The school’s debt…the situation in Abydos, and the clues we found with Sensei…
+ It’s all coming together.
+ After the Student Council disappeared, the Kaiser Corporation had no way to purchase more land…
+ This school was the last piece they didn’t own, so they hired hands to harass us!
+ In the end, what the Kaiser Corporation wanted wasn’t money…but land!
+ I-I know… I haven’t the slightest clue what could be gained by taking that…
+ Wh-Why would the Gehenna head prefect…?
+ A-Ahaha…
+ Yes. Serika is right.
+ (Through hologram) You’ve been able to ride the train this far, but you’ll have to walk from here.
+ Past this area is the Abydos Desert… It has always been desert, even before everything fell to ruin.
+ There are usually broken drones, security robots, and automata prowling around, so it’s a pretty dangerous place…
+ We’re out of options. Everyone, please get your weapons ready.
+ The intel we received about Kaiser doing something in the Abydos Desert…
+ If we want to confirm whether it’s true or not, we have no choice but to go out there ourselves.
+ That’s probably because the Gehenna Prefect Team is very good at collecting info, so they’d naturally know a lot more than a small academy like us…
+ Yes. The Head Prefect, especially. Remember what the senior administrator said?
+ *flashback*
+ (Hm…?)
+ *return to present*
+ Back then, the administrator said it was near the district of another academy.
+ Not in the district, but near…
+ “Nothing illegal…” That could mean…
+ She probably didn’t know the details, but…maybe they didn’t intend to trespass illegally…
+ Yes, you could be right, but…
+ *Screen goes black, only Ako is on screen, with a black background*
+ …At the very least, the senior administrator must have known something that we don’t.
+ So, if the Gehenna Head Prefect has information that we don’t have, there’s nothing weird about that…
+ *Back to normal*
+ We still have a little ways to go before we reach the sector mentioned by the Gehenna head prefect.
+ But…I don’t know what to expect from this place…
+ For now, stay alert as you move forward.
+ [Battle]
+ *Foreclosure Task Force VS Black Market Automaton and Drones*
+ [TO BE CONTINUED]
+ Episode 8 - Into the Abydos Desert Part 3
+ …Wait! I’m picking up something straight ahead!
+ I can’t see well because of all the dust…
+ A huge town… No, a factory? No…a garrison? Whatever it is, it’s massive and fully-manned…
+ You’re just not close enough to see it! Keep going!
+ Unidentified troops dead ahead!
+ I found the facility’s insignia!
+ Hold on, I’m checking…
+ Got it. The name of the group is…
+ Yes, I’m sure of it. They’re called Kaiser PMC.
+ Yes. They’re not listed, but they’re a subsidiary of the Kaiser Corporation…
+ They’re not like those thugs in the Helmet Gang. They’re super organized…just like an army!
+ There’s a huge army approaching! They’re trying to surround you!
+ Thanks, armored vehicles, and even helicopters confirmed… They’re pulling out all the stops!
+ Everyone, this is dangerous! Retreat before you’re surrounded! You need to break through the siege and escape!
+ Sensei! Please lead them!
+ [Battle]
+ *Foreclosure Task Force VS PMC Soldiers and Automatons*
+ [TO BE CONTINUED]
+ Episode 10 - Kaiser PMC Part 2
+ *crackle* Sensei, can you hear me? They broke through the siege…but they’re…
+ *crackle* Communications are unstable… Hurry and retreat…
+ Someone…coming…
+ *Ayane is gone*
+ *Three robots with guns appear*
+ …is from the Kaiser Corporation.
+ …!
+ A-A phone call? Now?
+ ?!
+ Excuse me?! H-Hold on… W-Wait… So suddenly? By next month?
+ …
+ Th-There’s no way we can get that kind of money. We’re barely keeping up with the interest as it is. How…?
+ …!
+ That can’t be right. There’s nothing but desert out there.
+ No oil, no underground resources—nothing. There was a survey done years ago.
+ Kaiser Loans has already sent a reminder and requested a deposit. We have to come up with 300 million yen by next week.
+ You can’t be serious, Shiroko! Where are you going to go?
+ Are you really going against Hoshino’s wishes, Serika?!
+ This isn’t they way, Serika! Not to mention it’s illegal!
+ You’re right. I’m sorry.
+ *sigh* Sorry, I’m here.
+ Oh, am I the first one to arrive?
+ Huh?
+ I-Is this…?
+ …
+ Aaaaaaaahhh!
+ (On the desk was Hoshino’s club resignation, an academy dropout notice, and a letter.)
+ [TO BE CONTINUED]
+ Episode 13 - What Slipped Through the Cracks
+ Everyone, be quiet! Now’s not the time to fight amongst ourselves.
+ *boooooooom*
+ Close by too. It must be…
+ …
+ What the…?!
+ *boooooooom* (Dust covers the air)
+ Hundreds of PMC troops are approaching!
+ B-But there are too many of them! We can’t fight an army this size all by ourselves!
+ Besides, they’re attacking anything and everything. We should focus on evacuating whoever is left in the city!
+ (Thinking) The fighting is out of control… Again… What do we?
+ *Screen shakes and shooting starts*
+ Multiple Kaiser PMC scouts have been sighted near campus! They’re already inside!
+ Got it! We’ll engage the enemies infiltrating the school. Keeping Sensei safe is our top priority!
+ We’ll evacuate the citizens once the school is secure!
+ [Battle]
+ *Foreclosure Task Force VS PMC Soldiers & Military Forces*
+ [TO BE CONTINUED]
+ Episode 14 - The Abydos Siege Part 1
+ (Through hologram) Kaiser Director’s location confirmed!
+ More importantly, the school building is still Abydos property! You’re breaking the law, and the General Student Council won’t overlook this!
+ …
+ …
+ …!
+ …!
+ This can’t be happening…
+ The Foreclosure Task Force isn’t an authorized club.
+ The Student Council was long gone by the time it was created.
+ …
+ Even if we fight…what difference will it make?
+ A large number of troops are advancing this way as we speak.
+ Even if we fight and somehow win, then what? What are we supposed to do after that?
+ We’ll have nothing left to fight for if the school is shut down. And even if we get the school back somehow, it won’t erase our debt…
+ The land that’s already been sold isn’t coming back. What can an unofficial club like ours hope to do without Hoshino or the Student Council?
+ What can we possibly do?
+ Why…?
+ Why are we all alone? Hoshino…
+ …?!
+ …?!
+ *More shadows appear*
+ Huh…?
+ Huh?!
+ What in the world?!
+ Problem Solver…
+ They’re falling back…
+ Yes, we should.
+ The battles have only just begun. We can expect harder fights ahead.
+ Let’s regroup and think of as plan to rescue Hoshino.
+ *fade to black*
+ Somewhere in Kivotos
+ We’re ready.
+ Yes! Understood.
+ I-I’ll have to consider it…but it does seem like the appropriate thing to do.
+ Haha. Then it’s settled. Let’s prepare for battle…
+ Huh? What is it, Sensei?
+ Hmm?
+ [TO BE CONTINUED]
+ Episode 17 - That Which One Must Protect
+ Part 1
+ I also collected all the old maps of the Abydos Desert and updated them.
+ Hoshino is in the center of Kaiser PMC District 51 according to Sensei’s intel.
+ I’ll guide you through the safest route to get there!
+ All right!
+ Commencing Operation Rescue Hoshino!
+ (Through hologram) Is everyone all right?
+ It should be straight ahead according to the coordinates Sensei provided. Hang in there, everyone.
+ …!
+ The enemy is straight ahead!
+ Approximately 2 kilometers away and closing. Get ready, everyone.
+ *boooooom*
+ …!
+ That sounded like…
+ That’s the L118! Trinity’s famous howitzer! What’s it doing here…?
+ …
+ Yes! The enemy is in a state of confusion ! Let’s take advantage!
+ [Battle]
+ *Foreclosure Task Force VS PMC Soldiers and Automatons*
+ You’ve arrived at the target coordinates.
+ Hoshino is being held somewhere around here. Please look around carefully. She must be…
+ …!
+ *Soldiers appear*
+ Enemy reinforcements.
+ They’ve mobilized all of their forces from the look of it.
+ Kaiser PMC intends to start an all-out war here…!
+ A lab? Why here?!
+ Be careful, everyone. They won’t go down without a fight.
+ Another explosion?! What’s going on this time?
+ *Problem Solver 68 appears from the explosion dust*
+ I-Is that Problem Solver 68?!
+ I’ve confirmed Hoshino’s location!
+ Over there! She’s in that bunker!
+ I’ve confirmed Hoshino’s location!
+ Over there! She’s in that bunker!
+ It’s the Kaiser Director!
+ This is it, Sensei! We need you one last time!
+ [Battle]
+ *Foreclosure Task Force VS PMC*
+ Part 2
+ Yes! Welcome back!
+ Good morning, Sensei!
+ Today’s a big day for the Abydos Foreclosure Task Force.
+ Thanks to your help, we’re finally going to be approved as an official Abydos High School club.
+ This has been a long time coming and everyone’s worked so hard, so I wanted to make sure that everything went smoothly today.
+ It also means the Foreclosure Task Force has officially taken over the role of the Student Council.
+ I thought it would only be fitting that Hoshino become the official president too, but she adamantly refused…
+ As things stand, the position is still vacant.
+ Hehee!
+ So it really is making a comeback as a food stall, huh?
+ Business has been good, so Serika was able to get her old job back.
+ The owner is working harder than ever. I suppose he won’t be retiring after all.
+ Your efforts were able to resolve the situation with Hoshino, but Abydos still has a 900 million yen debt. That hasn’t changed…
+ The good news is Kaiser Loans is said to be under investigation by the General Student Council for making illegal transactions on the black market.
+ Hifumi must have pulled some strings at Trinity.
+ I’m skeptical that the General Student Council will be able to do much to Kaiser, but this should at least make them think twice about pulling any shady business deals.
+ I heard that the PMC Director has a warrant out for this arrest for kidnapping a student after what happened.
+ The head Kaiser office released a statement saying they had nothing to do with his actions and that the director had been fired. It figures a corporation that big would make him a scapegoat and sweep it under the rug.
+ Luckily, they’re reversing course on that arbitrary interest rate from before, so Abydos won’t have to pay nearly as much as we thought.
+ The director is on the run now, but capturing him will be difficult with how much the General Student Council has on their plate.
+ As for the Abydos’ district: most of it is still Kaiser Corporation property.
+ In other words, the transaction between Abydos and Kaiser itself was valid.
+ Still, we don’t know what if anything they plan to do with the property they have.
+ Oh, and I heard Problem Solver 68 opened up a new office somewhere.
+ There are conflicting rumors about whether it’s in the Gehenna district or somewhere else, so I couldn’t really say.
+ You can bet the Prefect Team is keeping a close eye on them to make sure they don’t cause any more trouble… It’ll be tough for them to shake the reputation of being a liability.
+ Then there’s that Black Suit person.
+ I wasn’t able to dig up any info about him, even after everything you and Hoshino told me.
+ All wrongdoings have been pinned on the Kaiser Director…and we don’t know Black Suit’s real identity
+ I’m afraid that’s the best I can come up with, so I’ll let Schale look into it from here.
+ .
+ Everyone ready? It’s time for another Abydos Foreclosure Task Force meeting.
+ Even after everything that happened, the debt remains our top priority.
+ Serika…
+ Some kind of computer part?
+ The same old Foreclosure Task Force.
+ They say the more things change, the more they stay the same…but I think we’re closer than ever.
+ Ahaha…
+ That ends my report, Sensei. We look forward to working with you again soon.
+ [THE END] Masked Swimsuit Gang, reporting in! We’re here to support you, Leader Faust!
+ What do you all say we try again from the top?
+ Ahem. The Foreclosure Task Force is here to help Hifumi!
+ You did that, Senior Administrator?
+ Well, uh… not bad, I suppose.

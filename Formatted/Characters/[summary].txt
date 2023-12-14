@@ -1,0 +1,34 @@
+ “Talks with Ako are unfruitful, leaving the situation as hostile as ever. The Foreclosure Task Force decides to team up with Problem Solver to take on the Prefect Team and their sizable forces.”
+ “The hard-fought battle was seemingly over until yet more members of the Prefect Team appeared. Just then, the head prefect, Hina, arrives and questions Ako about the entire series of events thus far.”
+ “Having heard Ako’s story, Hina promptly apologizes for the Prefect Team overstepping for the Prefect Team overstepping their bounds. While commanding her forces to pull out, Hina subtly informs Sensei that the Kaiser Corporation is up to something in the Abydos Desert.”
+ “Sensei sees Problem Solver out of Abydos. In the meantime, Ayane and Serika pay Master Shiba a visit in the hospital. He tells the girls that the ramen shop’s building has been taken over by the Kaiser Corporation.”
+ Problem Solver 68 Office
+ “Back at the club room, everyone goes over what had happened. Ayane and Serika do some digging into administrative documents and tell the group that the majority of the Abydos district’s land has been transferred to the Kaiser Corporation.”
+ Entrance of Abydos High School
+ “Hoshino recounts history to the Foreclosure Task Force. It’s likely the now-defunct Abydos Student Council tried to repay its debts until the land was eventually repossessed by the Kaiser Corporation. Sensei suggests following Hina’s hunt and to go to the Abydos Desert.”
+ “The Foreclosure Task Force cautiously heads towards the Abydos Desert.”
+ “Arriving at the desert, Hoshino sees the remains of Abydos and reminisces about what once was.”
+ “The Foreclosure Task Force finds that a giant facility has been built in the desert and an unknown force shows up to defend it.”
+ *Wind sounds. Dust and sand everywhere*
+ “The forces are Kaiser PMC and they surround the Foreclosure Task Force.”
+ “A supposed Kaiser board member appears before the Foreclosure Task Force and introduces themselves as the creditor of Abydos.”
+ *shootings, explosion, then dust appears on screen*
+ “The Kaiser board member reveals their ambitions to find a massive treasure buried somewhere in Abydos. Then, using the Foreclosure Task Force’s debt as leverage, the creditor forces them to back down. Hoshino calls for a retreat to the chagrin of the other task force members.”
+ Disciplinary Committee Office
+ *scratch* *scratch*
+ “After sending her enraged underclassmen home, Hoshino reveals to Sensei the secret deal she was offered by the man in the black suit. Sensei tries to console her, but the next day finds no trace of Hoshino, save for her resignation letter.”
+ (Black screen)
+ “In her letter, Hoshino reveals that she joined Kaiser PMC in exchange for Abydos High School’s debt being forgiven. Now, without Hoshino, the remaining members of the Foreclosure Task Force scramble when PMC forces close in on Abydos High School.”
+ “After joining up with Kaiser PMC, Hoshino defects when she learns that Abydos High School is under attack, but is then arrested by Black Suit. When all hope seems lost, Problem Solver 68 returns to Abydos to lend their aid to the Foreclosure Task Force.”
+ *Soldiers are shot*
+ “Despite the Kaiser director’s outrage, Sensei, the Foreclosure Task Force, and Problem Solver make use of the sudden turn of events to launch a counteroffensive against the PMC forces.”
+ “The PMC forces finally retreat following an arduous battle. Later, Sensei seeks out Black Suit personally to negotiate Hoshino’s return.”
+ “Black Suit attempts to coerce with Sensei into giving Hoshino up for his experiments, but Sensei makes it perfectly clear that Hoshino will be rescued—no matter what.”
+ “Sensei goes to Gehenna Academy and Trinity General School to enlist their help. Meanwhile, Problem Solver 68 are treated to ramen at Master Shiba Seki’s newly opened stall and make up their minds to help the Foreclosure Task Force.”
+ Gehenna Academy Main Gate
+ “At Sensei’s behest, Hina and the Prefect Team come to the Foreclosure Task Force’s defense against the PMC forces.”
+ “The Foreclosure Task Force is fighting on multiple fronts when Hifumi arrives with reinforcements from Trinity in tow. Using the unexpected arrival as a distraction, the Foreclosure Task Force breaks through the enemy lines.”
+ “When the Foreclosure Task Force arrives at Abydos High’s old main building, a Kaiser board member bars their way. However, Aru and Problem Solver 68 arrive in the nick of time.”
+ “The Foreclosure Task Force pushes toward the bunker where Hoshino is being held captive.”
+ “After a long hard-fought battle, the Foreclosure Task Force finally brings Hoshino back to safety.”
+ “After the fact, Sensei received a letter from Ayane. Though the Foreclosure Task Force wasn’t able to pay off its debt in full, she thanks Sensei for preserving the group’s usual way of life.”

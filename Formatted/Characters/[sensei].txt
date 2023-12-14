@@ -1,0 +1,1232 @@
+ 
+ [“I don’t know this ceiling…”]
+ [“Where am I”]
+ 
+ [“Letter…?”]
+ [Schale Executive Office]
+ 
+ [“Sure am”]
+ [“Not in the slightest”]
+ 
+ [“Ruins…?”]
+ [“I’m going to need a summary of what’s going on.”]
+ 
+ [“Good to see you Yuuka”]
+ 
+ [“Tales Saga Chronicle?”]
+ 
+ [“Did it come with a trophy and everything?!”]
+ 
+ [“What’s the Millennium Prize?”]
+ 
+ [“Me?”]
+ 
+ [“Why would you want to go to a place like that?”]
+ 
+ [“What is ‘it’?”]
+ 
+ [“You have mentioned it a few times”]
+ [“How did I get here? what’s going on?”]
+ 
+ [“What IS this G.Bible thing you two are talking about?”]
+ 
+ [“Looks like there’s a factory over there!”]
+ 
+ [“I’m down here”]
+ 
+ [“I’m doing pretty alright”]
+ [“I wouldn’t mind staying down here”]
+ 
+ [“Tell me what you mean by ‘approved subject’”]
+ [“Who are you? And what is this place?”]
+ 
+ [“I’m all right.”]
+ 
+ [“Or course I am”]
+ [“We’re a party, aren’t we?”]
+ 
+ [“You want me?”]
+ [“What do you have in mind?”]
+ 
+ [“That’s right”]
+ [“Are you all ready?”]
+ 
+ [“Let’s do this!”]
+ 
+ [“Let’s push through”]
+ [“Let’s run away”]
+ 
+ [“Let’s go!”]
+ >>Battle<<
+ [Millenium Outer Hallway]
+ 
+ [“Don’t give up”]
+ [“Don’t be sorry. It’s been an honor”]
+ 
+ [“Let’s make for the club room!”]
+ [“Everyone, prepare for battle!”]
+ 
+ [Calm down.]
+ [Let’s go outside.]
+ 
+ [Why are you here for revenge?]
+ [You realize you’re also pretty little, right?]
+ 
+ [Not yet]
+ *ratta-tat-tat*
+ 
+ [Get on my back]
+ 
+ [Leave it to me]
+ [Come to Schale with me, Aris.]
+ “...?”
+ Follow her.
+ *whirring*
+ “Who, me?”
+ Greet everyone cheerfully.
+ “Well, it’s nice to meet you too.”
+ “Are you okay?” / “Deep breaths, Rin. Deep breaths.”
+ “I’ll take command. Trust me” / “Just follow me. I know what I’m doing.”
+ “Come here often?” / Greet her with a smile.
+ “…?”
+ [Basement of the Schale Building]
+ “Nothing in particular.”
+ “A smart tablet?”
+ “...”
+ “The password is…”
+ Enter what you remember.
+ We thirst for the seven wailings.
+ We bear the koan of Jericho.
+ …
+ Password accepted. User identified as [NAME. Confirmed.
+ Welcome to the Shittim Chest, [NAME] Sensei.
+ Converting to operating system ARONA for biological authentication and generation of verification certificate.
+ Fade to black
+ [???]
+ There’s a little girl sleeping at a desk in a strange classroom.
+ “That’s me.” / “And you are?”
+ “Weren’t you sleeping?”
+ “Well, it’s nice to meet you too.”
+ “It was only a joke!”
+ “Do you know anything about the General Student Council president?” / “Who IS the president of the General Student Council?”
+ “Thanks, Arona.”
+ “I’m sure it’ll be fine.” / “Go ahead.”
+ “What should I do now?”
+ “I couldn’t have done it without all of you.”
+ “You did great, Arona.”
+ “Happy to help” / “You’ll be helping me too, Arona.”
+ Read the letter.
+ To the advisor of the Federal Investigation Club.
+ Hello. My name is Okusora Ayane, and I'm a student at Abydos High School.
+ I’m writing this letter because I want to ask for your help.
+ Our academy is being harrassed.
+ One of the local gangs has been tormenting us.
+ (Read the next page.)
+ It's a long story, but we think…
+ …this gang is after the school building itself.
+ The Students are doing their best to stop them.
+ It’s only a matter of time before we run out of ammunition and supplies, though.
+ At this rate, the school will fall to them for sure.
+ (Read the last page.)
+ That’s why I'm writing to ask for your help
+ Can you please help us, Sensei?
+ "I need to go to Abydos."
+ Nod. / Ask for help.
+ Drink it straight from the bottle.
+ <*gulp* *gulp*>
+ Thank her for coming to your rescue.
+ Nod.
+ Ask for a ride.
+ Ask her for a piggyback ride instead.
+ Greet them with a smile.
+ "I'm an advisor with Schale. It's nice to meet you."
+ ! ! !?
+ Ask what the Foreclosure Task Force's purpose is.
+ "I'm on board."
+ "Debt?"
+ Ask about what happened.
+ "I'm a member of the Task Force too! Keep your chins up!" / "We're in this together now. I won't abandon you."
+ “Good morning.”
+ "Heading to school, Serika?"
+ Follow her.
+ Follow her.
+ “Hi.”
+ Sit next to Nonomi. / Sit next to Shiroko.
+ <*scooch*>
+ /
+ <*sits*>
+ Run away.
+ Black Screen
+ Take your leave.
+ <*closes door*>
+ “We’re back.”
+ "It's fine. It's for Serika's safety." / "It's okay as long as I don't get caught..."
+ “Let’s go!”
+ FTF leaves
+ Fade to black
+ <*clunk* *clunk*>
+ "I'm glad to see you're okay."
+ "I'm a stalker, remember?" / "Rescuing princesses is what heroes do, right?"
+ "I came to see how you were doing."
+ "That's a relief."
+ “Thanks for having me.”
+ "Time to hijack a school bus!" / "We're going bank robbing!" / "Become pop idols! I'll be the manager!"
+ “It’s showtime.”
+ "Can't we all just get along?"
+ "Can't say no to that."
+ “Let’s eat the rich!”
+ "You don't want to hand Problem Solver over to them, right?"
+ "Hello, Chinatsu."
+ [Lock eyes with Haruka.]
+ [“Better pretend I didn’t see anything…”]
+ [Ignore what you just saw.]
+ [“...”]
+ [“Problem Solver may be a nuisance, but they’re not bad kids”]
+ [“Aru may be kinda dumb, but she’s not a bad apple.”]
+ [“Okay, they are ALL kinda stupid, but not THAT stupid.”]
+ [“Me?”]
+ [“…”]
+ [“You want to talk to me?”]
+ [“What is it?”]
+ [“I know it very well”]
+ [“I’ve heard of it ”]
+ [“In the Abydos Desert…”]
+ [“The Kaiser Corporation?”]
+ [“I’ll tell you when we’ve all gathered.”]
+ [“Hello, everyone!”]
+ [“You’re leaving?”]
+ [“Hope to see you soon, Aru.”]
+ [“How are you feeling?”]
+ [“Was it Kaiser Loans?”]
+ [“Was it the Kaiser Corporation?”]
+ [“All right. I also have something to tell everyone.”]
+ [“Use it to repair your shop.”]
+ [“Nonomi, you’re already here.”]
+ [“...Well, his health seems fine.”]
+ [“You’re pretty sharp, Nonomi.”]
+ [“Sure, okay.”]
+ [“Yeah.”]
+ [“Of course.”]
+ [“Master is...”]
+ [“Kinda off, right?”]
+ [“Let’s go check.”]
+ [“Go into the classroom where the sound came from.”]
+ *fade to black*
+ [“Calm down, everyone.”]
+ [“Are you okay, Nonomi?”]
+ [(Awkward…)]
+ [“Not, not really.”]
+ [“Yes, it’s true.”]
+ [“They manipulated them into giving up the land.”]
+ [“Abydos was caught in their trap.”]
+ [“No, you’ve got it all wrong.”]
+ [“The ones who tricked them are the villains. Don’t blame the victims.”]
+ [“...”]
+ [“I might have some insight there.”]
+ [(Give them the information you got from Hina.)]
+ *fade to black, flashback*
+ [“Then, we should leave right now.”]
+ [“Let’s go to the Abydos Desert.”]
+ [Follow Shiroko.]
+ *fade to black*
+ [(Take the piece of paper from Shiroko.)]
+ [“Letter of resignation… Takanashi Hoshino, Foreclosure Task Force?”]
+ [“Why did you go through her bag?”]
+ [“I’ll punish you later.”]
+ [“Keep it a secret for now.”]
+ [“Good call. Let’s come back fresh tomorrow.”]
+ *fade to back*
+ (The other club members head home one by one until only Hoshino and Shiroko are left.)
+ [“I’m here too.”]
+ [Nod.]
+ (Approaches Hoshino)
+ [“Be honest with me, Hoshino.”]
+ [Show Hoshino’s resignation letter.]
+ [“I’ll have a talk with her later.”]
+ [“You’re the one I want to talk to right now.”]
+ [“Talk to me. There’s something you haven’t told anyone, isn’t there?”]
+ [Step outside the classroom with Hoshino.]
+ [“You really like this school, don’t you?”]
+ [“...”]
+ [“Offers?”]
+ [“Who was he?”]
+ [“Black Suit…”]
+ [“And this resignation letter?”]
+ [“I’m sure there’s a way.”]
+ [“Hoshino!”]
+ [“You know you can rely on me, right? I’m sure there’s a way!”]
+ [“Go, Problem Solver 68!”]
+ [Battle]
+ *Problem Solver 68 VS PMC Soldiers and Automatons*
+ [TO BE CONTINUED]
+ Episode 15 - The Abydos Siege Part 2
+ Part 1
+ [“You kidnapped one of my students.”]
+ [“Nothing is going to stop me from rescuing Hoshino.”]
+ [“Should we head back for now?”]
+ [Go inside.]
+ [“Who are you people?”]
+ [“No.”]
+ [“Never.”]
+ [“Not interested.”]
+ [“All I want is to take Hoshino back.”]
+ [“Hoshino never dropped out of school.”]
+ [“See? I’m her club advisor and I never signed that document.”]
+ [“That means she’s still part of the Foreclosure Task Force.”]
+ [“She is still vice president of the Abydos Student Council.”]
+ [“And Hoshino still is and will forever be one of my students.”]
+ [“You deceived children, trampled on their hearts, and took advantage of their suffering”]
+ [Refuse.]
+ [Take out your credit card.]
+ [Refuse.]
+ [“Because no one else is willing to take responsibility and help these suffering girls.”]
+ [“Because it’s the responsible thing to do.”]
+ [“Even if I told you, you would never understand.”]
+ [Return.]
+ [“We save Hoshino.”]
+ [“We rescue Hoshino.”]
+ [“We WILL save Hoshino.”]
+ [“We won’t stop until we bring her home.”]
+ [“And then we’re going to give her a piece of our minds!”]
+ [“After we save Hoshino, we’ll tell her, ‘Welcome back’, and she’ll say. ‘I’m home!’”]
+ [“I have an idea.”]
+ [“I don’t know what that word means.”]
+ [“I used to, but not anymore.”]
+ [“Let’s go!”]
+ [“Hoshino.”]
+ “Oh. Hi, Rinny.”
+ “Well, I can’t say I’m not a little scared” / “Well, if it's Rin who’s punishing me…”
+ “Let’s hope that’s all it is.”
+ “Long time no see, Rin.” / “So, where are the treats?”
+ “Did I do something wrong?”
+ “I get the feeling that’s bad?”
+ “I’m guessing that’s not a suggestion…” / “You’re not gonna help me, Rin?”
+ “Hi. I’m still here.” / “Seems like there’s something wrong.”
+ “What is SRT Academy?”
+ “Are you sure everything’s okay?”
+ “I-I wouldn’t ever think of that! Never, ever!” / “I’m suddenly so excited to revise all these reports!”
+ “I’ve been waiting for you to say that.” / “My moment to shine!”
+ “Looks like you’ve got a lot on your plate.”
+ Hand over Rin’s introduction.
+ “Nice to meet you.” / “What’s going on here?”
+ “Who are the students occupying the park?”
+ “Anything else I should know?”
+ “They’re definitely lively.”
+ “I think that’s unnecessary.” / “I think we can handle it ourselves.”
+ “Kirino, Fubuki. Up and at ‘em.” / “Kirino, Fubuki. Let’s go stop the bad guys.”
+ “They’re not chess pieces. All my students are equal in my eyes.”
+ …
+ “It’s gonna be okay. Just, trust me.” / “I wouldn’t do this with anyone else.”
+ “It’s all thanks to the students’ hard work.”
+ “Hi there, RABBIT Squad.” / “How’re you holding up?”
+ “I just gave them a few suggestions.”
+ “Haha. What a fun group.”
+ “What’ll you do with them?”
+ “It’s great to see you too, Miyako.” / “I’m guessing you didn’t miss me?”
+ “How are you doing?”
+ “Why do you not want to transfer to Valkyrie Police School?”
+ “And why do you not want to leave SRT?”
+ “Can you tell me about it?”
+ “You did well.”
+ …
+ “Experience is a sharper sword than you’d think.”
+ “Can I ask again? How are you doing?”
+ “That, I can’t make any promises on.”
+ “Even when there’s no hope?”
+ “Has their sentence been decided?”
+ “Is there no way to reopen the SRT Academy, as they requested?”
+ “So, who would I need to talk to?”
+ “Administration Board…?” / “Chief of Defense…?”
+ “Nope.”
+ “That must keep you pretty busy.”
+ “You said you could help me with the SRT Academy students.” / “Does the Defense Office manage the SRT Academy, then?”
+ “I don’t feel like that’s a good enough reason to close it down.”
+ “The FOX Squad…” / “The students you mentioned before?”
+ “I don’t know if I can.”
+ “It’s not about convincing them.”
+ ?
+ “But I can’t force them down a path they don’t want.”
+ “Are you sure about this?”
+ “Hello, everyone.”
+ “I guess I’m not very welcome here.”
+ “Yep. I’m here to deliver the Administration Board’s decision.”
+ “The RABBIT Squad is free.” / “You’re free to go.”
+ “Free to go anywhere except SRT.”
+ “What do you want your order to be?”
+ “Why don’t you rest at the Schale dorms for a while?”
+ “Why would I do any of that?! I’m a teacher” / “What kind of a person do you think I am?!”
+ “Why don’t you camp out in the park, then?”
+ “Sure. I’ll pack your bags.” / “When’s the move?”
+ “I’ve known that from the start.” / “I’m really just here to help.”
+ …
+ “Wh-Woah!” / “Who put a trap here?!”
+ “A dirty stray dog… You wound me.” / “Why is there a trap here?”
+ “This is overkill!” / “Where is it?!”
+ “You guys are turning this park into a war zone!”
+ “I’m guessing Miyako told you that…”
+ “How did you sleep last night?” / “I wanted to see if you needed anything.”
+ “Was that noise…”
+ “...Is that so?”
+ Produce instant cup ramen.
+ !
+ “I brought a lot of different flavors.” / “There’s enough for everyone.”
+ “I really just don’t want you to starve to death.”
+ Open the instant cup ramen.
+ Add boiling water and wait three minutes.
+ Scene fades black
+ Clock ticking
+ Scene returns
+ “It smells pretty good, huh?” / “It’s getting colder as we speak.”
+ “If that’s really what you want. More for me.”
+ …
+ Add an onsen egg.
+ “...Do you want some?”
+ “I think they might have some at Valkyrie.” / “Valkyrie has even better ramen, I’ve heard.”
+ ?!
+ Hand over an address written on a piece of paper.
+ “It’s okay to get food from anyone but me, right?” / “Go to this address and you can get fed for free.”
+ “So, how’s it going??”
+ “You have a weird definition of friendly.” / “Most people would call that fighting.”
+ “You say that, but you look a little peaked…”
+ “Do you have a fever? Are you sick?”
+ Sensei approaches
+ ?!
+ “Why are you panicking?”
+ “Why is everyone so on edge?”
+ “I knew I shouldn’t have eaten fish.” / “I shower every day! I promise!”
+ “Have I smelled bad this whole time? And no one told me?” / “Out of everything, this might’ve hurt my feelings the most.”
+ “Why don’t you go to a public bath?”
+ “If you need a place to get cleaned up, you can use the showers at Schale.”
+ …
+ “What do you guys think I am?!”
+ “...This is cruel.”
+ “What about an empty drum barrel?”
+ …
+ “I’m still not thrilled about this…”
+ “I’m just worried something might happen.”
+ “Why not just ask for them?”
+ “But before…”
+ “There’s no such thing as a perfect plan in real life.”
+ “Let’s put these drum barrels over our heads.”
+ “All in one piece as well.” / “Not a scratch, thanks to my trusty barrel!”
+ “By the way, are you okay with bathing out in the open like this?”
+ “I didn’t really know where to go…” / “I guess I’m…standing guard?”
+ “Long time no see, Kirino.” / “What are you doing out here?”
+ “I never doubt your work ethic, Kirino.”
+ “There’s nothing to worry about.” / “They’re all good kids.”
+ “I’m really not as impressive as you think, Kirino…”
+ “Atrocious rumors?”
+ “There’s no way…”
+ “Uh. I-It’s nothing.”
+ “I think you already know the answer to that one.”
+ “You can do it, Kirino!”
+ Head back to Schale.
+ “Yes, that’s me.”
+ “This is…an anesthetic?!”
+ Fade to black
+ (I inhaled the smoke the suspicious individual sprayed in my face, and my vision started to blur.)
+ (Then, I promptly lost consciousness.)
+ <<To be Continued>>
+ 10 - Non-Possession and Yakiniku Bentos
+ A robot hippie group called the Pursuers kidnaps Sensei. They’re angry Sensei ordered the RABBIT Squad to monopolize the discarded bento around the area. The leader of the Pursuers, Descartes, tries to negotiate with the RABBIT Squad for Sensei’s release but they don’t care.
+ Sensei wakes up
+ “You are?”
+ “Non-possessive happiness?” / “The Pursuers?”
+ “I don’t think I follow…”
+ “Do you mean the SRT students?” / “Are you talking about the RABBIT Squad?”
+ “What did we sabotage now?”
+ “Non-possessiveness?”
+ “Don’t you stand for letting go of material attachments?”
+ “Those kids aren’t my subordinates.” / “They’re really just my students.”
+ “I’m trying to tell you, they’re not going to care…”
+ “Maybe they thought you were a phishing scam?”
+ “It’s kind of a long story…”
+ “How about I try calling them?”
+ Call the RABBIT Squad yourself.
+ Phone rings and picks up
+ “There’s an abandoned top-quality wagyu bento here.”
+ …
+ Moe hangs up
+ “Wow, I didn’t even know you could move that fast.”
+ “Uh, so the thing is…”
+ “What happened to giving up on worldly desires?”
+ “Ah. Yes. I, too, love the noble pursuit of non-possessiveness.”
+ “Break it up, you two.”
+ “You shouldn’t steal his things. I’ll buy you what you need.” / “RABBIT Squat, leave his things here. I have a credit cart.”
+ “As Saki said… You should look in a mirror.”
+ “I’d rather eat a mung bean sprout bento.”
+ <<To be Continued>>
+ 11 - Heavy Rain Advisory
+ A sudden heavy rain floods the park where the RABBIT Squad is staying. Despite much effort, when the command tent collapses, the squad loses hope and gives up, except Miyako. Sensei finally arrives and takes the initiative to help Miyako, who’s struggling alone in the heavy rain. Seeing this, the squad members overcome their pride and decide to follow Sensei’s example.
+ [Schale Office]
+ (A few days later marked the start of Kivotos’s rainy season.)
+ Rush out and check on the RABBIT Squad.
+ Fade to black
+ Thundering
+ [Kousagi Park]
+ Grab a shovel and head to the spillway.
+ “So, you just need the dirt cleared from here?”
+ …
+ “You all really pulled through. Great job.”
+ !
+ “I’m not expecting anything.”
+ “I’m just your teacher.”
+ …
+ “Just take a look at it.”
+ “I mean, it’s not exactly…”
+ “Because they’ve taken over a park for citizens?”
+ “Isn’t there anything you can do, Rin?”
+ …
+ “You’ve done so much already, Kaya.” / “I’ll figure it out one way or another.”
+ …
+ “I’m fond of them.”
+ “Back then, at the Valkyrie Police School…”
+ “Yes. You as well?”
+ Purchase an inarizushi.
+ “Come to think of it, all of the stores around here are closed too.”
+ “The Kaiser Group?”
+ Purchase another Inarizushi.
+ “Students in the park?”
+ “I don’t have anything to say about them.” / “I don’t really know much either.”
+ “Not in the slightest.”
+ “My job is to nurture their dreams until they can’t help but become reality.”
+ …
+ “What’s this?”
+ “It’s like they think I don’t have feelings.”
+ Present the inarizushi.
+ “Yes, I spent a looot of money on it.” / “I found them in a trash can on my way here.”
+ “For the last time, it’s just food!”
+ “I really can’t just stand by while you rob a bank.”
+ “It always ends in them being blown up…”
+ “Saying it was for personal reasons makes it even more suspicious.”
+ “It’s not a little.”
+ “The Public Peace Bureau…” / “Was that Kanna…?”
+ !
+ “You can tell just from the bullet traces?”
+ “Yeah…just lost in thought.”
+ “Wait a minute.”
+ !
+ “You can’t just force them to leave without any warning.” / “Give them some time to think it over.”
+ “...Maybe they got a rebate.”
+ “Of course, this is just my theory.”
+ “And where do you submit a report about a police school?”
+ “Do you believe you’re doing what’s right?”
+ “Go ahead. I’ll take responsibility for the blowback.” / “Be careful. Come back safely.”
+ …
+ “You found out my deep dark secret. I’m scared of heights.” / “I have many skills, but rappelling is not one of them.”
+ “So my hunch was right.” / “We’ve got what we need, then.”
+ “Get ahold of yourself, Miyako!” / “This is an ongoing operation, Miyako!”
+ Fade back
+ “You don’t have to do it on your own.”
+ …
+ “Look to the squad members who’ve always put their trust in you!”
+ “All of us are putting our faith in you, Miyako!”
+ …
+ “Those are all excuses, Kanna.”
+ “The ends never justifies the means, Kanna. Ever.” / “Beliefs mean nothing if you abandon them at the first hardship.”
+ “It was the same for the RABBIT Squad, you know.”
+ ?!
+ “Doing the right thing is never easy…”
+ “But that’s a decision you have to make for yourself.”
+ …
+ “I’m so proud of all of you!”
+ “Thanks, Miyako. I won’t let your effort go to waste.”
+ Fade to black
+ (After helping move the sleeping students to their tents, I returned to Schale.)
+ (And proceeded to use the evidence from Miyako to handle things, as a teacher would.)
+ <<To be Continued>>
+ 20 - Fox in the Hole
+ The Public Peace Bureau has a publicity disaster on their hands when the rebate with the Kaiser Group is exposed. Peace is restored to Kousagi Park, and the RABBIT Squad goes back to their daily lives. Meanwhile, Kaya, chief security officer of the General Student Council, secretly makes contact with the Fox Squad that was thought to have disappeared, and plans to launch a coup d’ètat against the General Student Council.
+ [Front of the Valkyrie Police Academy Main Building Entrance]
+ “You did say to handle it as an adult would.” / “I’d prefer to say that we came to an adult understanding?”
+ “Me?”
+ “What did I do?!”
+ “I’ll try, Hifumi, but no promises.”
+ “Well it’s nice to meet you too.”
+ “And what’s that?”
+ “…”
+ (Please just let them get to the point already)
+ “Make -Up Work Club?”
+ “...”
+ “I won’t refuse if it means helping students who need me.”
+ (Take the List)
+ (Wait a minute…!)
+ 
+ “Um, no…”
+ (Answer vaguely)
+ No difference in dialogue choice.
+ “What’s the Eden Treaty?”
+ “Shouldn’t the Tea Party have three Student Council presidents?”
+ “I guess that’s it then…”
+ “Well, it’s nice to meet you too.”
+ (I decided to see a student whose name I recognized on the list for the Make-Up Work Club.)
+ “It really is you!”
+ “...”
+ “I’m not sure you have anything to apologize for.”
+ “You’re the club president?!”
+ “Looking forward to it, Hifumi.”
+ (Follow Hifumi)
+ “Wait. Isn’t this…?”
+ “Maybe she’s shy.”
+ “Yeah, they call that being shy.”
+ “...?!”
+ “...”
+ Koharu returns
+ “...”
+ “Actually, you can. I want you to turn those two over to me.”
+ “There’s only one left, right?”
+ “I’ll do what I can.”
+ “It’s a pleasure to meet you all.”
+ “This is going well.”
+ “Boot camp?”
+ “What exactly would that entail?”
+ “Good luck on the first exam, everyone.”
+ Examine Nagisa’s chess board.
+ “Were you playing by yourself?”
+ “What happens to the Make-Up Work Club if someone fails all three exams?”
+ “Expelled?!”
+ “...?!”
+ “Why would you do that?!”
+ “There’s a traitor?”
+ The screen fades to black as Nagisa continues speaking.
+ “You wouldn’t have told me any of this if you were only planning to use me.”
+ “...”
+ “No, I’m going to find a solution MY way.”
+ “I somehow doubt that.”
+ “...”
+ “Helping is my middle name.”
+ “I’ll leave you all to get comfortable, so holler if you need me.”
+ “Let’s goooooo!”
+ 
+ “You went with your gym clothes, huh?”
+ “You look ready to get to work.”
+ No difference in choices
+ I think that pretty much covers it.”
+ “I really don’t like the way you keep saying that…”
+ “I’ll be down the hall. Let me know if you need anything.”
+ 
+ “(Just what is Nagisa planning?)”
+ A knocking sound is heard.
+ Someone is at the door.
+ 
+ “I thought it was you, Hifumi.”
+ “You girls did a great job.”
+ “Everyone will be expelled.”
+ “What did Nagisa tell you?”
+ “Is it about finding Trinity’s traitor?”
+ “(Just like I thought. She’s taking advantage of hifumi too.)”
+ “...”
+ “You don’t have to worry about suspecting your friends.”
+ “Leave everything to me.”
+ “I want you to focus on helping the way YOU want to.”
+ “You still have a little bed head, Hifunmi.”
+ “Everyone ready? You can leave the room once you’re done. Begin!”
+ The screen goes white and transitions to a CG of the four students doing their test.
+ “(Way to go, Hifumi!)”
+ “I didn’t do that much.”
+ “Hifumi looks like she made a new best friend. It’s sweet.”
+ “I’ll go with you.”
+ “Huh? What was?”
+ “Don’t get caught next time.”
+ “Wouldn’t you get the same sentence?”
+ “If you say so.”
+ “You shouldn’t be ashamed to be yourself.”
+ “You should be more comfortable with who you are.”
+ “Secret?”
+ “...?”
+ “Who sent you?”
+ “You don’t say.”
+ “Whatever you say.”
+ “Are you sure it’s okay to blow your cover to me?”
+ “Sure, okay”
+ “...”
+ “(That was hasumi shouting just now…)”
+ “Is everything okay?”
+ “...”
+ “Are you saying that she’s…?”
+ “What did you call me here for?”
+ “...”
+ “A deal…?”
+ “...”
+ “I rejected her offer.”
+ “It’s not my role to find Trinity’s traitor.”
+ “I’m on the student’s side.”
+ “I’ll be by your side if you ever need me to be.”
+ “A deal…?”
+ “...!”
+ “You, Mika?”
+ “It’s Azusa?”
+ “Why are you telling me this?”
+ Arona?
+ What happened?
+ You did what? Arona?!
+ A Wild Maestro appears and vanishes
+ (What was that just now?)
+ More fading to black
+ (I can’t move…)
+ Stand up.
+ You should be more worried about yourselves than me.
+ Hina!
+ What about all of you?!
+ But…
+ …!
+ …
+ Run toward Hina.
+ Go to Black
+ You’re Injured.
+ Hina!
+ And you all must be Arius’ Squad.
+ …!
+ Why would you do that?
+ …!
+ You can’t be serious…
+ (So this is what it’s like to have a gun pointed at you…)
+ (My stomach… It’s so hot.)
+ (I’m going to pass out…)
+ Isn't this…?
+ Seia...
+ I get it now, Seia.
+ Seia Question Marks
+ You don’t know what happens next either, do you?
+ You’re afraid of finding out what happens after.
+ That’s why you’re hiding in your dreams and won’t wake up.
+ It was nice seeing you, but I have to go./There’s somewhere else I need to be.
+ I’m not interested in proving paradise./I don’t care about the koan’s riddles.
+ Sorry. My students are waiting for me.
+ See you later, Seia.
+ If you believe your bikini bottoms are panties, then they’re panties.
+ Leave.
+ Open your eyes.
+ Infirmary.
+ Sit up.
+ Because that’s how things should be.
+ Then it’s time someone put a stop to it.
+ <<Episode End>>
+ EP 17 - The Embodiment of Hate
+ Koharu defends Mika, who has been beaten mercilessly by the Tea Party. Sensei appears to protect Koharu and Mika, causing the Tea Party jingoists to scatter. Mika weeps in regret over her attempt to harm Seia. Seia is moved by her sincerity and forgives her.
+ Koharu belongs to the Make-Up Work Club. She’s one of my students.
+ That’s enough. Please lay down your weapons.
+ I’m proud of how you handled that. Like a real elite.
+ Will you be all right, Mika?
+ Yea. Mika, why didn’t you go along with them?
+ Mika…
+ Sure. I can make that happen.
+ The Scene fades to the Tea Party
+ Thank you all for coming.
+ Thanks for waiting.
+ I’ll take it from here.
+ <<Episode End>>
+ EP 18 - Without a Moment’s Hesitation
+ Sensei meets with the injured students and then departs the infirmary to rescue the others. Hifumi, Koharu, and Hanako reassemble the Make-Up Work Club to rescue Azusa and head to the ruins of the old cathedral where the Arius forces and Azusa are located.
+ Smile for Hasumi as she wakes up.
+ I’m glad you’re all right.
+ Look over at Tsurugi’s bed.
+ Yeah, thanks to you.
+ Take it easy, you two. I’m fine.
+ Don’t worry. I’ll find Hina.
+ Hey, Hifumi.
+ I know.
+ This is why you’re the Make-Up Work Club’s leader, Hifumi.
+ Your resiliency is what’s led us here./Ordinary or not, you’ve never given up.
+ And whenever you get a little lost, you can come to me./I’ll be there too. Listening and helping is my job.
+ Attagirl./You got it. I’ll follow your lead like always.
+ Sometimes friends have to speak their minds to one another.
+ Hina.
+ I didn’t come here to drag you back to the fight.
+ All I wanted to say was…thank you, Hina.
+ No. I wanted to thank you for…everything./I wanted to say thanks for giving it everything you had.
+ You fight harder and care more than anyone.
+ You’ve earned this. I’ll find a way to take care of things from here.
+ What do you mean?
+ It’s okay, Hina.
+ …
+ No. I’m the one who’s sorry.
+ I promise you a spot in my next make-up work class./I’ll help you improve your grades and praise you all you want.
+ Oh, I get it. You felt left out when you heard about the swimsuit symposium.
+ Uh… About you retiring and all that?
+ Nod.
+ I hereby declare us…
+ … the TRUE Eden Treaty Organization.
+ They’re my students. It’s my responsibility to help them achieve their dreams.
+ What kind of sensei would I be if I didn’t support them?/If this is their dream, then it’s mine too.
+ COMBAT START
+ <<EPISODE END>>
+ EP 20 - The Name of Paradise Part 1
+ I’ll go with you.
+ Let’s go, Azusa! Time to end this!
+ The two of them walk downwards.
+ It’s time, Azusa. Win.
+ Azusa!
+ (This feels like…)
+ Right. Someone has stacked the deck against us.
+ I was hoping not to use this. / Reach for your wallet.
+ Back to Maestro.
+ So… the original Make-Up Work Club passed and disbanded…
+ … and I’m here to advise the NEW Make-Up Work Club.
+ Why is it still the same members?!
+ Faint.
+ “Azusa is the traitor?”
+ "O-Okay."
+ "That sounds familiar."
+ "And you're saying that's where Azusa is from?"
+ "Has something happened to Seia?"
+ "Then where is she?"
+ "Betray you?"
+ “...?!”
+ "And no one knows who is responsible?"
+ “...”
+ "You did, Mika?"
+ “Hasumi?”
+ “But…”
+ “...”
+ "But you said that the traitor is really..."
+ "Is that everything you wanted to say?"
+ "Sorry I'm late. Something came up."
+ Check the test results.
+ <<Second Make-Up Work Club Mock Exam Results>>
+ "You're all doing great."
+ "Take care."
+ <The day's studies came to an end soon after that.>
+ "Thanks, but I'm good."
+ Nod.
+ [Sensei’s Room]
+ "(That must be Hifumi.)" / Open the door.
+ Hanako enters, with her swimsuit
+ “...?!”
+ "What are you doing here?!" / "Why are you in your swimsuit?!"
+ "Since when does a swimsuit pass for pajamas?"
+ “Azusa?”
+ Knock knock
+ “...”
+ "Make it stop... Please make it stop..."
+ <We eventually managed to clear up the misunderstanding after several more minutes.>
+ <Hifumi yelled at Hanako to go change out of her swimsuit as well.>
+ <<To be Continued>>
+ 03 - Secret Society
+ Hanako learns from Hifumi that failing will result in all of them getting expelled from school. Deducing that this was Naglsa's aim all along, Hanako declares that she will try harder going forward and is delighted that the three of them have formed a secret society.
+ "You said you wanted to talk to me about Azusa?"
+ "True..."
+ "She's telling the truth."
+ Tell her the truth about the Make-Up Work Club.
+ Scene change
+ "Thank you, Hanako.”
+ “...!”
+ “...?!”
+ "I think she'd equate it more to a trash bin."
+ “...”
+ Scene change
+ "It IS pretty late. Let's call it for tonight."
+ "There's nothing like sleeping in on a rainy day."
+ Lighting flash and thunder
+ "We are in uncharted waters."
+ "So that's how we came to the last resort."
+ "You look like you're having the time of your life."
+ "Hanako has been really worried about you."
+ "You're a really kind girl, Azusa."
+ "I'm in. Let's do this."
+ "She doesn't get mad often, but when she does... Right?"
+ “...”
+ "Now I'm worried about her too."
+ “Hasumi?!”
+ “I can’t say I blame you.”
+ “Her scores keep going up.”
+ “So pure.”
+ <*beep* *beep* *beep* *beep* *beep*>
+ "Of course. Prepare to mobilize, Make-Up Work Club."
+ “Let’s go, everyone!”
+ <Battle Sequence>
+ Sensei and the Make—Up Work Club succeed in stopping the Gourmet Research Society's mischief, but each of their members flee, leaving the Justice Task Force hot on their heels in pursuit.
+ "I thought that might be the case."
+ “Of me? What is it?”
+ “I can do that.”
+ “Bodies?”
+ "Is that a delivery manifest?"
+ "And you don't look like you're from the Prefect Team."
+ Door opens and footsteps are heard
+ “Hina!”
+ “S-Sure.”
+ “Take care…”
+ Door closes
+ "I'm basically the advisor for something called the Make-Up Work Club."
+ “...”
+ "I have something I want to ask you too."
+ Ask Hina for her perspective on the Eden Treaty.
+ Fade to black
+ <I explained the situation in detail to Hina.>
+ "Don't worry about it." / "Swimsuit symposium? I didn't say anything like that..."
+ "Truth is all a matter of perspective." / "There can be more than one truth."
+ "Of course. I trust you more than anyone."
+ “...?”
+ "It is?"
+ "Then why is she in favor of the treaty?"
+ “You? But why?”
+ “...”
+ “Yes. No matter what.”
+ "'Night. You all did great today."
+ Fade to black
+ <This time, the day did finally come to a close.>
+ <<To be Continued>>
+ 08 - A Glimmer of Hope
+ The Make-Up Work Club finally earn a passing score on their practice test, and Hifumi presents them all with Momo Friends merch. Azusa tells Hifumi that she'll cherish it. Nagisa calls upon Sensei and questions them about their meeting with Mika.
+ "Looks like everyone is ready to go."
+ “Begin!”
+ Clock ticking
+ Check the test results.
+ Third Make-Up Work Club Mock Exam Results
+ "You seem to like him, Azusa."
+ "Let's goooooo!"
+ "What do you want now?"
+ "I told you I'd handle things my way."
+ "I'm not going to waste my time being paranoid."
+ "All I want is for the Make-Up Work Club to pass."
+ "I was under the impression you thought highly of her."
+ “...”
+ "But you DO know her! There's just been a terrible misunderstanding!"
+ “...”
+ "I finally get it. It makes perfect sense now."
+ "You're nothing but a cynical skeptic."
+ "You only see what you want to see and believe what you want to believe."
+ "Your conspiracies end here." / "The Make-Up Work Club WILL pass."
+ Turn and leave.
+ <<To be Continued>>
+ 10 - The Second Exam Part 1
+ Sudden changes to the second exam are announced. Everyone is shocked and stunned by the test's newly expanded scope, higher bar to pass, and relocation of the testing site to Gehenna Academy. Azusa insists it's too soon to give up, and the club heads to the test site.
+ "Couldn't agree more."
+ "Only one person could've done this."
+ Cut to Nagisa grinning
+ (They deserve to know too.)
+ Explain the truth.
+ Time skip
+ "Gear up, everyone. Let's do this!"
+ [Gehenna Backstreets]
+ "The Gourmet Research Society!"
+ "It's an emergency."
+ "All right. You drive."
+ "Thank goodness you're both all right."
+ "Haruna gave a thumbs up as we sank into the water. I hope she's okay."
+ (I want to ask...but let's just move on.)
+ Time skip
+ "This isn't over, Nagisa!"
+ “...”
+ "Good luck, everyone... Begin!"
+ The gang walk away as it fades to black
+ "I think I'm fine."
+ “I’ll do what I can.”
+ "It's my fault. I'm the one who provoked Nagisa."
+ "I think you should all be proud."
+ "The situation is dire, sure, but have faith in yourselves."
+ "Having trouble sleeping too?"
+ "That's not true, Azusa."
+ "We're in this crisis because Nagisa didn't trust anyone."
+ "If only Nagisa had trusted the four of you."
+ Cut to Mika
+ "And if Mika had believed in Nagisa, then..."
+ Present
+ "...none of this would've happened. This is where being untrusting led us."
+ "I...suppose, yeah."
+ "L-Let's goooooo?"
+ <<To be Continued>>
+ 15 - Lighting the Fuse
+ Arius forces come to ambush Nagisa, but Azusa and Hanako beat them to the punch and kidnap Nagisa themselves. Afterwards, Azusa engages in combat with the subsequent rush of Arius students.
+ Arius troops march in
+ "I've been waiting for this."
+ "Let's go, Make-Up Work Club!"
+ <<Battle Sequence>>
+ <<To be Continued>>
+ 17 - The Way of the World Part 1
+ The Make-Up Work Club and Sensei defeat the Arius forces but are met with reinforcements. Mika arrives and reveals herself to be the true traitor of Trinity before ordering the Arius students to subdue the Make-Up Work Club.
+ Gunfire
+ “Mika…?”
+ "Why, Mika? Why...?"
+ "So the Eden Treaty was a peace treaty after all."
+ "You did all this to become the host of the Tea Party?"
+ “...”
+ "That's enough!"
+ “...”
+ “Mika…”
+ “I'll be by your side if you ever need me to be."
+ Present
+ "Is everyone ready to head inside?"
+ Door closes
+ "This is it. The third and final exam."
+ "The third evaluation exam begins...NOW!"
+ First Evaluation Exam Results
+ “Of course. Hello, everyone.”
+ “The pleasure’s mine. I get to witness an interesting trio.” / “We have an interesting combination here.”
+ “In other words, you’re policing the Tea Party?”
+ “O-Okay… I see.”
+ (Well, this is awkward.)
+ (...Can I leave?)
+ (Nagisa’s tea cup is shaking…) / “Are you okay, Nagisa?”
+ “Nagisa…”
+ “Reporting for duty.”
+ (...Protests? What’s been happening?)
+ (Nagisa…)
+ “How you doing there, Nagisa?”
+ “You did great, Nagisa.”
+ “By the way…what happened to Mika?” / “Mika’s situation sounded serious.”
+ “Why is she having a hearing?!”
+ “...!”
+ “They’re going way too far!”
+ “They don’t even know the whole story.” / “I can’t believe this…”
+ “I’ll help. Just tell me what to do.” / “Is there anything I can do?”
+ “What? Why not?”
+ “Yes. I’ll try to convince Mika.”
+ Nagisa glimmers
+ “Are you okay, Nagisa?”
+ (Nagisa wasn’t exaggerating…)
+ “Mika? It’s me.”
+ “...?” / “Is that music?”
+ A tune plays
+ Mika shuts off the TV
+ “It was beautiful music though.”
+ “Except we’re in prison, not a tower.”
+ “I heard about the situation, Mika.” / “Why don’t you want to attend the hearing?”
+ “Your safety is her biggest concern. I saw the crowds on my way here.”
+ “You’ll be expelled if you don’t attend.” / “I heard about your room, and your things.”
+ “I think they’re going too far.”
+ “No, Seia could never hate you.” / “Seia’s already forgiven you.”
+ “Seia…”
+ “There must be some miscommunication.” / “I promise, Seia doesn’t blame you.”
+ “I’ll go check on her for you.”
+ “Of course. I want you to have your chance to apologize.”
+ “Then the three of us will go to the hearing together!” / “And all of us will support you at your hearing!”
+ “I’m proud of you, Mika. Really.”
+ Go to Seia’s room.
+ Knocking sounds
+ Door opens and closes
+ [Seia’s infirmary]
+ “Seia, you’re so pale! What’s wrong?”
+ “What do you mean…?”
+ “Everyone is worried about you. What’s going on?”
+ “Okay, I’m listening.”
+ “I promise, I will.”
+ “You saw the fall of Kivotos…?”
+ “What did you see?”
+ “...”
+ “That sounds dangerous…”
+ “You think Gematria is involved?!”
+ Fade to black
+ “Seia.”
+ “You have to stop this now.” / “This is too dangerous for you alone.”
+ “On top of that, you can’t keep pushing yourself like this.” / “Just don’t do it alone. We can work together.”
+ “Someone needs you here in reality a lot more than your dreams do.”
+ …
+ “Mika will be thrilled. She really wants to apologize.”
+ “Meanwhile, I’ll go circle back with Nagisa.”
+ “I’ll see you at the hearing, Seia. Take care.”
+ (Did I hear Seia’s voice just now.) / (Am I imagining things? Something’s off.)
+ (I came here after receiving a text from an unknown sender, but the street was empty and there wasn’t a soul in sight.)
+ (Is someone behind me?)
+ Saori appears
+ “Saori…?”
+ “Saori…?”
+ “...?!” / “...”
+ “Stand up, Saori.”
+ “My students never need to kneel in front of me.”
+ “I have a question. Who is the ‘she’ you keep referring to?”
+ “What happened to Hiyori and Misaki?”
+ “Do you know where she took Atsuko?”
+ “What’s the significance of the basilica?”
+ “Okay. Thanks for the debrief.”
+ Fade to black
+ Decide to help Saori. / Made a decision to help Saori. / Help Saori.
+ “Isn’t that what you wanted?”
+ “For the same reason I’m gonna confiscate that bomb. To keep you safe.”
+ “No. I want you to take off the bong and give it to me.”
+ Take the bomb.
+ “Thanks for the information.” / “I can’t let a student keep such a dangerous item.”
+ Break the detonator.
+ Throw the broken pieces of detonator in a trash can.
+ “Time is of the essence. Let’s go.” / “First, let’s find Misaki and Hiyori.”
+ Leave.
+ “I’m just glad we found you in time.”
+ “...”
+ “Hiyori, we’re just here to rescue you.”
+ “We’re going to save Atsuko before it’s too late.”
+ “Perfect. Then let’s go.”
+ “We’re pretty high.”
+ Black screen
+ “...”
+ “Saori would’ve shot me by now if that was what she wanted.”
+ “Misaki? You’re a little too close to the railing for comfort…”
+ “Misaki, please just move away from the railing and we can talk.”
+ “Let’s save Atsuko.”
+ Fade to black
+ <<To be Continued>>
+ 09 - To the Arius District 1
+ To enter the Arius District, Sensei and the Arius Squad members head to an entrance in the underground catacombs in Trinity. However, Arius students stand in their way, under Beatrice’s orders.
+ “Ninety minutes left until what?”
+ “The tunnels themselves move?”
+ “I’ll do my best to live up to your expectations.”
+ (Squad said they would handle the front, but I can’t reach them.) / (Did I just hear shooting sounds?)
+ Gunshots with explosions
+ Hurry and follow the sounds.
+ “Stop it, Mika!”
+ ?!
+ Mika lets go of Misaki
+ “Mika! What are you doing here?!”
+ “Mika…!”
+ “Mika! Go back to Trinity! I’ll explain everything! / “Wait at Trinity! I’ll be there! I promise!”
+ Go inside the catacombs with Squad.
+ “(Mika…)”
+ Fade to black
+ (Did she escape prison to take revenge on Squad?) / (Is everything okay back at Trinity?)
+ Go through the hole in the ceiling.
+ “Is this the Arius district?”
+ “A training ground?”
+ “There was a civil war?”
+ Lean in to hear better.
+ “...”
+ “Saori?!”
+ Take out a fever reducer.
+ “I got it from a magical place called a convenience store.” / “I also have digestive medicine, cat treats, and a chocolate bar.”
+ “We’ll rest here for now.”
+ “Thanks, Misaki. Wake me if anything happens.”
+ “(Seia…)” / “(Mika…)”
+ “...Something like a dream. How’s the situation?”
+ “Thirty minutes…”
+ “Can you tell me the rest of your story?” / “I want to hear about your story.”
+ “...”
+ “...”
+ “I’m sorry. I was wondering why you call Atsuko ‘Hime’.” / “I’m sorry. Why do you call Atsuko ‘Hime’ sometimes?”
+ “...”
+ “The Council built the Arius Academy?!”
+ “It’s our best option. Let’s do it.”
+ “How do you know who I am?”
+ “I can’t say I’m pleased to meet you, Beatrice. You’re the…ruler of Arius?”
+ “I don’t care about your twisted methodologies.” / “I already know how your type works.”
+ “Enough out of you.”
+ “I’m not interested in your delusional, twisted dreams.” / “I don’t need a truth that demands innocent blood.”
+ “Beatrice.”
+ Back to scene
+ !!
+ “You’ve insulted our way of living long enough.” / “Your methods are an insult to everything I stand for.” / “We as adults should be protecting our students.”
+ “I’m with you, Squad!”
+ “Mika…?!”
+ “MIka… You need to stop!” / “There isn’t time for this right now!”
+ “Mika needs to learn her lesson.” / “Let’s take Mika down.”
+ “Mika… Seia will be fine. She’s doing her best” / “Mika, you need to go back. I don’t want you to get hurt.”
+ “Mika! Come back!”
+ Follow / “(Mika…)”
+ Fade to black
+ <<To be Continued>>
+ 16 - Underground Corridor
+ [Arius Satellite School Former Institute]
+ “This is the oldest building I’ve seen in the Arius district.”
+ “...!” / Dodge the falling pillar.
+ *boom*
+ Back to scene
+ “Yeah, just barely.”
+ “Mika! Stop this!”
+ “Saori…”
+ “...”
+ “I…”
+ “Let’s go.” / Do what needs to be done.
+ Black screen with walking
+ Back to scene
+ "It's a teacher's duty to confiscate dangerous items."
+ "I will. With you, Saori."
+ "You really harmed Saori, Mika."
+ "And I'm sorry for all of it, Mika!"
+ "I should have explained it to you better." / "I should have told you, face-to-face."
+ "No. I‘m sorry I left you. I had to help Saori and Atsuko."
+ "We're going to rescue Atsuko, and then go back to Trinity together."
+ "Don't worry about any of that."
+ "I believe in the person Ifirst met by the pool." / "I know what kind ofa person you are, Mika."
+ "You're right, Mika. You're my worst student."
+ "You lied to others and to yourself." / "You hurt others and yourself."
+ "You never know what to do with yourself." / "You cry every time things go wrong."
+ "But your kind heart is what made you reach out to Arius." / "But you love everyone around you, with everything you have."
+ ?!
+ "You're not a witch. You're my student." / "You're just a stubborn, troublesome student."
+ "I didn't come for Saori. I came to tell you all this."
+ "Of course you have another chance."
+ "And if you don't, I'll make one."
+ "If that one doesn't work out, I'll do it again."
+ Black screen
+ "And if that doesn't work, I'll try again."
+ "And again, and again, and again! I won't stop!"
+ "When you fail, you just try again!" / "I won't accept failure for either of you."
+ "It doesn't matter if it takes the rest of our lives."
+ "I'll give you infinite chances, Mika! Saori!"
+ "You're my students! That's all you need." / "Of course my students get to mess up!" / "I'll make it happen, no matter what!"
+ Black screen
+ “Beatrice! You…!”
+ "Mika! Are you okay?"
+ "Mika, stay safe."
+ “Beatrice!”
+ “You’re wrong.”
+ "You've misunderstood entirely." / "I don't have such power."
+ "I'm not a judge. I've never had the right to judge anyone."
+ "I'm not a savior. I can't shield my students from pain."
+ "I'm not an absolute. I can't scrub their sins from this world."
+ "I'm not some higher authority."
+ "I'm just a humble teacher."
+ "I only hold the power to believe in my students when they need it the most."
+ Back to scene
+ "This is who you really are, Beatrice?"
+ "Saori. Hiyori. Misaki."
+ "Don't be afraid. I'm right here."
+ "It's our last mission, Squad!"
+ <<Battle Sequence>>
+ Defeated by the strength of the Arius Squad and Sensei, Beatrice eventually orders all troops to gather at the basilica sanctuary.
+ "Mika! It's Mika!"
+ “Shut up.”
+ Back to scene
+ !
+ "Don't ever speak to my precious students again."
+ "You lied to my students and hurt them." / "I will never forgive the pain you caused my students."
+ "We'll rid this world of Beatrice for good!"
+ Go to Beatrice on the ground.
+ "It's over, Beatrice."
+ “...!”
+ “...”
+ “Wait…!”
+ Back to scene
+ “...!”
+ "Is everyone okay?"
+ “She ran away.”
+ !
+ "But she won't be able to hurt you anymore."
+ "I'm glad you're okay. Do you need your mask?"
+ "Then you should wear it when you need it." / "A lot of people would be sad if you got hurt, Atsuko."
+ "Whatever I need...?"
+ “………” / "You're right. You‘re responsible for a lot, Saori."
+ Black screen
+ "You've been responsible for protecting everyone around you, all this time."
+ "You've been taking care of them, protecting them, and enduring the pain." / "You've shouldered that responsibility all by yourself."
+ Fade to black
+ "You grew out of the concrete and had to adapt." / "You made horrible decisions and learned even worse lessons."
+ "You're all delinquent students who've caused everyone trouble."
+ "But that doesn‘t mean you deserve to suffer."
+ Black screen
+ "Kids deserve to make mistakes. Kids don't deserve hurt and pain." / "Adults like me are responsible for creating a world that hurt you."
+ "You're just supposed to live, Saori."
+ "Hmm, I see. Then Saori could..."
+ "...be a good teacher one day."
+ "You need to find those answers on your own, Saori."
+ "With that, it's time to say goodbye, Squad."
+ !?
+ "I'm sorry, but another student needs my help."
+ "I know you will, Saori. I‘ve always known."
+ “Mika!”
+ "I'm sorry I'm late. Did you wait long?"
+ "Infinite chances, remember?"
+ "Whenever you're in danger, I'll come running."
+ "Mika, you really are a troublemaker."
+ "But I won't abandon even my bad students." / "No teacher should turn away from a student in danger!"
+ !
+ Take out your credit card.
+ Sensei looks at Barbara
+ "How...how dare you..."
+ Fade to white
+ "How dare you treat my precious student like that!" / "How dare you treat my precious princess like that!"
+ …
+ “Tsurugi…”
+ "Thanks, Ichika. It's good to see you again."
+ “Seia?!”
+ !?
+ "I'm sure you have a lot to talk to each other about."
+ "I'm coming too."
+ "Okay, let‘s start the hearing."
